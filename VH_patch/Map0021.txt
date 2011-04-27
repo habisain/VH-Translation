@@ -12,7 +12,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「あっ…」
 # TRANSLATION 
 
@@ -22,7 +22,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 （ダメ…
 　精液が垂れてきちゃう…）
 # TRANSLATION 
@@ -33,7 +33,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 （こんなのに気付かれたら
 　町に居られなくなっちゃう…）
 # TRANSLATION 
@@ -44,7 +44,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 （平静を装わないと…）
 # TRANSLATION 
 

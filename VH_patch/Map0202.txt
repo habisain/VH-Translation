@@ -3,6 +3,849 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+???
+「あ、ななこおひさー」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「あ、ベネッタ！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「…とハンテン」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ハンテン
+「やあ、これから出かけるのかい？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「ええ、ちょっとエリカに会いにね」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ベネッタ
+「今日は、
+　あのちっこいのは？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「あんたの娘とかいうヤツ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「あの子？\.あの子なら今、
+　知人の家に預けてるわ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ベネッタ
+「ふーん」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「…さっきから気になってたんだけど」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「その頭の子、\.だれ？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ベネッタ
+\S[2]「あぁ…、\.これ？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+妖精
+「やっと話題に上がりました！\.
+　このままスルーかと思ったのです！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「私はベネッタのパートナーなのです！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「パートナー？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ベネッタ
+「勝手についてきただけよ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ハンテン
+「ボクはグルハスタに行ってたんだけど、
+　彼女はその先の小島での依頼でね」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「そこでこの子を助けたらしい」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ベネッタ
+「木に引っかかってた所を助けただけよ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+妖精
+「伝説に語られる、\.妖精の窮地に
+　颯爽と現れる心正しき魔術師…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「それがこの方、\.そして
+　私がそのパートナーなのですー！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ベネッタ
+「話し聞け」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ハンテン
+「二人はずっとこの調子なんだ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「大変そうね…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ベネッタ
+「それはそうと、聞いたわよ？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「あんた、また面倒ごとに
+　首突っ込んでるんだって？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「あれ、\.どこで聞いたの？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「まさか王女がまた逃げ出した？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ベネッタ
+「また来てたの？\.あのお騒がせ姫」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ハンテン
+「ボク達は、\.
+　エイジさんから聞かされたんだよ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「エイジさんに！？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「……誰だっけ？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ハンテン
+「オークの国の諜報部員だよ。\!
+　レイってパートナーを連れてる人」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「ああ、あの人！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「ハンテン似て
+　印象薄いから、忘れちゃってたわ！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ハンテン
+「さすがエイジさんだね、
+　常に影から支える懐刀」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「僕が似ているなんて、嬉しいな」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ベネッタ
+「いや、\.ほめられてない」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+妖精
+「おめでたい思考回路してますね」
+ 
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ベネッタ
+「あんたもね」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「でも、あそこの事情を
+　知ってるなら、\.話は早いわ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「二人も協力してくれるわよね？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ハンテン
+「もちろん、協力させてもらうよ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ベネッタ
+「わたしパス」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「えー！？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ベネッタ
+「貴族に歯向かっても
+　何の得にもならないでしょ？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「むしろ討伐隊に参加した方が
+　メリットが大きいくらいよ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「それとも何か策でもあんの？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「ガーベラが秘策があるって…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ベネッタ
+「あいつの言うこと信じてんの？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「でも、あんなに困ってる人を、\.
+　見捨てて置けないでしょ！？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ベネッタ
+「人じゃないし\.
+　それに私は私が一番大事」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「ヒドイわ！
+　あなたがそんな人間だったなんて！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ベネッタ
+「それくらいもう知ってるでしょ？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「いけず…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+妖精
+「心正しき魔術師なら、
+　助けてあげるべきでしょう？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ベネッタ
+「だから違うわよ。\.
+　てか、いい加減重いから降りなさい」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+妖精
+「またまた～」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ベネッタ
+「……まあ、\.とにかく」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「私はこの件には関わらないから」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「じゃあね」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「ベネッタ…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ベネッタ
+「……そうそう、\.
+　知り合いのハンターが言ってたけど」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「今回の作戦、\.
+　対象区域が広くて困るって」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「…どういうこと？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ベネッタ
+「オークの区別なんてつかないでしょ？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「この作戦は、あの国のオークも、
+　そうじゃないのも攻撃対象なのよ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「だから討伐部隊って言っても、
+　固まって行動するんじゃなくて」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「地域ごとに戦力を分散するらしいわ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「じゃあ、実際の戦力は…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ベネッタ
+「総力の十分の一
+　くらいなんじゃない？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「まあ、目玉は城なんだし、\.
+　多少は本気でしょうけど…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「この事、ロードは
+　知っているのかしらね？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「ベネッタ……」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「もう、素直じゃないわね！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ベネッタ
+「別にー？\.
+　たまたま思い出しただけよ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「私には関係のないことだしね」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+妖精
+「やっぱりベネッタは
+　心正しき魔術師です！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ベネッタ
+「だから違うって言ってるでしょ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ハンテン
+「それじゃあ、僕も行くよ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「うん。\.用があったら連絡するわ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「さてと、あとはエリカね……」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「温泉街にいるらしいし、\.ちょうどいいわ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「先に温泉街のギルドに行きましょう」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
 セレナ・フオーコ・ル・ブリランテ・ド・ラ・グラツィア
 # TRANSLATION 
 

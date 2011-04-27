@@ -3,7 +3,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-依頼人
+依頼人の男
 「ぎゃあああああああああ！」
 # TRANSLATION 
 
@@ -13,7 +13,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「ああっ！
 　間に合わなかった……」
 # TRANSLATION 
@@ -24,7 +24,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「これは、もう依頼どころ
 　じゃないわね……
 　一旦ギルドに戻って手当しなきゃ」
@@ -36,6 +36,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「依頼人を置いて
 　先に行く訳にはいかないわ」
 # TRANSLATION 
@@ -46,7 +47,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「依頼人を置いて
 　帰る訳にはいかないわ」
 # TRANSLATION 

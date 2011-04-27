@@ -11,7 +11,8 @@ Found key to storage room.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-きゃああぁぁっ！！
+\N[0]
+「きゃああぁぁっ！！」
 # TRANSLATION 
 
 # END STRING

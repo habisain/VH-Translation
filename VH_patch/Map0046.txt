@@ -3,7 +3,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-おっ、あんた俺が見えるのかい？
+会計士
+「サラサが24箱…木綿が12箱…
+　シナモンが40箱…胡椒が40箱…」
 # TRANSLATION 
 
 # END STRING
@@ -12,8 +14,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ええ、あるアイテムのおかげで
-なんでこの家で悪さしてるの？
+会計士
+「やれやれ一々チェックするのも大変だ」
 # TRANSLATION 
 
 # END STRING
@@ -22,10 +24,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-じゃあちょっと聞いてくれよ親から勉強勉強とせがまれまぁ俺もそ
-の気になってやってたんだけど中々合格しなくてよそれでも親も応援し
-てくれたしおれも文官になりたかったら何度も試験受けたのよそしたら
-ついに合格してさ自分自身も成りたかったし世間の嫌な視線から解放
+男の奴隷だ
 # TRANSLATION 
 
 # END STRING
@@ -34,10 +33,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-親の期待にも応えられたと思って思いっきり喜んじゃったわけよ
-そしたら喜びのあまり脳溢血でぽっくりですよ俺の人生なんだったの？
-約束された薔薇色の俺の人生は？未練のあまりこの怒りを家具を破壊し
-発散してたんですよまぁそんなことやって未練が無くなるわけでもなく
+女の奴隷だ
 # TRANSLATION 
 
 # END STRING
@@ -46,10 +42,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-親が死んでからも引っ越してきた人に悪戯してたんだけど最近
-やっと成仏する気になってねでもどうやって成仏したものかと俺の
-未練ってなんだろうって思って考えてたら俺って童貞のまま
-死んじゃった訳ですよ女を知れば成仏できるんじゃね？そう考えたんだ
+今にも喰らい突きそうな獣がこちらをじっと見ている…
 # TRANSLATION 
 
 # END STRING
@@ -58,7 +51,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-そういうわけであんた俺に抱かれてくれ！
+守衛隊
+「砦を築いたとて油断は出来ぬ」
 # TRANSLATION 
 
 # END STRING
@@ -67,7 +61,10 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-断る！
+守衛隊
+「グルハスタは海より栄えし国。
+　大戦終結後とはいえ、都の国は我らの領土を
+　遥かに凌駕する国土を持っていた」
 # TRANSLATION 
 
 # END STRING
@@ -76,9 +73,10 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-なんでだよ～
-人助けだと思って抱かれてくれよ～
-幽霊なんだから経歴的にもノーカンだろ～
+守衛隊
+「いざ、戦ということになれば身命を賭して砦を守るが
+　居留地だけならまだしも本国の戦艦が介入してきたら
+　こんな砦では太刀打ちできぬ」
 # TRANSLATION 
 
 # END STRING
@@ -87,8 +85,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-なにそれ！あんた妻の浮気相手の漁師じゃないの？
-夫への恨みは？悲恋への無念は？
+守衛隊
+「若き領主は先代とは
+　違う考えをもっているのだろうな」
 # TRANSLATION 
 
 # END STRING
@@ -97,7 +96,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-なんの話かさっぱりなんだが…
+守衛隊
+「慰安婦を雇った覚えは無いぞ」
 # TRANSLATION 
 
 # END STRING
@@ -106,8 +106,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-はぁ、ただの作り話だったのか…
-怖がって損しちゃったわ
+倉庫番
+「あの居留地の奴らがデカイ面してるせいで
+　この倉庫もガラガラになっちまった！」
 # TRANSLATION 
 
 # END STRING
@@ -116,9 +117,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-噂なんてそんなもんだろ
-それより抱かせてくれよ～
-このままじゃ死んでも死にきれねぇよ～
+倉庫番
+「都の商会ってやつか？馬列車の事業主さ！」
 # TRANSLATION 
 
 # END STRING
@@ -127,8 +127,10 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-う～ん…
-娼婦を呼んでくるのは？
+倉庫番
+「あいつ等、自分らの物を売るくせに
+　こっちの農作物には目もくれやがらない。
+　いったい何様のつもりなんだ！！」
 # TRANSLATION 
 
 # END STRING
@@ -137,7 +139,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-あんな汚れた女は抱けないね
+下っ端海賊
+「ここの倉庫はうちの船団が借りている。
+　立ち入り禁止だ。とっとと帰れ！」
 # TRANSLATION 
 
 # END STRING
@@ -146,7 +150,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-…童貞の癖に要求ばっかりは一人前ね
+こっから先は立ち入り禁止だ
+とっとと帰れ！
 # TRANSLATION 
 
 # END STRING
@@ -155,9 +160,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-それにあんたは俺の好みにぴったりなんだよ～
-端整な顔立ち、膨らんだ胸、引き締まった身体、
-オリエンタルな肌、最高じゃないか
+へへっ良い女じゃねぇか
 # TRANSLATION 
 
 # END STRING
@@ -166,7 +169,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-そ、そう？
+下っ端海賊
+「冒険者風情が、海の支配者の荷物に手ぇつけたら
+　どうなるか分かるだろう？」
 # TRANSLATION 
 
 # END STRING
@@ -175,9 +180,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-そうだよ～
-あんたみたいないい女中々いないよ～
-だから抱かせてくれよ～
+下っ端海賊
+「疑われるような行動は控えるんだな…」
 # TRANSLATION 
 
 # END STRING
@@ -186,7 +190,220 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-依頼は果たさないといけないしどうしよう…
+※現在ここまでしか出来ていません。
+　この先のマップには行き事ができますが、
+　歩き回るだけになります。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+よ～し！
+潜入開始よ！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ん？
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+誰だ？
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+！！！！？
+(やばっ！見つかった！)
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ひょっとして・・・
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+(何とかごまかさないと)
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+お前も悪い海賊をやっつけにきたのか？
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+あたいはレイア。
+元ここの海賊団の一員さ。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+元？
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+あたいは悪者になりたかったんじゃない！
+海賊になりたかったんだ！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+そ・・・そう
+(それってどこが違うのかしら？)
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+海賊ってのはな・・・
+海に眠る財宝、未知への冒険、そんな夢を追って
+大海原に繰り出すかっこいい奴なのさ！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+なのに奴らときたら、この近海でウロウロウロウロ
+やることといったら略奪、殺し、人攫い。
+もうまっぴらだ！あたいはあたいの道を行く！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+と、思ってそれを宣言しに行こうとしてた所なのさ。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+じゃあやっぱりこの通路は
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+あぁ、あたいらのアジトに繋がってる。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+なぁ、一緒に行かないか？
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+えっ！？
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+実はな、同じ考えの奴が他にもいてな。
+そいつらと今の頭をやっつけて、ちゃんとした
+海賊をあたいらで始めようって話してたんだ。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+お前もあいつを倒しに来たんだろう？
+ここで会ったのも何かの縁だ。手貸すよ。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+え、えっ～と～
+(何か話が変な方向に・・・)
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+どうしよう？
 # TRANSLATION 
 
 # END STRING
@@ -195,7 +412,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Choice
 # ADVICE : 49 char limit
-抱かれる
+(一緒に行ってみよう)
 # TRANSLATION 
 
 # END STRING
@@ -204,16 +421,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Choice
 # ADVICE : 49 char limit
-他の方法を考える
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Choice
-# ADVICE : 49 char limit
-拒否する
+(やっぱり信用できない)
 # TRANSLATION 
 
 # END STRING
@@ -222,8 +430,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-抱かれるのはちょっと…
-他の未練はないの？
+※現在未完成
 # TRANSLATION 
 
 # END STRING
@@ -232,8 +439,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ないね
-俺の未練は女だけ
+あっ・・・
 # TRANSLATION 
 
 # END STRING
@@ -242,7 +448,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-う～ん…
+なんだテメーは！
 # TRANSLATION 
 
 # END STRING
@@ -251,8 +457,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-抱かせてくれないんなら
-おっぱい揉ませてくれるだけでいいよ
+え！いや～あの～
 # TRANSLATION 
 
 # END STRING
@@ -261,7 +466,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ん～、抱かれるよりはマシか
+こっから先は立ち入り禁止だ！
+とっとと出て行きやがれ！
 # TRANSLATION 
 
 # END STRING
@@ -270,7 +476,125 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+誰もいないみたいね。
+# TRANSLATION 
 
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+今の内に調べてみましょう。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+牢番
+「お若い領主様は罪人にも慈悲をお与えになり、
+　世間には抑止の為に死刑と公表しても
+　実際には刑を執行せず生かしておいておられる」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+牢番
+「しかし…
+　牢には罪人が増える一方になってしまった」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+牢番
+「部屋は定員以上の罪人が牢にいるため
+　一部屋に何人も押し込まざる終えない」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+牢番
+「罪人達も苛立っている
+　牢屋増築の進言も財政難を理由に却下されてしまった」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+牢番
+「このままでは女性の罪人が来たときは
+　男の群れに押し込むことになってしまうだろう…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+牢番
+「禁欲的な生活を強いられてる囚人には刺激的過ぎる。
+　服を着なさい」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+はらぺこ女海賊
+「お腹ぺったんこ…、きゅ～～ん」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+倉庫番
+「隣の倉庫は港の海賊団に貸し出してるぜ。
+　丸ごと占拠っても太っ腹だよな」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+倉庫番
+「お国の商船狩りってのは儲かる仕事なのかねぇ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+倉庫番
+「おっと、今の言葉は失言だぜ。
+　異邦人は聞き流してくれ」
 # TRANSLATION 
 
 # END STRING

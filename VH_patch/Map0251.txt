@@ -608,7 +608,26 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 列車警備兵
-「切符を確認しました。馬列車はまもなく参ります」
+「馬列車はまもなく参ります。
+　何処へ行かれますか？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Choice
+# ADVICE : 49 char limit
+温泉街
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Choice
+# ADVICE : 49 char limit
+奴隷市場
 # TRANSLATION 
 
 # END STRING
@@ -617,7 +636,145 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-温泉街へ行きますか？
+列車警備兵
+「切符か、フリーパスが無ければ
+　乗車は出来ません」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+列車警備兵
+「馬列車はまもなく参ります。
+　デバッグモードに制限はありません。
+　何処へ行かれますか？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+道のりをショートカットしますか？
+
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+列車警備兵
+「ああ、貴方が
+　護衛の冒険者の方ですか？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「ええ、そうよ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+列車警備兵
+「すいませんが、依頼した方以外は
+　連れてくるなと言う話でした」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+列車警備兵
+「お仲間の方は、お引取り下さい」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+女の子
+「はい、きっぷだよー」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+列車警備兵
+「ありがとう、お嬢ちゃん」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+列車警備兵
+「話は聞いています。\!
+　案内しますので、
+　その馬列車に乗って下さい」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「助かるわ、ありがとう」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+女の子
+「ありがとー！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+列車警備兵
+「……これも、仕事ですから。
+　お気をつけて」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+女の子と共に、奴隷市場の付近へ到着した
 # TRANSLATION 
 
 # END STRING

@@ -112,11 +112,12 @@ Witch
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : heroAttr/HeroName
 # ADVICE : 12 char limit
-ようじょ
+エルミール
 # TRANSLATION 
-Little Girl
+
 # END STRING
 
 # TEXT STRING
@@ -217,4 +218,13 @@ Companion's Name
 とうめい
 # TRANSLATION 
 Clear
+# END STRING
+
+# UNUSED TRANSLATABLES
+# TEXT STRING
+# CONTEXT : heroAttr/HeroName
+# ADVICE : 12 char limit
+ようじょ
+# TRANSLATION 
+Little Girl
 # END STRING

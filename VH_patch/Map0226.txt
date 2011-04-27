@@ -3,7 +3,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「…せんせー、一つ質問があります」
 # TRANSLATION 
 
@@ -14,7 +14,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 エリカ
-「なんでしょうななこさん？」
+「なんでしょう\N[0]さん？」
 # TRANSLATION 
 
 # END STRING
@@ -23,7 +23,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「守備隊の人達は？」
 # TRANSLATION 
 
@@ -55,7 +55,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「ふぅん」
 # TRANSLATION 
 
@@ -76,7 +76,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「色々？」
 # TRANSLATION 
 
@@ -141,8 +141,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「この川は、街の歴史にも伝わる地殻変動によって
-　できたものらしいです」
+番兵
+「この川は、街の歴史にも伝わる
+　地殻変動によってできたものらしいです」
 # TRANSLATION 
 
 # END STRING
@@ -151,6 +152,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+番兵
 「大地をも引き裂く亀裂･･･\!
 　この地の温泉の水脈をたどれば、
 　なにか秘密がわかるのかもしれませんね」
@@ -162,6 +164,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+番兵
 「ぐわっぁぁぁ！！俺の山脈の地殻変動がぁッ！
 　た、頼むぅ！噴火させてくれぇぇぇ！！」
 # TRANSLATION 
@@ -172,6 +175,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+番兵
 「ぁ、熱いッ。私のボルケぇぇぇえのＮＯｏｏ！！」
 # TRANSLATION 
 
@@ -181,7 +185,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「へへ、アンタ奥で休んでかねぇかァ･･･？」
+怠慢の兵士
+「へへ、アンタ奥で休んでかねぇかァ…？」
 # TRANSLATION 
 
 # END STRING
@@ -190,8 +195,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+怠慢の兵士
 「ちっ、こんな辺境の詰め所に配属しやがって。
-　あのクソ上司、おぼえてろよ･･･」
+　あのクソ上司、おぼえてろよ…」
 # TRANSLATION 
 
 # END STRING
@@ -200,6 +206,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+旅の冒険者
 「新しい街にいけば、新しい仕事にありつける」
 # TRANSLATION 
 
@@ -209,6 +216,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+旅の冒険者
 「冒険者なら獲物となる儲け話も、
 　自分の足を動かしてさがすのが基本さ」
 # TRANSLATION 
@@ -219,6 +227,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+旅の冒険者
 「男漁りかい。アンタも鼻がいいな。
 　たしかに、ここの警備兵は女に飢えてるわな」
 # TRANSLATION 
@@ -229,6 +238,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+旅の冒険者
 「精々ずっぽり食らって、がっぽり儲けるだな」
 # TRANSLATION 
 
@@ -238,6 +248,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+一物ハンター
 「あなたも冒険者なら夢くらい持ってるんでしょう？
 　わたしの夢はモンスター全種類討伐」
 # TRANSLATION 
@@ -248,6 +259,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+一物ハンター
 「すべての魔物の一物をハントするのが趣味なの」
 # TRANSLATION 
 
@@ -257,8 +269,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+一物ハンター
 「ああ、夢のオークキング。
-　一度でいいから彼の剛直を見てみたいわ･･･」
+　一度でいいから彼の剛直を見てみたいわ…」
 # TRANSLATION 
 
 # END STRING
@@ -267,6 +280,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+一物ハンター
 「あら、私のふたなりディック買いたいの？」
 # TRANSLATION 
 
@@ -276,6 +290,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+番兵
 「ここから先は我々、
 　守備隊の治安範囲から外れます」
 # TRANSLATION 
@@ -286,9 +301,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「完全な無法地帯です。
-　ヘタな罠に引っ掛かって、人攫いにつかまらない
-　ようにがんばってください」
+番兵
+「完全な無法地帯です。ヘタな罠に引っ掛かって、
+　人攫いにつかまらないようにがんばってください」
 # TRANSLATION 
 
 # END STRING
@@ -297,6 +312,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+番兵
 「もし不幸な目にあっても自己責任です」
 # TRANSLATION 
 
@@ -306,6 +322,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+番兵
 「お気をつけください」
 # TRANSLATION 
 
@@ -315,6 +332,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+番兵
 「ご注意下さい」
 # TRANSLATION 
 
@@ -324,6 +342,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+番兵
 「あなたのご活躍を心よりお祈りしています」
 # TRANSLATION 
 
@@ -333,7 +352,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「待て。この警備隊様の顔が見えんのか、んん？
+番兵
+「待て。
+　この警備隊様の顔が見えんのか、んん？
 　さあ通行料を払え。１００００Ｇだ」
 # TRANSLATION 
 
@@ -343,6 +364,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+番兵
 「払えんのか？ならば、その場で踊ってみろ」
 # TRANSLATION 
 
@@ -352,6 +374,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+薬を売る兵士
 「冒険者の旅の道のりは、さぞ辛かろう。
 　さあ私が施しをあたえてやろう」
 # TRANSLATION 
@@ -362,6 +385,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+薬を売る兵士
 「私の善意はみなのためなのだ。
 　街の守備隊のやつらには言ってはならんぞ？」
 # TRANSLATION 
@@ -372,6 +396,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+薬を売る兵士
 「冒険者の旅の道のりは、さぞ辛かったろう。
 　さあ私が施しをあたえてやろう」
 # TRANSLATION 
@@ -382,6 +407,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+薬を売る兵士
 「やらないか」
 # TRANSLATION 
 
@@ -391,6 +417,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+川見の翁
 「わしは、この川の流れをみて
 　この国の行く末を案じておるのじゃ…」
 # TRANSLATION 
@@ -401,6 +428,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「へぇ…、流水の動きを読めるなんて……
 　どんな世界が見えるんですか？」
 # TRANSLATION 
@@ -411,6 +439,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+川見の翁
 「………」
 # TRANSLATION 
 
@@ -420,6 +449,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+川見の翁
 「………………」
 # TRANSLATION 
 
@@ -429,6 +459,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+川見の翁
 「もうダメかもわからんね」
 # TRANSLATION 
 
@@ -438,6 +469,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+川見の翁
 「そのむかし、古の時代…」
 # TRANSLATION 
 
@@ -447,6 +479,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+川見の翁
 「天の女神が自慰で潮を吹き、そして…」
 # TRANSLATION 
 
@@ -456,6 +489,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+川見の翁
 「雨は、世界の海となったのじゃ…」
 # TRANSLATION 
 

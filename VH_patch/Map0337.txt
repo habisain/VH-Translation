@@ -13,6 +13,26 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ななこ
+「ここから先の探索は
+　身軽な私一人でないと無理そうね」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+……亡者は何かを見つめ続けている
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
 
 　　\N[1]は「回復薬」を２つ手に入れた！
 # TRANSLATION 
@@ -92,6 +112,91 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 誰かの日記がある。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Choice
+# ADVICE : 49 char limit
+読んでみる
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Choice
+# ADVICE : 49 char limit
+やめておく
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+○月×日
+村に見慣れない金髪の少女がやって来た。
+大きな屋敷を建てる話をされた。
+大工仲間はみんな浮かれている。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+□月○日
+後輩が少女と犯ったらしい。
+最高だったそうだ。
+妻も子もいるが、少し羨ましい。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+○月△日
+妻以外の身体は久しぶりで興奮した。
+少女には何度も中出しした。最高だった。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+×月□日
+屋敷が完成した。良い仕事ができた、めでたい。
+だが最近、後輩を見ない。どこ行った？
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+◇月☆日
+村の付近に亡者が居た。急いで逃げた。
+村の墓から出たのか？
+どこか見覚えがあった気がする。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ここで日記は終わっている。
 # TRANSLATION 
 
 # END STRING

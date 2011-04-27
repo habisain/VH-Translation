@@ -4,7 +4,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 
-　　\N[1]は「傷薬」を手に入れた！
+　　\N[0]は「傷薬」を手に入れた！
 # TRANSLATION 
 
 # END STRING
@@ -14,7 +14,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 
-　　\N[1]は「縄」を手に入れた！
+　　\N[0]は「縄」を手に入れた！
 # TRANSLATION 
 
 # END STRING
@@ -23,7 +23,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「さーて、騒ぎが大きくなる前に隠れよう。
 　どうせ半日でおさらばだしねー」
 # TRANSLATION 
@@ -34,7 +34,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「そろそろヤバいかも。
 　部屋から逃げたほうがいいかな？」
 # TRANSLATION 
@@ -46,7 +46,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 
-　　\N[1]は「馬列車の医療箱」を手に入れた！
+　　\N[0]は「馬列車の医療箱」を手に入れた！
 # TRANSLATION 
 
 # END STRING
@@ -55,8 +55,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-
-　　\N[1]は「キャラメイク専用」を手に入れた！
+　　\N[0]は「キャラメイク専用」を手に入れた！
 # TRANSLATION 
 
 # END STRING
@@ -65,7 +64,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「なんだろう、これ」
 # TRANSLATION 
 
@@ -75,8 +74,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-
-　　\N[1]は「500Ｇ」を手に入れた！
+　　\N[0]は「500Ｇ」を手に入れた！
 # TRANSLATION 
 
 # END STRING
@@ -85,6 +83,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「ええっと、この先が御者席になるのかな？」
 # TRANSLATION 
 
@@ -94,8 +93,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
-「まだ調べてない所がありそうね･･･」
+\N[0]
+「まだ調べてない所がありそうね…」
 # TRANSLATION 
 
 # END STRING
@@ -132,7 +131,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「駅員ごとき一般人、こんなもんよね」
 # TRANSLATION 
 
@@ -142,8 +141,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-
-　　\N[1]は「避妊薬」を手に入れた！
+　　\N[0]は「避妊薬」を手に入れた！
 # TRANSLATION 
 
 # END STRING
@@ -152,8 +150,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-
-　　\N[1]は「妊娠促進薬」を手に入れた！
+　　\N[0]は「妊娠促進薬」を手に入れた！
 # TRANSLATION 
 
 # END STRING

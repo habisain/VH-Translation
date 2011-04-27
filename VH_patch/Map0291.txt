@@ -94,7 +94,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-『温泉街北』
+『死人の村』
 # TRANSLATION 
 
 # END STRING
@@ -103,7 +103,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-『温泉街西』
+『奴隷市場』
 # TRANSLATION 
 
 # END STRING
@@ -112,7 +112,27 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-『温泉街東』
+『旧オークキャッスル』
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+初代ロードが建国した国
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+※現在は人間に復讐心を持った
+　危険なオーク達が支配しており、
+　無闇に近づくと大変危険
 # TRANSLATION 
 
 # END STRING
@@ -148,7 +168,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-『東の森』
+『新オークの国』
 # TRANSLATION 
 
 # END STRING
@@ -158,6 +178,60 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 『金蜂楼』
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+『地底の町』
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+『北の関所』
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+『小島』
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+『東の森』
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+『温泉街北』
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+『温泉街西』
 # TRANSLATION 
 
 # END STRING
@@ -211,15 +285,6 @@
 最後に、プレイヤーの方には雰囲気を感じるために、
 製作者の方には発想のお手伝いになるように、
 このマップが利用されることを望みます。
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-『北の関所』
 # TRANSLATION 
 
 # END STRING

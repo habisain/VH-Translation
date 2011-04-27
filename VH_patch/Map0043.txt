@@ -3,8 +3,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-おお、ねぇさん
-ちょっと俺を買っていかないか？
+マスターの娘
+「しばらくの間、お店は
+　海賊のみんなの貸しきりだよぉ！」
 # TRANSLATION 
 
 # END STRING
@@ -13,7 +14,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-は、はい？
+マスターの娘
+「恐怖の！脳に棲む寄生虫！！それは――」
 # TRANSLATION 
 
 # END STRING
@@ -22,9 +24,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-生活が苦しくてな…、売れるもんは全部売っちまったし
-妻を売春させてるんだがとてもじゃないが稼ぎが足りない
-俺も身体売ってるんだ
+\N[0]
+「……もう怖い話はいいの！」
 # TRANSLATION 
 
 # END STRING
@@ -33,26 +34,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-頼む！
-人助けだと思って俺を買ってくれ！
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Choice
-# ADVICE : 49 char limit
-はい
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Choice
-# ADVICE : 49 char limit
-いいえ
+マスターの娘
+「え、幽霊？なにそれ。お化けこわいよぅ…」
+　ぐすっ、ふえぇぇぇ～…」
 # TRANSLATION 
 
 # END STRING
@@ -61,8 +45,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-そうか…
-他を当たってみるよ
+\N[0]
+「ごめんね。怖がらせちゃった？」
 # TRANSLATION 
 
 # END STRING
@@ -71,7 +55,2094 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-(他を当たっても無理なんじゃ…)
+マスターの娘
+「うそです」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「……」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+マスターの娘
+「お姉ちゃん、女の人の幽霊とかが怖いの？
+　イマドキ時代遅れなんだねー」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+マスターの娘
+「仕方ないなぁ、じゃあ教えてあげるね」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+マスターの娘
+「これは水辺である本当のお話。
+　遊泳中の人に集団で襲い掛かり、肛門や尿道から
+　突撃して生きたまま腸を喰らう恐怖の――」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「……いい！いいの！話さなくてもっ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+マスターの娘
+「えー、おもしろいのにぃー」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+さすらいの巡察師
+「ここは祈りの場所。
+　そのような振る舞いは控えなさい」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+さすらいの巡察師
+「地方で宣教を行う者には
+　これが神の教えと偽り、
+　淫らな嘘を吹きこむ破戒者がいるという」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+さすらいの巡察師
+「少年少女に肉欲の限りを尽くし
+　飽きたら奴隷として売ってしまう
+　不逞な輩もいたという報告もある」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+さすらいの巡察師
+「犯人を特定出来たら、即厳罰を下さねば…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+さすらいの巡察師
+「君もそのような人物を見かけたら
+　私に教えてくれないか？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+さすらいの巡察師
+「悪魔祓いでしたら助言を差し上げましょう。
+　お困りになったらいつでも来なさい」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+さすらいの巡察師
+「この地でも魔が蔓延っているのですか」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+さすらいの巡察師
+「よろしい。これをお持ちなさい。
+　悪魔からの誘惑を打ち消す、強力なお守りです」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+
+　　\N[1]は「色受想行識のお守り」を手に入れた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+エロい身体した尼僧
+「まぁはしたない！これを着なさい！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ローブを手に入れた
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+エロい身体した尼僧
+「水夫達がお祈りに出てこなくて困ります」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+エロい身体した尼僧
+「た、たまに出てきても…
+　わ、私のむむむ…胸や、おっお…尻ばっかり
+　いやらしい目で見て、まったくもう！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+グルハスタ商人
+「先代には中々認めてもらえなかったが
+　若い領主になってやっと馬列車の駅の開通を
+　認めてもらえたよ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+グルハスタ商人
+「これで我々も遠出しやすくなって
+　安全に商売ができる」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+泣きべそバーテンダー　
+「しくしく、頼むから静かに飲んでいってくれ…。
+　開店したばかりなのに
+　どんどん店が壊れていく(；ω；)」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+泣きべそバーテンダー
+「おいおい、客引きなら余所でやってくれよぅ～。
+　あいつらなら本気で
+　ここでおっぱじめそうだし(；ω；)」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+泣きべそバーテンダー　
+「もうやめて (；ω；)
+　別れた妻の幻を思い出すぅ(；ω；)|||
+　思い出だけではつらすぎる～(；ω；)♪」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「悪いが一人にしてくれ…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「そういう気分なんだ…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「…俺への当て付けか？くそぉ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「は？…なんだと」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「浮気した女の幽霊だと！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「うわびっくりした」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「いやすまない。つい興奮しちまった。
+　で、なんだって？その…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「幽霊よ。漁師や水夫に伝わる
+　浮気性の夫だった、妻の怨念が一人歩き
+　している…とか何とかの」　
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「誰が浮気性だって！
+　ふざッけんな！そりゃ向こうだ！！
+　俺は一方的に被害者だっーての！！！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「女なんて嫌いだ！
+　愛だと？ふざけんな！」　
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「あわびの方が美味ぇんだよ！現実は！！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「ッ、ちょっと何！？
+　いきなり大声で怒鳴らないでよ！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「女がどうとか、
+　こっちは知らないわよ！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「すまない。発作が出ちまった。
+　悪気はないんだ。ゆるしてくれ…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「で、なに。その反応。
+　やっぱり噂を知っているのね」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「幽霊の被害については知らないが、
+　怪談の出所は知っている」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「そりゃ、俺が広めた」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「は？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「俺には嫁がいてよ。いい女だった。
+　それで子供も出来て、幸せの絶頂だった
+　んだけどよ…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「息子が懐かないんだ。
+　最初はパパ嫌いな子かと思ってた程度で
+　憂い奴め…とか笑っていられたんだが」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「新年の親戚の集まりのとき、
+　息子が妙に弟に懐くんだ。んで嫁の方も
+　まんざらでなくてな」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「なにかがおかしいと思ったんだ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「すると俺の中の歯車が、
+　静かに狂いだす」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「そういえば弟は結婚式のときに
+　酔っ払って俺の嫁に色目つかってた事も
+　あったっけなぁ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「無礼講の場だし、今の彼女と二年目の弟は
+　年下好きだってこともあって」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「疑ってるわけじゃない。
+　そう思いたかった。
+　俺の嫁はそうじゃない。違うんだ…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「俺は無警戒だったんだ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「そして、俺は漁に出ることにした。
+　遠洋だ。一年は帰らない」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「信じることにしたんだ。
+　一年で俺は帰ってくる。お前との暮らしの
+　将来を思って、大金を稼いでくる！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「帰ったとき俺の居場所はなかった」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「息子も弟にパパ、パパ言ってよ。
+　俺の顔の記憶なんて、なんも残っちゃいねぇ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「バカだよ。俺はバカだったよ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「俺の心は裏切りに塗りつぶされた」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「海風は俺の傷をあざ笑う」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「俺も笑っていいのか」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「空っぽに満たされた自分自身に」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「なんなんだよ。女って…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「もう、いやだ…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「いっそ、このまま…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「………」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「………\!ちらり」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「で、その話と幽霊はどう結びつくの？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「え？たったそれだけ！？」
+　ほら、そこは普通『大丈夫よ。あなたは
+　一人じゃない』って言う流れじゃないの？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「そんでもって『あなたの心をひと時だけ
+　癒す方法があるわ。それはね…』って
+　いう展開もなきにしもあらず」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「知るか…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「だいたい私は冒険者よ。
+　幽霊の正体を調べにきたんだから
+　あなたは証言を語ってくれればいいの」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「なんという正論」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「じゃあ聞くけど、
+　どうして幽霊の怪談なんて流したの？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「いやー、遠洋に出るっていってもさ。
+　やっぱり不安じゃん」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「まぁ、そりゃ俺だってマンネリ解消で
+　浮気とかしたことあるけどよ。　
+　俺は嫁にそんなことマジ許さんわけですよ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「俺の嫁だからな。\.\.
+　俺の嫁は化粧だってしないし
+　ましてやトイレなんてのも行かない」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「攻略したゲームが寝取られエンドとか…
+　マジ憤死ものでしょ？
+　俺の時間返せ！って訴訟したくなる」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「だから怖がらせて、
+　浮気しないように工作した、と」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「ふっ、男てぇのは…罪な生き物なのさ。
+　アンタも分かるだろ、レディ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「その怪談話の漁師も『主人公』だったのさ。
+　ただ行き着いた先が
+　ちょっとしたヤンデレだっただけの――」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「えっと、こほん…。
+　ちょっといいかしら？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「なんだい？アンタも立っちまったかい？
+　ビンビンに…俺と成立しち……」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「まったく、なにが幽霊の…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+
+　　　　\S[10]うらめじろ…
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「は」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+
+　　　　\S[10]うらめじろ～
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「へ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「ぎゃーーー！な、なになに。
+　なんか出たなんか出た！
+　全裸の変なの！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+
+　　　　\S[10]うらめ…
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「き、消えた。まさか本物の…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「いたんだ…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「さーて、どういうことか説明して
+　もらおうじゃないの！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「いや～最近、鏡に女の顔が映ってるから
+　てっきり俺に惚れたストーカー女だと
+　ばかり思ってたんだよ…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「風呂で肩凝りがひどいなーとか、
+　夜な夜な記憶が途切れるとか、
+　夢遊病徘徊して周りで人が倒れてたりとか」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「まさか、ガキの頃に憧れた
+　第三の力ってのがついに来たな俺」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「って、そう思っていました」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「いやッハー大変面目ない！
+　遺憾なことにイカン事態になってたか！
+　これ、一冊本書けるんじゃぁね！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「いや、すみません。冗談です」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「自分でいうのもアレですが、
+　こんなつもりじゃなかったんです」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「幽霊の話って作り話じゃなかったの？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「は？俺そんなこといったっけ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「俺、完璧主義だし。
+　けっこう周到に計画したし。
+　母親とか船長とか別に怖くねーし」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「お前ェ、なめてんの？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「やーうそうそ。冗談冗談。
+　げほん。本当のこと言うとだ―――」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+………………………………
+………………………………
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「成程ね、
+　自分も幽霊ネタの下調べてたら
+　逆に取り憑かれてしまってました…と」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「乱暴な真似したんでしょう…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「愛は盲目、いまは反省をしている」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「まあいいわ。
+　一応、あなたも被害者みたいだし」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「ギルドの調査報告に加えておくわ。
+　後はまかせなさい」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「ああ。それじゃ幽霊退治が片付いたら
+　俺に報告しにきてくれ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「あんたが正式な調査依頼って事で」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「報酬は個別に発生するけどいいの？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「大丈夫だ。
+　だって俺が依頼を出したんだからな」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「……！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「街で多くの冒険者が挑んでいれば、
+　当然、幽霊騒動は嫁の耳にはいるだろ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「そこで俺がずばっと解決！
+　嫁惚れリターン。ナイス自作☆自演！！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「そんな筋書きしてるから
+　捨てられたんでしょ。まったく…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「ネタ探しのときに、
+　いくつか幽霊騒動の噂があったな～…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「あまり怖くもなかったし、
+　海とは関係なかったからスルーだったが
+　気になっていれば他も調べてみればどうだ？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「共同墓地とかなんかありそうだよな」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「え！？退治したの、本気で？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「だから報告しにきたんでしょうが…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「幽霊とか勝てるわけねーじゃん、ぷぷっ。
+　…とか思ってたんだが、やるじゃねーの」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「お嬢さん、見直したぜ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「俺もやりなおしてみるよ。
+　もう一度、アイツの心を取り戻すために」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「人間あきらめが肝心だっていうが
+　そうじゃなかった」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「日はまた昇る。勇気を胸に。
+　危ぶむなかれ危ぶめは道はなし。
+　迷わず行けよ。行けば分かるさ嫁の声」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「あきらめんなよ！俺」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「いまさら格好いい事いっても、
+　なにかが色々と手遅れな気がするけど…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「やれやれ…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「骨ならスラムにあるぜ。
+　多分、どっかに落ちてるんじゃね？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「ちょっと気になったことがあるの」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「たしか幽霊の女の人って、
+　好きだった漁師の男性がいたはずよね」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「ああ、浮気相手で一緒に殺されたな」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「その人って、どうなったの？
+　一緒に幽霊になったりしなかったの」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「いるよ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「男もいるの！？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「昔、妻が怨念で暴れてた頃
+　それを鎮めるために漁民が墓を突き止めて
+　彼の遺骨を一緒に埋葬したんだ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「妻は思い出が欲しかったんだろう。
+　漁師の温もりののこった遺品を奉ると
+　女の幽霊は眠るように鎮まった、と」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「へぇ、いい話ね」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「まあ俺がパクったんだけどな」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「…は」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「男って冒険家だろ。好奇心だろ。
+　トレジャーハンターっていうのかな、
+　幽霊船とか王家の墓とかテンション↑↑よ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「いいか絶対だぞ。絶対あけるなよって
+　いわれりゃ開けるのが人のサガだろう」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「でもさー骨なんだよ、ただの骨。
+　金の骨だったらいいけどさー、ただの骨」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「売れねぇしさー、邪魔なだけ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「だからさ、スラムの子供にくれてやった。
+　騙してねぇよ！？
+　俺捨ててねーし。悪くねぇーし」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「そしたらスラムに幽霊が出たらしい。\!
+　多分、骨の幽霊じゃね？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「その話で十分よ。
+　いいわ、……私が直接会ってくるから」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「あ？悪いね。よろしく頼むよ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「幽霊とか幻とか不可思議な話なら
+　霊験あらたかな人物に訊ねてみたらどうだ？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「ご利益ある人なんていたかしら？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「最近、俺的内部でひそかに
+　あんたの好感度が急上昇してるんだが」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝取られた男
+「この気持ち、どうすればいい？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「海にでも捨ててしまえ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+酔っ払いの海賊
+「おっ、ねぇちゃん別嬪だね！
+　マスター！この店もこういうベッピンさん雇いなよ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+泣きべそバーテンダー
+「ぅ、うぐぅ。店の修繕費に一杯一杯で
+　そんな余裕ありません(；ω；)」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+酔っ払いの海賊
+「いや～、ホントにベッピンだな。ぐへへへ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+
+　愛の言葉を君に囁く～だけど今は意味などない～♪
+　　　　　　　　いつわりの日々～♪
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+
+　　　　　一杯やろうぜヨ～ソロ～♪
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「ヨ～ソロ～♪」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+酔っ払いの海賊
+「これだから酒はやめらんねぇ！
+　良い女の幻が見えるぜー！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+
+　　　尽くして～泣きぬれて～そして愛されて～♪
+　　　　　　時がふたりを離さぬように～♪
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+
+　　　　　も一つやろうぜヨーソロー～♪
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+酔っ払いの海賊
+「おおっ、これがこの国で崇拝されてる地母神って奴か
+　顔は怖くは無いが確かに強そうだ。
+　…良い身体つきしてるし」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+
+　　　水際まで来てほしい～つぼみをあげよう～♪
+　　　　　　　　庭のハナミズキ～♪
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+
+　　　亡者の墓まで♪にじりの登った15人～♪
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+酔っ払いの海賊
+「うわっはっは！
+　裸の女神様が見えるぞ～！！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+
+　　　　　　　骨まで溶けるような～
+　　　　テキーラみたいなキスをして～ん♪
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+
+　　他のやつらは～♪酒と悪魔にのまれたぞ～♪
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+酔っ払いの海賊
+「熱心に教会行った甲斐があった…
+　黒いマリア様のお姿が見える…美しい…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+
+　あなたが想うよりも～この想いは限りなく深い～♪
+　　　　　　果てしなくありそうで～♪
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+女海賊
+「奥で独り淋しく呑んでるお兄ちゃんは
+　そっとしておいてやりなよ？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+女海賊
+「遠い航海にいってる間に、嫁さんを
+　弟に寝取られちまったってよ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+女海賊
+「その上、家も財産も盗られちまったから荒れてんだ。
+　人の気心ってのも波まかせね。
+　やっぱ船乗りが愛するのは海と船しかないのよ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「はて？
+　なにか、どこかで聞いたような話ね…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+女海賊
+「…やっぱ女を愛するべきよね」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+酒好きの海賊
+「寄航した街の地酒を飲むのが楽しみだってのに、
+　ここでの酒は地母神の飲むもんだってんで
+　他所モンは飲めねぇんだとよ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+酒好きの海賊
+「グルハスタの名酒ってすげぇんだ。
+　あまりの美味さに息子がおっ勃っちまうくらい」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+酒好きの海賊
+「そりゃ、まさに地母神様々だわな」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+酒好きの海賊
+「現地の女を楽しむってのもありか
+　へっへっへ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+酒好きの海賊
+「わかめ酒でも頂戴するかな」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+酒好きの海賊
+「見てたぜぇ。ありゃモノホンの幽霊女だ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+酒好きの海賊
+「調子こいてすみませんでした。
+　祟らないでください」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+酒好きの海賊
+「漁師に恋し、また漁師に恋する女の幽霊か。
+　へへ、そりゃー…泣けるねぇ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+酒好きの海賊
+「ま、俺に言わせりゃーよ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+酒好きの海賊
+「その女はクソだ！\!
+　ビッチだ！\!真性Ｍ女だ！！\!ただでやらせろ！！！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「さ、ギルドで報酬を受け取りましょう」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+黒の海賊船長
+「俺が船長です」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+黒の船乗り
+「やっと陸に上がったかと思ったら
+　また狭い中で雑魚寝だもんなぁ…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+黒の船乗り
+「寝心地は船の上とは比べ物にならんが
+　ウチの船乗りはイビキがうるさいのが多くて
+　寝付くのに苦労するよ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+黒の船乗り
+「何だあんた？
+　船長が遣してくれた女か？
+　やっぱ海より陸だな。へへっ！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+黒の船乗り
+「街でマントの神父みなかったか？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+黒の船乗り
+「ま、どうせいつもの事だが…くく」
 # TRANSLATION 
 
 # END STRING

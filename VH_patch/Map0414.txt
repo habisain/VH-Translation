@@ -1,0 +1,169 @@
+# RPGMAKER TRANS PATCH FILE VERSION 2.0
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+
+賭け、戦い、女、血飛沫、武術
+此処には君の求めるものが揃っている
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+
+栄光を手にするか、勇んで破滅するか
+そのすべては自分次第
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+
+武術大会、近日開催！
+※小規模な闘技会は定期的に行っています
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+警備兵
+「ここは王都の誇る闘技場です。
+　日夜、武術を磨く人間が集っています」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+警備兵
+「ここは王都の誇る闘技場です。
+　その格好で参加するのは厳しいですよ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+女性警備兵
+「観戦ですか？
+　それとも参加ですか？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+女性警備兵
+「ここは地方からも人が集まりますから、
+　露出は控えめでお願いします。
+　変な噂がたつと困るんです」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+闘技会ファンの男
+「ここはすげえぞ！
+　手に汗握るイベントやってるんだ！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+闘技会ファンの男
+「ふっ……。
+　悪いがその程度じゃ、
+　闘技会の過激さには及ばないね」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+闘技会ファンの主婦
+「コレに出る女の子は、
+　何を考えているんだろうねえ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+闘技会ファンの主婦
+「賭ける分には、私も好きなんだけどさ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+闘技会ファンの主婦
+「もしかして、闘技会で負けたのかい？
+　大変だったろう」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+闘技会参加予定の男
+「俺の力を試す時が来た。
+　ここで俺は栄光を手に入れて、
+　故郷に錦を飾るのさ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+闘技会参加予定の男
+「俺の力を試す時が来た。
+　……お前は俺のライバルのようだな。
+　手加減はしないぞ。ぐふふっ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+闘技会ファンの男
+「いつの間にか闘技会の
+　ルールが変わっていたんだ。
+　誰が考えたんだか……」
+# TRANSLATION 
+
+# END STRING

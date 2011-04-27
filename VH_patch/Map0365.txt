@@ -4,17 +4,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 船長
-「・・・・・・」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-船長
-「あっ帰るかい？」
+「帰るかい？」
 # TRANSLATION 
 
 # END STRING
@@ -33,6 +23,105 @@
 # CONTEXT : Dialogue/Choice
 # ADVICE : 49 char limit
 いいえ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「ふ～～」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「見当たらないな～ベネッタ達にどんな形
+　なのか、聞いとけべよかった」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「宝石て言うくらいだから、すぐ分かると
+　思ったら全然みっかんないよ～」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+キラッ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「いま、何か光ったような・・・」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「さっきのは、これかな・・・・」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「魔宝石を2個手に入れた」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「あったこれが魔宝石かな」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「これを持って行けば、いいんだよね」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+今は、やめておこう
 # TRANSLATION 
 
 # END STRING

@@ -1,5 +1,113 @@
 # RPGMAKER TRANS PATCH FILE VERSION 2.0
 # TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「どうしよう……
+　返済期日に間に合わなかったよ……」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「私……これからどうなっちゃうの？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「きゃあっ！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+黒服
+「\N[0]だな？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+黒服
+「若い女ならいくらでも買い手は
+　みつかるだろう。よし、連れて行け」
+# TRANSLATION 
+Black Suit
+Such a young woman..... 
+You going to sell good...
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「いやあぁぁぁぁ！！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「むぐぅっ！！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「んーーーーーーーっっ！！！！」
+# TRANSLATION 
+
+# END STRING
+
+# UNUSED TRANSLATABLES
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「むぐぅっ！！」
+# TRANSLATION 
+No way!
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「んーーーーーーーっっ！！！！」
+# TRANSLATION 
+Nooooo！！！！
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「私……これからどうなっちゃうの？」
+# TRANSLATION 
+What... Is going to happen...
+# END STRING
+
+# TEXT STRING
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 「どうしよう……
@@ -12,9 +120,9 @@ I missed the deadline for the payment.
 # TEXT STRING
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「私……これからどうなっちゃうの？」
+「いやあぁぁぁぁ！！」
 # TRANSLATION 
-What... Is going to happen... 
+Nooo!
 # END STRING
 
 # TEXT STRING
@@ -33,40 +141,4 @@ Eeeh!
 # TRANSLATION 
 Black suit
 Are you \n[0]?
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-黒服
-「若い女ならいくらでも買い手は
-　みつかるだろう。よし、連れて行け」
-# TRANSLATION 
-Black Suit
-Such a young woman..... 
-You going to sell good... 
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「いやあぁぁぁぁ！！」
-# TRANSLATION 
-Nooo!
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「むぐぅっ！！」
-# TRANSLATION 
-No way!
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「んーーーーーーーっっ！！！！」
-# TRANSLATION 
-Nooooo！！！！
 # END STRING

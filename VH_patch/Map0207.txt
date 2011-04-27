@@ -2041,17 +2041,6 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-支配人
-「もうダメだー！
-　おしまいなんだー！！」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
 ガードマン
 「新入りか？
 　ここは通れんぞ」
@@ -3804,7 +3793,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「……ウォルター」
+ウォルター
+「賊か？次から次へと
+　厄介事が…」
 # TRANSLATION 
 
 # END STRING
@@ -3814,8 +3805,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 ウォルター
-「さっき、領主が逃げ込んで来てな。\!
-　リリー様に匿われた。」
+「っ！？」
 # TRANSLATION 
 
 # END STRING
@@ -3824,28 +3814,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「どういうつもり？」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ウォルター
-「企みがばれて、逃げてきた。\!
-　命を狙う追跡者が
-　居るかもしれない、と言ってな」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「…………」
+ななこ
+「げっ」
 # TRANSLATION 
 
 # END STRING
@@ -3855,20 +3825,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 ウォルター
-「リリー様の部屋で待っていれば、
-　追跡者が来ると思ったが。\!
-　またお前だとはな」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「あなた、いつまで従うつもり？
-　はっきり言って、もう終わりよ。
-　リリーも領主もね」
+「…お前…」
 # TRANSLATION 
 
 # END STRING
@@ -3878,8 +3835,8 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 ウォルター
-「そんな事は関係ない。
-　これが俺の仕事だ」
+「一体どこから…いや
+　それよりも」
 # TRANSLATION 
 
 # END STRING
@@ -3889,7 +3846,160 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 ウォルター
-「着いて来い」
+「どういうつもりだ？
+　一体何をしにきた？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「おわっちゃー。
+　いきなり厄介な奴に…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+（リリーが寝てたら
+　人質にできるかなと
+　思ったんだけど…）
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+（いないみたいだし…
+　まいったな…）
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ウォルター
+「答えろ。まさか
+　物取りでもないだろう？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「うーん…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「忘れ物…かな。
+　すごく大事なものだから
+　取りに来たの」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ウォルター
+「舐めたガキだ…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「でもどこにあるのか
+　わからなくて…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「出来れば教えてくれると
+　嬉しいんだけど」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ウォルター
+「何か知らんが…
+　…断ると言ったら？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「泣かす」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ウォルター
+「ふ…上等だ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ウォルター
+「が…ここは少々手狭い。
+　俺にとっては主の部屋
+　でもある」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ウォルター
+「ついて来い」
 # TRANSLATION 
 
 # END STRING
@@ -3909,7 +4019,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「随分と自信があるようね？」
+ななこ
+「悪いけど、手加減できない
+　からね！」
 # TRANSLATION 
 
 # END STRING
@@ -3918,9 +4030,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「あなたには
-　世話になったけれど。
-　それで手加減するほど、甘くないわよ」
+ななこ
+「あなたには色々、
+　世話になったけれど！」
 # TRANSLATION 
 
 # END STRING
@@ -3930,8 +4042,50 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 ウォルター
-「これは、俺の意地だ。\!
-　負けっぱなしでなど、おれんのだ！！」
+「こちらもな」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ウォルター
+「お前のおかげで俺の
+　面目は丸潰れだ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ウォルター
+「ここでお前を倒した所で
+　リリー様の信用は回復
+　せんだろうが…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ウォルター
+「俺にも一人前に意地がある」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ウォルター
+「負けっぱなしではな！」
 # TRANSLATION 
 
 # END STRING
@@ -3952,7 +4106,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「やれるもんならやってみなさい！」
+ななこ
+「やれるもんなら
+　やってみなさい！」
 # TRANSLATION 
 
 # END STRING
@@ -4088,6 +4244,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ななこ
 「私の勝ちね」
 # TRANSLATION 
 
@@ -4108,10 +4265,20 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「それじゃあ、
-　洗いざらい話してもらうわよ。\!
-　まずは逃げ込んできた領主と、
-　警備隊長のリンの居場所を教えて」
+ななこ
+「それじゃあ、約束通り
+　話してもらうわよ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「警備隊長のリンって人。
+　ここにいるでしょ」
 # TRANSLATION 
 
 # END STRING
@@ -4121,8 +4288,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 ウォルター
-「領主は、隠し通路を
-　通ってリンの居る牢屋に向かった」
+「…ああ…」
 # TRANSLATION 
 
 # END STRING
@@ -4131,8 +4297,52 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「隠し通路ですって？
-　そんなの何処にあるのよ？」
+ななこ
+「居場所を教えて」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ウォルター
+「地下の…隠し通路の
+　先だ…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ウォルター
+「今頃はリチャード様が…
+　楽しんでおられるだろう」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「貴族の奴が来てるの！？
+　っていうかお楽しみって！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「こうしちゃいられないわ！
+　その隠し通路ってどこ！」
 # TRANSLATION 
 
 # END STRING
@@ -4153,9 +4363,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「厳重なところに隠してあるのね。
-　地下の一番奥の部屋のかがり火ね。
-　わかったわ」
+ななこ
+「地下の一番奥の部屋の
+　かがり火ね！わかったわ」
 # TRANSLATION 
 
 # END STRING
@@ -4165,9 +4375,8 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 ウォルター
-「……力尽きる前に一言だけ言っておく。
-　お前では、領主を
-　どうにかするのは、無理だ」
+「…最も…お前が行った所で…
+　奴隷が一人…増えるだけ…」
 # TRANSLATION 
 
 # END STRING
@@ -4176,7 +4385,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「この期に及んで、負け惜しみ？」
+ななこ
+「この期に及んで、
+　負け惜しみ？」
 # TRANSLATION 
 
 # END STRING
@@ -4186,7 +4397,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 ウォルター
-「事実だ。\!
+「事実…さ…\!
 　やめておけ、あのゴーレムには……」
 # TRANSLATION 
 
@@ -4197,7 +4408,8 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 ウォルター
-「事実だ。行けば分かるさ……」
+「事実だ…
+　行けば分かるが……」
 # TRANSLATION 
 
 # END STRING
@@ -4206,6 +4418,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ななこ
 「ちょっと」
 # TRANSLATION 
 
@@ -4225,8 +4438,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「……行きましょう。
-　まずは地下に向かわないと」
+ななこ
+「……そうだ、急がないと。
+　まずは地下ね」
 # TRANSLATION 
 
 # END STRING

@@ -175,7 +175,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこの立ち絵や表情が見れるよ
+\N[0]の立ち絵や表情が見れるよ
 何を調べたい？
 # TRANSLATION 
 
@@ -239,7 +239,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-笑い(上)
+満面の笑み
 # TRANSLATION 
 
 # END STRING
@@ -320,7 +320,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-笑い
+ヤレヤレ笑い
 # TRANSLATION 
 
 # END STRING
@@ -366,6 +366,24 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 いやぁ！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+嗚咽（強）
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+嗚咽（弱）
 # TRANSLATION 
 
 # END STRING
@@ -1797,6 +1815,71 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+＜場所移動系＞
+単純にマップ移動を行うイベントを固めてあります。
+(既存のマップへの近道や、未開通マップへの抜け道等)
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+＜変数操作系＞
+変数等の裏で動く数字を操作する場合はここで。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+＜入手・変更系＞
+ゲーム上目に見えるステータスやアイテム等を
+追加・編集するものが置いてあります。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+＜表示系＞
+立ち絵・表情等の表示テストや新規作成分の
+お披露目が行われています。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+＜その他テスト系＞
+製作者各自のテストが行われています。
+他に分類できない物はとりあえずここで。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+＜専用テストマップ＞
+大掛かりなシステムや特殊なシュミレーション用の
+専用マップです。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
 立ち絵分割表示をします。
 # TRANSLATION 
 
@@ -2332,33 +2415,6 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-未完成マップ２
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Choice
-# ADVICE : 49 char limit
-カジノ
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Choice
-# ADVICE : 49 char limit
-バルカッサ
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
 IDチェックがほしい？
 # TRANSLATION 
 
@@ -2403,6 +2459,51 @@ IDチェックを渡した
 
 # TEXT STRING
 # UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+どこへいきますか？＜各種ダンジョン＞
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Choice
+# ADVICE : 49 char limit
+西の洞穴
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Choice
+# ADVICE : 49 char limit
+南西の洞窟
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Choice
+# ADVICE : 49 char limit
+ミノタウロスの洞窟
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Choice
+# ADVICE : 49 char limit
+北の山の洞窟
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Choice
 # ADVICE : 49 char limit
 地下洞窟
@@ -2414,7 +2515,16 @@ IDチェックを渡した
 # UNTRANSLATED
 # CONTEXT : Dialogue/Choice
 # ADVICE : 49 char limit
-西の洞穴
+死人の村
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Choice
+# ADVICE : 49 char limit
+おわり
 # TRANSLATION 
 
 # END STRING
@@ -2496,6 +2606,15 @@ IDチェックを渡した
 # CONTEXT : Dialogue/Choice
 # ADVICE : 49 char limit
 セレナ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Choice
+# ADVICE : 49 char limit
+エルミール
 # TRANSLATION 
 
 # END STRING
@@ -2747,6 +2866,231 @@ IDチェックを渡した
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+使い魔
+「お手軽出張淫魔です！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「淫魔になりたいですか？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+使い魔
+「さぁ！
+　とっとと男を狩まくるのです！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+使い魔
+「つれないですねー」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「淫魔修行を終わらせたいですか？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「人間に戻りたいですか？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+使い魔
+「これでよしっと！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+使い魔
+「なら、とっとと雄を狩ってくるのです！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Choice
+# ADVICE : 49 char limit
+\>コモンイベントのウィンドウ開閉テスト\<
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+立ち絵はウィンドウの上
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+表示位置を上か下に限定したい場合は、
+コモンイベントを使わずにその都度
+記述する事になります
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Choice
+# ADVICE : 49 char limit
+\>デフォルトウィンドウの開閉テスト\<
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\^
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+立ち絵はウィンドウの下
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Choice
+# ADVICE : 49 char limit
+\>色と外字の一覧・字数制限\<
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\>文字色　■\\C[00]\C[01]■\\C[01]\C[02]■\\C[02]\C[03]■\\C[03]\C[04]■\\C[04]\<
+\>　\C[00]一覧　\C[05]■\\C[05]\C[06]■\\C[06]\C[07]■\\C[07]\C[08]■\\C[08]\C[09]■\\C[09]\C[10]\<
+\>　　　　■\\C[10]\C[11]■\\C[11]\C[12]■\\C[12]\C[13]■\\C[13]\C[14]■\\C[14]\C[15]\<
+\>　　　　■\\C[15]\C[16]■\\C[16]\C[17]■\\C[17]\C[18]■\\C[18]\C[19]■\\C[19]\<
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\>外字　$A$B$C$D$E$F$G$H$I$J$K$L$M\<
+\>一覧　$N$O$P$Q$R$S$T$U$V$W$X$Y$Z\<
+\>　　　$a$b$c$d$e$f$g$h$i$j$k$l$m\<
+\>　　　$n$o$p$q$r$s$t$u$v$w$x$y$z\<
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\>ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹ\<
+\>通常全角25文字まで\<
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\>ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳ\<
+\>顔グラ有りで全角19文字まで\<
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+コモンイベント喘ぎ声生成などで
+￥N[xx]を複数使う場合に
+文字数制限をオーバーしやすいです。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Choice
+# ADVICE : 49 char limit
+\>書体変更\<
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Choice
+# ADVICE : 49 char limit
+ＭＳ　ゴシック
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Choice
+# ADVICE : 49 char limit
+ＭＳ　明朝
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
 よくきたわね
 さて…どうしようか
 # TRANSLATION 
@@ -2913,16 +3257,6 @@ IDチェックを渡した
 # ADVICE : 49 char limit (35 if face)
 ミノタウロス祭りにジャンプしますか？
 （ＡＲＰＧの並列処理をごった煮してあります）
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-チューブトップを手に入れた
-スライムの欠片を３個手に入れた
 # TRANSLATION 
 
 # END STRING

@@ -15,8 +15,8 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 サラママ
-「……はあ……。
-　……ん？」
+「……あ…いらっしゃいませ…
+　何もありませんけれど…」
 # TRANSLATION 
 
 # END STRING
@@ -26,8 +26,172 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 サラママ
-「あっ……、あなた！
-　もしかして冒険者の方！？」
+「……はあ……」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「すみません、ちょっと
+　よろしいですか？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+サラママ
+「……は…？あ？
+　冒険者の方？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「え、ええ、そうです。
+　多分、一応」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「それであの、ここで都の
+　情報を取り扱ってると
+　聞いてきたんですけれど」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+サラママ
+「……はい…はい…
+　そうですね…
+　そんな事もしてました…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「その…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+サラママ
+「はぁ…すいません…今は…
+　それどころじゃなくって…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「えぇっと」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+サラママ
+「……ん？！ちょちょっと待って！
+　今冒険者っておっしゃいました？！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「へぇっ！？ははい！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+（言ってはないけど！）
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+サラママ
+「という事は、お金さえ払えば
+　お願いを聞いていただけるん
+　ですよね！？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「え…ええっと…そうですけど…
+　依頼はギルドが…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+サラママ
+「そのギルドがお願いを聞いて
+　くれないんです！お願いです！
+　私たちを助けてください！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+サラママ
+「お礼ならなんでも
+　いたしますから！」
 # TRANSLATION 
 
 # END STRING
@@ -56,7 +220,7 @@
 # ADVICE : 49 char limit (35 if face)
 サラママ
 「それじゃあ旦那の話を聞いてください！
-　娘の一大事で……！　お願いします！」
+　向かって左の部屋のハゲデブ親父です！」
 # TRANSLATION 
 
 # END STRING
@@ -65,6 +229,18 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+サラママ
+「娘の一大事で……！
+　お願いします！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
 「お、落ち着いて。
 　分かりました。分かりましたから」
 # TRANSLATION 
@@ -221,7 +397,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「どうしたんです？　そんなに慌てて」
+ななこ
+「はい、一応そうだと
+　思いますけど」
 # TRANSLATION 
 
 # END STRING
@@ -242,6 +420,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ななこ
 （建物はこんなにボロボロなのに？）
 # TRANSLATION 
 
@@ -251,6 +430,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ななこ
 「奮発しますね。
 　……何か訳ありなんですか？」
 # TRANSLATION 
@@ -273,7 +453,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-（これは、結構大きな依頼かもね）
+ななこ
+「あの…ちょちょっと…」
 # TRANSLATION 
 
 # END STRING
@@ -283,8 +464,18 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 サラパパ
-「……すまない。少し焦りすぎたな。
-　話だけでも聞いて
+「……あっ、すまない。
+　……少し焦りすぎたな」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+サラパパ
+「ふーっ…その、話だけでも聞いて
 　いってもらえないだろうか？」
 # TRANSLATION 
 
@@ -296,7 +487,8 @@
 # ADVICE : 49 char limit (35 if face)
 サラパパ
 「それで依頼なんだが。
-　行方不明の娘を探して、連れてきて欲しいのだ」
+　行方不明の娘を探して、
+　連れてきて欲しいのだ」
 # TRANSLATION 
 
 # END STRING
@@ -305,7 +497,10 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「娘さん。あなた方夫婦のですよね？」
+ななこ
+「娘さんってあなた方
+　ご夫婦の、という事
+　ですか？」
 # TRANSLATION 
 
 # END STRING
@@ -315,7 +510,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 サラパパ
-「ああ。サラという名前でな。
+「勿論だ。サラという名前でな。
 　もう、しばらく顔を見てない」
 # TRANSLATION 
 
@@ -361,9 +556,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「傭兵団ですか……。
-　都では、
-　かなり危険な部類に入る連中ですね」
+ななこ
+「傭兵団ですか……」
 # TRANSLATION 
 
 # END STRING
@@ -384,9 +578,19 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「また貴族か……。
-　ろくな事しないわね！
-　組合も組合だわ！」
+ななこ
+「貴族…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+（女の子が行方不明…で、貴族…
+　なんだか…）
 # TRANSLATION 
 
 # END STRING
@@ -396,9 +600,9 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 サラパパ
-「いくら言っても、上の連中がな……。
-　マスターも
-　食い下がってくれたんだが……」
+「その依頼は受理できんと…
+　ヅィギーさんは八方手尽くして
+　くれたんだが…」
 # TRANSLATION 
 
 # END STRING
@@ -408,9 +612,9 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 サラパパ
-「はっきり言って、
-　他に頼める人はいない。\!
-　大事な私たちの娘なんだ」
+「冒険者達もここに寄りつかなく
+　なって久しく…頼れる者が
+　誰もいないんだ…」
 # TRANSLATION 
 
 # END STRING
@@ -420,7 +624,18 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 サラパパ
-「どうかサラを、
+「頼む！君が今日ここに来たのも
+　何かの縁だと思うのだ！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+サラパパ
+「どうかサラを、大事な一人娘を
 　見つけ出して来て欲しい……！」
 # TRANSLATION 
 
@@ -430,7 +645,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-（これは、流石に断れないわね）
+ななこ
+「…ふぅ」
 # TRANSLATION 
 
 # END STRING
@@ -439,7 +655,10 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「話は分かりました。この依頼、お受けします」
+ななこ
+「話は分かりました。
+　ただしこちらも交換
+　条件があります」
 # TRANSLATION 
 
 # END STRING
@@ -449,8 +668,222 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 サラパパ
-「本当か！
-　よろしく、どうかよろしく頼む！」
+「な…なんだね…？
+　5000Gでは不服か？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「いえ、私も人を探して
+　るんです」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「警備隊長のリンさん…
+　ご存じですか？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+サラパパ
+「も、もちろんだ。
+　うちがこんなになってもまだここに
+　こうしていられるのは」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+サラパパ
+「彼女がいつも傭兵共を追っ払って
+　くれていたからなんだからね…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+サラパパ
+「その彼女もあんな事になって
+　しまって…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+サラパパ
+「そういえばサラがいなくなったのも
+　彼女がいなくなってからだったな…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+サラパパ
+「で、彼女がどうかしたのかね？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「説明すると長くなるんですけど、
+　リンさんは今留置所からどこかに
+　連れ去られて、行方不明なんです」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+サラパパ
+「なんだって？…いや、珍しい
+　話ではないが…しかし…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+サラパパ
+「…つまり、彼女の居場所を
+　探ってくれと言う事かね？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+サラパパ
+「だが我が子の行き先さえ
+　今の私はわからずにいるのだ。
+　ましてや彼女の居場所など…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「いえ、当たりはもうついて
+　るんです。ただ場所が
+　わからなくって」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「裏娼館…もちろんもっと別の
+　呼び方があるかもしれません
+　けど…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「そういった建物を探して
+　るんです」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+サラパパ
+「ふむ…
+　それなら今の私でも
+　なんとかなりそうだ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+サラパパ
+「わかった。それらしい
+　建物を資料の中から
+　見つけておこう」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+サラパパ
+「それでいいのかね？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「はい、お願いします。
+　じゃあ私は、早速」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+サラパパ
+「うむ…よろしく、
+　どうか…っよろしく頼む！」
 # TRANSLATION 
 
 # END STRING
@@ -482,7 +915,7 @@
 サラパパ
 「サラはよく、水道入り口近くの酒場に
 　出入りしていたらしい。
-　合言葉は、紅ユリだったかな？」
+　水道はここから真っ直ぐ南だ」
 # TRANSLATION 
 
 # END STRING
@@ -512,6 +945,17 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 サラパパ
+「サラはよく、水道入り口近くの酒場に
+　出入りしていたらしい」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+サラパパ
 「いや、先程は申し訳ない。
 　見苦しいところを見せてしまった」
 # TRANSLATION 
@@ -522,7 +966,226 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「いえ、気にしないでください」
+ななこ
+「いえ、気にしないでください。
+　…それより」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+サラパパ
+「ああ、調べておいたよ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+サラパパ
+「と言っても、資料から探す
+　だけだったから大した手間
+　じゃなかったがね」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+サラパパ
+「さて、その裏娼館だが…
+　ここら辺りだとそれらしい
+　施設は一軒だけだった」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「教えてください」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+サラパパ
+「うむ。紅ユリ館と呼ばれていてな。
+　奇しくも水道近くの酒場の…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「はあ゛あ゛っ？！！！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+サラパパ
+「な、なんだね…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「そこ！正にさっきまで
+　潜入してたんですよ！！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+サラパパ
+「な、なんと！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「ぐああああー！もう
+　二度と行かないと
+　思ってたから」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「思いっきり大暴れ
+　しちゃったよー！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「サラちゃんがあっさり
+　見つかったから、屋敷の
+　探索してなかったー…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+（もしかしてあの地下室に
+　いたんじゃ…）
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+サラパパ
+「うむー…そうか…
+　紅ユリ館に…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+サラパパ
+「…ん？ちょっちょっと待て、
+　ではサラは…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「あっ…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「…と、とにかく！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+サラパパ
+「う！うむ！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「…情報有難うございます。
+　私、なんとかもう一回
+　潜入してみます」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+サラパパ
+「いや…それはこちら
+　こそだ」
 # TRANSLATION 
 
 # END STRING
@@ -533,7 +1196,7 @@
 # ADVICE : 49 char limit (35 if face)
 サラパパ
 「本当に良くやってくれたよ。
-　これが残りの報酬だ」
+　約束の報酬だ。受け取ってくれ」
 # TRANSLATION 
 
 # END STRING
@@ -542,7 +1205,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-５０００Ｇ受け取った
+３０００Ｇ受け取った
 # TRANSLATION 
 
 # END STRING
@@ -551,28 +1214,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「あれっ？　少し多いですよ？」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-サラパパ
-「それなんだが、\!
-　……ななこさんの腕を見込んで、
-　サラの事を頼みたいと思って」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「いったい何の話ですか？」
+ななこ
+「やったわ！」
 # TRANSLATION 
 
 # END STRING
@@ -582,18 +1225,8 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 サラパパ
-「ああ、今ちゃんと説明するよ。\!
-　実は私達、冒険者の支援を
-　する店をずっとやっていたんだ」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「へえ！」
+「すまなかったね…
+　私がもう少し気が回っていれば…」
 # TRANSLATION 
 
 # END STRING
@@ -603,9 +1236,9 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 サラパパ
-「だけど、だいぶ前から
-　妨害が入るようになってね。
-　傭兵団なのか、貴族の私兵なのか……」
+「わざわざ君のリスクを
+　高めるような結果になって
+　しまった」
 # TRANSLATION 
 
 # END STRING
@@ -615,8 +1248,32 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 サラパパ
-「それで店はこの有様だ。
-　かなり恨まれているみたいでね」
+「最も、紅ユリ館にいると
+　決まったわけでもないが…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「いえ、屋敷の構造は大体
+　わかりましたし、十分
+　プラスもありました」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「それでお金も貰いましたし、
+　サラちゃんも助かったし。
+　後は仕方ない事です」
 # TRANSLATION 
 
 # END STRING
@@ -626,9 +1283,19 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 サラパパ
-「それでも何とか続けていたが、
-　今度はサラが連れ去られただろう。\!
-　おそらく、偶然ではない」
+「そう言ってもらえると
+　助かるよ…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「そういえばこれから、
+　どうなさるんですか？」
 # TRANSLATION 
 
 # END STRING
@@ -638,8 +1305,9 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 サラパパ
-「そこで私は、此処を離れて
-　連中の目をひきつけようと思うんだ」
+「ああ…そうだなぁ…\!
+　とりあえずは、本格的に
+　店仕舞いだ」
 # TRANSLATION 
 
 # END STRING
@@ -649,9 +1317,8 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 サラパパ
-「それなら、少なくとも私が無事な間は
-　サラには手を出すまい。\!
-　どうか、サラの事を頼みたい」
+「今まではひょっこりサラが
+　帰ってくるかもしれないと…」
 # TRANSLATION 
 
 # END STRING
@@ -661,8 +1328,8 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 サラパパ
-「この建物は手付金がわりに君に譲ろう。
-　改修すればまだまだ使えるはずだ」
+「半分意地のようなもので、
+　無理やり開けていたがね」
 # TRANSLATION 
 
 # END STRING
@@ -672,18 +1339,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 サラパパ
-「面倒ごとを続けて頼んで申し訳ないが。
-　何とかお願いしたい！」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「…………ふぅ。\!
-　ちゃんと、戻ってきてくださいね？」
+「もうその必要もなくなった…」
 # TRANSLATION 
 
 # END STRING
@@ -693,9 +1349,8 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 サラパパ
-「！！\!
-　ああ、ありがとう！\!
-　実はサラには、もう話してあるんだ」
+「店さえ閉じれば、連中も
+　そう酷い事はできまい」
 # TRANSLATION 
 
 # END STRING
@@ -705,8 +1360,8 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 サラパパ
-「ではまた会おう！
-　おい、行くぞ！」
+「後はどこか遠い所に家を
+　見つけて、そこに引っ越すよ」
 # TRANSLATION 
 
 # END STRING
@@ -715,9 +1370,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-サラママ
-「はーい！
-　留守番お願いねー！」
+サラパパ
+「完全に傭兵共の思い通りに
+　なるようで、少し癪だが…ね」
 # TRANSLATION 
 
 # END STRING
@@ -726,7 +1381,932 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「まったく……」
+サラパパ
+「しかし家族の安全には…
+　変えられん」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「そうですね…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+サラパパ
+「…まぁ、もうしばらくは
+　ここにいるだろうから」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+サラパパ
+「いつでも遊びにきておくれ。
+　協力もできる限りさせて
+　もらおう」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「ありがとうございます」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+サラパパ
+「……ふぅ…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+サラパパ
+「それで…警備隊長殿の
+　件だがね」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「はい？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+サラパパ
+「もう手を引いたほうがいい…
+　と言っても、聞かないのかね、
+　君は」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「はい」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+サラパパ
+「真っ直ぐな眼をして
+　言うんだねぇ…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+サラパパ
+「…君は、警備隊長殿と
+　何か縁が？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「縁…って言う程でもないですけど…
+　一度仕事をご一緒させて
+　いただきました」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+サラパパ
+「それだけの相手の為に？
+　捕まったら今度は君自身が
+　破滅するかもしれないんだよ？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「そう…かもしれないです。
+　でも、なんていうか…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Choice
+# ADVICE : 49 char limit
+納得したい
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Choice
+# ADVICE : 49 char limit
+趣味です
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Choice
+# ADVICE : 49 char limit
+愛ゆえに
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Choice
+# ADVICE : 49 char limit
+やっぱりよくわからない
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「私、多分、納得していたい
+　んだと思います。自分でも
+　わからないんですけど」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「自分の中にある、
+　真っ直ぐな何かを
+　大事にしたいんです」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+サラパパ
+「自分の命よりもかね？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「正直…本当に生きるか死ぬかって
+　場面で、足がすくんで、逃げそうに
+　なった事もあります」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「でも、本当にそこで逃げちゃったら
+　多分私は私自身と向き合え
+　なくなると思うんです」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「私は、私自身が納得できる
+　私でありたい…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「ここでリンさんを見捨てて、
+　逃げる私を、私は許せない」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「だから、行きます。
+　生きるか死ぬかってのは
+　…結果です」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+サラパパ
+「若いなぁ…若すぎる」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「なんていうか、趣味
+　みたいなもんです」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「強いて言うなら
+　…ですけど」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+サラパパ
+「それは命をかけてまで
+　やらなくてはいけない
+　事なのかね？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「わかりません…
+　けど、やりたいんです」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「今一番やりたい事が
+　それなんです」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「だって悲しいじゃないですか。
+　リンさん何も悪くない」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「なのにリンさんは、全部自分が
+　悪い事にして、悪い奴らの
+　思い通り、死のうとしてる」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「そんなお話、私はすごく
+　悲しいと思うんです」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「でも、このまま何もしないで
+　いたら、　私もその「悲しい」
+　の一部になっちゃいます」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「私は、それが嫌なんです。
+　悲しくなりたくないんです」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「だから、ぶっ飛ばしに行きます。
+　そういう、何もかもを。」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「それで失敗した時の事は、
+　その時また考えます」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「その…まぁ…
+　あるじゃないですか」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「女の子同士でも…そういう
+　…ね、ほら」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+サラパパ
+「ええ！それは
+　つまり…その…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「なーんつって！
+　冗談ですよ！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+サラパパ
+「じょ…冗談なのかね…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「ええ…まぁ…冗談みたいな
+　もんです」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+サラパパ
+「う…うむ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+サラパパ
+「しかし同性愛はいかんぞ。
+　非生産的な」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「すいません、自分でも
+　よくわかりません」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「なんでなんでしょうね？
+　でも…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「なんでかわからないけど、
+　やらなくちゃって」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「そう思うんです」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+サラパパ
+「だが、既に一度君に無茶をさせ
+　尻をぬぐって貰ったのは
+　他ならぬこの私だ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+サラパパ
+「いまさら何も言うまい。
+　その資格がないからね…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+サラパパ
+「ただせめて、もう少し
+　確認は取りなさい」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+サラパパ
+「私の伝えた全く出鱈目な
+　情報の為に君が破滅した…
+　となったら」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+サラパパ
+「死ぬほど後悔してしまう
+　からね」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「分かりました。無暗に
+　危険な真似はしません」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+サラパパ
+「うむ…ではね。
+　気をつけるんだよ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「はい！それじゃ！お元気で！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+（一旦ヒナノちゃんの所に
+　戻ろう）
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+サラパパ
+「無理はしないようにね…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+サラ
+「あ…ななこさん。
+　本当に…ありがとう
+　ございました」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+サラ
+「こんにちわ、ななこさん」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+サラ
+「え？警備隊長さん…
+　ですか？いえ、見て
+　ないです…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「…ダメか…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「後の手掛かりは、語尾に
+　ﾌﾟｷﾞｬのつく貴族って情報
+　くらいだけど…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+サラ
+「語尾にプギャが付いた
+　貴族様…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+サラ
+「その方なら知ってますよ。
+　わたしの…シェーラの
+　お得意様でしたから…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「本当に！？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+サラ
+「見た目はひ弱な青年って感じの人で、
+　かなりサド気味でした。
+　趣味は魔法の道具集めだとか」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+サラ
+「お名前は…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「…リチャード」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+サラ
+「あ、はい。そうです。
+　ご存じなんですか…？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「ううん…勘みたいなもの」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「ありがとサラちゃん。
+　やる事が決まったわ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+サラ
+「な、ななこさん…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+サラ
+「危険な事だけは、どうか…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「それは、約束できないけど…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「無駄死にするつもりはないわ。
+　大丈夫」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+（よし…まだ確定って
+　わけじゃないけど…）
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+（あまり時間もかけてられない。
+　ここから先は賭けだ）
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+（でも、もう一度潜入する前に
+　ヒナノちゃんの所に寄って
+　おこう）
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+サラ
+「気をつけてくださいね…」
 # TRANSLATION 
 
 # END STRING
@@ -937,9 +2517,9 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 サラ
-「見た目はひ弱な青年って感じの人で、
-　かなりサド気味でした。
-　趣味は魔法の道具集めだとか」
+「妙な語尾をつける人でした。
+　確かﾌﾟｷﾞｬｰだったかな？\!
+　変な呪いに、かかったせいらしいです」
 # TRANSLATION 
 
 # END STRING
@@ -949,9 +2529,37 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 サラ
-「妙な語尾をつける人でした。
-　確かﾌﾟｷﾞｬｰだったかな？\!
-　変な呪いに、かかったせいらしいです」
+「\N[0]さん、こんにちわ！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+セラ
+「ベネッタさんですか？ギルドを見に行く
+　と言ってましたよ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+セラ
+「会えましたか?」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+鍵がかかっている
 # TRANSLATION 
 
 # END STRING

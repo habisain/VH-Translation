@@ -3,7 +3,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「よーし！行くわよ！」
 # TRANSLATION 
 
@@ -13,7 +13,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「まだ準備が終わっていないわ」
 # TRANSLATION 
 
@@ -23,6 +23,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+目立たないギルドメンバー
 「エラい事に巻き込まれてしまいました」
 # TRANSLATION 
 
@@ -32,6 +33,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+目立たないギルドメンバー
 「全く盗賊の討伐なんて…」
 # TRANSLATION 
 
@@ -41,6 +43,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ベテラン冒険者
 「ち、たかが盗賊団一つにおおげさだぜ」
 # TRANSLATION 
 
@@ -50,6 +53,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ベテラン冒険者
 「俺は暇じゃねえんだがな」
 # TRANSLATION 
 
@@ -60,7 +64,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 ギルドマスター
-「どうだななこ、準備は整ったか？」
+「どうだ\N[0]、準備は整ったか？」
 # TRANSLATION 
 
 # END STRING
@@ -87,7 +91,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「ばっちりよ」
 # TRANSLATION 
 
@@ -108,7 +112,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「それもばっちり」
 # TRANSLATION 
 
@@ -148,7 +152,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「なにこれ？」
 # TRANSLATION 
 
@@ -191,7 +195,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「ありがとうマスター！」
 # TRANSLATION 
 
@@ -223,7 +227,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「わかった、気をつける」
 # TRANSLATION 
 
@@ -256,7 +260,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 ギルドマスター
-「でだな。ななこ、急で悪いが
+「でだな。\N[0]、急で悪いが
 　その間に一つ仕事を
 　頼まれてくれるか」
 # TRANSLATION 
@@ -267,7 +271,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「はい？」
 # TRANSLATION 
 
@@ -280,7 +284,7 @@
 ギルドマスター
 「そんな顔すんなよ。
 　何もハブろうってんじゃねえ。
-　むしろ先発だ。」
+　むしろ先発だ」
 # TRANSLATION 
 
 # END STRING
@@ -289,7 +293,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「先発」
 # TRANSLATION 
 
@@ -331,7 +335,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「って言われても…見張りが何人いるかも
 　わからないし、全員倒しきれるとも
 　限らないわよ？」
@@ -343,7 +347,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「10人中9人倒したとして、残った一人が
 　連絡に走ったら意味がなくない？」
 # TRANSLATION 
@@ -388,7 +392,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「それならわかったわ」
 # TRANSLATION 
 
@@ -410,7 +414,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「…やっぱりハブる気じゃない？」
 # TRANSLATION 
 
@@ -432,7 +436,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「なるほど。わかった」
 # TRANSLATION 
 
@@ -452,7 +456,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「なんで」
 # TRANSLATION 
 
@@ -474,7 +478,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「むむむ…」
 # TRANSLATION 
 
@@ -519,7 +523,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「わかってるわよ」
 # TRANSLATION 
 
@@ -570,6 +574,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+辮髪の男
 「ウーハァー！」
 # TRANSLATION 
 
@@ -579,6 +584,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+辮髪の男
 「腕が鳴るな！
 　丁度覚えたこの新しい技を」
 # TRANSLATION 
@@ -589,6 +595,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+辮髪の男
 「天下御免で人間相手にぶっぱなして
 　いいわけだからな！
 　これだから冒険者はやめられん！」
@@ -643,120 +650,6 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-＊冒険者ランク変動について＊
-変数「0076:冒険者ランクキング」の扱いは、
-ランキング表の確認によって代入がなされます。
-それによってベネッタなどの仲間が加入するようです。
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ランキングページは、
-ななこの順位ごとにページ分けされており、
-３位以降になると特別なイベントらしきものが発生する
-初期構想になっていたみたいです。
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルド依頼達成＋ななこレベル、と
-この二つをあわせてランキング上昇するように改変して
-「0430:メインシナリオ」を導入してみました。
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ゴブリン退治などの大仕事で加算＋１されます。
-酒場やＨイベント依頼では、依頼達成時には上昇しない
-かんじでどうでしょうか？
-　　　　　　　　　　　　　　　　制作日/2010/01/26
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-メインシナリオ／主に冒険達成にて加算＋１
-冒険者ランク　／一覧表を確認することで代入で上昇
-　　　　　　　　仲間加入や新イベント発動につかう？
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-主人公レベル　　　　　 \V[038]
-冒険者ランキング　　 　\V[1722]
-メインシナリオ進行数　 \V[430]
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ななこＬｖを微調整しますか？
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Choice
-# ADVICE : 49 char limit
-＋１
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Choice
-# ADVICE : 49 char limit
-－１
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Choice
-# ADVICE : 49 char limit
-だが断る
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-メインシナリオ進行数を微調整しますか？
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
 ギルドメンバーのランキング表だ
 # TRANSLATION 
 
@@ -766,6 +659,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ヒゲの重戦士
 「ん？見ない顔だな？新入りか？」
 # TRANSLATION 
 
@@ -775,6 +669,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ヒゲの重戦士
 「前に出るなよ。お前らは俺達ベテランの
 　ケツについてりゃいいんだからな」
 # TRANSLATION 
@@ -785,6 +680,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+地下病院の主
 「はーやだやだ、大変大変！」
 # TRANSLATION 
 
@@ -794,6 +690,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+地下病院の主
 「ちょっとどいて！ええーっと剣の
 　貸出しが三本に鎧が…」
 # TRANSLATION 
@@ -804,6 +701,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+慇懃な女冒険者
 「甘い相手ではないと思います」
 # TRANSLATION 
 
@@ -813,6 +711,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+慇懃な女冒険者
 「ここにいる何人かは、ここに帰っては
 　これないでしょう…」
 # TRANSLATION 
@@ -823,6 +722,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+慇懃な女冒険者
 「そう考えると…今この一時が、すごく
 　貴重なものに思えてきます」
 # TRANSLATION 
@@ -833,6 +733,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+慇懃な女冒険者
 「全員が笑って帰ってこられたなら、
 　どんなにいいことか…」
 # TRANSLATION 
@@ -844,7 +745,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 エリカ
-「よ、ななこ。いよいよだな」
+「よ、\N[0]。いよいよだな」
 # TRANSLATION 
 
 # END STRING
@@ -853,7 +754,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「うん」
 # TRANSLATION 
 
@@ -875,7 +776,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 エリカ
-「俺のななこがこんなに入れ上げる
+「俺の\N[0]がこんなに入れ上げる
 　なんて…」
 # TRANSLATION 
 
@@ -885,7 +786,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「え…」
 # TRANSLATION 
 
@@ -895,7 +796,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「えええええええええええ、その！
 　ちょちょ！」
 # TRANSLATION 
@@ -917,7 +818,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 エリカ
-「まったくななこはからかいがいが
+「まったく\N[0]はからかいがいが
 　あって楽しいな」
 # TRANSLATION 
 
@@ -927,7 +828,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「ふんだ」
 # TRANSLATION 
 
@@ -948,7 +849,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 エリカ
-「聞こえてたぜ。行くかななこ」
+「聞こえてたぜ。行くか\N[0]」
 # TRANSLATION 
 
 # END STRING
@@ -967,7 +868,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「………ごめん……なさい…」
 # TRANSLATION 
 
@@ -1022,7 +923,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「しょぼしょぼしょぼ～～…」
 # TRANSLATION 
 
@@ -1064,7 +965,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 （…まぁ頑張らないけどな？）
 # TRANSLATION 
 
@@ -1086,7 +987,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「…ほんと？」
 # TRANSLATION 
 
@@ -1117,7 +1018,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「わかった。元気出す」
 # TRANSLATION 
 
@@ -1149,7 +1050,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「…ねえエリカ」
 # TRANSLATION 
 
@@ -1169,7 +1070,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「私、エリカと友達になれて良かった。
 　…って、思うよ」
 # TRANSLATION 
@@ -1201,7 +1102,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 エリカ
-「いや…俺も…ななこと友達になれて
+「いや…俺も…\N[0]と友達になれて
 　良かったって思うけど…」
 # TRANSLATION 
 
@@ -1263,7 +1164,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「やっほーななこ、最近大変そうよね」
+ギルドの武道娘
+「やっほー\N[0]、最近大変そうよね」
 # TRANSLATION 
 
 # END STRING
@@ -1272,6 +1174,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ギルドの武道娘
 「それもこの騒ぎでおしまいかしら？」
 # TRANSLATION 
 
@@ -1281,6 +1184,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ギルドの武道娘
 「盗賊とか私見たことないけど…
 　くさかったらやだなぁ、殴った腕に
 　臭いついちゃったらどうしよう？」
@@ -1292,7 +1196,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「ようななこ、姐さんから聞いたぜ。
+ギルドの女戦士
+「よう\N[0]、姐さんから聞いたぜ。
 　なんでも囚われのお姫様を助けたい
 　そうじゃねえか？」
 # TRANSLATION 
@@ -1303,7 +1208,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「ひ、ひめ？」
 # TRANSLATION 
 
@@ -1313,6 +1218,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ギルドの女戦士
 「泣かせる話だぜ。今時よ。
 　ま、俺も協力してやっからよ。
 　そのあ、あ、あ…」
@@ -1324,7 +1230,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「アシュリーさんね」
 # TRANSLATION 
 
@@ -1334,6 +1240,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ギルドの女戦士
 「そうそう、そのアシュリーさんとやらを
 　捜してやるよ。
 　連中のアジトにいるわけだろ？」
@@ -1345,7 +1252,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「うん、多分…」
 # TRANSLATION 
 
@@ -1355,6 +1262,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ギルドの女戦士
 「へっへ！そんな顔すんなよ！
 　ハッピーエンドが逃げちまうぜ！」
 # TRANSLATION 
@@ -1365,6 +1273,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+なんちゃって魔術師
 「こんな格好してますが、
 　実は僕魔法を使えません」
 # TRANSLATION 
@@ -1375,6 +1284,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+なんちゃって魔術師
 「だからあんまり期待しないでね！」
 # TRANSLATION 
 
@@ -1411,6 +1321,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+道着の若者
 「さて…こんな大規模な争いは
 　初めてですからね」
 # TRANSLATION 
@@ -1421,6 +1332,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+道着の若者
 「流石に少し緊張しますよ」
 # TRANSLATION 
 
@@ -1430,6 +1342,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+地味なギルドメンバー
 「回復アイテムはちゃんと持ったか？」
 # TRANSLATION 
 
@@ -1439,135 +1352,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「おお、起きたのか。もう歩いて大丈夫か？」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「うん。ご迷惑おかけしました」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「まぁそれはいいんだがよ」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「その代わり、お前も出先で倒れてる
-　ギルドの仲間見つけたら必ず連れ帰
-　ってくるようにしな」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「わかった。絶対にそうするわ」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「よし、じゃあさっさと出ていっちまえ」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「仕事の邪魔だからな」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「次からは気をつけろよ」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「もう動けるのか？全く無茶しやがって」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「ごめんなさい･･･」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「そのうち本当におっ死んぢまうぞ」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「･･･」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「あーもう、しけたツラしてんじゃねえよ。
-　ほら行った行った」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「無理するんじゃねえぞ」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
+売出し中の冒険者
 「よっしゃ！チャンスだよなこれはよ！」
 # TRANSLATION 
 
@@ -1577,6 +1362,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+売出し中の冒険者
 「へへへ！やるぜやるぜ！俺はやるぜ！」
 # TRANSLATION 
 
@@ -1586,6 +1372,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ローブの男
 「功を焦って突撃するなよ」
 # TRANSLATION 
 
@@ -1595,6 +1382,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ローブの男
 「こういうのはな、素直に先輩に
 　任せておけばいいんだ」
 # TRANSLATION 
@@ -1605,6 +1393,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ローブの男
 「結局の所それが一番上手く
 　いくんだからな」
 # TRANSLATION 
@@ -1615,6 +1404,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ギルドの優男
 「俺もいつまでもこんな田舎で
 　くすぶっているつもりはない」
 # TRANSLATION 
@@ -1625,6 +1415,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ギルドの優男
 「丁度いい機会だしな。
 　これが終わったら都に行こうと思う」
 # TRANSLATION 
@@ -1635,6 +1426,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ギルドの優男
 「どこまでいけるかわからんが…
 　自分の限界を試してみたい」
 # TRANSLATION 
@@ -1645,6 +1437,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+野性的な女
 「まぁ、盗賊団が一つの街を落とす
 　ってのは、そこまで珍しい事でも
 　ないんだけどね」
@@ -1656,6 +1449,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+野性的な女
 「でも住民全滅ってのはちょっと聞いた事
 　ないわ」
 # TRANSLATION 
@@ -1666,6 +1460,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+野性的な女
 「マスターは何か対策があるって言ってた
 　けど…」
 # TRANSLATION 

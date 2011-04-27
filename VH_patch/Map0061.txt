@@ -3,8 +3,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-居留地が作られるとは聞いていたが
-あのような要塞の如きものになるとは…
+\N[0]
+「依頼を放っぽり出す訳には行かないわ」
 # TRANSLATION 
 
 # END STRING
@@ -13,9 +13,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-あれほど強固で藩邸に近くては
-有事の際に攻め取るのも防衛するのも難しい…
-藩主様は何を考えておられるのか…
+第９９代目グルハスタ領主
+「僕が領主です」
+(※グラフィック未定)
 # TRANSLATION 
 
 # END STRING
@@ -24,8 +24,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-栄えある近衛隊に入隊出来たよ
-国の為に頑張らなくっちゃ
+第９９代目グルハスタ領主
+「妹と仲良くしてくださいね」
 # TRANSLATION 
 
 # END STRING
@@ -34,7 +34,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-近頃、この辺りに海賊が出没するらしい
+メイド
+「こちらは先代のハーレム浴場になっています」
 # TRANSLATION 
 
 # END STRING
@@ -43,7 +44,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-しかもその賊はどうやらこの藩国の人間らしいのだ
+メイド
+「大浴場としての機能は失われておりませんが
+　現在は公に使用されておりません」
 # TRANSLATION 
 
 # END STRING
@@ -52,9 +55,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-近衛兵のお役目は藩主様の護衛にて
-沿岸の警備には関われぬが
-なんとも歯がゆい事よ…
+メイド
+「残念ですね。…ふぅ」
 # TRANSLATION 
 
 # END STRING
@@ -63,7 +65,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-かまどの火は落さないようにしないとね
+女中
+「かまどの火は落さないようにしないとね」
 # TRANSLATION 
 
 # END STRING
@@ -72,8 +75,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-こんな味の濃すぎるもの食べ続けられないアル！
-セーレス料理は云々！
+国士一の調理人
+「こんな味の濃すぎるもの食べ続けられないアル！
+　セーレス料理は世界一云々～～～！」
 # TRANSLATION 
 
 # END STRING
@@ -82,9 +86,10 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-セーレスではどうだか知らないがこれがうちの味だ！
-私達のやり方には従って貰う！
-大体なんで台所に男が云々！
+調理場長
+「セーレスではどうだか知らないがこれがうちの味だ！
+　私達のやり方には従って貰う！
+　大体なんで台所に男が云々～～～！」
 # TRANSLATION 
 
 # END STRING
@@ -93,9 +98,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-はぁ…
-またやってるし…
-異国の人が新しく入ってきたけど長持ちしそうにないわね
+メイド
+「はぁ…
+　またやってるし…」
 # TRANSLATION 
 
 # END STRING
@@ -104,8 +109,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-でも人手は足りないし藩主様も
-もっといい人を雇ってくださらないかしら？
+メイド
+「異国の人が新しく入ってきたけど
+　長持ちしそうにないわね」
 # TRANSLATION 
 
 # END STRING
@@ -114,8 +120,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-碌に鍛錬もしてないのに威張り散らしてた
-妾の奴らがいなくなって清々するよ
+メイド
+「でも人手は足りないし領主様も
+　もっといい人を雇ってくださらないかしら？」
 # TRANSLATION 
 
 # END STRING
@@ -124,7 +131,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-この像はアタイ達親衛隊の祖、この国の地母神の像
+近衛兵
+「ろくに鍛錬もしてないのに威張り散らしてた
+　妾の奴らがいなくなって清々するよ」
 # TRANSLATION 
 
 # END STRING
@@ -133,9 +142,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-あなたのように褐色の肌を持ち神妃でありながら
-他の神をも寄せ付けない
-超越した強さを持っていたそうよ
+近衛兵長
+「この像はアタイ達、近衛兵の祖―――
+　グルハスタ地母神の像」
 # TRANSLATION 
 
 # END STRING
@@ -144,7 +153,10 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-彼女のように強く美しくありたいものね
+近衛兵長
+「あなたのように褐色の肌を持つ神妃でありながら
+　他の神をも寄せ付けない
+　超越した強さを持っていたそうよ」
 # TRANSLATION 
 
 # END STRING
@@ -153,9 +165,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-先主様の頃は服を着るな！って言われてたけど
-今の藩主様になってから
-服を支給されるようになっちゃった
+近衛兵長
+「彼女のように強く美しくありたいものね」
 # TRANSLATION 
 
 # END STRING
@@ -164,8 +175,10 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-全裸は地母神の頃からの伝統だったのに…
-藩主様が変な目で見なければ済む話よねぇ？
+メイド
+「先代の頃は服を着るな！って言われてたけど
+　若い領主様になってから
+　服を支給されるようになっちゃった」
 # TRANSLATION 
 
 # END STRING
@@ -174,9 +187,137 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-先主様の頃は度々襲い掛かってきた先主様を
-返り討ちにして鍛錬の足しにしてたけど
-今の藩主様は襲ってこないから腕が鈍っちゃうわ
+メイド
+「全裸は見習い時代からの伝統だったのに…
+　領主様が変な目で見なければ済む話よねぇ？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+メイド
+「それとも何か理由でもあったのかしら」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+メイド
+「先代の頃は毎日襲い掛かってきた領主様を
+　返り討ちにして鍛錬の足しにしてたけど
+　今の領主様は襲ってこないから腕が鈍っちゃうわ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+メイド
+「姦わし姦わされる
+　あのギリギリの緊張感が好きだったのに…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+メイド
+「はぁ～あ。最近、欲求不満だなぁー」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「脱出～」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「うん、ここの水なら問題無しね」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「領主様ごめんなさい。
+　少し(？)頂いていきます」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「…………これ位でいいかな？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「さ、見つからないうちに
+　行きましょう」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「大丈夫だいじょうーぶ。
+　後で美味しいミルクを
+　お届けしますよ～♪」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「うわっとっと！？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「危ない危ない。
+　見つかるとことだったわ…」
 # TRANSLATION 
 
 # END STRING

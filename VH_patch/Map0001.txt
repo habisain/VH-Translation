@@ -1,17 +1,30 @@
 # RPGMAKER TRANS PATCH FILE VERSION 2.0
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「…」
 # TRANSLATION 
-"..."
+
 # END STRING
 
 # TEXT STRING
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「人の気配がしない…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「この道はマッピング完了…と」
 # TRANSLATION 
 
 # END STRING
@@ -39,44 +52,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「やっぱり、誰もいない」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「やたら血の気の多い奴らみたいだし、
-　全員陽動にひっかかってるのかしら」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「まぁ…楽でいいけど…」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「とりあえず今のうちに
-　地図だけ作っちゃおう」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
+\N[0]
 「ふう…ここら辺のマッピング
 　はこれで完了ね」
 # TRANSLATION 
@@ -87,6 +63,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「そろそろ先へ進もっか」
 # TRANSLATION 
 
@@ -96,7 +73,49 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「この道はマッピング完了…と」
+\N[0]
+「やっぱり、誰もいない」
 # TRANSLATION 
 
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「やたら血の気の多い奴らみたいだし、
+　全員陽動にひっかかってるのかしら」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「まぁ…楽でいいけど…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「とりあえず今のうちに
+　地図だけ作っちゃおう」
+# TRANSLATION 
+
+# END STRING
+
+# UNUSED TRANSLATABLES
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「…」
+# TRANSLATION 
+"..."
 # END STRING

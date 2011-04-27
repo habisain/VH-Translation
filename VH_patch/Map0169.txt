@@ -3,7 +3,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-やった・・・5位になった・・・
+\N[0]
+「やった……5位になった……」
 # TRANSLATION 
 
 # END STRING
@@ -12,8 +13,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-もう誰にもへなちょこだなんて
-言わせないわ
+\N[0]
+「もう誰にも
+　へなちょこだなんて言わせないわ」
 # TRANSLATION 
 
 # END STRING
@@ -22,7 +24,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ランクに変動はないみたい
+\N[0]
+「ランクに変動はないみたい」
 # TRANSLATION 
 
 # END STRING

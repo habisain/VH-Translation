@@ -3,7 +3,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\N[1]
+\N[0]
 「あぁっ…激しい…」
 # TRANSLATION 
 
@@ -13,7 +13,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ゴブリンに負けたななこは
+ゴブリンに負けた\N[0]は
 巣に持ち帰られ、犯され続けていた。
 # TRANSLATION 
 
@@ -34,7 +34,9 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 \N[0]
-「\N[25]……\N[26]……\N[27]……」
+「\N[25]……
+\>　　 \<\.\N[26]……
+\>　　　　\<\.\N[27]……」
 # TRANSLATION 
 
 # END STRING
@@ -43,7 +45,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\N[1]
+\N[0]
 「ダメ…イクッ…」
 # TRANSLATION 
 
@@ -53,7 +55,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\N[1]
+\N[0]
 「イクッ…イッちゃうぅぅっ！」
 # TRANSLATION 
 
@@ -63,7 +65,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\N[1]
+\N[0]
 「はぁ…はぁ…はぁ…」
 # TRANSLATION 
 
@@ -73,7 +75,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\N[1]
+\N[0]
 （すごい…
 　今までの交尾と全然違う…）
 # TRANSLATION 
@@ -84,7 +86,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\N[1]
+\N[0]
 （今までは１回で終わってたけど…）
 # TRANSLATION 
 
@@ -94,7 +96,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\N[1]
+\N[0]
 （ゴブリンパールを装備していると
 　何回射精しても終わる気配が無い…）
 # TRANSLATION 
@@ -105,7 +107,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\N[1]
+\N[0]
 （判る…）
 # TRANSLATION 
 
@@ -115,7 +117,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\N[1]
+\N[0]
 （私を孕ませて…
 　自分のモノにしようとしているのが…！！）
 # TRANSLATION 
@@ -126,7 +128,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\N[1]
+\N[0]
 「ひあぁぁぁんっ！」
 # TRANSLATION 
 
@@ -137,7 +139,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 ゴブリンの一突きで
-\N[1]の思考は快楽に流されてしまう。
+\N[0]の思考は快楽に流されてしまう。
 # TRANSLATION 
 
 # END STRING
@@ -146,7 +148,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 （こんな情熱的な種付けは初めて…）
 # TRANSLATION 
 
@@ -156,7 +158,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\N[1]
+\N[0]
 「また膣内に射精されちゃう…」
 # TRANSLATION 
 
@@ -166,7 +168,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\N[1]
+\N[0]
 「赤ちゃん…できちゃう…」
 # TRANSLATION 
 
@@ -176,7 +178,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\N[1]
+\N[0]
 「ゴブリンのモノに…なっちゃうぅぅっ！！」
 # TRANSLATION 
 
@@ -186,7 +188,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\N[1]
+\N[0]
 「あああぁぁぁ～～～っ！」
 # TRANSLATION 
 
@@ -196,7 +198,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\N[1]
+\N[0]
 （もう…ダメ…）
 # TRANSLATION 
 
@@ -206,7 +208,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\N[1]
+\N[0]
 （こんなの…
 　逃げられないよ…）
 # TRANSLATION 
@@ -228,7 +230,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 ゴブリンの強烈な求愛を前にして
-ななこは逃走の意志を失っていった…
+\N[0]は逃走の意志を失っていった…
 # TRANSLATION 
 
 # END STRING

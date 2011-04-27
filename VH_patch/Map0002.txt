@@ -1,24 +1,29 @@
 # RPGMAKER TRANS PATCH FILE VERSION 2.0
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「あ、もうこんな時間なのね」
 # TRANSLATION 
-"Oh, It's this late already"
-# END STRING
 
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「あなたも冒険者ですか？」
-# TRANSLATION 
-"Are you an adventurer?"
 # END STRING
 
 # TEXT STRING
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+目立たないギルドメンバー
+「あなたも冒険者ですか？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+目立たないギルドメンバー
 「同業ですね」
 # TRANSLATION 
 
@@ -28,6 +33,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+目立たないギルドメンバー
 「ま、冒険者というと聞こえはいいけど」
 # TRANSLATION 
 
@@ -37,23 +43,27 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+目立たないギルドメンバー
 「実際はニートみたいなもんですよね」
 # TRANSLATION 
 
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+目立たないギルドメンバー
 「ハハハハ」
 # TRANSLATION 
-"Hahahaha"
+
 # END STRING
 
 # TEXT STRING
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+目立たないギルドメンバー
 「ここって…こんなに
 　広かったんですね」
 # TRANSLATION 
@@ -61,11 +71,13 @@
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+目立たないギルドメンバー
 「ハハハ……」
 # TRANSLATION 
-"Hahaha... ..."
+
 # END STRING
 
 # TEXT STRING
@@ -221,17 +233,15 @@ Guild Master
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 ギルドマスター
 「自分のランキングをこまめに確認するが重要だぞ。
 　冒険者の格があがれば、力量に見合った依頼を俺から
-　紹介することもできるからな･･･」
+　紹介することもできるからな…」
 # TRANSLATION 
-Guild Master
-「自分のランキングをこまめに確認するが重要だぞ。
-　冒険者の格があがれば、力量に見合った依頼を俺から
-　紹介することもできるからな･･･」
+
 # END STRING
 
 # TEXT STRING
@@ -258,13 +268,13 @@ then begone..."
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 ギルドマスター
-ん？　何か聞きたいのか？
+「ん？　何か聞きたいのか？」
 # TRANSLATION 
-Guild Master
-"What would you like to ask about?"
+
 # END STRING
 
 # TEXT STRING
@@ -570,11 +580,13 @@ I got a favor to ask you."
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「何？」
 # TRANSLATION 
-"Oh?"
+
 # END STRING
 
 # TEXT STRING
@@ -591,11 +603,13 @@ recenlty taken shelter close to town."
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「それがどうしたの？」
 # TRANSLATION 
-"What happened?"
+
 # END STRING
 
 # TEXT STRING
@@ -650,12 +664,13 @@ the blood brotherhood"
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「ふーん…で、私の仕事は？」
 # TRANSLATION 
-"Is that so?
-So where do I come in?"
+
 # END STRING
 
 # TEXT STRING
@@ -683,13 +698,14 @@ while the other guild is distracting them."
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「偵察って…そんなのやった事も
 　ないんだけど…」
 # TRANSLATION 
-"Inflitrate? I have never done such a thing
-before..."
+
 # END STRING
 
 # TEXT STRING
@@ -718,11 +734,13 @@ getting rid of them."
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「平和ね…」
 # TRANSLATION 
-"To maintain the peace... hmm"
+
 # END STRING
 
 # TEXT STRING
@@ -762,12 +780,13 @@ Guild Master
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「ついでには余計だけどね」
 # TRANSLATION 
-"I understand where you are heading
-with this conversation."
+
 # END STRING
 
 # TEXT STRING
@@ -816,11 +835,13 @@ mission, the payment comes in advance.
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「是非やらせてください！」
 # TRANSLATION 
-"I'll help, by all means."
+
 # END STRING
 
 # TEXT STRING
@@ -883,14 +904,14 @@ you'll have to be sneaky."
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「いくつか確認って…盗賊のアジトに
 　しては随分お粗末な話なような…」
 # TRANSLATION 
-"Though their hideout is fairly poor.
-but they have numbers so they are
-quite dangerous."
+
 # END STRING
 
 # TEXT STRING
@@ -1008,6 +1029,7 @@ Guild Master
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「もし捕まったら？」
 # TRANSLATION 
 
@@ -1050,19 +1072,23 @@ Guild Master
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「…」
 # TRANSLATION 
-"..."
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「わかった。それ以外は？」
 # TRANSLATION 
-"Understood, Anything else?"
+
 # END STRING
 
 # TEXT STRING
@@ -1202,15 +1228,15 @@ So go rest at an Inn or somewhere for now."
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ギルドマスター
 「現在募集のある仕事はそこのノートに書いてある。
 　勝手に調べて、
 　めぼしい仕事があれば俺に言ってくれ」
 # TRANSLATION 
-"Look at the book next to me to review
-the quest that people so far have left.
-Once you've found a quest come talk"
+
 # END STRING
 
 # TEXT STRING
@@ -1290,16 +1316,14 @@ perfect for the guild new-comers."
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 ギルドマスター
-「報酬は５００Ｇなんだが･･･
+「報酬は５００Ｇなんだが…
 　どうする、お前、受けるか？」
 # TRANSLATION 
-Guild Master
-"And the reward for this quest is
-500G.
-So what do you say?"
+
 # END STRING
 
 # TEXT STRING
@@ -1333,15 +1357,14 @@ them, come back to me to obtain the reward."
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 ギルドマスター
 「それじゃ、ゴブリンたちを全滅させたら
-　報告に来てくれ。頼ん･･･」
+　報告に来てくれ。頼ん…」
 # TRANSLATION 
-Guild Master
-"Please come back and report to me once
-you have exterminated the goblins."
+
 # END STRING
 
 # TEXT STRING
@@ -1357,11 +1380,13 @@ you should avoid fighting any green goblins."
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「なんで？」
 # TRANSLATION 
-"Why not?"
+
 # END STRING
 
 # TEXT STRING
@@ -1401,11 +1426,13 @@ and the red one is incredible."
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「わかったわ」
 # TRANSLATION 
-"Okay."
+
 # END STRING
 
 # TEXT STRING
@@ -1456,12 +1483,13 @@ north east of the Guild."
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「なんで、こんな仕事があるのよ？」
 # TRANSLATION 
-"Why does the guild accepts this kinds
-of quest?"
+
 # END STRING
 
 # TEXT STRING
@@ -1628,16 +1656,14 @@ which he needs to protect."
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「まさか、危ない荷物じゃないでしょうね？
 　扱いが禁止されている薬草とか――」
 # TRANSLATION 
-Nanako
-"No, I don't want to protect him,
-what if he holds something dangerous in
-his baggage?"
+
 # END STRING
 
 # TEXT STRING
@@ -1736,27 +1762,25 @@ so that you would need to meet him there at night."
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 ギルドマスター
 「市街地から東に出たところにある
-　一軒屋の主からの依頼だ。」
+　一軒屋の主からの依頼だ」
 # TRANSLATION 
-Guild Master
-"We've gotten a quest from a lady east of
-this city."
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 ギルドマスター
 「夕方から一晩、家を留守にするってんで、
-　２人いる息子の面倒を見ていて欲しいそうだ。」
+　２人いる息子の面倒を見ていて欲しいそうだ」
 # TRANSLATION 
-Guild Master
-"She is in need of a baby sitter to take care of
-her two sons while she is gone for the day."
+
 # END STRING
 
 # TEXT STRING
@@ -1773,24 +1797,24 @@ woman trust you."
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-それってどういう意味？
+\N[0]
+「それってどういう意味？」
 # TRANSLATION 
-What do you mean?
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 ギルドマスター
 「深い意味はねえよ、いかつい野郎が行ったんじゃあ
-　ガキが泣いちまう。」
+　ガキが泣いちまう」
 # TRANSLATION 
-Guild Master
-"Well you can maybe think for youself.
-if I where to send a huge guy filled with scars
-on her door. what do you think would happen?"
+
 # END STRING
 
 # TEXT STRING
@@ -1806,59 +1830,35 @@ so sending some one like you is perfect."
 # END STRING
 
 # TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「報酬は１０００Ｇだ。
-どうする、受けるか？」
-# TRANSLATION 
-Guild Master
-"So what do you say?
-The reward is 1000G"
-# END STRING
-
-# TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 ギルドマスター
 「そうか。なら、頼んだぞ
-　市街地を東に出たらすぐだ。」
+　市街地を東に出たらすぐだ」
 # TRANSLATION 
-Guild Master
-"You need to take the east exit to get there.
-I've sent message to the guard there. he will
-tell you how to get pass"
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-お前はもう仕事を請け負っているだろう。
-今の仕事に専念しろ。
+ギルドマスター
+「お前はもう仕事を請け負っているだろう。
+　今の仕事に専念しろ」
 # TRANSLATION 
-Guild Master
-"You've all ready accepted a quest.
-finish it before accepting a new one."
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-現在募集のある仕事はそこのノートに書いてある。
-勝手に調べて、
-めぼしい仕事があれば俺に言ってくれ。
-# TRANSLATION 
-Check out the book to my left if your interested
-in some work. Come talk to me if you find
-anything which interest you.
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
+\N[0]
 「なんで、また募集してるの？」
 # TRANSLATION 
-"What are you looking for?"
+
 # END STRING
 
 # TEXT STRING
@@ -1898,24 +1898,24 @@ we wont be able to move as I want."
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「なんで、またこの仕事があるのよ？」
 # TRANSLATION 
-"Why is there such work again?"
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 ギルドマスター
-「・・・前回が評判だったらしく
-　味を占めたようだな。」
+「……前回が評判だったらしく
+　味を占めたようだな」
 # TRANSLATION 
-Guild Master
-"It seemed that the bar gained some reputation
-when you where there. so now they ask
-for more to come help."
+
 # END STRING
 
 # TEXT STRING
@@ -2060,44 +2060,43 @@ then male prisoner's."
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 ギルドマスター
 「ゴブリンを退治してきたみたいだな。
-　依頼人も喜んでいるぞ。」
+　依頼人も喜んでいるぞ」
 # TRANSLATION 
-Guild Master
-"So you've exterminated the goblins?
-I'll have a very happy client now."
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 ギルドマスター
-「ほら、これが約束の報酬500Gだ。」
+「ほら、これが約束の報酬500Gだ」
 # TRANSLATION 
-Guild Master
-"Here is your promised reward
-of 500G."
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこは仕事の成功により80EXPを得た
+\N[0]は仕事の成功により80EXPを得た
 # TRANSLATION 
-Nanako gained 80 XP
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「やったわ！」
 # TRANSLATION 
-Nanako
-"Piece of cake."
+
 # END STRING
 
 # TEXT STRING
@@ -2111,38 +2110,31 @@ Guild Master
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 ギルドマスター
-「ほら、これが約束の報酬300Gだ。」
+「ほら、これが約束の報酬300Gだ」
 # TRANSLATION 
-Guild Master
-"You'll get your reward as promised
-of 300G."
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこは仕事の成功により50EXPを得た
+\N[0]は仕事の成功により50EXPを得た
 # TRANSLATION 
-Nanako gained 50 XP
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-やったわ！
+\N[0]は仕事の成功により30EXPを得た
 # TRANSLATION 
-Hehe it was easy.
-# END STRING
 
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ななこは仕事の成功により30EXPを得た
-# TRANSLATION 
-Nanako gained 30 XP
 # END STRING
 
 # TEXT STRING
@@ -2175,40 +2167,42 @@ Guild Master
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこは仕事の成功により250EXPを得た
+\N[0]は仕事の成功により250EXPを得た
 # TRANSLATION 
-Nanako gained 250 XP
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 ギルドマスター
-「ほら、これが約束の報酬1000Gだ。」
+「ほら、これが約束の報酬1000Gだ」
 # TRANSLATION 
-Guild Master
-"As promised here is the reward
-of 1000G."
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこは仕事の成功により150EXPを得た
+\N[0]は仕事の成功により150EXPを得た
 # TRANSLATION 
-Nanako gained 150 XP
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-報酬は仕事を片付けてからだ。
-基本中の基本だぞ。
+ギルドマスター
+「報酬は仕事を片付けてからだ。
+　基本中の基本だぞ」
 # TRANSLATION 
-You'll recieve the reward after the quest.
-it's the basic procedure.
+
 # END STRING
 
 # TEXT STRING
@@ -2260,13 +2254,13 @@ have a system."
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 ギルドマスター
-「・・・と、今までならそれで済んだんだがな」
+「……と、今までならそれで済んだんだがな」
 # TRANSLATION 
-Guild Master
-"Now... With this you've passed you limit."
+
 # END STRING
 
 # TEXT STRING
@@ -2293,31 +2287,34 @@ Guild Master
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 ギルドマスター
-「･･･悪いが拘束させてもらう。
+「…悪いが拘束させてもらう。
 　ギルドとしても向こうと事を荒立てたくない」
 # TRANSLATION 
-Guild Master
-"We will have to restrain you and throw you in
-jail for not paying taxes."
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-そ、そんな……
+\N[0]
+「そ、そんな……」
 # TRANSLATION 
-No... No way...
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-私……これからどうなっちゃうの？
+\N[0]
+「私……これからどうなっちゃうの？」
 # TRANSLATION 
-What... What will happen now?
+
 # END STRING
 
 # TEXT STRING
@@ -2470,15 +2467,14 @@ Guild Master
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 ギルドマスター
-「おお！ななこ！
+「おお！\N[0]！
 　てめえ生きてやがったか！」
 # TRANSLATION 
-Guild Master
-"Oh! Nanako
-You are alive!"
+
 # END STRING
 
 # TEXT STRING
@@ -2496,7 +2492,7 @@ You are alive!"
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「突入？！もうアジトに
 　攻め入ったの？！」
 # TRANSLATION 
@@ -2516,13 +2512,13 @@ You are alive!"
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「いつ？！」
 # TRANSLATION 
-Nanako
-"When?"
+
 # END STRING
 
 # TEXT STRING
@@ -2540,7 +2536,7 @@ Nanako
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「帰ってきたって事は勝ったの！？
 　じゃあアシュリーさんって人を…っ」
 # TRANSLATION 
@@ -2563,7 +2559,7 @@ Nanako
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「は…？な…ん…？」
 # TRANSLATION 
 
@@ -2606,13 +2602,13 @@ Nanako
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「じゃあ…？」
 # TRANSLATION 
-Nanako
-"Then?"
+
 # END STRING
 
 # TEXT STRING
@@ -2631,7 +2627,7 @@ Nanako
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「う…ぐ…わああああああ！！」
 # TRANSLATION 
 
@@ -2685,7 +2681,7 @@ Nanako
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 エリカ
-「まぁそれも含めてな…おいななこ
+「まぁそれも含めてな…おい\N[0]
 　大丈夫か…？」
 # TRANSLATION 
 
@@ -2695,7 +2691,7 @@ Nanako
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「大丈夫…平気…」
 # TRANSLATION 
 
@@ -2782,16 +2778,6 @@ Nanako
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
-「…」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
 ギルドマスター
 「だが頭目が爆炎系の魔法使いだって
 　情報は大きな収穫だぞ」
@@ -2849,7 +2835,7 @@ Nanako
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「アシュリーさんは…盗賊への追跡は
 　どうなってるの…？」
 # TRANSLATION 
@@ -2904,7 +2890,7 @@ Nanako
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「な…」
 # TRANSLATION 
 
@@ -2966,13 +2952,13 @@ Nanako
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「？」
 # TRANSLATION 
-Nanako
-"?"
+
 # END STRING
 
 # TEXT STRING
@@ -3000,7 +2986,7 @@ Nanako
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「…あいつらが？」
 # TRANSLATION 
 
@@ -3064,7 +3050,7 @@ of 1500G."
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「…いらない…ほしくない…」
 # TRANSLATION 
 
@@ -3075,7 +3061,7 @@ of 1500G."
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 エリカ
-「もらっとけななこ…何するにしても
+「もらっとけ\N[0]…何するにしても
 　あって困るもんじゃねえ」
 # TRANSLATION 
 
@@ -3096,7 +3082,7 @@ of 1500G."
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 エリカ
-「ななこ…今はしょうがねえよ…
+「\N[0]…今はしょうがねえよ…
 　次の情報が来るまで、素直に待とう」
 # TRANSLATION 
 
@@ -3106,7 +3092,7 @@ of 1500G."
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「…わかった…」
 # TRANSLATION 
 
@@ -3118,7 +3104,7 @@ of 1500G."
 # ADVICE : 49 char limit (35 if face)
 エリカ
 「じゃあおっさん、俺は
-　ななこについてくから、
+　\N[0]についてくから、
 　俺の仕事の話はまた今度な」
 # TRANSLATION 
 
@@ -3139,22 +3125,10 @@ of 1500G."
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-なるべく早く頼むぞ。
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
 ギルドマスター
-「もうギルドも終まいだ。
-　用があるなら明日来な。」
+「なるべく早く頼むぞ」
 # TRANSLATION 
-Guild Master
-"You've all ready completed a quest today.
-The guild only allows adventurers
-to complete one quest a day."
+
 # END STRING
 
 # TEXT STRING
@@ -3162,7 +3136,18 @@ to complete one quest a day."
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 ギルドマスター
-「ようななこ、今日もレベル上げか」
+「もうギルドも終まいだ。
+　用があるなら明日来な」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ギルドマスター
+「よう\N[0]、今日もレベル上げか」
 # TRANSLATION 
 
 # END STRING
@@ -3182,7 +3167,7 @@ to complete one quest a day."
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「うん…それでマスター…」
 # TRANSLATION 
 
@@ -3203,7 +3188,7 @@ to complete one quest a day."
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「そう…」
 # TRANSLATION 
 
@@ -3356,7 +3341,7 @@ to complete one quest a day."
 調査隊A
 「あいよ。
 　ま、こっちは予想通りだ
-　東の街は全滅した。」
+　東の街は全滅した」
 # TRANSLATION 
 
 # END STRING
@@ -3577,7 +3562,7 @@ to complete one quest a day."
 調査隊A
 「隠し通路を掘って、そっから出入り
 　してやがったらしい。完全に盲点
-　だったよ。」
+　だったよ」
 # TRANSLATION 
 
 # END STRING
@@ -3620,7 +3605,7 @@ to complete one quest a day."
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 ギルドマスター
-「ななこ、今日は宿に帰るな！
+「\N[0]、今日は宿に帰るな！
 　このまま詰めてろ！また呼びに行くの
 　面倒だからな！」
 # TRANSLATION 
@@ -3631,17 +3616,7 @@ to complete one quest a day."
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
-「わかったわ」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 （ついに…ついにきた…）
 # TRANSLATION 
 
@@ -3651,7 +3626,7 @@ to complete one quest a day."
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 （アシュリーさんごめん…
 　すごく時間がかかっちゃった）
 # TRANSLATION 
@@ -3662,7 +3637,7 @@ to complete one quest a day."
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 （今度は私が助ける…
 　絶対に助ける！）
 # TRANSLATION 
@@ -3674,7 +3649,7 @@ to complete one quest a day."
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 ギルドマスター
-「ようななこ」
+「よう\N[0]」
 # TRANSLATION 
 
 # END STRING
@@ -3713,19 +3688,21 @@ to complete one quest a day."
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ハンテン
 「女の子の冒険者って最近多いみたいだね
 　君もそうなのかい？」
 # TRANSLATION 
-"There seem to be a lot of girl adventurers recently.
-Are you looking too?"
+
 # END STRING
 
 # TEXT STRING
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ハンテン
 「何かようかい？」
 # TRANSLATION 
 
@@ -3753,6 +3730,7 @@ Are you looking too?"
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ハンテン
 「さて、次の仕事はなんだろうね」
 # TRANSLATION 
 
@@ -3762,6 +3740,7 @@ Are you looking too?"
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ハンテン
 「そうか……。
 　残念だけど仕方ない。
 　また何かあったら声をかけてほしい」
@@ -3770,17 +3749,20 @@ Are you looking too?"
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ハンテン
 「やぁ、仲間を探しているのかい？」
 # TRANSLATION 
-"Hey, are you looking for a companion?"
+
 # END STRING
 
 # TEXT STRING
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ハンテン
 「そうか。どうだろう、よければ
  僕とパーティー組んでみないか？」
 # TRANSLATION 
@@ -3809,10 +3791,9 @@ Are you looking too?"
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「僕の名前はハンテンだ。勇者志望･･･
-  の職業戦士。ギルドランクは･･･
-  今何位だったかな？17位から上って
-  事はないと思うんだけど」
+ハンテン
+「僕の名前はハンテンだ。
+　勇者志望…の職業戦士」
 # TRANSLATION 
 
 # END STRING
@@ -3821,7 +3802,10 @@ Are you looking too?"
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「それじゃ、今後ともよろしく。」
+ハンテン
+「ギルドランクは…
+　今何位だったかな？17位から上って事は
+　ないと思うんだけど」
 # TRANSLATION 
 
 # END STRING
@@ -3830,8 +3814,8 @@ Are you looking too?"
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\^                                                               
-                                                                
+ハンテン
+「それじゃ、今後ともよろしく」
 # TRANSLATION 
 
 # END STRING
@@ -3840,6 +3824,7 @@ Are you looking too?"
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ハンテン
 「そうか。もし仲間が必要になときは
 　声をかけてほしいな」
 # TRANSLATION 
@@ -3850,6 +3835,7 @@ Are you looking too?"
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ハンテン
 「きっと、力になるよ」
 # TRANSLATION 
 
@@ -3900,83 +3886,76 @@ list of all guild quests.
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「ゴブリン退治程度なら楽勝ね」
 # TRANSLATION 
-Nanako
-"Just a goblin extermination quest?
-That's too easy."
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「ゴブリンなんて大した敵じゃないわ。
 　さっさとやっつけちゃいましょう」
 # TRANSLATION 
-Nanako
-"Goblins aren't though opponents.
-Taking them out should be a piece
-of cake."
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「ゴブリン共めぇ、今度こそ……」
 # TRANSLATION 
-Nanako
-"Seems like it's me and the goblins again."
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「ゴブリン退治は完了♪
 　さぁて、報酬を受け取るわよ」
 # TRANSLATION 
-Nanako
-"The goblin extermination is complete,♪
-Now let go get our reward."
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「あれ？この依頼解決したはずよね…？」
 # TRANSLATION 
-Nanako
-"Huh? shouldn't this quest be finished?"
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「配達の距離にもよるけど
 　楽そうな依頼ね」
 # TRANSLATION 
-Nanako
-"A delivery quest? boring.
-though it looks like it not far, so I could probably
-finish it quickly."
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「道具屋に行って、詳細を聞きましょう」
 # TRANSLATION 
-Nanako
-"It says go to the tool shop?
-I'll just ask the guild master about it."
+
 # END STRING
 
 # TEXT STRING
@@ -3989,72 +3968,80 @@ I'll just ask the guild master about it."
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「薬の配達成功♪
 　報酬を受け取りましょ」
 # TRANSLATION 
-Nanako
-"Delivery success ?
-Now let's go and get the reward."
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「接客業かぁ……
 　私にできるかな？」
 # TRANSLATION 
-Nanako
-"Waitress at bar?
-Why is there such a job here..."
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「酒場に行って、詳細を聞きましょう」
 # TRANSLATION 
-Nanako
-"Go to bar, hmm let's ask the guild master
-for some details."
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「くっそー、あのエロ親父めぇ……」
 # TRANSLATION 
-Nanako
-"Damn it, that perverted old man..."
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
-「酒場のウェイトレスをなんとかこなせたわ。
+\N[0]
+「酒場のウェイトレス
+　をなんとかこなせたわ。
 　さあ、報酬を受け取りましょ」
 # TRANSLATION 
-Nanako
-"I managed to get through that waitress job,
-so let's go and get our reward."
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「冒険者のやる仕事とは思えないわね……
 　まぁ、今は仕方ないか」
 # TRANSLATION 
-Nanako
-"Well it's an adventurers job, so I might as
-well just do it."
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「酒場のウェイトレスを
+　なんとかこなせたわ。
+　さあ、報酬を受け取りましょ」
+# TRANSLATION 
+
 # END STRING
 
 # TEXT STRING
@@ -4094,125 +4081,120 @@ well just do it."
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
-「ミノタウロス……。少し不安かも。
-　でも、自分の腕前を試すにはいい機会ね！」
+\N[0]
+「ミノタウロス……。
+　少し不安かも。　でも、
+　自分の腕前を試すにはいい機会ね！」
 # TRANSLATION 
-Nanako
-"Minotaurs... this might be a little to much for me.
-But, this is a chance to see how strong I am."
-# END STRING
 
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ななこ
-「取り返しの付かないことになる前に
-　女の人達を助け出してあげないと」
-# TRANSLATION 
-Nanako
-"Though it's important that I can manage
-to rescue those women."
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ななこ
-「女の人達は発見できた。
-　あとはミノタウロスを倒せば……」
-# TRANSLATION 
-Nanako
-"Now that I know the location,
-It all about whenever or not I can defeat them."
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ななこ
-「ミノタウロスは倒せた。
-　後は女の人達を見つけられれば……」
-# TRANSLATION 
-Nanako
-"I can manage to defeat the Minotaurs.
-though am I able to find the women?"
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ななこ
-「悔しいけれど、ミノタウロスは強かった……
-　またあんな目に合わされたら……」
-# TRANSLATION 
-Nanako
-"Those Minotaurs where strong,
-I wonder will I be able to defeat them?"
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ななこ
-「手強かったけど……なんとか勝てた。
-　報酬を受け取って依頼終了ね」
-# TRANSLATION 
-Nanako
-"Hehe... I Managed to win, now let's go get the reward."
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ななこ
-「女だからって
-　嘗められなければいいけど……」
-# TRANSLATION 
-Nanako
-"I hope he won't look down on me
-because Im a woman."
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ななこ
-「宿屋に泊まって夜を待ちましょう」
-# TRANSLATION 
-Nanako
-"Let's wait at the Inn for the night."
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ななこ
-「早く東の町に行かないとね」
-# TRANSLATION 
-Nanako
-"So... going to take the east exit."
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ななこ
-「変だけど悪い人じゃなかったわね。
-　さぁ、報酬報酬♪」
-# TRANSLATION 
-Nanako
-"Strangely, it was not a bad person.
-Now, Reward reward ♪"
 # END STRING
 
 # TEXT STRING
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
+「取り返しの付かないことになる前に
+　女の人達を助け出してあげないと」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「女の人達は発見できた。
+　あとはミノタウロスを倒せば……」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「ミノタウロスは倒せた。
+　後は女の人達を見つけられれば……」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「悔しいけれど、
+　ミノタウロスは強かった……
+　またあんな目に合わされたら……」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「手強かったけど……なんとか勝てた。
+　報酬を受け取って依頼終了ね」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「女だからって
+　嘗められなければいいけど……」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「宿屋に泊まって夜を待ちましょう」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「早く東の町に行かないとね」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「変だけど悪い人じゃなかったわね。
+　さぁ、報酬報酬♪」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
 「とんだスケベ親父だったわね……
 　ボーナスが貰えたからいいけど」
 # TRANSLATION 
@@ -4220,89 +4202,87 @@ Now, Reward reward ♪"
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「うぅ、失敗しちゃったのよね……」
 # TRANSLATION 
-Nanako
-"Ugh, I guess I failed..."
-# END STRING
 
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ななこ
-「いつまでもくよくよしてられない。
-　次がんばればいいのよ、うん」
-# TRANSLATION 
-Nanako
-"I can't always be successful.
-all I gotta do is do better next time."
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ななこ
-「子供のお守りね……
-　ま、子供は好きだし、やってみようかな」
-# TRANSLATION 
-Nanako
-"A baby sitter?
-Well I like children so I can do this."
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ななこ
-「大人しい子達だっていう話だから
-　この依頼は楽ができそうね」
-# TRANSLATION 
-Nanako
-"I heard they were quiet children,
-so it seems this will be a easy job."
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ななこ
-「とんでもない依頼だったわ……
-　将来子供を産んだら、ああは育てまい……」
-# TRANSLATION 
-Nanako
-"That was a ridiculous quest,
-If I'll get a kid in the future, I won't be
-able to raise it."
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ななこ
-「今進めてる依頼を解決してからにしましょう」
-# TRANSLATION 
-Nanako
-"Now, Let's let the guild master know
-that I'm accepting this quest."
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ななこ
-「この依頼は私が解決済みよ」
-# TRANSLATION 
-Nanako
-"I have all ready solved this quest."
 # END STRING
 
 # TEXT STRING
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
+「いつまでもくよくよしてられない。
+　次がんばればいいのよ、うん」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「子供のお守りね……
+　ま、子供は好きだし、
+　やってみようかな」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「大人しい子達だっていう話だから
+　この依頼は楽ができそうね」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「とんでもない依頼だったわ……
+　将来子供を産んだら、
+　ああは育てまい……」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「今進めてる依頼を
+　解決してからにしましょう」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「この依頼は私が解決済みよ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+魔法使いの女
 「何？一人にして欲しいんだけど」
 # TRANSLATION 
 
@@ -4312,7 +4292,9 @@ Nanako
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「ぷっふ！なぁにそのお間抜けなボテ腹は」
+魔法使いの女
+「ぷっふ！
+　なぁにそのお間抜けなボテ腹は」
 # TRANSLATION 
 
 # END STRING
@@ -4321,8 +4303,9 @@ Nanako
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「私ならみっともなくって生きてられない
-　わね」
+魔法使いの女
+「私なら
+　みっともなくって生きてられないわね」
 # TRANSLATION 
 
 # END STRING
@@ -4331,6 +4314,7 @@ Nanako
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+魔法使いの女
 「ふーん」
 # TRANSLATION 
 
@@ -4340,7 +4324,8 @@ Nanako
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「な・・・なに？」
+\N[0]
+「な……なに？」
 # TRANSLATION 
 
 # END STRING
@@ -4349,6 +4334,7 @@ Nanako
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+魔法使いの女
 「別にー」
 # TRANSLATION 
 
@@ -4358,6 +4344,7 @@ Nanako
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ベネッタ
 「何かよう？」
 # TRANSLATION 
 
@@ -4367,6 +4354,7 @@ Nanako
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ベネッタ
 「たまにはパーッとやりたいものね」
 # TRANSLATION 
 
@@ -4376,6 +4364,7 @@ Nanako
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ベネッタ
 「あら、そう。
 　また何かあれば声をかけてちょうだい」
 # TRANSLATION 
@@ -4386,6 +4375,7 @@ Nanako
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+魔法使いの女
 「ベネッタ」
 # TRANSLATION 
 
@@ -4395,6 +4385,7 @@ Nanako
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「え？」
 # TRANSLATION 
 
@@ -4404,6 +4395,7 @@ Nanako
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+魔法使いの女
 「私の名前」
 # TRANSLATION 
 
@@ -4413,6 +4405,7 @@ Nanako
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ベネッタ
 「今度の更新であんたに順位を抜かれた
 　元１４位って言えばわかるかしら？」
 # TRANSLATION 
@@ -4423,7 +4416,8 @@ Nanako
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「えー・・・っと・・・」
+\N[0]
+「えー……っと……」
 # TRANSLATION 
 
 # END STRING
@@ -4432,8 +4426,9 @@ Nanako
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「冗談よ。別にランキングなんて気にして
-　ないしね」
+ベネッタ
+「冗談よ。別にランキング
+　なんて気にしてないしね」
 # TRANSLATION 
 
 # END STRING
@@ -4442,6 +4437,7 @@ Nanako
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ベネッタ
 「それよりあなた、中々見込みがあるわ」
 # TRANSLATION 
 
@@ -4451,7 +4447,8 @@ Nanako
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「は、はぁ・・・」
+\N[0]
+「は、はぁ……」
 # TRANSLATION 
 
 # END STRING
@@ -4460,8 +4457,9 @@ Nanako
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「どう？よければ私とパーティー組んで
-　みない？」
+ベネッタ
+「どう？よければ私と
+　パーティー組んでみない？」
 # TRANSLATION 
 
 # END STRING
@@ -4470,6 +4468,7 @@ Nanako
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ベネッタ
 「それじゃ、今後ともよろしく」
 # TRANSLATION 
 
@@ -4479,6 +4478,7 @@ Nanako
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ベネッタ
 「あら、そう。
 　気が向いたら声をかけてちょうだい」
 # TRANSLATION 
@@ -4737,7 +4737,8 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「どしたい？ななこ」
+エリカ
+「どしたい？\N[0]」
 # TRANSLATION 
 
 # END STRING
@@ -4790,7 +4791,7 @@ Guild member's ranking table.
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 エリカ
-「ななこーつれってくれよぅー」
+「\N[0]ーつれってくれよぅー」
 # TRANSLATION 
 
 # END STRING
@@ -4844,7 +4845,7 @@ Guild member's ranking table.
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 エリカ
-「ようななこ、調子はどうだ？」
+「よう\N[0]、調子はどうだ？」
 # TRANSLATION 
 
 # END STRING
@@ -4946,6 +4947,14 @@ Guild member's ranking table.
 「お前さんにはあまり勧めたくない仕事だがな。」
 # TRANSLATION 
 
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+それってどういう意味？
+# TRANSLATION 
+What do you mean?
 # END STRING
 
 # TEXT STRING
@@ -5056,6 +5065,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+慇懃な女冒険者
 「なんとかギルドランク5位以上になって馬列車の
 　フリーパスを手に入れたいものです」
 # TRANSLATION 
@@ -5066,6 +5076,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+慇懃な女冒険者
 「冒険者ギルドにも一応規則はあります」
 # TRANSLATION 
 
@@ -5075,7 +5086,9 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「一つ、仕事で得た情報はギルドに隠してはならない」
+慇懃な女冒険者
+「一つ、
+　仕事で得た情報はギルドに隠してはならない」
 # TRANSLATION 
 
 # END STRING
@@ -5084,7 +5097,9 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「一つ、ギルドとその仲間を裏切ってはならない」
+慇懃な女冒険者
+「一つ、
+　ギルドとその仲間を裏切ってはならない」
 # TRANSLATION 
 
 # END STRING
@@ -5093,8 +5108,9 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「一つ、ギルドに特別収集を受けた場合は断ってはなら
-　ない」
+慇懃な女冒険者
+「一つ、
+　ギルドに特別収集を受けた場合は断ってはならない」
 # TRANSLATION 
 
 # END STRING
@@ -5103,9 +5119,10 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+慇懃な女冒険者
 「これらの禁を犯した場合、他の厳しいギルドのような
-　粛清や直截的な制裁はありませんが、除名処分を受け
-　て二度とギルドに出入りできなくなります」
+　粛清や直截的な制裁はありませんが、除名処分を
+　受けて二度とギルドに出入りできなくなります」
 # TRANSLATION 
 
 # END STRING
@@ -5114,6 +5131,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+慇懃な女冒険者
 「ただし冒険者ギルドメンバーは国中至る所にいて、
 　裏切り者は常に非難の対象となりますので」
 # TRANSLATION 
@@ -5124,6 +5142,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+慇懃な女冒険者
 「快適な生活を送りたいなら禁を犯すような行為は
 　あまりお奨めできません」
 # TRANSLATION 
@@ -5134,6 +5153,16 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\>若店主イベント用です。\<
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ギルドの武道娘
 「キャハハ！
 　でさぁ…」
 # TRANSLATION 
@@ -5144,6 +5173,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ギルドの武道娘
 「ん？新人？
 　話はギルドマスターに聞いて」
 # TRANSLATION 
@@ -5154,6 +5184,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ギルドの武道娘
 「武道家？モンクタイプ？」
 # TRANSLATION 
 
@@ -5163,6 +5194,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ギルドの武道娘
 「それじゃあ、私とおなじ肉体派かぁー。
 　やっぱり女は身体が資本よね！」
 # TRANSLATION 
@@ -5173,9 +5205,9 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「すごぉい…妊娠したらこんなにお腹膨れ
-　るんだぁ…。ねぇ、お腹に赤ちゃん入って
-　るのってどんな感じ？」
+ギルドの武道娘
+「すごぉい…妊娠したらこんなにお腹膨れるんだぁ…。
+　ねぇ、お腹に赤ちゃん入ってるのってどんな感じ？」
 # TRANSLATION 
 
 # END STRING
@@ -5184,7 +5216,8 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「ななこ！今度一緒に飲みに行こぉー！」
+ギルドの武道娘
+「\N[0]！今度一緒に飲みに行こぉー！」
 # TRANSLATION 
 
 # END STRING
@@ -5193,6 +5226,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「うん。そうね、今度暇な時行こうね」
 # TRANSLATION 
 
@@ -5202,6 +5236,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ギルドの武道娘
 「酒屋のマスターって超渋い系で
 　いつ見ても飽きないのよねぇ…」
 # TRANSLATION 
@@ -5212,6 +5247,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ギルドの武道娘
 「ここのギルドマスターとは大違いだわ」
 # TRANSLATION 
 
@@ -5221,6 +5257,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「いや…渋さならここのマスターも結構
 　いけるんじゃ…ないかな？」
 # TRANSLATION 
@@ -5231,6 +5268,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 （絶対聞こえてるし…）
 # TRANSLATION 
 
@@ -5240,6 +5278,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ギルドの武道娘
 「全然ダメだよぉ…
 　なんか、ただのオヤジっぽくて」
 # TRANSLATION 
@@ -5250,6 +5289,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ギルドの武道娘
 「もっとこう…ピンチの時に救ってくれて、
 　お姫様抱っこして…」
 # TRANSLATION 
@@ -5260,6 +5300,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ギルドの武道娘
 「『お怪我はありませんか、お嬢さん』って
 　感じゃなきゃダメなのぉ」
 # TRANSLATION 
@@ -5270,6 +5311,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ギルドの武道娘
 「もっとね、丸太みたいな腕をしてて…
 　それがフワフワした腕毛に纏われて…」
 # TRANSLATION 
@@ -5280,6 +5322,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ギルドの武道娘
 「胸毛もちょっとチラつかせて…
 　ワイルドなチョイ悪なオジサマがイイのぉ。
 　はぁはぁ」
@@ -5291,6 +5334,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「うーん…ちょっとだけなら…
 　分かるかな？」
 # TRANSLATION 
@@ -5301,6 +5345,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 （経験豊富なオヤジも、悪くないかな…）
 # TRANSLATION 
 
@@ -5310,8 +5355,9 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ギルドの武道娘
 「やっぱり分かるぅ？
-　だからななこ好き好きー」
+　だから\N[0]好き好きー」
 # TRANSLATION 
 
 # END STRING
@@ -5320,6 +5366,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ギルドの武道娘
 「いやだぁー、なにこの臭いぃ？
 　精液臭ぁーい！」
 # TRANSLATION 
@@ -5330,7 +5377,9 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-…(クンクン)
+\N[0]
+「……」
+（クンクン）
 # TRANSLATION 
 
 # END STRING
@@ -5339,6 +5388,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ギルドの武道娘
 「うわー、この女自分の臭い嗅いだよぉ？
 　バッカじゃないのぉ！？」
 # TRANSLATION 
@@ -5349,6 +5399,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ギルドの武道娘
 「いやだねぇ、身体を売るしか能の無い女って。
 　まぁ、その有様だと２０Ｇくらいかしら？
 　数で勝負ってヤツ？キャハハハ！」
@@ -5360,6 +5411,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「………」
 # TRANSLATION 
 
@@ -5369,6 +5421,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ギルドの女戦士
 「なんだいアンタ？
 　冒険者じゃなさそうだね？」
 # TRANSLATION 
@@ -5379,6 +5432,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ギルドの女戦士
 「登録ならそこにいるヒゲウェイター…
 　じゃねぇ、ギルドマスターに話して来い」
 # TRANSLATION 
@@ -5389,6 +5443,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ギルドの女戦士
 「アタイらは冒険者っていちいち一般の人の
 　話を聞くほど暇じゃねぇんだ。分かった？」
 # TRANSLATION 
@@ -5399,6 +5454,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「えっ？は…はい」
 # TRANSLATION 
 
@@ -5408,6 +5464,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 （態度でかい人だなぁ…）
 # TRANSLATION 
 
@@ -5417,6 +5474,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ギルドの女戦士
 「へえ、ギルドに登録したのかい」
 # TRANSLATION 
 
@@ -5426,6 +5484,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ギルドの女戦士
 「アンタ、名前は？」
 # TRANSLATION 
 
@@ -5435,7 +5494,8 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「あ、はい。ななこです…」
+\N[0]
+「あ、はい。\N[0]です…」
 # TRANSLATION 
 
 # END STRING
@@ -5444,9 +5504,10 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ギルドの女戦士
 「これでアタイらとは同業者ってわけだ。
 　女同士、困ったことがあったら相談にのってやるよ。\!
-　よろしくな。ななこ！」
+　よろしくな。\N[0]！」
 # TRANSLATION 
 
 # END STRING
@@ -5455,6 +5516,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ギルドの女戦士
 「うんっ！ありがとう」
 # TRANSLATION 
 
@@ -5464,7 +5526,8 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「ななこ…その赤ん坊…」
+ギルドの女戦士
+「\N[0]…その赤ん坊…」
 # TRANSLATION 
 
 # END STRING
@@ -5473,6 +5536,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「へへ…産んじゃった…」
 # TRANSLATION 
 
@@ -5482,6 +5546,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ギルドの女戦士
 「産んじゃっ…ってお前、その歳で…」
 # TRANSLATION 
 
@@ -5491,7 +5556,18 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「ななこ、ちょっと話がある。
+ギルドの女戦士
+「…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ギルドの女戦士
+「\N[0]、ちょっと話がある。
 　赤ん坊連れてついてこい」
 # TRANSLATION 
 
@@ -5501,6 +5577,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「へ？…な、何急に？」
 # TRANSLATION 
 
@@ -5510,6 +5587,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ギルドの女戦士
 「いいからついてこい」
 # TRANSLATION 
 
@@ -5519,7 +5597,8 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「……よぉ、ななこ！
+ギルドの女戦士
+「……よぉ、\N[0]！
 　どうだ、儲かってるかい？」
 # TRANSLATION 
 
@@ -5529,6 +5608,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「…ぼちぼち…かな」
 # TRANSLATION 
 
@@ -5538,176 +5618,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「そいつぁイイ。
-まぁ無理せずにな」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「焦って大物狙おうとしても返り討ちに
-　されるのが関の山だかんな」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「…うん」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「ななこ…無理すんなよ…」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「な！な…こ…お前…その腹…」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「うん…しくじっ…ちゃった
-　…みたい」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「お前…相手は？」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「…わからない…」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「…産むのか？」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「正直なんて言ってやればいいのか
-　わかんねえよ。都に行けば中絶の
-　できる医者もいるって話だけど…くそっ」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「いいの、ありがと…」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「ななこ…」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「…うん、知ってる人…」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「じゃあ結婚すんのか？」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「いや、わりぃ、ズケズケ他人が聞くよう
-　な事じゃなかったよな。すまん、ごめん、
-　忘れてくれ」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「ううん…」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「よぉ、ななこ！
-　どうだ、儲かってるかい？」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「ん？ぼちぼちかな。」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
+ギルドの女戦士
 「そいつぁイイ。
 　まぁ無理せずにな」
 # TRANSLATION 
@@ -5718,6 +5629,184 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ギルドの女戦士
+「焦って大物狙おうとしても返り討ちに
+　されるのが関の山だかんな」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「…うん」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ギルドの女戦士
+「\N[0]…無理すんなよ…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ギルドの女戦士
+「な！な…こ…お前…その腹…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「うん…しくじっ…ちゃった
+　…みたい」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ギルドの女戦士
+「お前…相手は？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「…わからない…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ギルドの女戦士
+「…産むのか？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ギルドの女戦士
+「正直なんて言ってやればいいのか
+　わかんねえよ。都に行けば中絶のできる
+　医者もいるって話だけど…くそっ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「いいの、ありがと…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ギルドの女戦士
+「\N[0]…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「…うん、知ってる人…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ギルドの女戦士
+「じゃあ結婚すんのか？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ギルドの女戦士
+「いや、わりぃ、ズケズケ他人が
+　聞くような事じゃなかったよな。
+　すまん、ごめん、忘れてくれ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「ううん…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ギルドの女戦士
+「よぉ、\N[0]！
+　どうだ、儲かってるかい？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「ん？ぼちぼちかな」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ギルドの女戦士
 「焦って大物狙おうとしたら返り討ちに
 　されるのが関の山だかんな…
 　この前だって…」
@@ -5729,6 +5818,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「…どしたの？」
 # TRANSLATION 
 
@@ -5738,6 +5828,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ギルドの女戦士
 「いや、連れのやつだったんだけどよ…」
 # TRANSLATION 
 
@@ -5747,6 +5838,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ギルドの女戦士
 「この前ミノタウロスを殺るって言出だして
 　出かけたらそのまま消えちまったんだよ」
 # TRANSLATION 
@@ -5757,6 +5849,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ギルドの女戦士
 「でよ、心配になって探したら西の谷間に
 　そいつの亡骸があってな…
 　どうやら孕まされたらしいんだわ…」
@@ -5768,6 +5861,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ギルドの女戦士
 「自分の腹を切ってミノタウロスのガキを
 　引き釣り出して、そのままお陀仏よ…
 　最後はもう狂ってったんだな」
@@ -5779,6 +5873,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ギルドの女戦士
 「この前ゴブリン退治に行くつってよ、
 　まぁ下等モンスターだから大丈夫だと
 　思ってたんだが…」
@@ -5790,6 +5885,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ギルドの女戦士
 「そのまま何日も帰って来なかったから
 　心配で探しに行ったわけよ」
 # TRANSLATION 
@@ -5800,6 +5896,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ギルドの女戦士
 「すると北の山でボロボロになってたヤツが
 　いてさ、もうゴブリンの精液でどっろどろ」
 # TRANSLATION 
@@ -5810,6 +5907,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ギルドの女戦士
 「生きてたんだけど、もう心が折れたっちゅうか、
 　まぁ再起不能になったんだよ」
 # TRANSLATION 
@@ -5820,7 +5918,9 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「うわぁ…いつもながらエグイ話するね…」
+\N[0]
+「うわぁ…
+　いつもながらエグイ話するね…」
 # TRANSLATION 
 
 # END STRING
@@ -5829,6 +5929,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 （あんなに気持ち良いのに…）
 # TRANSLATION 
 
@@ -5838,6 +5939,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 （私はまだ運がよかったのね…）
 # TRANSLATION 
 
@@ -5847,6 +5949,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 （でも、何故かドキドキしちゃう…）
 # TRANSLATION 
 
@@ -5856,7 +5959,8 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「まぁ、ななこも気ぃ付けなよ」
+ギルドの女戦士
+「まぁ、\N[0]も気ぃ付けなよ」
 # TRANSLATION 
 
 # END STRING
@@ -5865,6 +5969,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ギルドの女戦士
 「うわっ！寄るなよ、性病が移るだろ！？」
 # TRANSLATION 
 
@@ -5874,6 +5979,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「えっ？」
 # TRANSLATION 
 
@@ -5883,6 +5989,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ギルドの女戦士
 「あっち行けつってんだよ！この売女！
 　帰ってオヤジのマラでもしゃぶってろ！」
 # TRANSLATION 
@@ -5893,6 +6000,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「――っ！」
 # TRANSLATION 
 
@@ -5929,6 +6037,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+道着の若者
 「冒険者志望の方ですか？そこのカウンターにいる人が
 　ここのマスターですよ」
 # TRANSLATION 
@@ -5939,6 +6048,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+道着の若者
 「ゴブリン相手にいい気になってスライムや
 　ゴブリンリーダーにまで喧嘩を売るのは、
 　よした方がいいですよ」
@@ -5950,6 +6060,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+道着の若者
 「低レベルの内ははっきり言って奴らには
 　歯が立ちません」
 # TRANSLATION 
@@ -5960,6 +6071,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+道着の若者
 「せめて武器屋に行って装備を整えてから
 　挑むようにしたいですね」
 # TRANSLATION 
@@ -5970,6 +6082,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+道着の若者
 「武器屋は中央噴水の北東、温泉の裏手に
 　あります」
 # TRANSLATION 
@@ -5980,6 +6093,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+地味なギルドメンバー
 「また新入りか？
 　めんどくせえなぁ」
 # TRANSLATION 
@@ -5990,6 +6104,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+地味なギルドメンバー
 「何はなくともまず回復アイテムを買え」
 # TRANSLATION 
 
@@ -5999,6 +6114,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+地味なギルドメンバー
 「武器や防具も大事だが、敵わない相手とは
 　戦わなければいいだけの話だ」
 # TRANSLATION 
@@ -6009,8 +6125,9 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「だがピンチの時に回復手段がないというの
-　はどうしようもなく命に関わる。
+地味なギルドメンバー
+「だがピンチの時に回復手段がない
+　というのはどうしようもなく命に関わる。
 　なにせ逃げる事さえままならない」
 # TRANSLATION 
 
@@ -6020,8 +6137,9 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+地味なギルドメンバー
 「新米冒険者にありがちなのが、金をケチって
-　回復アイテムを持たずにクエストに出発し、
+　回復アイテムを持たずにクエストに出発し」
 # TRANSLATION 
 
 # END STRING
@@ -6030,6 +6148,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+地味なギルドメンバー
 「調子に乗って戦う内に気がついたら青息吐息。
 　ダンジョンの奥で雑魚に囲まれ逃げる事も敵わず
 　そのままお陀仏って展開だ」
@@ -6041,8 +6160,9 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「冒険者たるものいざって時の備えは常に確保
-　しておくもんだぜ。
+地味なギルドメンバー
+「冒険者たるものいざって時の備えは
+　常に確保しておくもんだぜ。
 　回復アイテムはその筆頭だな」
 # TRANSLATION 
 
@@ -6052,6 +6172,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ギルドマスター
 「おお、起きたのか。もう歩いて大丈夫か？」
 # TRANSLATION 
 
@@ -6061,6 +6182,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「うん。ご迷惑おかけしました」
 # TRANSLATION 
 
@@ -6070,6 +6192,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ギルドマスター
 「まぁそれはいいんだがよ」
 # TRANSLATION 
 
@@ -6079,6 +6202,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ギルドマスター
 「その代わり、お前も出先で倒れてる
 　ギルドの仲間見つけたら必ず連れ帰
 　ってくるようにしな」
@@ -6090,6 +6214,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「わかった。絶対にそうするわ」
 # TRANSLATION 
 
@@ -6099,6 +6224,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ギルドマスター
 「よし、じゃあさっさと出ていっちまえ」
 # TRANSLATION 
 
@@ -6108,6 +6234,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ギルドマスター
 「仕事の邪魔だからな」
 # TRANSLATION 
 
@@ -6117,6 +6244,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ギルドマスター
 「次からは気をつけろよ」
 # TRANSLATION 
 
@@ -6126,6 +6254,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ギルドマスター
 「もう動けるのか？全く無茶しやがって」
 # TRANSLATION 
 
@@ -6135,7 +6264,8 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「ごめんなさい･･･」
+\N[0]
+「ごめんなさい…」
 # TRANSLATION 
 
 # END STRING
@@ -6144,6 +6274,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ギルドマスター
 「そのうち本当におっ死んぢまうぞ」
 # TRANSLATION 
 
@@ -6153,15 +6284,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「･･･」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
+ギルドマスター
 「あーもう、しけたツラしてんじゃねえよ。
 　ほら行った行った」
 # TRANSLATION 
@@ -6172,6 +6295,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ギルドマスター
 「無理するんじゃねえぞ」
 # TRANSLATION 
 
@@ -6192,7 +6316,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「うん。だいたい大丈夫」
 # TRANSLATION 
 
@@ -6214,7 +6338,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「わかった」
 # TRANSLATION 
 
@@ -6234,7 +6358,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「私は私が倒れてからの話を
 　聞きたいけど…」
 # TRANSLATION 
@@ -6267,7 +6391,7 @@ Guild member's ranking table.
 # ADVICE : 49 char limit (35 if face)
 ギルドマスター
 「今回の功労者は間違いなくお前だ。
-　ななこ。大手柄も大手柄」
+　\N[0]。大手柄も大手柄」
 # TRANSLATION 
 
 # END STRING
@@ -6286,7 +6410,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「逃がしちゃったけどね…」
 # TRANSLATION 
 
@@ -6408,7 +6532,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「それで…アシュリーさんの…
 　容態は…」
 # TRANSLATION 
@@ -6429,7 +6553,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「聞かせて」
 # TRANSLATION 
 
@@ -6580,7 +6704,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「ううん…その、アシュリーさんの
 　苦しみは、私が…」
 # TRANSLATION 
@@ -6591,7 +6715,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「私の、責任だから。
 　だから…知って、背負う事から
 　逃げちゃダメだと思った」
@@ -6698,7 +6822,7 @@ Guild member's ranking table.
 # ADVICE : 49 char limit (35 if face)
 ギルドマスター
 「だとよ。
-　…ななこ、おめえなんか心当たり
+　…\N[0]、おめえなんか心当たり
 　あるか？」
 # TRANSLATION 
 
@@ -6708,7 +6832,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「…よ…」
 # TRANSLATION 
 
@@ -6718,7 +6842,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「よかったっ…」
 # TRANSLATION 
 
@@ -6728,7 +6852,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「よかった………」
 # TRANSLATION 
 
@@ -6770,7 +6894,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「うん」
 # TRANSLATION 
 
@@ -6826,7 +6950,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「兵舎？」
 # TRANSLATION 
 
@@ -6950,7 +7074,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「助っ人？」
 # TRANSLATION 
 
@@ -7136,7 +7260,7 @@ Guild member's ranking table.
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 ギルドマスター
-「･･･謎だ」
+「…謎だ」
 # TRANSLATION 
 
 # END STRING
@@ -7157,7 +7281,7 @@ Guild member's ranking table.
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 ギルドマスター
-「一体どこに連れ去られたのか･･･
+「一体どこに連れ去られたのか…
 　まぁ国外に売り飛ばされた可能性が
 　一番高いんだが」
 # TRANSLATION 
@@ -7212,7 +7336,7 @@ Guild member's ranking table.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「ふーん」
 # TRANSLATION 
 
@@ -7223,7 +7347,7 @@ Guild member's ranking table.
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 ギルドマスター
-「さて、ではななこ、
+「さて、では\N[0]、
 　お前に渡す物がある」
 # TRANSLATION 
 
@@ -7248,11 +7372,12 @@ Guild member's ranking table.
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこは仕事の成功により300EXPを得た
+\N[0]は仕事の成功により300EXPを得た
 # TRANSLATION 
-Nanako gained 300 XP
+
 # END STRING
 
 # TEXT STRING
@@ -7278,7 +7403,7 @@ Nanako gained 300 XP
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「？手形？」
 # TRANSLATION 
 
@@ -7322,7 +7447,7 @@ Nanako gained 300 XP
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「…素直に喜べないな……」
 # TRANSLATION 
 
@@ -7344,7 +7469,7 @@ Nanako gained 300 XP
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 ギルドマスター
-「それでだが、ななこ。
+「それでだが、\N[0]。
 　お前これからどうするか、
 　当てはあるのか？」
 # TRANSLATION 
@@ -7355,7 +7480,7 @@ Nanako gained 300 XP
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「いや、特に…」
 # TRANSLATION 
 
@@ -7367,7 +7492,7 @@ Nanako gained 300 XP
 # ADVICE : 49 char limit (35 if face)
 ギルドマスター
 「じゃあ丁度いい。
-　ななこ、お前都に行け」
+　\N[0]、お前都に行け」
 # TRANSLATION 
 
 # END STRING
@@ -7430,7 +7555,7 @@ Nanako gained 300 XP
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「でも、アシュリーさんが…」
 # TRANSLATION 
 
@@ -7451,7 +7576,7 @@ Nanako gained 300 XP
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「ええ？」
 # TRANSLATION 
 
@@ -7497,7 +7622,7 @@ Nanako gained 300 XP
 # ADVICE : 49 char limit (35 if face)
 エリカ
 「それに、目が覚めた時に
-　自分のせいでななこがずっと
+　自分のせいで\N[0]がずっと
 　立ち止まってたなんて知ったら」
 # TRANSLATION 
 
@@ -7519,7 +7644,7 @@ Nanako gained 300 XP
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 エリカ
-「だから、ななこは気にせず
+「だから、\N[0]は気にせず
 　都に行って、成長して来い！」
 # TRANSLATION 
 
@@ -7531,7 +7656,7 @@ Nanako gained 300 XP
 # ADVICE : 49 char limit (35 if face)
 エリカ
 「今度会う時は、俺らは元気な姿を、
-　ななこは立派になった姿を、
+　\N[0]は立派になった姿を、
 　それぞれ見せ合うんだ」
 # TRANSLATION 
 
@@ -7563,7 +7688,7 @@ Nanako gained 300 XP
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「……わかったわ。決めた。
 　私、都に行く」
 # TRANSLATION 
@@ -7574,7 +7699,7 @@ Nanako gained 300 XP
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「大会に出るかどうかは
 　まだわからないけど…」
 # TRANSLATION 
@@ -7585,7 +7710,7 @@ Nanako gained 300 XP
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「自分のできる事、やれる事、
 　もっと探してみようと思う」
 # TRANSLATION 
@@ -7596,7 +7721,7 @@ Nanako gained 300 XP
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「エリカ、アシュリーさんの事…
 　お願いね？」
 # TRANSLATION 
@@ -7614,13 +7739,13 @@ Nanako gained 300 XP
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「マスター、お世話になりました」
 # TRANSLATION 
-Nanako
-"Master, thank you for your kindess."
+
 # END STRING
 
 # TEXT STRING
@@ -7637,7 +7762,7 @@ Guild Master
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「よし！行くぞ私！
 　いざ都に！」
 # TRANSLATION 
@@ -7645,14 +7770,14 @@ Guild Master
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「………それで、次の馬列車って…
 　いつだっけ？」
 # TRANSLATION 
-Nanako
-"When will the next horse train arrive?"
+
 # END STRING
 
 # TEXT STRING
@@ -7670,7 +7795,9 @@ Nanako
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「ま、こんな小さな街じゃランキングを上げてみたところで
+売出し中の冒険者
+「ま、こんな小さな街じゃ
+　ランキングを上げてみたところで
 　大した依頼が転がり込んでくるわけじゃない」
 # TRANSLATION 
 
@@ -7680,6 +7807,7 @@ Nanako
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+売出し中の冒険者
 「名前を売るなら断然都のギルドでだな」
 # TRANSLATION 
 
@@ -7689,6 +7817,7 @@ Nanako
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+売出し中の冒険者
 「ただ冒険者ランクはどこへ行っても引き継がれるから
 　俺達みたいな新米冒険者は、
 　まずはこういう小さな街で経験を積むのさ」
@@ -7700,6 +7829,7 @@ Nanako
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+売出し中の冒険者
 「どの街でもランク5位以上になればその街と都を繋ぐ
 　馬列車のフリーパスが貰えるしな」
 # TRANSLATION 
@@ -7710,6 +7840,7 @@ Nanako
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ローブの男
 「新米冒険者に一つ俺からアドバイスしてやろう。
 　いいか、一人前になる秘訣って奴だ」
 # TRANSLATION 
@@ -7720,6 +7851,7 @@ Nanako
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ローブの男
 「それはな…『とにかく逃げろ』」
 # TRANSLATION 
 
@@ -7729,6 +7861,7 @@ Nanako
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ローブの男
 「勝てんと思ったら逃げる。失敗したら逃げる。
 　ヤバいと思ったら逃げる。嫌な予感がしたら逃げる」
 # TRANSLATION 
@@ -7739,6 +7872,7 @@ Nanako
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ローブの男
 「今の自分が確実にできる事だけをやれ。
 　無理だと思ったらすぐに逃げろ」
 # TRANSLATION 
@@ -7749,6 +7883,7 @@ Nanako
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ローブの男
 「それで例え仕事に失敗しても、五体満足で帰って
 　これたならいいじゃないか」
 # TRANSLATION 
@@ -7759,6 +7894,7 @@ Nanako
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ローブの男
 「メンツや誇りの為に死ぬなんてのはな、
 　騎士やら貴族やらに任せときゃいいんだ」
 # TRANSLATION 
@@ -7769,6 +7905,7 @@ Nanako
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ローブの男
 「どこまでも生き汚くなる事。
 　それが一人前の冒険者への第一歩だな」
 # TRANSLATION 
@@ -7779,6 +7916,7 @@ Nanako
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ギルドの優男
 「ランキングに興味があるのか？」
 # TRANSLATION 
 
@@ -7788,6 +7926,7 @@ Nanako
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ギルドの優男
 「冒険者ギルドは数あるギルドの中でも飛びぬけて
 　図体がデカいが、それだけにどうしようもない
 　カスみたいな構成員が殆どだ」
@@ -7799,6 +7938,7 @@ Nanako
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ギルドの優男
 「例えば魔術師ギルドのメンバーだっていうならそれだ
 　けで一目置かれるが、冒険者ギルドのメンバーだっつ
 　っても「はぁそれで？」ってなもんだ」
@@ -7810,6 +7950,7 @@ Nanako
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ギルドの優男
 「だがこのワールドランキングに名前が載ってる
 　連中は違う。どいつもこいつも化け物さ」
 # TRANSLATION 
@@ -7820,6 +7961,7 @@ Nanako
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ギルドの優男
 「特に10位以内になると国から手厚い保護とサポートが
 　受けれるようになる。成功者って奴だな」
 # TRANSLATION 
@@ -7830,6 +7972,7 @@ Nanako
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ギルドの優男
 「ケチな依頼をこなしてその日暮らしも悪かないが、
 　冒険者ならやっぱりトップ10入りを狙いたいね」
 # TRANSLATION 
@@ -7840,6 +7983,7 @@ Nanako
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+野性的な女
 「なかなかそそる身体してるわね貴女」
 # TRANSLATION 
 
@@ -7849,6 +7993,7 @@ Nanako
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+野性的な女
 「言うまでもないことだけど、体の状態にはいつも気を
 　配りなさい」
 # TRANSLATION 
@@ -7859,6 +8004,7 @@ Nanako
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+野性的な女
 「私達の体は小説の主人公みたいにはできてないわ。
 　軽い怪我でも回復には何日もかかるし、毒や麻痺を
 　を食らったら最低一週間は寝込む羽目になる」
@@ -7870,7 +8016,8 @@ Nanako
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「回復アイテムは値が張るし･･･回復魔法は使い手が
+野性的な女
+「回復アイテムは値が張るし…回復魔法は使い手が
 　限られてるしね」
 # TRANSLATION 
 
@@ -7880,6 +8027,7 @@ Nanako
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+野性的な女
 「ま、急ぐ用がないなら、自分で回復魔法を習得するか
 　仲間に腕のいい魔術師を迎えるまでは、素直に一週間
 　泊まって完全回復をするようにしたほうがいいわよ」
@@ -7891,7 +8039,938 @@ Nanako
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+野性的な女
 「結局それが一番安くつくんだから」
 # TRANSLATION 
 
+# END STRING
+
+# UNUSED TRANSLATABLES
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「ゴブリン退治は完了♪
+　さぁて、報酬を受け取るわよ」
+# TRANSLATION 
+Nanako
+"The goblin extermination is complete,♪
+Now let go get our reward."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「やぁ、仲間を探しているのかい？」
+# TRANSLATION 
+"Hey, are you looking for a companion?"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「なんで、またこの仕事があるのよ？」
+# TRANSLATION 
+"Why is there such work again?"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「いつ？！」
+# TRANSLATION 
+Nanako
+"When?"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「平和ね…」
+# TRANSLATION 
+"To maintain the peace... hmm"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「悔しいけれど、ミノタウロスは強かった……
+　またあんな目に合わされたら……」
+# TRANSLATION 
+Nanako
+"Those Minotaurs where strong,
+I wonder will I be able to defeat them?"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「薬の配達成功♪
+　報酬を受け取りましょ」
+# TRANSLATION 
+Nanako
+"Delivery success ?
+Now let's go and get the reward."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「何？」
+# TRANSLATION 
+"Oh?"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「マスター、お世話になりました」
+# TRANSLATION 
+Nanako
+"Master, thank you for your kindess."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+現在募集のある仕事はそこのノートに書いてある。
+勝手に調べて、
+めぼしい仕事があれば俺に言ってくれ。
+# TRANSLATION 
+Check out the book to my left if your interested
+in some work. Come talk to me if you find
+anything which interest you.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「冒険者のやる仕事とは思えないわね……
+　まぁ、今は仕方ないか」
+# TRANSLATION 
+Nanako
+"Well it's an adventurers job, so I might as
+well just do it."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「大人しい子達だっていう話だから
+　この依頼は楽ができそうね」
+# TRANSLATION 
+Nanako
+"I heard they were quiet children,
+so it seems this will be a easy job."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「子供のお守りね……
+　ま、子供は好きだし、やってみようかな」
+# TRANSLATION 
+Nanako
+"A baby sitter?
+Well I like children so I can do this."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ギルドマスター
+「それじゃ、ゴブリンたちを全滅させたら
+　報告に来てくれ。頼ん･･･」
+# TRANSLATION 
+Guild Master
+"Please come back and report to me once
+you have exterminated the goblins."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「うぅ、失敗しちゃったのよね……」
+# TRANSLATION 
+Nanako
+"Ugh, I guess I failed..."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「………それで、次の馬列車って…
+　いつだっけ？」
+# TRANSLATION 
+Nanako
+"When will the next horse train arrive?"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+やったわ！
+# TRANSLATION 
+Hehe it was easy.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「酒場に行って、詳細を聞きましょう」
+# TRANSLATION 
+Nanako
+"Go to bar, hmm let's ask the guild master
+for some details."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ギルドマスター
+「おお！ななこ！
+　てめえ生きてやがったか！」
+# TRANSLATION 
+Guild Master
+"Oh! Nanako
+You are alive!"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「わかったわ」
+# TRANSLATION 
+"Okay."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「じゃあ…？」
+# TRANSLATION 
+Nanako
+"Then?"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「あ、もうこんな時間なのね」
+# TRANSLATION 
+"Oh, It's this late already"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「ミノタウロスは倒せた。
+　後は女の人達を見つけられれば……」
+# TRANSLATION 
+Nanako
+"I can manage to defeat the Minotaurs.
+though am I able to find the women?"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ギルドマスター
+「そうか。なら、頼んだぞ
+　市街地を東に出たらすぐだ。」
+# TRANSLATION 
+Guild Master
+"You need to take the east exit to get there.
+I've sent message to the guard there. he will
+tell you how to get pass"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「やったわ！」
+# TRANSLATION 
+Nanako
+"Piece of cake."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「いつまでもくよくよしてられない。
+　次がんばればいいのよ、うん」
+# TRANSLATION 
+Nanako
+"I can't always be successful.
+all I gotta do is do better next time."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ギルドマスター
+「報酬は５００Ｇなんだが･･･
+　どうする、お前、受けるか？」
+# TRANSLATION 
+Guild Master
+"And the reward for this quest is
+500G.
+So what do you say?"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ギルドマスター
+「・・・と、今までならそれで済んだんだがな」
+# TRANSLATION 
+Guild Master
+"Now... With this you've passed you limit."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「宿屋に泊まって夜を待ちましょう」
+# TRANSLATION 
+Nanako
+"Let's wait at the Inn for the night."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ギルドマスター
+「市街地から東に出たところにある
+　一軒屋の主からの依頼だ。」
+# TRANSLATION 
+Guild Master
+"We've gotten a quest from a lady east of
+this city."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「今進めてる依頼を解決してからにしましょう」
+# TRANSLATION 
+Nanako
+"Now, Let's let the guild master know
+that I'm accepting this quest."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこは仕事の成功により50EXPを得た
+# TRANSLATION 
+Nanako gained 50 XP
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+そ、そんな……
+# TRANSLATION 
+No... No way...
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「いくつか確認って…盗賊のアジトに
+　しては随分お粗末な話なような…」
+# TRANSLATION 
+"Though their hideout is fairly poor.
+but they have numbers so they are
+quite dangerous."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ギルドマスター
+「ほら、これが約束の報酬500Gだ。」
+# TRANSLATION 
+Guild Master
+"Here is your promised reward
+of 500G."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「ゴブリン退治程度なら楽勝ね」
+# TRANSLATION 
+Nanako
+"Just a goblin extermination quest?
+That's too easy."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「現在募集のある仕事はそこのノートに書いてある。
+　勝手に調べて、
+　めぼしい仕事があれば俺に言ってくれ」
+# TRANSLATION 
+"Look at the book next to me to review
+the quest that people so far have left.
+Once you've found a quest come talk"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+報酬は仕事を片付けてからだ。
+基本中の基本だぞ。
+# TRANSLATION 
+You'll recieve the reward after the quest.
+it's the basic procedure.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「酒場のウェイトレスをなんとかこなせたわ。
+　さあ、報酬を受け取りましょ」
+# TRANSLATION 
+Nanako
+"I managed to get through that waitress job,
+so let's go and get our reward."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「なんで、こんな仕事があるのよ？」
+# TRANSLATION 
+"Why does the guild accepts this kinds
+of quest?"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「女の子の冒険者って最近多いみたいだね
+　君もそうなのかい？」
+# TRANSLATION 
+"There seem to be a lot of girl adventurers recently.
+Are you looking too?"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「ふーん…で、私の仕事は？」
+# TRANSLATION 
+"Is that so?
+So where do I come in?"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「なんで、また募集してるの？」
+# TRANSLATION 
+"What are you looking for?"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「配達の距離にもよるけど
+　楽そうな依頼ね」
+# TRANSLATION 
+Nanako
+"A delivery quest? boring.
+though it looks like it not far, so I could probably
+finish it quickly."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「接客業かぁ……
+　私にできるかな？」
+# TRANSLATION 
+Nanako
+"Waitress at bar?
+Why is there such a job here..."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「それがどうしたの？」
+# TRANSLATION 
+"What happened?"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこは仕事の成功により300EXPを得た
+# TRANSLATION 
+Nanako gained 300 XP
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ギルドマスター
+「ほら、これが約束の報酬1000Gだ。」
+# TRANSLATION 
+Guild Master
+"As promised here is the reward
+of 1000G."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「ゴブリン共めぇ、今度こそ……」
+# TRANSLATION 
+Nanako
+"Seems like it's me and the goblins again."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「手強かったけど……なんとか勝てた。
+　報酬を受け取って依頼終了ね」
+# TRANSLATION 
+Nanako
+"Hehe... I Managed to win, now let's go get the reward."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「偵察って…そんなのやった事も
+　ないんだけど…」
+# TRANSLATION 
+"Inflitrate? I have never done such a thing
+before..."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「是非やらせてください！」
+# TRANSLATION 
+"I'll help, by all means."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「ハハハ……」
+# TRANSLATION 
+"Hahaha... ..."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「女だからって
+　嘗められなければいいけど……」
+# TRANSLATION 
+Nanako
+"I hope he won't look down on me
+because Im a woman."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「くっそー、あのエロ親父めぇ……」
+# TRANSLATION 
+Nanako
+"Damn it, that perverted old man..."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「取り返しの付かないことになる前に
+　女の人達を助け出してあげないと」
+# TRANSLATION 
+Nanako
+"Though it's important that I can manage
+to rescue those women."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+私……これからどうなっちゃうの？
+# TRANSLATION 
+What... What will happen now?
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ギルドマスター
+ん？　何か聞きたいのか？
+# TRANSLATION 
+Guild Master
+"What would you like to ask about?"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこは仕事の成功により250EXPを得た
+# TRANSLATION 
+Nanako gained 250 XP
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ギルドマスター
+「もうギルドも終まいだ。
+　用があるなら明日来な。」
+# TRANSLATION 
+Guild Master
+"You've all ready completed a quest today.
+The guild only allows adventurers
+to complete one quest a day."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこは仕事の成功により30EXPを得た
+# TRANSLATION 
+Nanako gained 30 XP
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「まさか、危ない荷物じゃないでしょうね？
+　扱いが禁止されている薬草とか――」
+# TRANSLATION 
+Nanako
+"No, I don't want to protect him,
+what if he holds something dangerous in
+his baggage?"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「あれ？この依頼解決したはずよね…？」
+# TRANSLATION 
+Nanako
+"Huh? shouldn't this quest be finished?"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ギルドマスター
+「深い意味はねえよ、いかつい野郎が行ったんじゃあ
+　ガキが泣いちまう。」
+# TRANSLATION 
+Guild Master
+"Well you can maybe think for youself.
+if I where to send a huge guy filled with scars
+on her door. what do you think would happen?"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「？」
+# TRANSLATION 
+Nanako
+"?"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「とんでもない依頼だったわ……
+　将来子供を産んだら、ああは育てまい……」
+# TRANSLATION 
+Nanako
+"That was a ridiculous quest,
+If I'll get a kid in the future, I won't be
+able to raise it."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこは仕事の成功により80EXPを得た
+# TRANSLATION 
+Nanako gained 80 XP
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「ハハハハ」
+# TRANSLATION 
+"Hahahaha"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「ついでには余計だけどね」
+# TRANSLATION 
+"I understand where you are heading
+with this conversation."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ギルドマスター
+「ほら、これが約束の報酬300Gだ。」
+# TRANSLATION 
+Guild Master
+"You'll get your reward as promised
+of 300G."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「女の人達は発見できた。
+　あとはミノタウロスを倒せば……」
+# TRANSLATION 
+Nanako
+"Now that I know the location,
+It all about whenever or not I can defeat them."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ギルドマスター
+「･･･悪いが拘束させてもらう。
+　ギルドとしても向こうと事を荒立てたくない」
+# TRANSLATION 
+Guild Master
+"We will have to restrain you and throw you in
+jail for not paying taxes."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「道具屋に行って、詳細を聞きましょう」
+# TRANSLATION 
+Nanako
+"It says go to the tool shop?
+I'll just ask the guild master about it."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこは仕事の成功により150EXPを得た
+# TRANSLATION 
+Nanako gained 150 XP
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「わかった。それ以外は？」
+# TRANSLATION 
+"Understood, Anything else?"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ギルドマスター
+「報酬は１０００Ｇだ。
+どうする、受けるか？」
+# TRANSLATION 
+Guild Master
+"So what do you say?
+The reward is 1000G"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「…」
+# TRANSLATION 
+"..."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ギルドマスター
+「夕方から一晩、家を留守にするってんで、
+　２人いる息子の面倒を見ていて欲しいそうだ。」
+# TRANSLATION 
+Guild Master
+"She is in need of a baby sitter to take care of
+her two sons while she is gone for the day."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ギルドマスター
+「ゴブリンを退治してきたみたいだな。
+　依頼人も喜んでいるぞ。」
+# TRANSLATION 
+Guild Master
+"So you've exterminated the goblins?
+I'll have a very happy client now."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ギルドマスター
+「・・・前回が評判だったらしく
+　味を占めたようだな。」
+# TRANSLATION 
+Guild Master
+"It seemed that the bar gained some reputation
+when you where there. so now they ask
+for more to come help."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「早く東の町に行かないとね」
+# TRANSLATION 
+Nanako
+"So... going to take the east exit."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+お前はもう仕事を請け負っているだろう。
+今の仕事に専念しろ。
+# TRANSLATION 
+Guild Master
+"You've all ready accepted a quest.
+finish it before accepting a new one."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「ゴブリンなんて大した敵じゃないわ。
+　さっさとやっつけちゃいましょう」
+# TRANSLATION 
+Nanako
+"Goblins aren't though opponents.
+Taking them out should be a piece
+of cake."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「なんで？」
+# TRANSLATION 
+"Why not?"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ギルドマスター
+「自分のランキングをこまめに確認するが重要だぞ。
+　冒険者の格があがれば、力量に見合った依頼を俺から
+　紹介することもできるからな･･･」
+# TRANSLATION 
+Guild Master
+「自分のランキングをこまめに確認するが重要だぞ。
+　冒険者の格があがれば、力量に見合った依頼を俺から
+　紹介することもできるからな･･･」
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「あなたも冒険者ですか？」
+# TRANSLATION 
+"Are you an adventurer?"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「ミノタウロス……。少し不安かも。
+　でも、自分の腕前を試すにはいい機会ね！」
+# TRANSLATION 
+Nanako
+"Minotaurs... this might be a little to much for me.
+But, this is a chance to see how strong I am."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「この依頼は私が解決済みよ」
+# TRANSLATION 
+Nanako
+"I have all ready solved this quest."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「変だけど悪い人じゃなかったわね。
+　さぁ、報酬報酬♪」
+# TRANSLATION 
+Nanako
+"Strangely, it was not a bad person.
+Now, Reward reward ♪"
 # END STRING

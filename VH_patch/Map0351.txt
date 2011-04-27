@@ -3,7 +3,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「あ、もうこんな時間なのね」
+木の妖精名前は、アミリで、いこうと思います
 # TRANSLATION 
 
 # END STRING
@@ -12,8 +12,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-　　　　　　　　セレナ「・・・・・・」
-　　　　　　　　そなたどこかで、会ったか
+設定として大きくなったり小さくなったり
+させるつもりです。
 # TRANSLATION 
 
 # END STRING
@@ -22,9 +22,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ギルドマスター
-『敵は一旦引いた。私は今の内に逃げ
-　遅れていた人々を助けに行こうと思う』
+こんなかんじで・・・
 # TRANSLATION 
 
 # END STRING
@@ -33,9 +31,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ギルドマスター
-『しかし私一人では手が足りない。
-　そなたら手を貸してくれ』
+アミリ
+「よろしくです」
 # TRANSLATION 
 
 # END STRING
@@ -44,8 +41,25 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「…ってな」
+幼少、少女どっち？
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Choice
+# ADVICE : 49 char limit
+幼少「あるけど仮」です
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Choice
+# ADVICE : 49 char limit
+少女
 # TRANSLATION 
 
 # END STRING
@@ -54,9 +68,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「結局何人かつけてやったら
-　町中の人間拾ってきやがった」
+アミリ
+「こんな感じです、幼少は、後々また書き直します」
 # TRANSLATION 
 
 # END STRING
@@ -65,9 +78,92 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「そしたらそいつらに武器持たせて
-　戦えっつうんだよ」
+「いちおう、妖精の森イベントのbossを、作りました
+　設定は、魔術師ギルドの女の魔眼使いです・・」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「場所は、妖精の森の建物の後ろから横に
+　抜けていけます」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+木の妖精
+「むにゃ・・・むにゃ・・朝は、
+　あまり強くないのです・・」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「それで、どうしたの？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+木の妖精
+「未定」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+カス
+「どうもカズです」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+カス
+「ここから先は、未定です・・・申し訳ないです
+　とういかどうしたらいいか、迷走中です・・・
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+カス
+「どうしたらいいでしょうか・・・」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+カス
+「何か案ががあれば、教えてほしいです。
+　お願いします。
+　今は、妖精の村でも作ろうかとも思っています。」
 # TRANSLATION 
 
 # END STRING
@@ -549,8 +645,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「今日は何の用だい？」
+ミスター
+「いらっしゃい、今日は何の用だ？」
 # TRANSLATION 
 
 # END STRING
@@ -586,9 +682,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「今日はもういいぞ。ギルドの依頼斡旋は
-　一日一回までの決まりなんでな」
+ミスター
+「現在募集のある仕事はそこのノートに書いてある
+　勝手に調べて、めぼしい仕事があれば言ってくれ」
 # TRANSLATION 
 
 # END STRING
@@ -597,9 +693,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「無茶をして死なれても面倒というわけだ。
-　宿屋にでも泊まってまた明日来るんだな」
+\N[0]
+「この依頼を受けたいんだけど」
 # TRANSLATION 
 
 # END STRING
@@ -608,9 +703,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「現在募集のある仕事はそこのノートに書いてある。
-　勝手に調べて、
-　めぼしい仕事があれば俺に言ってくれ」
+ミスター
+「・・・ああ」
 # TRANSLATION 
 
 # END STRING
@@ -619,9 +713,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「近頃町の北の岩場をうろつき出したゴブリン
-　共の退治だ」
+ミスター
+「依頼主は、何を探すかは、受けた本人に
+　言うそうだ学者だと言っていたな・・・」
 # TRANSLATION 
 
 # END STRING
@@ -630,64 +724,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「こいつらどうも近くに巣があるらしくてな。何度
-　退治してもしばらくするとまたやってきやがる」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「とはいえ放っておいてあそこを縄張りにされると
-　それもまた厄介この上ない」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「本来ゴブリン退治は守備隊の仕事なんだが、
-　例によって忙しくて手が回らないらしくてな」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「というわけで目出度く我々冒険者ギルドの出番と
-　相成ったわけだが」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「何せゴブリン退治なんて最下級評価の仕事だろう、
-　その上安いとなると誰も受けてくれなくてな」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「報酬は５００Ｇなんだが･･･
-　どうする、お前、受けるか？」
+「ふ～ん」
 # TRANSLATION 
 
 # END STRING
@@ -714,9 +751,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「それじゃ、ゴブリンたちを全滅させたら
-　報告に来てくれ。頼んだぞ」
+ミスター
+「そうか・・・」
 # TRANSLATION 
 
 # END STRING
@@ -725,9 +761,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「それじゃ、ゴブリンたちを全滅させたら
-　報告に来てくれ。頼ん･･･」
+ミスター
+「依頼主は、港に居るそうだ」
 # TRANSLATION 
 
 # END STRING
@@ -736,9 +771,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「おっと。そうそう、もし緑色のゴブリンが
-　いたら、そいつは倒さなくていいからな？」
+ミスター
+「・・・もう仕事を請け負っているな
+　今の仕事に専念しな」
 # TRANSLATION 
 
 # END STRING
@@ -747,7 +782,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「なんで？」
+ミスター
+「なにかあったのか」
 # TRANSLATION 
 
 # END STRING
@@ -756,9 +792,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「ゴブリンリーダーって言うんだが、こいつは
-　取り巻きがいなくなれば勝手に帰っていくから」
+ミスター
+「何か困ったことがあったら、いいな」
 # TRANSLATION 
 
 # END STRING
@@ -767,8 +802,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「無理して片付ける必要はないんだ」
+ミスター
+「話は聞いた、問題を解決したそうだな。」
 # TRANSLATION 
 
 # END STRING
@@ -777,9 +812,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「赤色の奴とは比べ物にならないくらい強いしな。
-　むしろ死にたくなけりゃ手を出すな」
+ミスター
+「報酬1000Gだ」
 # TRANSLATION 
 
 # END STRING
@@ -788,7 +822,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「わかったわ」
+ななこは仕事の成功により200EXPを得た
 # TRANSLATION 
 
 # END STRING
@@ -797,627 +831,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「うむ。じゃあ今度こそ行ってこい。退治
-　し終わったらちゃんと報告にこいよ」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「ちょっとおつかいするだけの簡単な仕事だ」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「報酬は３００Ｇだ。
-　どうする、受けるか？」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「それじゃ、詳しいことは道具屋の女主人
-　に聞いてくれ。頼んだぞ」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「なんで、こんな仕事があるのよ？」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「駆け出しの冒険者なんて何でも屋と大して
-　変わらんからな。それに女にしか出来ない
-　依頼は女が少ないから残りやすいんだ」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「危険もないしそれなりに金にもなる。
-　そう悪い仕事じゃないだろう」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「報酬は５００Ｇだ。
-　どうする、受けるか？」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「それじゃ、詳しいことは酒場のマスター
-　に聞いてくれ。頼んだぞ」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「町から西に行ったところにある洞窟に、
-　最近ミノタウロスが住み着いたって話だ」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「ミノタウロスは雌がいないから、繁殖期に
-　なると人間の女をさらっていく」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「どうやら、既に何人かさらわれちまった
-　奴も出たらしい」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「この依頼の目的はミノタウロスの退治と、
-　さらわれた女達の救出だ」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「しかし今のあんたには少々荷が重い
-　かもしれん」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「報酬は５０００Ｇだ。
-　どうする、受けるか？」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「そうか。なら、頼んだぞ」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「安全に隣町に行くため、
-　用心棒を雇いたがっている男がいる」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「俺の察するところ、
-　どうやら何らかの荷物を運びたいようだ」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ななこ
-「まさか、危ない荷物じゃないでしょうね？
-　扱いが禁止されている薬草とか――」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「なぁに、それが如何わしい品だったとしても
-　俺たちには関係ない話だ」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「万が一の場合は冒険者ギルドがお前の潔白を証明する
-　犯罪の片棒を担ぐことにはならない」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「お前は用心棒の仕事に集中すりゃあ良いんだ」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「報酬は１０００Ｇだ。
-　どうする、受けるか？」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「悪いが、今回は協力者を
-　つれていく訳にはいかないんだ」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「依頼受ける気があるなら、
-　一人になってから声をかけてくれ」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「そうか。なら、頼んだぞ。
-　依頼人は宿屋の2Fで待っているそうだ」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「ただし、昼間は街を散策すると言っていた。
-　会いに行くなら夜だろう。宿屋で夜を待つといいぞ」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「市街地から東に出たところにある
-　一軒屋の主からの依頼だ。」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「夕方から一晩、家を留守にするってんで、
-　２人いる息子の面倒を見ていて欲しいそうだ。」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「ガキのお守りなんて仕事は
-　お前に打ってつけだろう」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-それってどういう意味？
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「深い意味はねえよ、いかつい野郎が行ったんじゃあ
-　ガキが泣いちまう。」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「大人しい気性の子供だそうだから
-　楽な依頼なんじゃねえか？」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「報酬は１０００Ｇだ。
-どうする、受けるか？」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「そうか。なら、頼んだぞ
-　市街地を東に出たらすぐだ。」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-お前はもう仕事を請け負っているだろう。
-今の仕事に専念しろ。
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-現在募集のある仕事はそこのノートに書いてある。
-勝手に調べて、
-めぼしい仕事があれば俺に言ってくれ。
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「なんで、また募集してるの？」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「前にも話しただろう？」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「こいつらはどういうわけか、何度退治しても
-　しばらくするとまたやってくるんだ」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「ともかくこいつらを退治しないと、
-　おちおち町の外にも出れやしない」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「なんで、またこの仕事があるのよ？」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「・・・前回が評判だったらしく
-　味を占めたようだな。」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「それじゃ、詳しいことは酒場のマスター
-に聞いてくれ。頼んだぞ」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「聞いたぜ。どうやら失敗して
-　エライ目にあったらしいな」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「だが、ミノタウロスは今も
-　まだ退治されていないままだ」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「どうする？
-　まだ依頼を続ける気はあるか？」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「そうか。健闘を祈るぜ」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「そうか。やっぱり
-　あんたにゃまだ荷が重かったな」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「あんたも少し慣れてきたようだな」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「女の冒険者は大変だが、
-　あんたなら上まで行けそうな気がするよ」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「期待してるぜ」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「女の冒険者もいないわけじゃないが、
-　やっぱり数は少ない」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「女が舐められやすい世界だし、下手を打って
-　犯されたあげく孕まされて引退したり、
-　奴隷商人に売り払われちまったなんて奴もいる」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「アンタも十分に気をつけるんだぜ」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「ゴブリンを退治してきたみたいだな。
-　依頼人も喜んでいるぞ。」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「ほら、これが約束の報酬500Gだ。」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ななこは仕事の成功により80EXPを得た
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「やったわ！」
 # TRANSLATION 
 
@@ -1427,8 +841,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「依頼を達成したようだな」
+ミスター
+「報酬は、仕事を片付けてからな」
 # TRANSLATION 
 
 # END STRING
@@ -1437,8 +851,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「ほら、これが約束の報酬300Gだ。」
+ミスター
+「ん、どうした」
 # TRANSLATION 
 
 # END STRING
@@ -1447,7 +861,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこは仕事の成功により50EXPを得た
+ななこ
+「じつは・・・
 # TRANSLATION 
 
 # END STRING
@@ -1456,7 +871,10 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-やったわ！
+ミスター
+「・・・それなら、ベネッタに聞いてみたらどうだ
+　妖精と、一緒に居たぞ、一度話を
+　聞いたらいいんじゃないか」
 # TRANSLATION 
 
 # END STRING
@@ -1465,7 +883,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこは仕事の成功により30EXPを得た
+ななこ
+そういえば・・・　
 # TRANSLATION 
 
 # END STRING
@@ -1474,8 +893,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「無事依頼を達成したようだな」
+ななこ
+「まだ、都に居るかな？
+　う～～ん、行ってみるか！」
 # TRANSLATION 
 
 # END STRING
@@ -1484,8 +904,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「ほら、これが報酬だ」
+ななこ
+「そうだね、ありがとうミスターさん」
 # TRANSLATION 
 
 # END STRING
@@ -1494,7 +914,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-５０００Ｇを手に入れた。
+ミスター
+「・・・・・・」
 # TRANSLATION 
 
 # END STRING
@@ -1503,7 +924,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこは仕事の成功により250EXPを得た
+ミスター
+「・・・・・・鉱山？行くなら、港に行きな。」
 # TRANSLATION 
 
 # END STRING
@@ -1512,8 +934,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「ほら、これが約束の報酬1000Gだ。」
+ミスター
+「報酬2000Gだ」
 # TRANSLATION 
 
 # END STRING
@@ -1522,580 +944,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこは仕事の成功により150EXPを得た
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-報酬は仕事を片付けてからだ。
-基本中の基本だぞ。
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「例の件、受けてくれる気になったか？」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「そうか…じゃ、」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「ああお前か、丁度いい所に来た。
-　少し頼みたい事がある」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「何？」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「血の兄弟団って知ってるか？最近ここら
-　を騒がしてる厄介な連中だ」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「それがどうしたの？」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「うむ…今迄はゴブリンの対処に手一杯
-　で奴らにまで手が回らなかったんだが」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「もはやこれ以上は後回しにできない程
-　ここ最近被害が増大していてな」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「丁度ゴブリンの件に一段落が
-　ついた今、東の街の連中
-　と協議して」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「今度は奴らを大掃除する事に
-　なったんだ」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「ふーん…で、私の仕事は？」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「話が早いな」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「じゃあこっちも単刀直入に言うが、お前
-　には討伐隊の派遣の前に奴らのアジトへ
-　偵察に行ってもらいたい」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「偵察って…そんなのやった事も
-　ないんだけど…」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「そりゃ他の連中も一緒だ。うちは田舎の
-　平和なギルドだからな」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「基本的に殴って殺すしか能のない連中
-　ばっかなんだよ」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「平和ね…」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「報告は受けてる。お前は随分身が軽い
-　っていうじゃないか」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「鎧や刃物も装備してないから物音を立て
-　ず隠れて行動するのにも向いている」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「ついでに頭も悪くない」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「ついでには余計だけどね」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「諸々の条件鑑みて、今いる連中の
-　中じゃお前が一番適任なんだよ。
-　どうだ、受けちゃくんねえか」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「危険な任務だし報酬は前金で1500G、
-　成功したらもう1500出そう」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Choice
-# ADVICE : 49 char limit
-乗った！
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Choice
-# ADVICE : 49 char limit
-やめとく
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「是非やらせてください！」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「おお、やってくれるか、正直助かるぜ」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「それじゃ、具体的な説明に入るが、
-　まぁ話自体は簡単だ」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「連中はこの街と東の街との中間あたりに
-　ある森の中の洞窟を根城にしてる」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「出入り口はいくつか確認しているが、
-　お前には東の森に入ってすぐの所から」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「潜入してもらう」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「いくつか確認って…盗賊のアジトに
-　しては随分お粗末な話なような…」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「いや、少し前までは
-　全く掴めなかったんだ」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「盗賊団が大きくなってきて
-　から、今の拠点に腰を落ち
-　着けたらしい」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「というか、そもそも連中はもう逃げ隠れ
-　する気はないようだ」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「舐めてやがんだな。…ま、それはいい。
-　話を戻すぞ」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「お前の潜入に合わせて東の街の自警団の
-　連中が陽動をこなす手筈になっている」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「こっちの出入り口は裏口のようだから、
-　警戒は薄くなるはずだ」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「具体的にどうやって潜入するかはお前に
-　任せる」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「見つからないようにして、敵の数、質、
-　装備、物資の蓄積状況」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「あと何より大切なのがアジト内の地図だ
-　ここら辺の情報を収集してきてくれ」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「もし捕まったら？」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「見捨てるわけじゃないが、救出は盗賊団
-　の討伐のついでという形になるだろう」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「できるだけ早くに動くつもりだが、それ
-　までの間、どうなるかはお前次第だ」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「お前の情報を当てにしてる面も大きい。
-　できれば自力で脱出してくれ」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「…」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「わかった。それ以外は？」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「それで全部だ。東門の門番には話を
-　通しておくから、早速向かってくれ」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「おっと、前金だったな」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「装備を整えるなりいいもん食うなり好き
-　に使え」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「じゃあな、帰ってこいよ」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「そうか…まぁいい」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「気が変わったらまた言ってくれ」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ギルドマスター
-「さて、」
+ミスター
+「今日は、もう終わりだ」
 # TRANSLATION 
 
 # END STRING
@@ -2122,7 +972,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Choice
 # ADVICE : 49 char limit
-次のページへ
+歌手の募集（解決済み）
 # TRANSLATION 
 
 # END STRING
@@ -2131,25 +981,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Choice
 # ADVICE : 49 char limit
-ゴブリン退治(500G)
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Choice
-# ADVICE : 49 char limit
-届け物(300G)
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Choice
-# ADVICE : 49 char limit
-酒場のウェイトレス(500G)
+物探し(2000G)
 # TRANSLATION 
 
 # END STRING
@@ -2159,7 +991,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 ななこ
-「ゴブリン退治程度なら楽勝ね」
+「これは、解決済み、みたいね。」
 # TRANSLATION 
 
 # END STRING
@@ -2168,9 +1000,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
-「ゴブリンなんて大した敵じゃないわ。
-　さっさとやっつけちゃいましょう」
+\N[0]
+「物探し？えらく簡単そうね。」
 # TRANSLATION 
 
 # END STRING
@@ -2179,8 +1010,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
-「ゴブリン共めぇ、今度こそ……」
+う～ん、とにかく
+依頼主に話しを聞きましょう。
 # TRANSLATION 
 
 # END STRING
@@ -2189,498 +1020,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
-「ゴブリン退治は完了♪
-　さぁて、報酬を受け取るわよ」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ななこ
-「あれ？この依頼解決したはずよね…？」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ななこ
-「配達の距離にもよるけど
-　楽そうな依頼ね」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ななこ
-「道具屋に行って、詳細を聞きましょう」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ななこ
-「薬の配達成功♪
-　報酬を受け取りましょ」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ななこ
-「接客業かぁ……
-　私にできるかな？」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ななこ
-「酒場に行って、詳細を聞きましょう」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ななこ
-「くっそー、あのエロ親父めぇ……」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ななこ
-「酒場のウェイトレスをなんとかこなせたわ。
-　さあ、報酬を受け取りましょ」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ななこ
-「冒険者のやる仕事とは思えないわね……
-　まぁ、今は仕方ないか」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Choice
-# ADVICE : 49 char limit
-前のページへ
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Choice
-# ADVICE : 49 char limit
-ミノタウロス退治(5000G)
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Choice
-# ADVICE : 49 char limit
-用心棒の依頼(1000G)
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Choice
-# ADVICE : 49 char limit
-子守の依頼(1000G)
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ななこ
-「ミノタウロス……。少し不安かも。
-　でも、自分の腕前を試すにはいい機会ね！」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ななこ
-「取り返しの付かないことになる前に
-　女の人達を助け出してあげないと」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ななこ
-「女の人達は発見できた。
-　あとはミノタウロスを倒せば……」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ななこ
-「ミノタウロスは倒せた。
-　後は女の人達を見つけられれば……」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ななこ
-「悔しいけれど、ミノタウロスは強かった……
-　またあんな目に合わされたら……」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ななこ
-「手強かったけど……なんとか勝てた。
-　報酬を受け取って依頼終了ね」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ななこ
-「女だからって
-　嘗められなければいいけど……」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ななこ
-「宿屋に泊まって夜を待ちましょう」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ななこ
-「早く東の町に行かないとね」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ななこ
-「変だけど悪い人じゃなかったわね。
-　さぁ、報酬報酬♪」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ななこ
-「とんだスケベ親父だったわね……
-　ボーナスが貰えたからいいけど」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ななこ
-「うぅ、失敗しちゃったのよね……」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ななこ
-「いつまでもくよくよしてられない。
-　次がんばればいいのよ、うん」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ななこ
-「子供のお守りね……
-　ま、子供は好きだし、やってみようかな」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ななこ
-「大人しい子達だっていう話だから
-　この依頼は楽ができそうね」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ななこ
-「とんでもない依頼だったわ……
-　将来子供を産んだら、ああは育てまい……」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ななこ
-「今進めてる依頼を解決してからにしましょう」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ななこ
-「この依頼は私が解決済みよ」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Choice
-# ADVICE : 49 char limit
-地下水道の調査(1200G)
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Choice
-# ADVICE : 49 char limit
-クイシナート調達（募集終了）
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Choice
-# ADVICE : 49 char limit
-重要物品輸送（募集終了）
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-下水道って嫌な感じするわね…
-でも楽そう。
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-下水道の調査なんてどうって事ないわ。
-早く依頼主に話しましょう。
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-また、あの下水道に……。
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-下水道調査は完了♪
+探し物も見つかったし♪
 さぁて、報酬を受け取るわよ。
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-これはもう請けられない依頼みたい
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Choice
-# ADVICE : 49 char limit
-殺人事件捜査(6000G)
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Choice
-# ADVICE : 49 char limit
-商隊護衛（募集終了）
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Choice
-# ADVICE : 49 char limit
-リッチ討伐（募集終了）
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-警備隊からの依頼だわ。
-殺人事件の捜査…殺人かぁ…
-危ない仕事なのかしら…
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ななこ
-「早く警備隊から話を聞きましょう。」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ななこ
-「まだまだ仕事は始まったばかりだわ。
-はやく現場に行きましょう。」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ななこ
-「絶対この仕事を終わらせて、
-２０００Ｇ貰うわよ！」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ななこ
-「いろいろあったけど…なんとか
-依頼達成出来たね。さっさと報酬を受けよう。」
 # TRANSLATION 
 
 # END STRING
@@ -2891,9 +1232,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 どうもカスです。
-まだイベントは、入れていませんが、今の、ところの
-構想は都に配達イベントを入れてまずななこに、
-この島に来てもらい孤児院イベントを入れ、
+孤児院イベントは、セレナ単体で行うことにしました。
 # TRANSLATION 
 
 # END STRING
@@ -2902,10 +1241,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-その中でセレナに会うみたいなイベントを作りたいと
-思ってます。そしてこのあと分岐してメインに戻る√と
-そのあと問題が教会と貴族間の争いにそして巻き込まれ
-みたいな感じのセレナ√を作りたいと思っています
+イベントは、つくりかけです
 # TRANSLATION 
 
 # END STRING
@@ -2986,6 +1322,35 @@
 # ADVICE : 49 char limit (35 if face)
 冒険者
 「挑むならしっかりレベルあげとけよ」」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+冒険者
+「そうだな～ミスターに聞いてみたら？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+冒険者
+「鉱山？そりゃ、海のむこうだぞ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+返事がない屍のようだ・・・
 # TRANSLATION 
 
 # END STRING
@@ -3971,6 +2336,60 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 ギルドマスター
+『敵は一旦引いた。私は今の内に逃げ
+　遅れていた人々を助けに行こうと思う』
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ギルドマスター
+『しかし私一人では手が足りない。
+　そなたら手を貸してくれ』
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ギルドマスター
+「…ってな」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ギルドマスター
+「結局何人かつけてやったら
+　町中の人間拾ってきやがった」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ギルドマスター
+「そしたらそいつらに武器持たせて
+　戦えっつうんだよ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ギルドマスター
 「今考えたら滅茶苦茶な話だが…
 　まぁ結局、それが上手くいって
 　盗賊に反撃して追い返したわけだ」
@@ -4151,6 +2570,15 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 ななこは仕事の成功により300EXPを得た
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+やったわ！
 # TRANSLATION 
 
 # END STRING

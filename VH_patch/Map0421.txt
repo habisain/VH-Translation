@@ -1,0 +1,77 @@
+# RPGMAKER TRANS PATCH FILE VERSION 2.0
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+銀行マップへようこそ！
+ここは騎士団銀行の内部になります
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+騎士修道会が兼業でやっている銀行なので、一階はこの
+様に、一見すると銀行というより聖堂に見えるデザイン
+になっています
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+左側の夕暮れの絵が立て掛けてある方が、預貯金の受付
+です。こちらは顧客から預金を受け取り、また資産運用
+の紹介もする事があります
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+奥の上の方にある個室が上客の個別相談室になってます
+
+奥の下の方の部屋には地下金庫へ繋がる階段があります
+職員以外は基本的に立ち入り禁止です
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+右側の、日差しの絵が立て掛けてある方が、融資の受付
+です。こちらは顧客に、担保と引き換えにお金を貸し出
+す業務を行っています。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+奥の上の方にある個室が上客の個別相談室になってます
+
+奥の下の方の部屋には地下金庫へ繋がる階段があります
+こちらも職員以外は基本的に立ち入り禁止です
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+4つの奥の部屋は、一つに見本になる門イベントを作った
+ので、他の3つの窓にも設置をお願いします
+# TRANSLATION 
+
+# END STRING

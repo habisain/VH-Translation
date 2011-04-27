@@ -23,8 +23,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
-「し...知らない」
+\N[0]
+「し…知らない」
 # TRANSLATION 
 
 # END STRING
@@ -34,8 +34,8 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 盗賊Ａ
-「おおぉ！出るぞ！中にたっぷり出してや
-る」
+「おおぉ！出るぞ！
+　中にたっぷり出してやる」
 # TRANSLATION 
 
 # END STRING
@@ -44,9 +44,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
-「いや！お願い！なんでもするから中はや
-めて」
+\N[0]
+「いや！お願い！
+　なんでもするから中はやめて」
 # TRANSLATION 
 
 # END STRING
@@ -65,7 +65,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「いやああぁぁぁ！」
 # TRANSLATION 
 
@@ -75,8 +75,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
-「中に...出されちゃった...妊娠...」
+\N[0]
+「中に…出されちゃった…妊娠…」
 # TRANSLATION 
 
 # END STRING

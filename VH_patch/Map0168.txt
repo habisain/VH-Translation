@@ -3,7 +3,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-6位・・・
+\N[0]
+「6位……」
 # TRANSLATION 
 
 # END STRING
@@ -12,8 +13,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-トップ3まであともう少しじゃない
-頑張れ私
+\N[0]
+「トップ3まで
+　あともう少しじゃない頑張れ私」
 # TRANSLATION 
 
 # END STRING
@@ -22,7 +24,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ランクに変動はないみたい
+\N[0]
+「ランクに変動はないみたい」
 # TRANSLATION 
 
 # END STRING

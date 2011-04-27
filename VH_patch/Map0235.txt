@@ -25,7 +25,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「アシュリーさん、ここは？」
 # TRANSLATION 
 
@@ -57,7 +57,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「水場…え？じゃあここの水路って
 　もしかして」
 # TRANSLATION 
@@ -79,7 +79,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「おおー！」
 # TRANSLATION 
 
@@ -89,7 +89,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「でも、こんな絶好の脱出口が手薄
 　っていうのは、どうしてなんで
 　しょう？」
@@ -112,7 +112,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「ふぇ？」
 # TRANSLATION 
 
@@ -157,7 +157,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「流れに乗って逃げようとしても、
 　外まで息が続かないって事ですか？」
 # TRANSLATION 
@@ -178,7 +178,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「そ…それじゃあ？」
 # TRANSLATION 
 
@@ -199,7 +199,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「どうかしました？」
 # TRANSLATION 
 
@@ -220,7 +220,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「えええ！じゃじゃあ早くその
 　普通じゃない方法って奴で逃げ
 　ましょうよ！」
@@ -254,7 +254,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「？」
 # TRANSLATION 
 
@@ -265,7 +265,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 アシュリー
-「ななこさん危ないので動かないで
+「\N[0]さん危ないので動かないで
 　下さいね」
 # TRANSLATION 
 
@@ -285,7 +285,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「こ…氷が…」
 # TRANSLATION 
 
@@ -347,7 +347,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「見直すも見直さないも…
 　アシュリーさんには驚か
 　されっぱなしですよ…」
@@ -425,7 +425,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「何を…っ」
 # TRANSLATION 
 
@@ -436,7 +436,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 アシュリー
-「ななこさん構わないで…
+「\N[0]さん構わないで…
 　こっちへ」
 # TRANSLATION 
 
@@ -446,7 +446,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「き…来ましたけど…
 　それでどうするん…」
 # TRANSLATION 
@@ -457,7 +457,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「…で…っ？」
 # TRANSLATION 
 
@@ -467,7 +467,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「かっ…は…」
 # TRANSLATION 
 
@@ -477,7 +477,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「あ……な…」
 # TRANSLATION 
 
@@ -487,7 +487,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「何…こ…れ…」
 # TRANSLATION 
 
@@ -497,7 +497,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 （体の動きが…鈍…）
 # TRANSLATION 
 
@@ -507,7 +507,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 （違…動かな…い…？？）
 # TRANSLATION 
 
@@ -518,7 +518,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 アシュリー
-「落ち着いてななこさん、ゆっくり
+「落ち着いて\N[0]さん、ゆっくり
 　呼吸をして…」
 # TRANSLATION 
 
@@ -529,7 +529,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 アシュリー
-「ななこさんの体は今…正確には
+「\N[0]さんの体は今…正確には
 　この部屋に入った時から、ゆっくりと
 　体温が下がっていっています」
 # TRANSLATION 
@@ -573,7 +573,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「う…あっ…」
 # TRANSLATION 
 
@@ -596,7 +596,7 @@
 # ADVICE : 49 char limit (35 if face)
 アシュリー
 「後は私の氷で、空気ごと
-　ななこさんを密閉すれば」
+　\N[0]さんを密閉すれば」
 # TRANSLATION 
 
 # END STRING
@@ -638,7 +638,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「あ…あ…」
 # TRANSLATION 
 
@@ -658,7 +658,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「あ…シュリー…さ…は…？」
 # TRANSLATION 
 
@@ -678,7 +678,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「…なっ…ど…っ」
 # TRANSLATION 
 
@@ -1012,7 +1012,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 （あ…シュ…さ…！！）
 # TRANSLATION 
 
@@ -1023,7 +1023,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 アシュリー
-「ななこさん…私、待ってます…」
+「\N[0]さん…私、待ってます…」
 # TRANSLATION 
 
 # END STRING
@@ -1073,7 +1073,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 （…………アシュリーさ…）
 # TRANSLATION 
 
@@ -1083,9 +1083,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 （覚…悟…って…そ…な…
-「覚悟」…って…）
+　「覚悟」…って…）
 # TRANSLATION 
 
 # END STRING
@@ -1094,7 +1094,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 （眠る…な…私…せめて…何か…）
 # TRANSLATION 
 
@@ -1104,8 +1104,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
-（な・・・に・・・か・・・）
+\N[0]
+（な……に……か……）
 # TRANSLATION 
 
 # END STRING
@@ -1114,7 +1114,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-気力をふりしぼったななこの右手が
+気力をふりしぼった\N[0]の右手が
 まっすぐアシュリーに伸ばされる
 # TRANSLATION 
 

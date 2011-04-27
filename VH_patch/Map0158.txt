@@ -3,7 +3,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ランクアップ！
+\N[0]
+「ランクアップ！」
 # TRANSLATION 
 
 # END STRING
@@ -12,7 +13,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-順調順調♪
+\N[0]
+「順調順調♪」
 # TRANSLATION 
 
 # END STRING
@@ -21,7 +23,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ランクに変動はないみたい
+\N[0]
+「ランクに変動はないみたい」
 # TRANSLATION 
 
 # END STRING

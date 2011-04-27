@@ -111,7 +111,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-あ、あのおばあさんって一体……？
+\N[0]
+「あ、あのおばあさんって一体……？」
 # TRANSLATION 
 
 # END STRING
@@ -120,7 +121,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-なんなんだろ、コレ……？
+\N[0]
+「なんなんだろ、コレ……？」
 # TRANSLATION 
 
 # END STRING

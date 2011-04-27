@@ -3,6 +3,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「げっ」
 # TRANSLATION 
 
@@ -12,6 +13,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「人の足音…こっちに
 　近付いてる！」
 # TRANSLATION 
@@ -22,6 +24,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「しょうがないわ、
 　一旦戻らないと」
 # TRANSLATION 
@@ -32,6 +35,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「うえっ、えっ！こっちからも！？
 　なんで？さっきは誰も…！」
 # TRANSLATION 
@@ -42,6 +46,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「ととと、とにかく
 　隠れないと！」
 # TRANSLATION 
@@ -52,6 +57,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「神様！この扉開いて
 　ますように！」
 # TRANSLATION 
@@ -62,7 +68,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「さぁ、急がないと」
 # TRANSLATION 
 
@@ -73,7 +79,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 アシュリー
-「待って、ななこさん」
+「待って、\N[0]さん」
 # TRANSLATION 
 
 # END STRING
@@ -93,7 +99,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「げっ…それじゃあ」
 # TRANSLATION 
 
@@ -114,7 +120,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「は、はい」
 # TRANSLATION 
 

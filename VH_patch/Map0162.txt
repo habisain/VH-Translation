@@ -3,7 +3,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-この短期間であっという間に13位！
+\N[0]
+「この短期間であっという間に13位！」
 # TRANSLATION 
 
 # END STRING
@@ -12,7 +13,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-やだ・・・私ってもしかして天才なのかも
+\N[0]
+「やだ……
+　私ってもしかして天才なのかも」
 # TRANSLATION 
 
 # END STRING
@@ -21,7 +24,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ランクに変動はないみたい
+\N[0]
+「ランクに変動はないみたい」
 # TRANSLATION 
 
 # END STRING

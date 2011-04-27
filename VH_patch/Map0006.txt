@@ -4,7 +4,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 ななこの娘
-あ～、うぅ～♪
+「あ～、うぅ～♪」
 # TRANSLATION 
 
 # END STRING
@@ -14,7 +14,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 ななこ
-(ごめんね・・・)
+（ごめんね・・・）
 # TRANSLATION 
 
 # END STRING
@@ -24,7 +24,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 ななこの娘
-きゃぉぅ
+「きゃぉぅ」
 # TRANSLATION 
 
 # END STRING

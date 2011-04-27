@@ -3,6 +3,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+番台親父
 「夜風呂とはアンタもなかなか通だね。
 　温泉に入りに来たのかい？
 　それなら一人２０Ｇだ」
@@ -14,6 +15,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+番台親父
 「やぁ、いらっしゃい。
 　温泉に入りにきたのかね？
 　それなら一人２０Ｇだ」
@@ -25,6 +27,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「興味はあるけど
 　今日のところは遠慮しておくわ」
 # TRANSLATION 
@@ -53,6 +56,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「う、嘘っ！？
 　２０Ｇさえも無い！」
 # TRANSLATION 
@@ -63,6 +67,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+番台親父
 「足りないのかい？
 　お嬢ちゃん、相当なジリ貧だねぇ」
 # TRANSLATION 
@@ -73,7 +78,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「あはは･･･
+\N[0]
+「あはは…
 　自分でもビックリしちゃった。
 　またお金がある時に来るね」
 # TRANSLATION 
@@ -84,6 +90,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+番台親父
 「まいどあり。
 　着替えや荷物をおくのはそこの
 　棚でやってくれ」
@@ -95,6 +102,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+番台親父
 「あ、ちなみに念のため言っておくと
 　ここは混浴だからな」
 # TRANSLATION 
@@ -105,6 +113,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「ふぅん。
 　そうなんだ」
 # TRANSLATION 
@@ -115,6 +124,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「えっ、そんなの困るわよ！？」
 # TRANSLATION 
 
@@ -124,7 +134,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-（男の人と一緒にお風呂だなんて……。）
+\N[0]
+（男の人と一緒にお風呂だなんて……）
 # TRANSLATION 
 
 # END STRING
@@ -133,6 +144,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「やっぱりやめる。
 　お金返してください」
 # TRANSLATION 
@@ -143,6 +155,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+番台親父
 「あんたみたいな若い女じゃあ無理もないか……」
 # TRANSLATION 
 
@@ -152,6 +165,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+番台親父
 「ほらよ。20Gだ」
 # TRANSLATION 
 
@@ -161,9 +175,10 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+番台親父
 「しかし、そこまで恥ずかしがるなんて、
-　よっぽどイヤらしい身体なんだろうなぁ。
-　へっへっへ」
+　よっぽどイヤらしい
+　身体なんだろうなぁ。へっへっへ」
 # TRANSLATION 
 
 # END STRING
@@ -172,6 +187,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「――っ！」
 # TRANSLATION 
 
@@ -181,6 +197,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+番台親父
 「しかし、初々しくていいねぇ」
 # TRANSLATION 
 
@@ -190,6 +207,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+番台親父
 「ハッハッハ。
 　誰もお嬢ちゃんみたいなのには見向きもしねぇよ。
 　ほら、ちゃっちゃと脱いで入っちまいな」
@@ -201,6 +219,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「えっ、そうなの！？」
 # TRANSLATION 
 
@@ -210,6 +229,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+番台親父
 「そうなんだよ。ただ、女性にはちょっと入り
 　づらいこともあるだろうから、ここじゃ水着
 　とバスタオルの貸出もやってるんだ」
@@ -221,6 +241,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+番台親父
 「ちなみにレンタル料はタダだ。
 　どうする？　利用するかい？」
 # TRANSLATION 
@@ -258,7 +279,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-（凄くは、恥ずかしいけど……
+\N[0]
+（凄く…恥ずかしいけど……
 　でも、お風呂なんだから別に変じゃ
 　ないよね……？）
 # TRANSLATION 
@@ -269,6 +291,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「だ、大丈夫、必要ないわ！」
 # TRANSLATION 
 
@@ -278,6 +301,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+番台親父
 「おや、いいのかい？
 　まぁ男連中は喜ぶだろうけどね」
 # TRANSLATION 
@@ -288,6 +312,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「――――――っ」
 # TRANSLATION 
 
@@ -297,6 +322,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「大丈夫、別に平気よ」
 # TRANSLATION 
 
@@ -306,6 +332,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+番台親父
 「おや、これは剛毅なお嬢ちゃんだ
 　珍しいね」
 # TRANSLATION 
@@ -316,6 +343,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+番台親父
 「それとも、もしかして見られる
 　のが趣味だったりするのかな？
 　ゲヘヘヘヘ」
@@ -345,6 +373,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「……あんま調子に乗ってると
 　と殴るわよ」
 # TRANSLATION 
@@ -355,6 +384,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+番台親父
 「おっと、悪かったよ。
 　ちょいと悪ふざけが過ぎちまった」
 # TRANSLATION 
@@ -365,6 +395,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「……見たいなら、別にいいわよ。
 　そこでじっくりと見ててもね……」
 # TRANSLATION 
@@ -375,6 +406,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+番台親父
 「おぉぉっ！？」
 # TRANSLATION 
 
@@ -384,6 +416,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「ふふ、冗談よ。
 　それじゃね」
 # TRANSLATION 
@@ -394,6 +427,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「や、やっぱりいくらなんでも裸は
 　ちょっと恥ずかしいわね……」
 # TRANSLATION 
@@ -404,6 +438,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「そうね、せっかくだからタオルを
 　借りることにするわ」
 # TRANSLATION 
@@ -414,6 +449,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+番台親父
 「あいよ。それじゃこいつを使ってくれ」
 # TRANSLATION 
 
@@ -423,8 +459,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「や、やっぱり男の人の前で裸になるの
-　は恥ずかしいし……」
+\N[0]
+「や、やっぱり男の人の前で
+　裸になるのは恥ずかしいし……」
 # TRANSLATION 
 
 # END STRING
@@ -433,6 +470,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「そうね、せっかくだから水着を借りる
 　ことにするわ」
 # TRANSLATION 
@@ -443,6 +481,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+番台親父
 「そうか、ならまた今度おいで」
 # TRANSLATION 
 
@@ -452,6 +491,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 （出血が治まったら入ってみようかな）
 # TRANSLATION 
 
@@ -461,6 +501,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+番台親父
 「やぁ、いらっしゃい。
 　また温泉に入りにきたのかね？
 　それなら一人２０Ｇだ」
@@ -472,6 +513,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「今日は遠慮しておくわ」
 # TRANSLATION 
 
@@ -490,6 +532,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「ねぇ、おじさん。
 　私に入れるってのは、どう？」
 # TRANSLATION 
@@ -500,6 +543,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+番台親父
 「うおぉぉぉぉぉー！
 　のったーーーーっ！」
 # TRANSLATION 
@@ -510,6 +554,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+番台親父
 「ハァハァ、抜いてくれぇー！」
 # TRANSLATION 
 
@@ -519,6 +564,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「そんなに、がっつかないで」
 # TRANSLATION 
 
@@ -555,6 +601,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+番台親父
 「うっ出るっ！」
 # TRANSLATION 
 
@@ -564,6 +611,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「えらくいっぱい出したけど
 　まだ、出来るよね？」
 # TRANSLATION 
@@ -574,6 +622,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+番台親父
 「ふぅーもう何もデネェよ
 　スッキリしたよ、ありがとさん」
 # TRANSLATION 
@@ -584,6 +633,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「えー、もう終わりなの？！」
 # TRANSLATION 
 
@@ -593,6 +643,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+番台親父
 「ふぅー出した出した」
 # TRANSLATION 
 
@@ -602,6 +653,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+番台親父
 「何言ってんだ、もう何もデネェよ
 　スッキリしたよ、ありがとさん」
 # TRANSLATION 
@@ -612,6 +664,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+番台親父
 「おほぅ、気持ちいいぜ」
 # TRANSLATION 
 
@@ -621,6 +674,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+番台親父
 「うぉう、でっでる！」
 # TRANSLATION 
 
@@ -630,6 +684,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「えーもう終わりなの？！」
 # TRANSLATION 
 
@@ -639,6 +694,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+番台親父
 「さ、温泉に入って、
 　さっぱりしていっておくれ」
 # TRANSLATION 
@@ -649,8 +705,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「こんなんじゃ収まりつかないわよ
-　逆に、ほてったじゃない...」
+　逆に、ほてったじゃない……」
 # TRANSLATION 
 
 # END STRING
@@ -659,6 +716,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「ほんとにもう！」
 # TRANSLATION 
 
@@ -668,6 +726,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+番台親父
 「いやいや、お嬢ちゃん。
 　さっぱりってのは、そういうことじゃないよ。
 　ま、入ってみれば判るさ」
@@ -679,8 +738,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「・・・？
-　まぁ、そういうなら・・・」
+\N[0]
+「……？
+　まぁ、そういうなら……」
 # TRANSLATION 
 
 # END STRING
@@ -689,7 +749,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「・・・そういうことね」
+\N[0]
+「……そういうことね」
 # TRANSLATION 
 
 # END STRING
@@ -698,7 +759,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-（ちょっとゴネてみようかな･･･）
+\N[0]
+（ちょっとゴネてみようかな…）
 # TRANSLATION 
 
 # END STRING
@@ -707,6 +769,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「おじさん、お願いっ！
 　オマケして！」
 # TRANSLATION 
@@ -717,7 +780,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「･･･ダメ、かな？」
+\N[0]
+「…ダメ、かな？」
 # TRANSLATION 
 
 # END STRING
@@ -726,7 +790,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「たかが２０Ｇでも商売だからねぇ･･･
+番台親父
+「たかが２０Ｇでも商売だからねぇ…
 　ロハにするって訳にもいかねぇのよ」
 # TRANSLATION 
 
@@ -736,7 +801,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「あはは･･･
+\N[0]
+「あはは…
 　やっぱそうだよね。
 　またお金がある時に来るわ」
 # TRANSLATION 
@@ -747,6 +813,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+番台親父
 「まいどあり。
 　タオルと水着は使うかい？」
 # TRANSLATION 
@@ -757,6 +824,19 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
+（凄くは、恥ずかしいけど……
+　でも、お風呂なんだから別に変じゃ
+　ないよね……？）
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
 「……あんま調子に乗ってると
 　殴るわよ」
 # TRANSLATION 
@@ -767,6 +847,18 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+番台親父
+「そうね、せっかくだからタオルを
+　借りることにするわ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
 「そうね、せっかくだから
 　水着を借りることにするわ」
 # TRANSLATION 
@@ -777,6 +869,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 （出血が治まらないうちは、さすがにね）
 # TRANSLATION 
 
@@ -786,6 +879,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+番台親父
 「入り口は真っ直ぐいったあそこだ」
 # TRANSLATION 
 
@@ -795,6 +889,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+番台親父
 「へっへっへ。
 　その様子じゃぁ、
 　混浴をたっぷり堪能できたみたいだな」
@@ -806,6 +901,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「ええ、気持ち良かったわ」
 # TRANSLATION 
 
@@ -815,6 +911,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「――くっ」
 # TRANSLATION 
 
@@ -824,6 +921,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「また楽しみに来ようかな」
 # TRANSLATION 
 
@@ -833,6 +931,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「こんな店とっとと出ましょ」
 # TRANSLATION 
 
@@ -842,6 +941,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+番台親父
 「うおぉぉぉぉぉーもう我慢できねー！」
 # TRANSLATION 
 
@@ -851,7 +951,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-服を着てからでないとダメよ。
+\N[0]
+「服を着てからでないとダメよ」
 # TRANSLATION 
 
 # END STRING
@@ -860,6 +961,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「脱いだ衣服を置いておく棚ね」
 # TRANSLATION 
 
@@ -869,7 +971,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-服を脱ぐ？
+\N[0]
+「服を脱ぐ？」
 # TRANSLATION 
 
 # END STRING
@@ -896,6 +999,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「それじゃ着替えちゃいましょ」
 # TRANSLATION 
 
@@ -905,6 +1009,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「…………」
 # TRANSLATION 
 
@@ -914,6 +1019,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「なんだか、視線を感じるわね……」
 # TRANSLATION 
 
@@ -932,6 +1038,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「って、思いっきり見られてるし……」
 # TRANSLATION 
 
@@ -941,6 +1048,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「どうしよう、別の列に移動しようか？」
 # TRANSLATION 
 
@@ -950,6 +1058,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「向こうも仕事でいるわけだし、
 　多少は仕方ないとこもあるかも
 　しれないけど」
@@ -961,6 +1070,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「あんなにあからさまに見られた
 　んじゃ、やっぱり気分よくない
 　ものね」
@@ -972,6 +1082,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「これで大丈夫ね
 　それじゃ着替えましょうか」
 # TRANSLATION 
@@ -982,6 +1093,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「それじゃ行きましょうか」
 # TRANSLATION 
 
@@ -991,6 +1103,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「――って、なにこれ！？
 　水着ってこんな紐みたいな
 　のしか無いわけ！？」
@@ -1002,6 +1115,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「こ、こんなんじゃある意味
 　裸よりも恥ずかしいんじゃ…」
 # TRANSLATION 
@@ -1012,6 +1126,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 （それとも……
 　見せてあげようか？）
 # TRANSLATION 
@@ -1040,6 +1155,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 （ふふ、見てるわね）
 # TRANSLATION 
 
@@ -1049,6 +1165,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 （なら、こういうのはどう？）
 # TRANSLATION 
 
@@ -1058,6 +1175,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+番台親父
 「――ヘッ」
 # TRANSLATION 
 
@@ -1067,6 +1185,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 （なっ！？　鼻で笑いやがった！）
 # TRANSLATION 
 
@@ -1076,6 +1195,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 （く、屈辱だわ……）
 # TRANSLATION 
 
@@ -1085,6 +1205,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+番台親父
 「――ハァハァハァッ
 　――ハァハァ―――ハゥッ！」
 # TRANSLATION 
@@ -1095,6 +1216,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 （ふふ、ちょっとサービスしすぎ
 　ちゃったかな）
 # TRANSLATION 
@@ -1105,6 +1227,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「ぐずぐずしてないで
 　早く入っちゃいましょ」
 # TRANSLATION 
@@ -1115,6 +1238,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「もういいわ。とにかくさっさと
 　着替えちゃいましょ」
 # TRANSLATION 
@@ -1125,6 +1249,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+番台親父
 「――ハァハァハァッ」
 # TRANSLATION 
 
@@ -1134,6 +1259,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 （やっぱりちょっと……
 　恥ずかしかったかな……）
 # TRANSLATION 
@@ -1153,6 +1279,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「も、もしかしてハメられた？」
 # TRANSLATION 
 
@@ -1162,8 +1289,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「やっぱりだめね。わざわざ見せるなんて
-　もったいないわ。」
+　もったいないわ」
 # TRANSLATION 
 
 # END STRING
@@ -1172,9 +1300,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「全く何考えてるのよ、
 　自分から見せるだなんて」
-
 # TRANSLATION 
 
 # END STRING
@@ -1183,6 +1311,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「これから混浴に入ろうっていうのに
 　あれくらい、気にしちゃだめよ」
 # TRANSLATION 
@@ -1193,6 +1322,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「温泉なんだから向こうだって
 　裸なんて見慣れてるだろうし
 　きっと気のせいよ」
@@ -1204,6 +1334,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「凄い見られてる……
 　こんなのやっぱり
 　恥ずかしいよ……」
@@ -1215,6 +1346,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「そうね、まだいいわ」
 # TRANSLATION 
 
@@ -1224,7 +1356,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-服を着るの？
+\N[0]
+「服を着るの？」
 # TRANSLATION 
 
 # END STRING
@@ -1233,25 +1366,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「よし、それじゃ出ましょうか」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-脱いだ衣服を置いておく棚ね。
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-それじゃ着替えちゃいましょ。
 # TRANSLATION 
 
 # END STRING
@@ -1269,45 +1385,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-――って、なにこれ！？
-水着ってこんな紐みたいな
-のしか無いわけ！？
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-こ、こんなんじゃある意味
-裸よりも恥ずかしいんじゃ…
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-そうね、まだいいわ。
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-よし、それじゃ出ましょうか。
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
+\N[0]
 「服を脱いでからでないと入っちゃダメ」
 # TRANSLATION 
 
@@ -1371,6 +1449,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「なにかしら？
 　…えっと、ラベルには…」
 # TRANSLATION 
@@ -1390,7 +1469,38 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「………」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+（素直に戻そうかな……どうしよ…）
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+強制排卵剤を戻しますか？
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+（強制排卵剤……勝手に使っちゃった…
+　あとで戻さないとマズイかな…）
 # TRANSLATION 
 
 # END STRING
@@ -1417,7 +1527,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「なっ･･･え･･･」
+\N[0]
+「なっ…え…」
 # TRANSLATION 
 
 # END STRING
@@ -1426,7 +1537,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「なん･･･で･･･」
+\N[0]
+「なん…で…」
 # TRANSLATION 
 
 # END STRING
@@ -1435,8 +1547,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「バカな女だ･･･泣き寝入りしていれば
-　いいものを･･･」
+守備隊兵
+「バカな女だ…泣き寝入りしていれば
+　いいものを…」
 # TRANSLATION 
 
 # END STRING
@@ -1445,7 +1558,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-（こいつら･･･何言って･･･）
+\N[0]
+（こいつら…何言って…）
 # TRANSLATION 
 
 # END STRING
@@ -1454,8 +1568,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「親父ぃ･･･あまり派手にやりすぎるなよ。
-　後始末を･･････金･･･」
+守備隊兵
+「親父ぃ…あまり派手にやりすぎるなよ。
+　後始末を……金…」
 # TRANSLATION 
 
 # END STRING
@@ -1464,8 +1579,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「へへっ･･･すみませ･･･助か･･･
-　この女･･････て･･･」
+番台親父
+「へへっ…すみませ…助か…
+　この女……て…」
 # TRANSLATION 
 
 # END STRING
@@ -1474,7 +1590,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-（あ･･･意識･･･が･･･）
+\N[0]
+（あ…意識…が…）
 # TRANSLATION 
 
 # END STRING

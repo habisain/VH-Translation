@@ -30,7 +30,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-???
+部屋にいた女性
 「…どなた？」
 # TRANSLATION 
 
@@ -40,7 +40,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「お、女の人？」
 # TRANSLATION 
 
@@ -50,7 +50,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-???
+部屋にいた女性
 「…あなたは…」
 # TRANSLATION 
 
@@ -60,7 +60,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「わ、わ、わ、
 　あのその…」
 # TRANSLATION 
@@ -71,7 +71,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「お、お願いします！
 　隠れさせて下さい！」
 # TRANSLATION 
@@ -82,7 +82,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「ちちょっとの間で
 　いいんです！」
 # TRANSLATION 
@@ -93,7 +93,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-???
+部屋にいた女性
 「…その必要は
 　ありませんよ」
 # TRANSLATION 
@@ -104,7 +104,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「へっ？」
 # TRANSLATION 
 
@@ -114,7 +114,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-???
+部屋にいた女性
 「足音が遠のきました
 　から…」
 # TRANSLATION 
@@ -125,7 +125,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-???
+部屋にいた女性
 「彼らの事を言ってるのなら
 　もう心配ありません」
 # TRANSLATION 
@@ -136,7 +136,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「あ、ほ、ほんとだ…」
 # TRANSLATION 
 
@@ -146,7 +146,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「気配がもうないや…」
 # TRANSLATION 
 
@@ -156,7 +156,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「ほー…」
 # TRANSLATION 
 
@@ -166,7 +166,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「…」
 # TRANSLATION 
 
@@ -176,7 +176,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-???
+部屋にいた女性
 「ところで、あなたは
 　どなた様ですか？」
 # TRANSLATION 
@@ -187,7 +187,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「ふぇ？あっ！す、
 　すいません！」
 # TRANSLATION 
@@ -198,7 +198,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「突然お邪魔しちゃって、
 　その！お邪魔ってのも
 　おかしいですけども！」
@@ -210,8 +210,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
-「わ、私ななこって言います！
+\N[0]
+「わ、私\N[0]って言います！
 　ここにはその…ちょっとした
 　探し物というか…」
 # TRANSLATION 
@@ -222,7 +222,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-???
+部屋にいた女性
 「…大体わかりました。
 　警戒しなくても大丈夫」
 # TRANSLATION 
@@ -233,7 +233,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-???
+部屋にいた女性
 「私は彼らの仲間では
 　ありません」
 # TRANSLATION 
@@ -244,7 +244,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「そ…そうですよね。
 　だったら最初に私を
 　突き出しますよね」
@@ -256,7 +256,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「お姉さんも…その…
 　やっぱりあいつらに？」
 # TRANSLATION 
@@ -267,6 +267,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+部屋にいた女性
 「アシュリーです」
 # TRANSLATION 
 
@@ -276,7 +277,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「えっ？」
 # TRANSLATION 
 
@@ -287,7 +288,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 アシュリー
-「はじめましてななこさん。
+「はじめまして\N[0]さん。
 　私の名前はアシュリーと
 　いいます」
 # TRANSLATION 
@@ -298,7 +299,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「あ！はい！はじめまして！」
 # TRANSLATION 
 
@@ -308,7 +309,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「よろしくおねがいします！」
 # TRANSLATION 
 
@@ -330,7 +331,7 @@
 # ADVICE : 49 char limit (35 if face)
 アシュリー
 「ふふ…楽しい人ですね。
-　ななこさんって…ふふ」
+　\N[0]さんって…ふふ」
 # TRANSLATION 
 
 # END STRING
@@ -350,7 +351,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「あ、はい！」
 # TRANSLATION 
 
@@ -360,7 +361,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「う…」
 # TRANSLATION 
 
@@ -370,7 +371,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「そ…その…」
 # TRANSLATION 
 
@@ -390,7 +391,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「は、はい…ていうか、
 　よく考えたら私こんな
 　所で座ってる場合じゃ…」
@@ -402,6 +403,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+アシュリー
 「探し物ですか？」
 # TRANSLATION 
 
@@ -411,7 +413,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「はい…その…
 　かなり急ぎの
 　探し物なんです」
@@ -446,7 +448,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 （あう…どうしよう…）
 # TRANSLATION 
 
@@ -456,7 +458,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 （信用して大丈夫なのかな…）
 # TRANSLATION 
 
@@ -466,7 +468,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 （やっぱりあいつらの仲間で、
 　目的を聞き出してから
 　始末するつもりなのかも…）
@@ -478,7 +480,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 （でも…悪い人には
 　見えないし…）
 # TRANSLATION 
@@ -489,7 +491,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 （今からこの部屋を出て行って
 　情報収集するのもすっごく危険
 　だ…きっと…）
@@ -501,7 +503,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 （…）
 # TRANSLATION 
 
@@ -511,7 +513,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 （えーい！ままよ！）
 # TRANSLATION 
 
@@ -521,7 +523,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「その…地…図を…」
 # TRANSLATION 
 
@@ -531,6 +533,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+アシュリー
 「地図？ここ一帯の？」
 # TRANSLATION 
 
@@ -540,7 +543,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「いえ、このアジトの地図を探して…
 　というか、作って、いたんです！」
 # TRANSLATION 
@@ -551,7 +554,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「…ぅ…っ…」
 # TRANSLATION 
 
@@ -561,7 +564,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 （い、言っちゃったぁー…）
 # TRANSLATION 
 
@@ -571,7 +574,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 （か、神様！この人は悪い人じゃ
 　ないと思うんですけど！）
 　ないですよね！
@@ -605,7 +608,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「ほ…本当ですか！？」
 # TRANSLATION 
 
@@ -615,7 +618,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「是非お願いします！！
 　アシュリーさん！ありがとう！」
 # TRANSLATION 
@@ -626,7 +629,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 （いい人でありがとう！
 　神様ありがとう！）
 # TRANSLATION 
@@ -648,7 +651,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「は、はい…でもアシュリーさん、
 　その、アシュリーさんは…」
 # TRANSLATION 
@@ -721,7 +724,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「アシュリーさん？」
 # TRANSLATION 
 
@@ -741,7 +744,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「な…何を？」
 # TRANSLATION 
 
@@ -753,7 +756,7 @@
 # ADVICE : 49 char limit (35 if face)
 アシュリー
 「うふふ、私は今、
-　ななこさんを
+　\N[0]さんを
 　「見て」るんです」
 # TRANSLATION 
 
@@ -764,7 +767,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 アシュリー
-「ななこさん、思ったとおり
+「\N[0]さん、思ったとおり
 　随分お若いんですね」
 # TRANSLATION 
 
@@ -786,7 +789,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 アシュリー
-「･･････？･･･あっ」
+「……？…あっ」
 # TRANSLATION 
 
 # END STRING
@@ -796,7 +799,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 アシュリー
-「お腹･･･が？」
+「お腹…が？」
 # TRANSLATION 
 
 # END STRING
@@ -805,9 +808,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
-「あ･･･はい･･･へへ･･･
-　妊娠中･･･です」
+\N[0]
+「あ…はい…へへ…
+　妊娠中…です」
 # TRANSLATION 
 
 # END STRING
@@ -816,8 +819,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
-「で、でも･･･すごいですっ
+\N[0]
+「で、でも…すごいですっ
 　なんでそんな事まで？」
 # TRANSLATION 
 
@@ -838,7 +841,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「え、な、なんで！凄い！」
 # TRANSLATION 
 
@@ -848,7 +851,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 （けどアシュリーさんに
 　発育がいいとか言われ
 　ても…）
@@ -860,7 +863,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 （みじめというか…
 　お情けというか…）
 # TRANSLATION 
@@ -904,7 +907,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「…すると、周りの風景が
 　わかるんですか…」
 # TRANSLATION 
@@ -982,7 +985,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「…あ！そ、そうでしたよ！
 　地図、地図ですよね！」
 # TRANSLATION 
@@ -993,7 +996,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「はい、これとこれです！」
 # TRANSLATION 
 
@@ -1003,7 +1006,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-そういってななこが広げた紙には
+そういって\N[0]が広げた紙には
 乳幼児の落書きのようなものが
 広がっていた
 # TRANSLATION 
@@ -1035,7 +1038,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「す、すみません…私、
 　絵なんて描いた事も
 　ないし…その…」
@@ -1059,8 +1062,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
-「はい！ななこはどこに
+\N[0]
+「はい！\N[0]はどこに
 　連れてっても絶対東を
 　向いて寝るなぁって」
 # TRANSLATION 
@@ -1071,7 +1074,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「小さい頃おじいちゃんにも
 　よく褒められました！」
 # TRANSLATION 
@@ -1092,7 +1095,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「え…その…か、
 　可愛いかなぁと
 　思って…」
@@ -1104,7 +1107,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「…あ、ご、ごめんなさい！
 　へ、変でしたか？！」
 # TRANSLATION 
@@ -1115,7 +1118,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「ど、どうしよう、
 　インクだから消せ
 　ないし…」
@@ -1127,7 +1130,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「………」
 # TRANSLATION 
 
@@ -1137,7 +1140,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「…アシュリーさん？」
 # TRANSLATION 
 
@@ -1147,7 +1150,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 （な、泣いてる…？）
 # TRANSLATION 
 
@@ -1159,7 +1162,7 @@
 # ADVICE : 49 char limit (35 if face)
 アシュリー
 「ごめんなさい…
-　ななこさん…
+　\N[0]さん…
 　急いでるんでしたよね…」
 # TRANSLATION 
 
@@ -1169,7 +1172,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「い、いえ…そんな事より
 　だ、大丈夫ですか？
 　私の絵が下手すぎたから…？
@@ -1205,7 +1208,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 （アシュリーさん…）
 # TRANSLATION 
 
@@ -1215,7 +1218,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 （やっぱりこの人も…
 　捕まっていた人達
 　と同じように…）
@@ -1251,7 +1254,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「あ、はい…どうぞ…」
 # TRANSLATION 
 
@@ -1294,7 +1297,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 アシュリー
-「ななこさん、交換条件
+「\N[0]さん、交換条件
 　といっては何なのですが」
 # TRANSLATION 
 
@@ -1326,7 +1329,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「渡したいもの…？」
 # TRANSLATION 
 
@@ -1356,7 +1359,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「これは…？」
 # TRANSLATION 
 
@@ -1377,7 +1380,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「ご、ご主人？結婚されて？」
 # TRANSLATION 
 
@@ -1672,7 +1675,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「な…」
 # TRANSLATION 
 
@@ -1682,7 +1685,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「な……」
 # TRANSLATION 
 
@@ -1692,7 +1695,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「なに言ってんですか！」
 # TRANSLATION 
 
@@ -1702,7 +1705,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「なんで帰れない事
 　前提なんですか！」
 # TRANSLATION 
@@ -1713,7 +1716,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「半年くらいなんだってんですか！
 　ちょっと道に迷っただけですよ！」
 # TRANSLATION 
@@ -1724,7 +1727,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「話を聞くだけでも分かります！
 　すごくいい人じゃないですか！」
 # TRANSLATION 
@@ -1735,7 +1738,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「絶対待ってくれてます！
 　こんな手紙…それこそ、」
 # TRANSLATION 
@@ -1746,7 +1749,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「それこそ不義理じゃないですか！
 　待ってる人への裏切りですよ！」
 # TRANSLATION 
@@ -1913,7 +1916,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「…っ…」
 # TRANSLATION 
 
@@ -1946,8 +1949,8 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 アシュリー
-「あの人の重荷になりたくない･･･
-　私を慰めさせたくない･･･」
+「あの人の重荷になりたくない…
+　私を慰めさせたくない…」
 # TRANSLATION 
 
 # END STRING
@@ -1968,7 +1971,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「…それでも、会いに
 　いかないとダメです」
 # TRANSLATION 
@@ -1979,7 +1982,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「私、人を好きになった事なんて
 　ないから、アシュリーさんの
 　気持ちなんて分らないけど」
@@ -1991,7 +1994,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「どういう選択が正しくて、
 　間違ってるのかもわからない
 　けど…」
@@ -2003,7 +2006,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「このお話のハッピーエンドが
 　その先にないって事だけは、
 　分かります」
@@ -2016,7 +2019,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 アシュリー
-「ななこさん…」
+「\N[0]さん…」
 # TRANSLATION 
 
 # END STRING
@@ -2025,7 +2028,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「というか、今決めました。
 　アシュリーさん、貴方は私が引き
 　ずってでも都に連れて行きます」
@@ -2037,7 +2040,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「どんなに嫌だって言っても
 　暴れまわっても、ボコボコに
 　してでも連れてきますから」
@@ -2049,7 +2052,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「…今まで黙ってましたけど、
 　もうすぐうちのギルドの盗賊
 　討伐作戦が始まります」
@@ -2061,7 +2064,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「ここにいる奴ら、全員地獄の
 　1万丁目に叩き込んで、絶対
 　助けに来ますから」
@@ -2073,7 +2076,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「だから…っ」
 # TRANSLATION 
 
@@ -2084,7 +2087,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 アシュリー
-「…ななこさん、話は中断
+「…\N[0]さん、話は中断
 　です。今すぐ隠れて」
 # TRANSLATION 
 
@@ -2105,7 +2108,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「わわ…は、はい！」
 # TRANSLATION 
 
@@ -2213,7 +2216,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「しまった…」
 # TRANSLATION 
 
@@ -2326,7 +2329,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「こいつら…」
 # TRANSLATION 
 
@@ -2391,7 +2394,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 （まずい…まずい…
 　どうしよう…）
 # TRANSLATION 
@@ -2402,7 +2405,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 （こんなに早く騒ぎになってる
 　なんて…）
 # TRANSLATION 
@@ -2413,7 +2416,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 （ちょっと調べられたら
 　すぐにバレちゃうんじゃ…）
 # TRANSLATION 
@@ -2445,6 +2448,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+アシュリー
 「拾って下さいません？」
 # TRANSLATION 
 
@@ -2474,7 +2478,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 （アシュリーさん？！）
 # TRANSLATION 
 
@@ -2569,7 +2573,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 （あ…あ…わ、私の為に…？）
 # TRANSLATION 
 
@@ -2589,6 +2593,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+アシュリー
 「んっ…んっ…んっ…」
 # TRANSLATION 
 
@@ -2671,7 +2676,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 （!!!!）
 # TRANSLATION 
 
@@ -2924,7 +2929,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 （どうしよう…どうすれば…
 　私…私は…）
 # TRANSLATION 
@@ -2935,7 +2940,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 （大の男が三人…入口の奴は
 　不意打ちだった…今度は
 　そうはいかない…）
@@ -2947,7 +2952,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 （それに外にも一杯いる…
 　あいつらは許せないけど…
 　私が出て行っても…）
@@ -2959,7 +2964,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 （そうじゃない！そうじゃないでしょ！
 　アシュリーさんは今、私の為に
 　戦ってくれてるのに…！私は…！）
@@ -2971,7 +2976,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 （…私は…怖いんだ…）
 # TRANSLATION 
 
@@ -2981,7 +2986,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 （卑怯者だ…私…）
 # TRANSLATION 
 
@@ -2991,7 +2996,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこの煩悶をよそに、今度は後ろの男の
+\N[0]の煩悶をよそに、今度は後ろの男の
 動きが変わった
 # TRANSLATION 
 
@@ -3048,7 +3053,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 （あ…あああ…）
 # TRANSLATION 
 
@@ -3162,7 +3167,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 （アシュリー…さん…
 　う…うう…）
 # TRANSLATION 
@@ -3194,7 +3199,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 （！！）
 # TRANSLATION 
 
@@ -3237,6 +3242,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+アシュリー
 「ああ！はん！それ…は…ああん！
 　ああ！」
 # TRANSLATION 
@@ -3315,7 +3321,7 @@
 # ADVICE : 49 char limit (35 if face)
 盗賊C
 「なンかあったのか？おい？
-　何か･･･誤魔化したい、
+　何か…誤魔化したい、
 　隠し事があるとかよお」
 # TRANSLATION 
 
@@ -3485,7 +3491,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-その言葉は！ななこの恐怖と躊躇と
+その言葉は！\N[0]の恐怖と躊躇と
 その他全部を吹き飛ばし！
 # TRANSLATION 
 
@@ -3496,7 +3502,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 勇気という名のパルスとなって！
-ななこの全神経を駆け巡った！
+\N[0]の全神経を駆け巡った！
 # TRANSLATION 
 
 # END STRING
@@ -3535,7 +3541,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「あ…あんたらの…」
 # TRANSLATION 
 
@@ -3545,7 +3551,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「あんたらの血は何色だぁああああ！！」
 # TRANSLATION 
 
@@ -3566,7 +3572,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 アシュリー
-「ななこさん！ダメ！」
+「\N[0]さん！ダメ！」
 # TRANSLATION 
 
 # END STRING
@@ -3575,7 +3581,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「覚悟しろ！あんたら全員地獄の底の
 　底のそのまた底に叩き込んでやる！」
 # TRANSLATION 
@@ -3617,7 +3623,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「ハァ…ハァ…ハァ…！」
 # TRANSLATION 
 
@@ -3627,7 +3633,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「アシュリーさん、大丈夫
 　ですか？！」
 # TRANSLATION 
@@ -3639,7 +3645,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 アシュリー
-「ななこさん……」
+「\N[0]さん……」
 # TRANSLATION 
 
 # END STRING
@@ -3649,7 +3655,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 アシュリー
-「ななこさん、貴女は今とても
+「\N[0]さん、貴女は今とても
 　軽率な事をしました」
 # TRANSLATION 
 
@@ -3659,7 +3665,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「えっ…う…」
 # TRANSLATION 
 
@@ -3774,7 +3780,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 アシュリー
-「ななこさぁん…ぁ、ありがっ！
+「\N[0]さぁん…ぁ、ありがっ！
 　いっく！ダメなのにぃ！」
 # TRANSLATION 
 
@@ -3806,7 +3812,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 アシュリー
-「ななこざん…わたし！わたしね！」
+「\N[0]ざん…わたし！わたしね！」
 # TRANSLATION 
 
 # END STRING
@@ -3815,7 +3821,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「あ…アシュリーさん…」
 # TRANSLATION 
 
@@ -3825,7 +3831,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「アシュリーさん…っ！
 　辛かったよね…っ
 　嫌だったよね…！」
@@ -3837,7 +3843,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「ずっとずっと今まで
 　こんな…」
 # TRANSLATION 
@@ -3848,7 +3854,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「なのに…私を助ける為に…」
 # TRANSLATION 
 
@@ -3869,7 +3875,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「ふぅ…ぐ…」
 # TRANSLATION 
 
@@ -3879,7 +3885,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 （…？）
 # TRANSLATION 
 
@@ -3889,7 +3895,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 （なんで私が泣いてるの…
 　この涙は…）
 # TRANSLATION 
@@ -3900,7 +3906,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 （アシュリーさんへの哀れみ？
 　助けれた事への喜び？
 　あいつらへの怒り？）
@@ -3912,7 +3918,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 （わからない…わからないけど…
 　一つわかる事がある…）
 # TRANSLATION 
@@ -3923,7 +3929,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 （この人をここに置いていくなんて、
 　私にはできない…）
 # TRANSLATION 
@@ -3934,7 +3940,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「アシュリーさん、
 　逃げましょう」
 # TRANSLATION 
@@ -3955,7 +3961,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「ここから、逃げるんです。
 　もう仕事なんてどうでもいい」
 # TRANSLATION 
@@ -3966,7 +3972,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「私、アシュリーさんを
 　ここに置いて行くなんて
 　やっぱりできません」
@@ -3978,7 +3984,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「それに、こんな事に
 　なっちゃって」
 # TRANSLATION 
@@ -3989,7 +3995,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「アシュリーさんだって、もう
 　ここに残ってられないハズ
 　です」
@@ -4001,7 +4007,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「それに正直、私も一人じゃ
 　ここから脱出できそうに
 　ありませんし…」
@@ -4013,7 +4019,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「でも、私の武術と、アシュリー
 　さんの耳の力を合わせれば…」
 # TRANSLATION 
@@ -4024,7 +4030,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「二人で協力すれば！なんとか
 　…いえ、絶対に脱出できます！」
 # TRANSLATION 
@@ -4035,7 +4041,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「だから！アシュリーさん！」
 # TRANSLATION 
 
@@ -4057,7 +4063,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 アシュリー
-「ななこさんって…」
+「\N[0]さんって…」
 # TRANSLATION 
 
 # END STRING
@@ -4066,7 +4072,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「？」
 # TRANSLATION 
 
@@ -4087,7 +4093,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「ええええ…なんですか突然
 　て、照れちゃうじゃないですか」
 # TRANSLATION 
@@ -4123,7 +4129,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 アシュリー
-「でも、ななこさんのおかげで…
+「でも、\N[0]さんのおかげで…
 　私、覚悟を決めました！」
 # TRANSLATION 
 
@@ -4145,7 +4151,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 アシュリー
-「行きましょう！ななこさん！」
+「行きましょう！\N[0]さん！」
 # TRANSLATION 
 
 # END STRING
@@ -4154,7 +4160,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「そうこなくっちゃ！」
 # TRANSLATION 
 
@@ -4164,7 +4170,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「はい！」
 # TRANSLATION 
 

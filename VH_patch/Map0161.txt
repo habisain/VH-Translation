@@ -3,7 +3,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-順位アーップ！
+\N[0]
+「順位アーップ！」
 # TRANSLATION 
 
 # END STRING
@@ -12,8 +13,10 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-でも、このあいだからこの常次郎って人も
-同じくらい順位上げてるわね
+\N[0]
+「でも、このあいだから
+　この常次郎って人も
+　同じくらい順位上げてるわね」
 # TRANSLATION 
 
 # END STRING
@@ -22,7 +25,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-負けてられないわ
+\N[0]
+「負けてられないわ」
 # TRANSLATION 
 
 # END STRING
@@ -31,7 +35,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ランクに変動はないみたい
+\N[0]
+「ランクに変動はないみたい」
 # TRANSLATION 
 
 # END STRING

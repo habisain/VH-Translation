@@ -3,7 +3,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-↓　温泉街にようこそ
+\>　　　　　　　$u 　　　　　　　　 $u\<
+\>　　　　　　　$u 温泉街にようこそ $u\<
+\>　　　　　　　$u 　　　　　　　　 $u\<
 # TRANSLATION 
 
 # END STRING
@@ -21,7 +23,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「さて、急がなくっちゃ！」
 # TRANSLATION 
 

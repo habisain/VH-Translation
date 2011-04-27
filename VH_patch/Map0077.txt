@@ -3,8 +3,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「あら、メル様以外の人が来るなんて
-　珍しい」
+使い魔
+「あら、
+　メル様以外の人が来るなんて珍しい」
 # TRANSLATION 
 
 # END STRING
@@ -13,7 +14,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「あなたは一体・・・？」
+\N[0]
+「あなたは一体……？」
 # TRANSLATION 
 
 # END STRING
@@ -22,10 +24,10 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「申し遅れました。私はメル様のお手伝い
-　をしている使い魔の一人です。故あって
-　霊体ですが怨霊とかではないのでご安心
-　を・・・」
+使い魔
+「申し遅れました。
+　私はメル様のお手伝いをしている
+　使い魔の一人です」
 # TRANSLATION 
 
 # END STRING
@@ -34,7 +36,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「そ、そうなの・・・」
+使い魔
+「故あって霊体ですが
+　怨霊とかではないのでご安心を……」
 # TRANSLATION 
 
 # END STRING
@@ -43,6 +47,17 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
+「そ、そうなの……」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+使い魔
 「メル様と仲良くしてあげてくださいね。
 　ああ見えても寂しがり屋なんです」
 # TRANSLATION 
@@ -53,6 +68,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+使い魔
 「では書庫整理に戻ります。
 　早くしないと怒られちゃいますからね」
 # TRANSLATION 
@@ -64,7 +80,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 使い魔
-「ななこさん、\.こんばんわ」
+「\N[0]さん、\.こんばんわ」
 # TRANSLATION 
 
 # END STRING
@@ -74,7 +90,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 使い魔
-「ななこさん、\.こんにちわ」
+「\N[0]さん、\.こんにちわ」
 # TRANSLATION 
 
 # END STRING
@@ -83,6 +99,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+使い魔
 「こないだはすみません…$d」
 # TRANSLATION 
 
@@ -92,7 +109,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「もう気にしてないわ」
 # TRANSLATION 
 
@@ -102,6 +119,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「ところで、\.あなた名前は？」
 # TRANSLATION 
 
@@ -121,6 +139,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+使い魔
 \S[7]「えーと…」
 # TRANSLATION 
 
@@ -130,6 +149,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+使い魔
 \S[10]「………\.あ…」
 # TRANSLATION 
 
@@ -139,6 +159,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+使い魔
 \S[4]「…ごめんなさい、\.
 　ど忘れしてしまいました…」
 # TRANSLATION 
@@ -149,7 +170,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「あなた…、\.
 　それで使い魔やってけるの？」
 # TRANSLATION 
@@ -171,7 +192,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 \>（嘘ね…）\<
 # TRANSLATION 
 

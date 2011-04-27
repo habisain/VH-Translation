@@ -3,7 +3,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-遊びたいよー
+空き部屋
 # TRANSLATION 
 
 # END STRING
@@ -12,7 +12,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ドキドキ
+馬列車駅――
 # TRANSLATION 
 
 # END STRING
@@ -21,7 +21,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-しっかり勉強して高等文官試験に受かっておくれ
+居留地の牢獄要塞（入り口）。
 # TRANSLATION 
 
 # END STRING
@@ -30,9 +30,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-きゃあ！
-なんなのあんた！
-子供の勉強に悪いから出てっておくれ！
+海に生き海を愛した男達、故郷の安らぎを捨て海に眠る
+－グルハスタ居留地碑－
 # TRANSLATION 
 
 # END STRING
@@ -41,7 +40,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ああ、家庭教師の方ですね
+守衛隊
+「栄えあるに居留地の守衛隊に昇格できたよ。
+　お国の為に頑張らなくっちゃ！」
 # TRANSLATION 
 
 # END STRING
@@ -50,7 +51,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-こちらが教えて欲しい息子です
+守衛隊
+「近頃、砦の外に海賊がたむろしてるらしい」
 # TRANSLATION 
 
 # END STRING
@@ -59,7 +61,119 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-どうかよろしくお願いします
+守衛隊
+「しかも、その賊どもは
+　どうやら領主様と蜜月の仲らしいのだ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+守衛隊
+「守衛のお役目は外国居留地の護衛にて
+　沿岸の警備には関われぬが
+　なんとも歯がゆい事よ…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+守衛隊
+「居留地が作られるとは聞いていたが
+　このような要塞の如きものになるとは…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+守衛隊
+「これほど強固で領主邸に近くては
+　有事の際に攻め取るのも防衛するのも難しい。
+　亡き先代は何を考えておられたのか…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+商船の船長
+「我々の商船は海賊が襲撃してくるのに
+　地元の船はまったく被害がない」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+商船の船長
+「航海を安定したものにする為には
+　やはり海賊のねぐらを襲撃するしかないだろう」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+商船の船長
+「都の商会が討伐隊を組んでくれないものか…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+商船の船長
+「ここは水夫の職場だぞ。
+　そのような姿でいては危険だ。早く服を着なさい」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+守衛隊
+「居留地に立ち入れる者は、
+　商会と領主の認可を下ったものだけだ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+守衛隊
+「ただ先代のハーレムで働いていた女性達は
+　領主様からの許可を持っている人が多いんだよなぁ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+
+「※右のスペースは居留地の街の拡張用です」
 # TRANSLATION 
 
 # END STRING

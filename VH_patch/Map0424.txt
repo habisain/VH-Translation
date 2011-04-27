@@ -1,0 +1,32 @@
+# RPGMAKER TRANS PATCH FILE VERSION 2.0
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+兵士
+「先は、旦那様のお部屋ですので、
+　お入りできません。」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+メイド兵士
+「ここは、パーティの時によく使いますよ
+　ダンスの練習もしたり、いろいろ
+　使いますね。」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+カギがかかっていて入れないようだ
+# TRANSLATION 
+
+# END STRING

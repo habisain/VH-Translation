@@ -1005,7 +1005,8 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 ななこ
-「はーすごいわね！これが都！」
+「はー！
+　やっぱりすごいわね！　これが都！」
 # TRANSLATION 
 
 # END STRING
@@ -1036,8 +1037,8 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 ななこ
-「我ながらもう少しマシな感想と
-　言うものはでてこないのかしら」
+「我ながら、もう少しマシな感想と
+　いうものは出てこないのかしら」
 # TRANSLATION 
 
 # END STRING
@@ -1058,6 +1059,29 @@
 # ADVICE : 49 char limit (35 if face)
 ななこ
 「あれっ…なにからやればいいんだろ…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「とりあえず、冒険者として
+　成長出来たんだし、
+　冒険者ギルドに行ってみようかな」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「例え殺人事件の捜査であろうと、
+　解決してみせるわ！」
 # TRANSLATION 
 
 # END STRING

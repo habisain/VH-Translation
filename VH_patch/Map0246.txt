@@ -3,6 +3,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「きゃ！」
 # TRANSLATION 
 
@@ -12,7 +13,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「ちょ･･･ちょっと、いきなり加速とか･･････」
+\N[0]
+「ちょ…\.ちょっと、\.\.いきなり加速とか……」
 # TRANSLATION 
 
 # END STRING
@@ -21,7 +23,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「わ、わ、わ･･･っ」
+\N[0]
+「わ、\.わ、\.\.わ…っ」
 # TRANSLATION 
 
 # END STRING
@@ -39,6 +42,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「ちくしょー！」
 # TRANSLATION 
 

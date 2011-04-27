@@ -3,6 +3,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+キャンプ中の商人
 「冒険者なら一度は、
 　鉱山の町アイゼンにいってみたら？」
 # TRANSLATION 
@@ -13,6 +14,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+キャンプ中の商人
 「あそこは鍛冶ギルドで有名よ」
 # TRANSLATION 
 
@@ -22,6 +24,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+キャンプ中の商人
 「貴女みたいな冒険者は、
 　陽国のバルカッサにいってみたら？」
 # TRANSLATION 
@@ -32,6 +35,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+キャンプ中の商人
 「アンタら冒険者ギルドのもんを
 　儂ら商い連中はそりゃ評価しとるんやで」
 # TRANSLATION 
@@ -42,6 +46,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+キャンプ中の商人
 「人の生活は、つまるところ物の流通だ」
 # TRANSLATION 
 
@@ -51,6 +56,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+キャンプ中の商人
 「力ある者が人々の暮らしを守る。\!
 　日陰者と世間でいわれていようが、
 　アンタの仕事は誇りある立派なもんなんや」
@@ -62,6 +68,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+キャンプ中の商人
 「アンタは悪い好例やな、うん」
 # TRANSLATION 
 
@@ -71,6 +78,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+護衛の戦士
 「護衛任務中だ」
 # TRANSLATION 
 
@@ -80,6 +88,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+護衛の戦士
 「牝犬め。しっしっ」
 # TRANSLATION 
 

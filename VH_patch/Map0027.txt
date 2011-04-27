@@ -3,7 +3,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\N[1]
+\N[0]
 「……これは、捕まっていた女の人達！？」
 # TRANSLATION 
 
@@ -13,7 +13,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\N[1]
+\N[0]
 「すでにミノタウロスに汚されて
 　しまった人も居るみたい……」
 # TRANSLATION 
@@ -24,7 +24,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\N[1]
+\N[0]
 「ともかく、捕らえられた人たちの
 　行方は分かったわ」
 # TRANSLATION 
@@ -35,7 +35,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\N[1]
+\N[0]
 「あとはミノタウロスを退治するだけね」
 # TRANSLATION 
 
@@ -45,7 +45,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\N[1]
+\N[0]
 「ひどいわね……。あとで町に連絡
 　して迎えに来てもらいましょう」
 # TRANSLATION 
@@ -56,7 +56,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\N[1]
+\N[0]
 「ともあれ、これで依頼達成ね」
 # TRANSLATION 
 

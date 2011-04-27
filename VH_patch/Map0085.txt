@@ -4,7 +4,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 
-　　\N[1]は「妊娠促進薬」を手に入れた！
+　　\N[0]は「妊娠促進薬」を手に入れた！
 # TRANSLATION 
 
 # END STRING

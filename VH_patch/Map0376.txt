@@ -33,7 +33,28 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「夜は城は開いてません。\!
+兵士
+「まったく、
+　この前の侵入といい…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+兵士
+「一体どうなってるんだ！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「夜は城門は開いてません。\!
   謁見は昼にお願いします」
 # TRANSLATION 
 
@@ -366,7 +387,18 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+黒い影
 「それはそうと、\!狭いとこって落ち着くよねー」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+黒い影
+「星空が綺麗だ…」
 # TRANSLATION 
 
 # END STRING
@@ -397,6 +429,16 @@
 # ADVICE : 49 char limit (35 if face)
 倉庫番
 「先に話しを聞いてくれや！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「すっ、\.すみません！」
 # TRANSLATION 
 
 # END STRING
@@ -873,6 +915,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ラミア
 「やっぱ生まれたままの姿が一番よね！」
 # TRANSLATION 
 
@@ -882,6 +925,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ラミア
 「あなたも脱いで見ない？」
 # TRANSLATION 
 
@@ -931,6 +975,26 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ラミア
+「露出も夜が本番よね！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ラミア
+「ラミアは夜が本番よ！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
 あたりを警戒している。\!警備員らしい。
 # TRANSLATION 
 
@@ -940,7 +1004,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-門が閉まっている・・・
+こころなしか少し慌ただしい…
 # TRANSLATION 
 
 # END STRING
@@ -981,45 +1045,6 @@
 # ADVICE : 49 char limit (35 if face)
 「つっても、この町に盗みを働くやつ何ざ
 　いねーがな。ガハハハハ！！」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ななこ
-（あっ、もしかして\.・\.・\.・
-　\.宿屋であったオークかしら？）
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「あの、もしもし？」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-オークはきびきびと警備を行っている
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ななこ
-「仕事熱心ねー」
 # TRANSLATION 
 
 # END STRING
@@ -1620,6 +1645,45 @@
 # ADVICE : 49 char limit (35 if face)
 ななこ
 「私も一般人なんだけど？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+（あっ、\.もしかして…
+　\.宿屋であったオークかしら？）
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「あの、もしもし？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+オークはきびきびと警備を行っている
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「仕事熱心ねー」
 # TRANSLATION 
 
 # END STRING

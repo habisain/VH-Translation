@@ -12,7 +12,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「あ…紙が張ってある…」
 # TRANSLATION 
 
@@ -22,7 +22,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-[ななこ　の　しちも　の
+[\N[0]　の　しちも　の
 　いれ　とい　た　せ｀｀]
 # TRANSLATION 
 
@@ -32,7 +32,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「私の服だ…着替えよう」
 # TRANSLATION 
 
@@ -42,7 +42,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「アシュリーさん、待っててね…
 　無事でいてね…
 　絶対絶対助けるからね…！」
@@ -54,7 +54,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「あいたっ！」
 # TRANSLATION 
 
@@ -64,7 +64,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「いっっったーーっ…」
 # TRANSLATION 
 
@@ -74,7 +74,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「うーん…？
 　ここ…馬車…？」
 # TRANSLATION 
@@ -85,7 +85,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「私また寝ちゃって…
 　起こさないように運んで
 　くれたんだ…」
@@ -107,7 +107,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「…」
 # TRANSLATION 
 
@@ -117,7 +117,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「いつまでもこの格好のままじゃ
 　いられないよね…」
 # TRANSLATION 
@@ -128,7 +128,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「着替えなくちゃ…
 　私の服どこかな…」
 # TRANSLATION 

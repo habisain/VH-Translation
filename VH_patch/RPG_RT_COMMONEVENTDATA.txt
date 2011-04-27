@@ -95,6 +95,17 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[13]
+「ふぅ、
+　すずしい～」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
 ななこ
 「ちょっと大胆過ぎるかな……。でも、
 　コレくらいなら変に思われたりはしない
@@ -150,6 +161,17 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[13]
+「ん～、ちょっと寒いかな？
+　…まぁだいじょうぶだよね！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
 ななこ
 「こんなの……変……よね、やっぱり。
 　でも……少しだけ……少しだけなら…」
@@ -197,6 +219,17 @@
 # ADVICE : 49 char limit (35 if face)
 セレナ
 「ひゃわわわわ！ふ、服！服！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[13]
+「風引いちゃうかな？
+　でも…、ちょっとだけ…」
 # TRANSLATION 
 
 # END STRING
@@ -303,6 +336,17 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[13]
+「おっぱい、
+　立ってきちゃった…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
 ななこ
 「大事なところ丸見えなのに……
 　なんでこんな……すごくドキドキ
@@ -382,6 +426,26 @@
 セレナ
 「ほわああああ！わああ！
 　う、動けない！こんな！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[13]
+「ううぅ…寒い…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[13]
+「でも、気持ちいい……」
 # TRANSLATION 
 
 # END STRING
@@ -509,6 +573,26 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[13]
+「ハッ…クちゅん！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[13]
+「誰かあっためてほしいな……」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
 ななこ
 「大事なところ丸見だ……
 　全部見られちゃう……考えるだけで
@@ -621,6 +705,27 @@
 セレナ
 「こんなカッコでいるから…
 　早く…早くちゃんと服を着なくちゃ…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[13]
+「寒いけど、
+　Ｈなお汁がとまんない…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[13]
+「ママ、だんだんわかってきたよ…」
 # TRANSLATION 
 
 # END STRING
@@ -790,6 +895,27 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[13]
+「もう我慢できないよ……」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[13]
+「見てぇ…さわってぇ…
+　はやくズポズポしてぇ…！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
 ななこ
 「この格好で外に出るのはちょっと恥ずか
 　しいわね……」
@@ -836,6 +962,26 @@
 セレナ
 「こんな服装で外を歩ける
 　わけがないだろう」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[13]
+「なんかスースーする…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[13]
+「…まあいっか！」
 # TRANSLATION 
 
 # END STRING
@@ -931,6 +1077,16 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[13]
+「ちょっと熱いから脱いじゃおうっと！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
 \N[0]はちらちらとこちらを盗み
 見るような男たちの視線を感じた。
 # TRANSLATION 
@@ -998,6 +1154,36 @@
 セレナ
 「みみみ、見られてしまうでわないかぁ！
 　こんな格…ふざけるな！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[13]
+「へっくし！！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[13]
+「う～ん…
+　ちょっとさむいかな？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[13]は風邪が少し心配になった
 # TRANSLATION 
 
 # END STRING
@@ -1102,8 +1288,68 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[13]
+「う～ん！
+　風が当たって気持ちいい～！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[13]
+「けどさむいや、
+　やっぱ着よう…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[13]は風邪を引きそうになった
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
 \N[0]は体中に突き刺さるような
 男たちの視線を感じた。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[13]
+「おまたムズムズする……」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[13]
+「これじゃあ走れないや、服着よ…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[13]は下半身に違和感を感じた
 # TRANSLATION 
 
 # END STRING
@@ -1169,6 +1415,35 @@
 「見たな？！そこを動くな！？
 　ちょっと首から上ごと今見た映像を
 　消してやるから！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[13]
+「うえ～寒い！！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[13]
+「ダメだこりゃ………」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[13]は風邪をひくのを覚悟した
 # TRANSLATION 
 
 # END STRING
@@ -1528,7 +1803,7 @@ around staring at her whole body.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\N[1]
+\N[0]
 「あうっ！」
 # TRANSLATION 
 
@@ -1538,8 +1813,9 @@ around staring at her whole body.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\N[1]
-「このままだと…巣につれていかれちゃう…」
+\N[0]
+「このままだと……、
+　巣につれていかれちゃう……」
 # TRANSLATION 
 
 # END STRING
@@ -1548,8 +1824,8 @@ around staring at her whole body.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\N[1]
-「ひっ…いやっ…何…？」
+\N[0]
+「ひっ！　……いやっ、何……？」
 # TRANSLATION 
 
 # END STRING
@@ -1558,8 +1834,8 @@ around staring at her whole body.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\N[1]
-「だめ…意識が…」
+\N[0]
+「だめ……、意識が……」
 # TRANSLATION 
 
 # END STRING
@@ -1568,7 +1844,8 @@ around staring at her whole body.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\S[1]そ、そんな……こんなところで……
+\N[0]\S[1]
+「そ、そんな……こんなところで……」
 # TRANSLATION 
 
 # END STRING
@@ -1577,7 +1854,8 @@ around staring at her whole body.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\S[1]ぐぁっ、し、しまった……
+\N[0]\S[1]
+「ぐぁっ、し、しまった……」
 # TRANSLATION 
 
 # END STRING
@@ -1586,7 +1864,8 @@ around staring at her whole body.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\S[5]うぅ、まさか、そんな……
+\N[0]\S[5]
+「うぅ、まさか、そんな……」
 # TRANSLATION 
 
 # END STRING
@@ -1595,8 +1874,8 @@ around staring at her whole body.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\C[07]\>\N[01]\<\C[0]
-「うぅ…そんな……」
+\C[07]\>\N[0]\<\C[0]
+「うぅ……、そんな……」
 # TRANSLATION 
 
 # END STRING
@@ -1605,8 +1884,8 @@ around staring at her whole body.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\C[07]\>\N[01]\<\C[0]
-「ぐっ…こんな…ところで…」
+\C[07]\>\N[0]\<\C[0]
+「ぐっ……！　こんな、ところで……」
 # TRANSLATION 
 
 # END STRING
@@ -1615,7 +1894,8 @@ around staring at her whole body.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「くっ・・・強い・・・」
+\N[0]
+「くっ……、強い……」
 # TRANSLATION 
 
 # END STRING
@@ -1633,8 +1913,10 @@ around staring at her whole body.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「負けた...悔しいけど...
-でも私も悪いから今度から気をつけよ」
+\N[0]
+「負けた……、悔しいけど……。
+　でも私も悪かったよね。
+　今度から気をつけよ」
 # TRANSLATION 
 
 # END STRING
@@ -1643,8 +1925,8 @@ around staring at her whole body.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\C[07]\>\N[01]\<\C[0]
-「うぅ…悔しい……」
+\C[07]\>\N[0]\<\C[0]
+「うぅ……悔しい……」
 # TRANSLATION 
 
 # END STRING
@@ -1653,7 +1935,8 @@ around staring at her whole body.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\S[5]ご、ごめん、サラちゃん……
+\N[0]\S[5]
+「ご、ごめん、サラちゃん……」
 # TRANSLATION 
 
 # END STRING
@@ -1662,7 +1945,29 @@ around staring at her whole body.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\S[5]そ、そんな……、リンさん……
+\N[0]\S[5]
+「そ、そんな……、リンさん……」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「ううっ、勝てると思ったのに……」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「うそっ……、やだっ……！
+　お、犯される……」
 # TRANSLATION 
 
 # END STRING
@@ -1701,19 +2006,21 @@ around staring at her whole body.
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\N[1]は押したおされた！
+\N[0]は押したおされた！
 # TRANSLATION 
-\N[1] was pushed successfully!
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\N[1]は押さえつけられた！
+\N[0]は押さえつけられた！
 # TRANSLATION 
-\N[1] was held down!
+
 # END STRING
 
 # TEXT STRING
@@ -1985,6 +2292,78 @@ around staring at her whole body.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\C[9]生肉\C[0]を手に入れた\.　\^
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\C[9]獣皮\C[0]を手に入れた\.　\^
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\C[9]太い骨\C[0]を手に入れた\.　\^
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\C[9]コボルトの剛毛\C[0]を手に入れた\.　\^
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\C[9]リザードマンの尾\C[0]を手に入れた\.　\^
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\C[9]鋭い牙\C[0]を手に入れた\.　\^
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\C[9]生臭い肉\C[0]を手に入れた\.　\^
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\C[9]マーマンの水かき\C[0]を手に入れた\.　\^
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
 \C[9]コウモリの羽\C[0]を手に入れた\.　\^
 # TRANSLATION 
 
@@ -2039,7 +2418,7 @@ around staring at her whole body.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\C[9]生臭い肉\C[0]を手に入れた\.　\^
+\C[9]ヌルっとした鱗\C[0]を手に入れた\.　\^
 # TRANSLATION 
 
 # END STRING
@@ -2048,7 +2427,16 @@ around staring at her whole body.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\C[9]ヌルっとした鱗\C[0]を手に入れた\.　\^
+\C[9]毒の牙\C[0]を手に入れた\.　\^
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\C[9]大さそりの甲殻\C[0]を手に入れた\.　\^
 # TRANSLATION 
 
 # END STRING
@@ -2201,6 +2589,17 @@ around staring at her whole body.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
+「いやぁっ！
+　こないでぇぇ！！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
 ななこ
 「あぁ…やっと来たぁ…」
 # TRANSLATION 
@@ -2254,6 +2653,16 @@ around staring at her whole body.
 # ADVICE : 49 char limit (35 if face)
 セレナ
 「近寄るな！！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「んにゃあああぁ！！？」
 # TRANSLATION 
 
 # END STRING
@@ -2328,6 +2737,16 @@ around staring at her whole body.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
+「いれるの…おチ○チン入れてくれるの？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
 ななこ
 「アァンッ、ヌルヌルしたのが
 　入ってくる……」
@@ -2386,6 +2805,16 @@ around staring at her whole body.
 セレナ
 「き、気持ち悪い！
 　入ってくるな！！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「スライムさんのヌルヌル好きぃ…」
 # TRANSLATION 
 
 # END STRING
@@ -2461,9 +2890,30 @@ around staring at her whole body.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
+「にゃぁぁ…こんなの挿入ったら、
+　全部オチ○チンになっちゃうよ…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
 リン
 「太い…な…
 　入る…かな…？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「大きい…それにイイにおい……」
 # TRANSLATION 
 
 # END STRING
@@ -2538,6 +2988,26 @@ around staring at her whole body.
 セレナ
 「抜け…頼む…抜いて…くれ…
 　ああ…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「ん…にゃぁぁああ！！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「……は…はい…った…」
 # TRANSLATION 
 
 # END STRING
@@ -2651,6 +3121,26 @@ around staring at her whole body.
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 \N[0]
+「い…や…やめ……」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「ひぎぃぃっ！！？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
 「\N[25]……\N[26]……\N[27]……」
 # TRANSLATION 
 
@@ -2726,6 +3216,16 @@ around staring at her whole body.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
+「う゛…もう…や゛め゛…で……」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
 ななこ
 「アァッ、凄ぃ、ダメッ
 　イッちゃう…」
@@ -2785,6 +3285,27 @@ around staring at her whole body.
 セレナ
 「やめろ…やめろ…
 　私の中で…ゴシゴシするな…っ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「…にゃっ！…あ…
+　…あっ…あ…ぁ…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「……イク」
 # TRANSLATION 
 
 # END STRING
@@ -2859,6 +3380,16 @@ around staring at her whole body.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
+「んにゃぁぁあああぁああぁぁぁ！！！！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
 ななこ
 「こんな、アッ、ダメッ！
 　イクッ、イッちゃうぅ！」
@@ -2912,6 +3443,16 @@ around staring at her whole body.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
+「にゃあぁぁぁぁあああんっ！！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
 ななこ
 「嫌ぁぁあ、中に出てるぅぅ！」
 # TRANSLATION 
@@ -2957,6 +3498,16 @@ around staring at her whole body.
 セレナ
 「うわあああ！！
 　嫌ぁああああ！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「い゛やあぁぁぁぁ！！！！」
 # TRANSLATION 
 
 # END STRING
@@ -3176,6 +3727,28 @@ Nanako
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
+「ふ…ふにゃ！？
+　にゃ…あ…あ…あぁぁぁ！！？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「ふにゃあぁぁぁぁっ！！
+　あちゅいいいぃぃっ！！！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
 ななこ
 「もう…赤ちゃん…いるのに…
 　もう一人…孕んじゃう…よぉ…」
@@ -3233,6 +3806,17 @@ Nanako
 セレナ
 「もうやだ…やだよう…お母様ぁ…
 　ごめんなさい…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「Ｈににゃりゅぅぅ！
+　あかちゃんＨりらっちゃうぅぅぅ！」
 # TRANSLATION 
 
 # END STRING
@@ -3307,6 +3891,17 @@ Nanako
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
+「ふにゃ、ふにゃあ、
+　ふにゃぁぁぁああん！！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
 ななこ
 「あぁ…
 　お腹の中に精液が溜まってるぅ…」
@@ -3340,7 +3935,7 @@ Nanako
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-キャァァァッ！放して！
+\N[0]はミノタウロスに捕らえられた！
 # TRANSLATION 
 
 # END STRING
@@ -3454,6 +4049,42 @@ Nanako
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+終わった！！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+同じキャラを仲間にすることは出来ません
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/SetHeroNames
+# ADVICE : 12 char limit per name
+\n[13]:エルミール
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/SetHeroNames
+# ADVICE : 12 char limit per name
+\n[13]:ようじょ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
 バグ報告：　351：味方：入れる
 
 変数[441]：引数1の値が無効です（\V[441]）。　　　
@@ -3498,78 +4129,6 @@ Nanako
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\N[0]はゴブリンを興奮させた！
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-\N[0]はスライムに絡みついた！
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-\N[0]はミノタウロスを興奮させた！
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-\N[0]はオークを興奮させた！
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-\N[0]はゾンビを興奮させた！
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-\N[0]はワイバーンを誘惑した！
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-\N[0]はモンスターを組み敷いた！
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-\N[0]は男を押さえつけた！
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
 ななこ
 「し、失礼しまぁす…！」
 # TRANSLATION 
@@ -3591,8 +4150,8 @@ Nanako
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 エリカ
-「す、少しの間、
-　じっとしててくれよ？」
+「や、やるしかねえよな…？
+　俺がこうさせちまったんだから…」
 # TRANSLATION 
 
 # END STRING
@@ -3602,8 +4161,8 @@ Nanako
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 アシュリー
-「こ、興奮されたのですね？
-　仕方がありません…」
+「興奮されたのですか？
+　なら仕方がありませんね…」
 # TRANSLATION 
 
 # END STRING
@@ -3632,6 +4191,153 @@ Nanako
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
+「うわぁ…オチンチン、
+　こんなになっちゃってる……」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「なるべく早く射精してね…？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「んん……入ってる…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+リン
+「…いれるぞ？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+リン
+「…思った以上に…硬いな…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+エリカ
+「じっとしててくれよ…？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+エリカ
+「…あんまり時間かけんなよ？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+アシュリー
+「辛かったでしょう？
+　私に全てを出して下さいね？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+アシュリー
+「ん…さぁ、動いてください…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+セレナ
+「とっととチ○コだせ！！
+　…私に欲情したのが運のツキだ！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+セレナ
+「んんっ！…ふふ、どうだ？
+　幼な子の膣内に挿入れて満足か！」
+　
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+セレナ
+「もう悔いはないだろう？
+　…さっさと果ててしまえ！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「お、大きすぎだよぉ……」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「ん、にゃ…
+　えへ…ちゃんとはいったよ？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
 ななこ
 「あは…興奮しちゃった？」
 # TRANSLATION 
@@ -3652,8 +4358,8 @@ Nanako
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 リン
-「抑えられないか？
-　よし、抜いてやろう…」
+「我慢するな、
+　私が抜いてやるからな…」
 # TRANSLATION 
 
 # END STRING
@@ -3663,7 +4369,17 @@ Nanako
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 エリカ
-「興奮したんだろ、抜いてやるぜ？」
+「おいおいしょうがねえな…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+エリカ
+「…抜いてやるか！」
 # TRANSLATION 
 
 # END STRING
@@ -3673,8 +4389,8 @@ Nanako
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 アシュリー
-「あら…苦しいんですか？
-　私でよかったら使ってください」
+「苦しいのでしょう？
+　私を鎮めていってくださいね…」
 # TRANSLATION 
 
 # END STRING
@@ -3695,6 +4411,27 @@ Nanako
 # ADVICE : 49 char limit (35 if face)
 セレナ
 「躾けがなってないようだな！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「えへへ～、ガッチガチだね！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「いっぱいい、いっぱい！
+　気持ちよくしてあげるからね♪」
 # TRANSLATION 
 
 # END STRING
@@ -3736,7 +4473,7 @@ Nanako
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 アシュリー
-「入れたいんですか？
+「好きにして下さいね、ただ…
 　…どうなっても知りませんよ？」
 # TRANSLATION 
 
@@ -3748,7 +4485,18 @@ Nanako
 # ADVICE : 49 char limit (35 if face)
 セレナ
 「ほら、早くしろ！
-　私に入れたいんだろう？」
+　私に射精したいんだろう？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「今からこのバッキバキの
+　チ○ポで犯られちゃうんだね～」
 # TRANSLATION 
 
 # END STRING
@@ -3820,6 +4568,17 @@ Nanako
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
+「もっと、もっと絡みついてね？
+　スライムさんのぜんぶが欲しいの！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
 ななこ
 「アァンッ、太い！
 　精気もいっぱいでそう…！」
@@ -3864,7 +4623,18 @@ Nanako
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 セレナ
-「デカイだけでは、女はイカせんぞ？」
+「デカイだけでは、女はイかせられんぞ？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「こんなぶっといチ○ポで
+　ちっちゃい体を犯しちゃうんだね～？」
 # TRANSLATION 
 
 # END STRING
@@ -3884,8 +4654,94 @@ Nanako
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+セレナ
+「デカイだけでは、私はイかせられんぞ？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「ほら、
+　恐がらってないで、一杯動いて！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+リン
+「ふふ…怖いか？
+　ココは射精したがってるぞ…？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+エリカ
+「片腕じゃ不満かー？大丈夫だ、
+　たっぷり楽しませてやるからよ！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+アシュリー
+「ユルユルで体もこんなのですけど…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+アシュリー
+「とっても気持ちいいんでしょ？
+　だから…我慢しないで…ね…？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+セレナ
+「どうした？もっと早く動け！
+　それとも動いて欲しいのか？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
 \N[0]
-「んんっ、入ってきてる…！」」
+「おじちゃん、我慢せずに
+　わたしをめちゃくちゃにしてね？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「わたしの全部、好きにしていいんだよ…？」
 # TRANSLATION 
 
 # END STRING
@@ -3895,8 +4751,7 @@ Nanako
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 ななこ
-「一命様…、\.
-　ごあんなぁーい！」
+「すごい……だめっ…きもちイイ…！」
 # TRANSLATION 
 
 # END STRING
@@ -3906,7 +4761,8 @@ Nanako
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 リン
-「今更恐いなんて言うなよ？」
+「これは……凄く…気持ちいい…
+　…病み付きになりそうだっ…！」
 # TRANSLATION 
 
 # END STRING
@@ -3916,68 +4772,7 @@ Nanako
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 エリカ
-「全部吸い尽くしてやるよ！」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-アシュリー
-「テクニックには自信あるんですよ？」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-セレナ
-「ふふ…、無様だな！
-  そんなに大きくさせて…」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ななこ
-「なるべく早く射精してね…？」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ななこ
-「んん……入ってる…」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-リン
-「…いれるぞ？」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-リン
-「…思ったよりは、硬いな…」
+「やばっ……こんな…きもち…いいのか…？」
 # TRANSLATION 
 
 # END STRING
@@ -3987,17 +4782,8 @@ Nanako
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 エリカ
-「それじゃあ入れるぞ？」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-エリカ
-「…あんまり時間かけさせんなよ？」
+「…こんな…このままじゃ……俺…
+　おかしく…なっ…ちまいそうだッ…！」
 # TRANSLATION 
 
 # END STRING
@@ -4007,18 +4793,8 @@ Nanako
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 アシュリー
-「辛かったでしょう？
-　私に全てを出して下さいね？」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-アシュリー
-「ん…さぁ、早く！」
+「ん…どうです…？
+　…オ○ンチンとろけそうでしょう？」
 # TRANSLATION 
 
 # END STRING
@@ -4028,8 +4804,7 @@ Nanako
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 セレナ
-「とっととチ○コだせ！！
-　…私に欲情したのが運のツキだ！」
+「ん…だれがっ…感じてなど……」
 # TRANSLATION 
 
 # END STRING
@@ -4038,74 +4813,9 @@ Nanako
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-セレナ
-「んんっ！\.……ふふ、
-　どうだ？幼な子に挿れられて満足か？」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-セレナ
-「なら悔いはないだろう？
-　…さっさと果ててしまえ！」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ななこ
-「はっ、早く射精してぇ！！」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-リン
-「で、射精そうなんだな…？
-　遠慮なく射精してくれ！」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-エリカ
-「早く…、
-　早くイケよおおおぉぉぉ！！」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-アシュリー
-「あっ…、射精そうなんですね？
-　さぁ。遠慮なく射精してください！」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-セレナ
-「イケ！\.いけ！\.いけ！\.いけ！\.逝け！\.
-　いけええええぇぇぇぇ！！！！！」
+\N[0]
+「ん……はぁっ…
+　すごい…すごいよぉ…！」
 # TRANSLATION 
 
 # END STRING
@@ -4126,7 +4836,7 @@ Nanako
 # ADVICE : 49 char limit (35 if face)
 リン
 「ほら、遠慮するな。
-　もっと、もっと腰を振っていいんだぞ？」
+　もっと腰を振っていいんだぞ？」
 # TRANSLATION 
 
 # END STRING
@@ -4148,7 +4858,7 @@ Nanako
 # ADVICE : 49 char limit (35 if face)
 アシュリー
 「…どうです？
-　私のテクは一級品でしょう？」
+　私の膣内は絶品でしょう？」
 # TRANSLATION 
 
 # END STRING
@@ -4160,6 +4870,146 @@ Nanako
 セレナ
 「ふふ…どうした？
 　まだまだ始まったばかりだぞ？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「はぁぁん…いいよぉ
+　……もっとしてぇ…！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「はっ、早く射精してぇ！！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+リン
+「で、射精そうなんだな？
+　遠慮なく射精してくれ…！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+エリカ
+「は、はやく…、
+　早くイッてくれぇぇぇ！！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+アシュリー
+「あっ…、もうすぐなのですね？
+　さぁ、遠慮なく射精してください！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+セレナ
+「いけ！\.イケ！\.行け！\.イケ！\.逝け！\.
+　いけええええぇぇぇぇ！！！！！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「でそう…？
+　射精しちゃいそうなの…？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「もっと！もっと激しくしてぇ！！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+リン
+「ほら…もっと…、もっとやれるだろう…？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+エリカ
+「いいぜぇ…
+　俺も感じ始めてきたぁ…！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+アシュリー
+「もう限界なんですか？
+　それじゃあ…、一杯射精して良いですよ？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+セレナ
+「ほら、どうした！
+　もっと腰に力を入れんか！！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「もっと…もっと！
+　もっとヌポヌポしてぇ～$g」
 # TRANSLATION 
 
 # END STRING
@@ -4189,7 +5039,7 @@ Nanako
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 リン
-「ん…、もう射精したのか？」
+「ん…、もう限界か？」
 # TRANSLATION 
 
 # END STRING
@@ -4209,7 +5059,7 @@ Nanako
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 エリカ
-「……射精したのか？」
+「…なんだ…射精したのか？」
 # TRANSLATION 
 
 # END STRING
@@ -4230,7 +5080,7 @@ Nanako
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 アシュリー
-「あら…射精したんですね？お疲れ様」
+「…いっぱい射精ましたね、お疲れ様…」
 # TRANSLATION 
 
 # END STRING
@@ -4270,8 +5120,8 @@ Nanako
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 セレナ
-「堪え性もないとは…
-　いよいよどうしようもないチ○コだな」
+「堪え性もないとは……
+　まったくどうしようもないチ○コだな」
 # TRANSLATION 
 
 # END STRING
@@ -4282,6 +5132,37 @@ Nanako
 # ADVICE : 49 char limit (35 if face)
 セレナ
 「精々射精し尽くすまで絞ってやろう！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「んにゃ？もう射精た？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「へ～、こんなに
+　いっぱい射精てたんだ～？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「もっと射精せるよね？」
 # TRANSLATION 
 
 # END STRING
@@ -4343,8 +5224,7 @@ Nanako
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 リン
-「まぁ…、
-　お腹には先約がいるんだがな…」
+「まぁ、先約がいるんだがな…」
 # TRANSLATION 
 
 # END STRING
@@ -4374,7 +5254,7 @@ Nanako
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 エリカ
-「腹ん中の子は無事かー？」
+「そういや、中の子は無事かー？」
 # TRANSLATION 
 
 # END STRING
@@ -4384,7 +5264,7 @@ Nanako
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 アシュリー
-「ふふ…、私も満足しました」
+「ふふ…、これで私も満足しました」
 # TRANSLATION 
 
 # END STRING
@@ -4405,8 +5285,8 @@ Nanako
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 アシュリー
-「もっともっと飲んで、
-　大きくなりましょうねー！」
+「いっぱい飲んで、
+　大きくなりましょうねー」
 # TRANSLATION 
 
 # END STRING
@@ -4439,7 +5319,57 @@ Nanako
 # ADVICE : 49 char limit (35 if face)
 セレナ
 「お前は、あんな
-　軟な奴に産まれてくるなよー？」
+　軟には産まれてくるなよ？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「んにゃああぁぁぁん$g$g$g」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「いっぱい射精したぁ～！！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「ふぅ～、まんぞく！まんぞく！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「えへへ、またしようね$g」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「今度は…、3人で$g」
 # TRANSLATION 
 
 # END STRING
@@ -4481,8 +5411,7 @@ Nanako
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 リン
-「またしたくなったら言えよ？
-　再起できるのならな…」
+「またしたくなったら言ってくれ…」
 # TRANSLATION 
 
 # END STRING
@@ -4492,8 +5421,7 @@ Nanako
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 エリカ
-「ハハハ…！
-　たんまり射精したな！」
+「ふ～、たんまり射精したな！」
 # TRANSLATION 
 
 # END STRING
@@ -4535,8 +5463,7 @@ Nanako
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 アシュリー
-「生きていれば、
-　またやらせてくださいね？」
+「また今度させてくださいね？」
 # TRANSLATION 
 
 # END STRING
@@ -4546,7 +5473,7 @@ Nanako
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 セレナ
-「ふー…存分にだしたな、コイツ」
+「ふぅ…存分にだしたな、コイツ」
 # TRANSLATION 
 
 # END STRING
@@ -4577,6 +5504,28 @@ Nanako
 # ADVICE : 49 char limit (35 if face)
 セレナ
 「私のような幼子が良いのだろう？\.フフフ…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「はぁぁぁ…$g
+　いっぱいれてるよぉ～$g$g$g」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「また…、
+　いっぱいしてね……？」
 # TRANSLATION 
 
 # END STRING
@@ -4617,8 +5566,8 @@ Nanako
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 リン
-「とてもたくましい…
-　これが生命の力なのか…」
+「とても逞しい…
+　これが生命なのか…」
 # TRANSLATION 
 
 # END STRING
@@ -4628,7 +5577,17 @@ Nanako
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 エリカ
-「なっ…なんだ！？
+「ハァハァ……やばかった…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+エリカ
+「なっ、なんだ！？
 　体が熱くなっていく…？」
 # TRANSLATION 
 
@@ -4649,6 +5608,16 @@ Nanako
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+エリカ
+「こんなの知っちまったら……俺…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
 アシュリー
 「あぁぁ…流れ込んでくる。
 　精液と一緒に、暖かいのが…」
@@ -4661,7 +5630,7 @@ Nanako
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 アシュリー
-「これが…生命を吸うと言うことなのですね」
+「これが…生命なのですね」
 # TRANSLATION 
 
 # END STRING
@@ -4671,7 +5640,7 @@ Nanako
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 セレナ
-「イッた！イッた！
+「イッた！イッた！！
 　変態チ○コが射精し果てた！！！」
 # TRANSLATION 
 
@@ -4682,8 +5651,38 @@ Nanako
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 セレナ
-「お前はそこでの
+「お前はそこで
 　垂れ死ぬのがお似合いだ！！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「んんんんんっ……！！！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「あったかい…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「すごく…気持ちイイ……」
 # TRANSLATION 
 
 # END STRING
@@ -4745,7 +5744,7 @@ Nanako
 # ADVICE : 49 char limit (35 if face)
 アシュリー
 「あら、まだ出せたんですね…。
-　なら、もう一戦交えましょうか？」
+　また最初からやりましょうか？」
 # TRANSLATION 
 
 # END STRING
@@ -4765,7 +5764,27 @@ Nanako
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 セレナ
-「その執念深さには合格点をやってもいいぞ？」
+「その執念深さだけは一人前だな」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「あ…まだ射精してる……」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「もう１回…する？」
 # TRANSLATION 
 
 # END STRING
@@ -4846,7 +5865,8 @@ Nanako
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 エリカ
-「んんんん～。いつも熱いなー、お前の精気！」
+「んんんん！！
+　やっぱ熱いなー、おまえ！」
 # TRANSLATION 
 
 # END STRING
@@ -4856,7 +5876,7 @@ Nanako
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 アシュリー
-「…すごい…熱ぅい…とろけちゃいそう…」
+「…すごい精気……熱い…蕩けちゃいそう……」
 # TRANSLATION 
 
 # END STRING
@@ -4867,7 +5887,7 @@ Nanako
 # ADVICE : 49 char limit (35 if face)
 アシュリー
 「もっと早く出会っていれば、
-　私を虜にできたかもしれないのに…」
+　虜にできたかもしれないのに…」
 # TRANSLATION 
 
 # END STRING
@@ -4899,6 +5919,37 @@ Nanako
 セレナ
 「もう一度やらせろ…
 　話しはそれからだ…！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「んにゃああぁ！？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「すごい……熱い…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「スライムさん…
+　もう１０回やろう？」
 # TRANSLATION 
 
 # END STRING
@@ -4960,7 +6011,7 @@ Nanako
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 エリカ
-「す、すげえ濃いの出したな…」
+「すげえ濃いの射精したな…」
 # TRANSLATION 
 
 # END STRING
@@ -5001,7 +6052,7 @@ Nanako
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 セレナ
-「随分濃いのをだしたな…
+「…にしても、随分濃いのをだしたな…
 　そんなに私を孕ませたかったのか？」
 # TRANSLATION 
 
@@ -5014,6 +6065,28 @@ Nanako
 セレナ
 「だが残念だったな！
 　お前は何も残せず死ね、豚！！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「あっ…
+　まだ濃いのでてりゅ…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「赤ちゃんの赤ちゃん…
+　生まれちゃうかも……」
 # TRANSLATION 
 
 # END STRING
@@ -5067,7 +6140,8 @@ Nanako
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 アシュリー
-「妊娠しちゃうかもしれませんね…」
+「こんなに射精されたら、
+　妊娠しちゃうかもしれませんね…」
 # TRANSLATION 
 
 # END STRING
@@ -5077,7 +6151,8 @@ Nanako
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 アシュリー
-「今度は子どもと三人でやりましょうね？」
+「…そしたら今度は、
+　三人でやりましょうね？」
 # TRANSLATION 
 
 # END STRING
@@ -5098,6 +6173,26 @@ Nanako
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 「また絞り取れば良いだけか…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「すごく濃い……」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「ずっとこうしていたいよぉ…！」
 # TRANSLATION 
 
 # END STRING
@@ -5157,7 +6252,7 @@ Nanako
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 エリカ
-「…って、こいつ人間じゃねーか！！」
+「…って、そういやこいつ人間じゃねーか！！」
 # TRANSLATION 
 
 # END STRING
@@ -5189,6 +6284,740 @@ Nanako
 アシュリー
 「ついつい盗賊団相手の
 　気持ちでやってしまいました…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+セレナ
+「腕もない、大きさもない、精気も少ない…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+セレナ
+「しょせん人間ではこんなものか…！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「おじちゃんの精…だいすきだよ$g」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「あっ…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「何か…奥に感じる気が…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「…張り切られちゃったかな？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「何か…
+　お腹の奥に…感じるような…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「まさかね？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+バグ報告：　393：自：交尾フラグ
+
+変数[140]：敵IDの値が無効です（\V[140]）。　　　
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]はゴブリンを興奮させた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]はスライムに絡みついた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]はミノタウロスを興奮させた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]はオークを興奮させた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]はゾンビを興奮させた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]はワイバーンを誘惑した！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]はモンスターを組み敷いた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]は男を押さえつけた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+エリカ
+「す、少しの間、
+　じっとしててくれよ？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+アシュリー
+「こ、興奮されたのですね？
+　仕方がありません…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+リン
+「抑えられないか？
+　よし、抜いてやろう…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+エリカ
+「興奮したんだろ、抜いてやるぜ？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+アシュリー
+「あら…苦しいんですか？
+　私でよかったら使ってください」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+アシュリー
+「入れたいんですか？
+　…どうなっても知りませんよ？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+セレナ
+「ほら、早くしろ！
+　私に入れたいんだろう？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+セレナ
+「デカイだけでは、女はイカせんぞ？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「んんっ、入ってきてる…！」」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「一命様…、\.
+　ごあんなぁーい！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+リン
+「今更恐いなんて言うなよ？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+エリカ
+「全部吸い尽くしてやるよ！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+アシュリー
+「テクニックには自信あるんですよ？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+セレナ
+「ふふ…、無様だな！
+  そんなに大きくさせて…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+リン
+「…思ったよりは、硬いな…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+エリカ
+「それじゃあ入れるぞ？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+エリカ
+「…あんまり時間かけさせんなよ？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+アシュリー
+「ん…さぁ、早く！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+セレナ
+「んんっ！\.……ふふ、
+　どうだ？幼な子に挿れられて満足か？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+セレナ
+「なら悔いはないだろう？
+　…さっさと果ててしまえ！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+リン
+「で、射精そうなんだな…？
+　遠慮なく射精してくれ！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+エリカ
+「早く…、
+　早くイケよおおおぉぉぉ！！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+アシュリー
+「あっ…、射精そうなんですね？
+　さぁ。遠慮なく射精してください！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+セレナ
+「イケ！\.いけ！\.いけ！\.いけ！\.逝け！\.
+　いけええええぇぇぇぇ！！！！！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+リン
+「ほら、遠慮するな。
+　もっと、もっと腰を振っていいんだぞ？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+アシュリー
+「…どうです？
+　私のテクは一級品でしょう？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+リン
+「ん…、もう射精したのか？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+エリカ
+「……射精したのか？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+アシュリー
+「あら…射精したんですね？お疲れ様」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+セレナ
+「堪え性もないとは…
+　いよいよどうしようもないチ○コだな」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+リン
+「まぁ…、
+　お腹には先約がいるんだがな…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+エリカ
+「腹ん中の子は無事かー？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+アシュリー
+「ふふ…、私も満足しました」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+アシュリー
+「もっともっと飲んで、
+　大きくなりましょうねー！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+セレナ
+「お前は、あんな
+　軟な奴に産まれてくるなよー？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+リン
+「またしたくなったら言えよ？
+　再起できるのならな…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+エリカ
+「ハハハ…！
+　たんまり射精したな！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+アシュリー
+「生きていれば、
+　またやらせてくださいね？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+セレナ
+「ふー…存分にだしたな、コイツ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+リン
+「とてもたくましい…
+　これが生命の力なのか…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+エリカ
+「なっ…なんだ！？
+　体が熱くなっていく…？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+アシュリー
+「これが…生命を吸うと言うことなのですね」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+セレナ
+「イッた！イッた！
+　変態チ○コが射精し果てた！！！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+セレナ
+「お前はそこでの
+　垂れ死ぬのがお似合いだ！！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+アシュリー
+「あら、まだ出せたんですね…。
+　なら、もう一戦交えましょうか？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+セレナ
+「その執念深さには合格点をやってもいいぞ？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+エリカ
+「んんんん～。いつも熱いなー、お前の精気！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+アシュリー
+「…すごい…熱ぅい…とろけちゃいそう…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+アシュリー
+「もっと早く出会っていれば、
+　私を虜にできたかもしれないのに…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+エリカ
+「す、すげえ濃いの出したな…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+セレナ
+「随分濃いのをだしたな…
+　そんなに私を孕ませたかったのか？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+アシュリー
+「妊娠しちゃうかもしれませんね…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+アシュリー
+「今度は子どもと三人でやりましょうね？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+エリカ
+「…って、こいつ人間じゃねーか！！」
 # TRANSLATION 
 
 # END STRING
@@ -5342,68 +7171,6 @@ Nanako
 セレナ
 「こんな汚らわしい物を…
 　雄など、みんな私がやっつけてやる！」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ななこ
-「あっ…」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ななこ
-「何か…奥に感じる気が…」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ななこ
-「…張り切られちゃったかな？」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ななこ
-「何か…
-　お腹の奥に…感じるような…」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ななこ
-「まさかね？」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-バグ報告：　393：自：交尾フラグ
-
-変数[140]：敵IDの値が無効です（\V[140]）。　　　
 # TRANSLATION 
 
 # END STRING
@@ -13544,43 +15311,7 @@ Nanako took the Four Gates Stance!
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\N[1]は淫気を放出した
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-\N[2]は淫気を放出した
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-\N[3]は淫気を放出した
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-\N[4]は淫気を放出した
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-\N[5]は淫気を放出した
+\N[0]は淫気を放出した
 # TRANSLATION 
 
 # END STRING
@@ -14545,6 +16276,24 @@ I can't open my diary in a place like this.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+今は見れない
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]は地図を開いた
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
 「どういう意味だコラァ！」
 # TRANSLATION 
 
@@ -14757,7 +16506,8 @@ such creatures ?"
 # ADVICE : 49 char limit (35 if face)
 女医
 （この牙はゴブリンのモノ…
-　すると、この娘はゴブリンとのハーフ…）
+　すると、この娘はゴブリン
+　とのハーフ…）
 # TRANSLATION 
 
 # END STRING
@@ -14875,7 +16625,8 @@ of your mother."
 # ADVICE : 49 char limit (35 if face)
 女医
 （この角はミノタウロスのモノ…
-　すると、この娘はミノタウロスとのハーフ…）
+　すると、この娘はミノタウロス
+　とのハーフ…）
 # TRANSLATION 
 
 # END STRING
@@ -14905,6 +16656,17 @@ It's not human."
 
 # TEXT STRING
 # UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+女医
+（この耳、それに尻尾は犬のモノ…
+　すると、この娘は亜人か…）
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Choice
 # ADVICE : 49 char limit
 犬似の赤ちゃん
@@ -14918,7 +16680,8 @@ It's not human."
 # ADVICE : 49 char limit (35 if face)
 女医
 （この耳、それに尻尾は犬のモノ…
-　すると、この娘はヘルハウンドとかのハーフ？）
+　すると、この娘はヘルハウンド
+　とかのハーフ？）
 # TRANSLATION 
 
 # END STRING
@@ -15026,6 +16789,99 @@ It's not human."
 女医
 「翼竜、だな。人間が卵を産むだけではなく、
 　更にその卵からワイバーンが産まれるとは…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Choice
+# ADVICE : 49 char limit
+コボルト似の赤ちゃん
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+女医
+（この耳、それに尻尾は犬のモノ…
+　すると、この娘はヘルハウンドとかのハーフ？）
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+女医
+「まるでコボルト…だな…
+　人前には出せそうにないな…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Choice
+# ADVICE : 49 char limit
+リザードマン似の赤ちゃん
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+女医
+（この舌と尾は、爬虫類のモノか…
+　すると、この娘はリザードマンとのハーフ…）
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+女医
+「純粋なリザードマンよりは人に近いか…
+　…意外と暖かいものだな…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Choice
+# ADVICE : 49 char limit
+マーマン似の赤ちゃん
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+女医
+（手に水かき？　…耳元にもか…
+　すると、この娘はマーマンとのハーフ…）
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+女医
+「純粋なマーマンよりは人に近いか…
+　…知能はどうだろう…」
 # TRANSLATION 
 
 # END STRING
@@ -17022,6 +18878,15 @@ It seems I can't change clothes here.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ここでは着替えられない
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
 主人公パラを保存できませんでした
 主人公IDが無効です [\V[67]]
 # TRANSLATION 
@@ -17089,6 +18954,24 @@ It seems I can't change clothes here.
 # CONTEXT : Dialogue/SetHeroNames
 # ADVICE : 12 char limit per name
 \n[21]:セレナ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/SetHeroNames
+# ADVICE : 12 char limit per name
+\n[21]:エルミール
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/SetHeroNames
+# ADVICE : 12 char limit per name
+\n[21]:ようじょ
 # TRANSLATION 
 
 # END STRING
@@ -19081,4 +20964,21 @@ It seems I can't change clothes here.
 \n[28]:いくっ
 # TRANSLATION 
 
+# END STRING
+
+# UNUSED TRANSLATABLES
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[1]は押したおされた！
+# TRANSLATION 
+\N[1] was pushed successfully!
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[1]は押さえつけられた！
+# TRANSLATION 
+\N[1] was held down!
 # END STRING

@@ -3,8 +3,10 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-そ、そんな……。こんな雑魚相手に不覚を
-取るなんて……
+\N[0]
+「そ、そんな……。
+　こんな雑魚相手に
+　不覚を取るなんて……」
 # TRANSLATION 
 
 # END STRING
@@ -13,7 +15,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-とにかく、なんとかして逃げ出さないと……
+\N[0]
+「とにかく、
+　なんとかして逃げ出さないと……」
 # TRANSLATION 
 
 # END STRING
@@ -22,7 +26,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-きゃぁああっ！
+\N[0]
+「きゃぁああっ！」
 # TRANSLATION 
 
 # END STRING
@@ -31,7 +36,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ひぎぃぁぁああ！
+\N[0]
+「ひぎぃぁぁああ！」
 # TRANSLATION 
 
 # END STRING
@@ -40,7 +46,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ぁっ……ぅぅう………
+\N[0]
+「ぁっ……ぅぅう………」
 # TRANSLATION 
 
 # END STRING
@@ -49,7 +56,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-もういや………、もうやめてよぉ………
+\N[0]
+「もういや………、
+　もうやめてよぉ………」
 # TRANSLATION 
 
 # END STRING
@@ -58,8 +67,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-……え！？　どこ触って、ちょっと、止めて！
-破けちゃう引っ張らないで！
+\N[0]
+「……え！？　どこ触って、ちょっと、
+　止めて！破けちゃう引っ張らないで！」
 # TRANSLATION 
 
 # END STRING
@@ -68,8 +78,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-きゃあああああああ！
-
+\N[0]
+「きゃあああああああ！」
 # TRANSLATION 
 
 # END STRING
@@ -78,7 +88,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-こいつらまさか……そんな…嘘でしょ……
+\N[0]
+「こいつらまさか……
+　そんな…嘘でしょ……」
 # TRANSLATION 
 
 # END STRING
@@ -87,8 +99,10 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-いやぁぁ！！　止めて！　許してぇえ！！
-ごめんなさい！　ごめんなさい！
+\N[0]
+「いやぁぁ！！
+　止めて！　許してぇえ！！
+　ごめんなさい！　ごめんなさい！」
 # TRANSLATION 
 
 # END STRING
@@ -97,8 +111,10 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-お願いだからそこだけは許して！
-ひぃっ、当たってる！
+\N[0]
+「お願いだから
+　そこだけは許して！
+　ひぃっ、当たってる！」
 # TRANSLATION 
 
 # END STRING
@@ -107,7 +123,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ダメぇ！！　入っちゃうぅぅ！
+\N[0]
+「ダメぇ！！　入っちゃうぅぅ！」
 # TRANSLATION 
 
 # END STRING
@@ -116,7 +133,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-イヤァァァァッァァッァ！！
+\N[0]
+「イヤァァァァッァァッァ！！」
 # TRANSLATION 
 
 # END STRING
@@ -125,8 +143,10 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-いやぁ！　痛い！　動かないで！
-お願いだから抜いてよぉ！
+\N[0]
+「いやぁ！
+　痛い！　動かないで！
+　お願いだから抜いてよぉ！」
 # TRANSLATION 
 
 # END STRING
@@ -135,7 +155,10 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\N[25]……\N[26]……\N[27]……
+\N[0]
+「\N[25]……
+\>　　 \<\.\N[26]……
+\>　　　　\<\.\N[27]……」
 # TRANSLATION 
 
 # END STRING
@@ -144,7 +167,10 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-だめ……激しっ……こわれちゃうよぉ……！
+\N[0]
+「だめ……
+　激しっ……
+　こわれちゃうよぉ……！」
 # TRANSLATION 
 
 # END STRING
@@ -153,8 +179,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 （え、中でおっきくなって……
-ビクビクしてきてる……）
+　ビクビクしてきてる……）
 # TRANSLATION 
 
 # END STRING
@@ -163,6 +190,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 （これって……中に出されちゃうっ……！
 　赤ちゃんが……っ）
 # TRANSLATION 
@@ -173,8 +201,10 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-（これって……だめッ……
-このままじゃ、中に出されちゃうっ……！）
+\N[0]
+（これって……
+　だめッ……このままじゃ、
+　中に出されちゃうっ……！）
 # TRANSLATION 
 
 # END STRING
@@ -183,7 +213,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-やめてっ……離して……！
+\N[0]
+「やめてっ……離して……！」
 # TRANSLATION 
 
 # END STRING
@@ -192,8 +223,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-抜いて！　抜いてよぉ！　いやだぁ！
-ダメェッ、中に出しちゃダメェッ！！
+\N[0]
+「抜いて！　抜いてよぉ！　いやだぁ！
+　ダメェッ、中に出しちゃダメェッ！！」
 # TRANSLATION 
 
 # END STRING
@@ -202,8 +234,10 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-いやぁ………なにこれ……なんでこんなに
-出るの………お腹…苦しい……よ
+\N[0]
+「いやぁ………なにこれ……
+　なんでこんなに出るの………
+　お腹…苦しい……よ」
 # TRANSLATION 
 
 # END STRING
@@ -212,7 +246,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ぁぁ………はぁ……う……
+\N[0]
+「ぁぁ………はぁ……う……」
 # TRANSLATION 
 
 # END STRING
@@ -221,7 +256,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-えっ？　嘘……もう終わったでしょ……？
+\N[0]
+「えっ？
+　嘘……もう終わったでしょ……？」
 # TRANSLATION 
 
 # END STRING
@@ -230,7 +267,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-はっぐぅあぁぁぁああああ！！
+\N[0]
+「はっぐぅあぁぁぁああああ！！」
 # TRANSLATION 
 
 # END STRING
@@ -239,8 +277,10 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-なんで！？　なんでよぉ！？
-もうヤダぁ！　赤ちゃ、赤ちゃんがぁ！！
+\N[0]
+「なんで！？　なんでよぉ！？
+　もうヤダぁ！
+　赤ちゃ、赤ちゃんがぁ！！」
 # TRANSLATION 
 
 # END STRING
@@ -249,8 +289,10 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-なんで！？　なんでよぉ！？
-もうヤダぁ！　助けて、助けてよぉ！！
+\N[0]
+「なんで！？　なんでよぉ！？
+　もうヤダぁ！
+　助けて、助けてよぉ！！」
 # TRANSLATION 
 
 # END STRING
@@ -259,7 +301,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ぁ………ぁぁ……･･･
+\N[0]
+「ぁ………ぁぁ………」
 # TRANSLATION 
 
 # END STRING
@@ -268,7 +311,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-も………やめ…………
+\N[0]
+「も………やめ…………」
 # TRANSLATION 
 
 # END STRING
@@ -277,7 +321,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ひぎぃいぃいいい！
+\N[0]
+「ひぎぃいぃいいい！」
 # TRANSLATION 
 
 # END STRING
@@ -286,7 +331,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ふぐっ……うご……ぁ……ぅん……
+\N[0]
+「ふぐっ……うご……ぁ……ぅん……」
 # TRANSLATION 
 
 # END STRING
@@ -295,8 +341,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ぁ、げほっ……お願い……お願い……
-ぐぼっ……もぅ……許じて……
+\N[0]
+「ぁ、げほっ……お願い……お願い……
+　ぐぼっ……もぅ……許じて……」
 # TRANSLATION 
 
 # END STRING
@@ -305,7 +352,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\S[10] あ……あは……あはは………
+\N[0]
+「\S[10]あ……あは……あはは………」
 # TRANSLATION 
 
 # END STRING
@@ -314,9 +362,10 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\S[10] お腹……も……お尻も……頭も……
-赤……ちゃんも……全部……グチャグチャ
-になっちゃった……
+\N[0]
+「\S[10]お腹……も……お尻も……
+　頭も……赤……ちゃんも……全部……
+　グチャグチャになっちゃった……」
 # TRANSLATION 
 
 # END STRING
@@ -325,8 +374,10 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\S[10] お腹……も……お尻も……頭も……
-全部……グチャグチャになっちゃった……
+\N[0]
+「\S[10]お腹……も……お尻も……
+　頭も……全部……
+　グチャグチャになっちゃった……」
 # TRANSLATION 
 
 # END STRING
@@ -335,8 +386,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\S[15] もう……だめ……だ………
-私……壊れ、ちゃった……
+\N[0]
+「\S[15]もう……だめ……だ………
+　私……壊れ、ちゃった……」
 # TRANSLATION 
 
 # END STRING

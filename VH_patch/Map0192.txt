@@ -3,7 +3,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-（階段を下りた･･･？地下に
+\N[0]
+（階段を下りた…？地下に
 　隠し通路なんてあったのね）
 # TRANSLATION 
 
@@ -13,7 +14,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-（･･････）
+\N[0]
+（……）
 # TRANSLATION 
 
 # END STRING
@@ -22,7 +24,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-（結構歩くな･･･方向は東･･･？）
+\N[0]
+（結構歩くな…方向は東…？）
 # TRANSLATION 
 
 # END STRING
@@ -31,6 +34,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+守備隊兵
 「階段だ、次の一歩は高めに踏み出せ」
 # TRANSLATION 
 
@@ -40,7 +44,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「･･･」
+\N[0]
+「…」
 # TRANSLATION 
 
 # END STRING
@@ -49,7 +54,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-（･･･澄んだ空気･･･外？）
+\N[0]
+（…澄んだ空気…外？）
 # TRANSLATION 
 
 # END STRING

@@ -3,8 +3,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-んー、いくら強くなっても
-仕事で実力をしめさないとダメか・・・
+\N[0]
+「んー、いくら強くなっても
+　仕事で実力をしめさないとダメか……」
 # TRANSLATION 
 
 # END STRING
@@ -13,7 +14,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-まだ私の名前は入ってない・・・
+\N[0]
+「まだ私の名前は入ってない……」
 # TRANSLATION 
 
 # END STRING
@@ -22,7 +24,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-まあレベル2じゃね
+\N[0]
+「まあレベル2じゃね」
 # TRANSLATION 
 
 # END STRING
@@ -31,7 +34,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-んー私の名前はないようね
+\N[0]
+「んー私の名前はないようね」
 # TRANSLATION 
 
 # END STRING
@@ -40,7 +44,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-まっ当たり前か
+\N[0]
+「まっ当たり前か」
 # TRANSLATION 
 
 # END STRING

@@ -3,8 +3,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「うう･･･痛いのはいや･･･痛いの･･･
-　やだよぅ・・・」
+半裸の娘
+「うう…痛いのはいや…痛いの…
+　やだよぅ……」
 # TRANSLATION 
 
 # END STRING
@@ -13,7 +14,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-･･･
+横たわる女性
+「…」
 # TRANSLATION 
 
 # END STRING
@@ -22,7 +24,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-気を失ってるみたい･･･
+\N[0]
+「気を失ってるみたい…」
 # TRANSLATION 
 
 # END STRING
@@ -31,7 +34,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「もうっいぎだぐないｯ･･･
+悶える女
+「もうっいぎだぐないｯ…
 　あ゛あ゛ぁ゛ぁ゛ぁぁ！！！！」
 # TRANSLATION 
 
@@ -41,7 +45,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「あっあっあぁぁぁ･･･」
+悶える女
+「あっあっあぁぁぁ…」
 # TRANSLATION 
 
 # END STRING
@@ -59,6 +64,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+蹲る妊婦
 「あかちゃん…いやあああ…
 　産みたく…ないいい…」
 # TRANSLATION 
@@ -69,6 +75,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「な…！」
 # TRANSLATION 
 
@@ -78,7 +85,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-すえた臭いがななこの鼻腔をつく…
+すえた臭いが\N[0]の鼻腔をつく…
 # TRANSLATION 
 
 # END STRING
@@ -87,6 +94,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「女の…人…
 　攫って玩具にしてたのね…」
 # TRANSLATION 
@@ -97,6 +105,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「くっ…許せない…」
 # TRANSLATION 
 
@@ -106,7 +115,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「…けど、ごめんなさい･･･
+\N[0]
+「…けど、ごめんなさい…
 　今は助けられない…」
 # TRANSLATION 
 
@@ -116,6 +126,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「まず地図を作ってあいつらを
 　倒す事が先決…」
 # TRANSLATION 
@@ -126,6 +137,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「でないと、いつまでも
 　被害者が生まれ続ける…」
 # TRANSLATION 
@@ -136,7 +148,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「…もう少しで助けが来るから･･･
+\N[0]
+「…もう少しで助けが来るから…
 　あとちょっとだけ、頑張って…」
 # TRANSLATION 
 

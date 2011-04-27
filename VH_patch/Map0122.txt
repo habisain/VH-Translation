@@ -1857,7 +1857,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-【デバック】怪しい万屋の変数操作
+【デバッグ】怪しい万屋の変数操作
 # TRANSLATION 
 
 # END STRING

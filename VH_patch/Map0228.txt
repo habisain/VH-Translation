@@ -30,8 +30,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-うーん、ちょっと怖いかなぁ。
-いまの私じゃ転落真っ逆さまってところね。
+\N[0]
+「うーん、ちょっと怖いかなぁ。
+　いまの私じゃ転落真っ逆さまってところね」
 # TRANSLATION 
 
 # END STRING
@@ -40,8 +41,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-うーん、ちょっと怖いかなぁ。
-いまの私じゃ転落真っ逆さまってかんじかな？
+\N[0]
+「うーん、ちょっと怖いかなぁ。
+　いまの私じゃ転落真っ逆さまってかんじかな？」
 # TRANSLATION 
 
 # END STRING
@@ -50,7 +52,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-岩場の陰に、細長い亀裂が生じている･･･
+岩場の陰に、細長い亀裂が生じている…
 # TRANSLATION 
 
 # END STRING
@@ -69,7 +71,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「…あれ…見張りいない…っぽい？」
 # TRANSLATION 
 
@@ -79,7 +81,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「でも何か、嫌な感じ…」
 # TRANSLATION 
 
@@ -90,7 +92,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 エリカ
-「ななこもか？」
+「\N[0]もか？」
 # TRANSLATION 
 
 # END STRING
@@ -109,7 +111,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「いやなんていうか…
 　胸騒ぎがするっていうか」
 # TRANSLATION 
@@ -121,9 +123,9 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 エリカ
-「まぁ勘以上のもんじゃねえんだが…
-　なんか、なんか気持ち悪い。
-　妙だ」
+「まぁ勘以上の
+　もんじゃねえんだが…
+　なんか、なんか気持ち悪い。妙だ」
 # TRANSLATION 
 
 # END STRING
@@ -142,7 +144,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「そう、それ」
 # TRANSLATION 
 
@@ -164,7 +166,8 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 ベネッタ
-「そもそも見張り立てるって知能が
+「そもそも
+　見張り立てるって知能が
 　なかったのかもしれないわ」
 # TRANSLATION 
 
@@ -184,10 +187,10 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「まぁここで悩んでても仕方ないわ。
-　何にしても任務は果たさないと
-　いけないんだし」
+　何にしても
+　任務は果たさないといけないんだし」
 # TRANSLATION 
 
 # END STRING
@@ -207,8 +210,8 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 ベネッタ
-「ヤバそうならここでズラかるってのも
-　手だけどねー」
+「ヤバそうなら
+　ここでズラかるってのも手だけどねー」
 # TRANSLATION 
 
 # END STRING
@@ -228,17 +231,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「…うん」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ここまで来て下からはない
 # TRANSLATION 
 
 # END STRING
@@ -369,7 +363,7 @@
 エリカ
 「文句ならあのヒゲリーゼントに
 　言ってくれ…俺達も本当はこんな手段
-　取りたくなかったんだ…なぁななこ？」
+　取りたくなかったんだ…なぁ\N[0]？」
 # TRANSLATION 
 
 # END STRING
@@ -378,7 +372,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「えっ、ここで私に振るですか。
 　ソウデスワタシもヒガイシャなんデス」
 # TRANSLATION 
@@ -400,7 +394,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-エリカ・ななこ
+エリカ・\N[0]
 「ういうーい」
 # TRANSLATION 
 

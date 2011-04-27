@@ -3,7 +3,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「へぇ…思ったより手入れされてるのね。
 　もっとボロボロかと思ってたわ」
 # TRANSLATION 
@@ -14,7 +14,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「それを仕事にしてる奴もいるんだろうさ。
 　おかげで気持ちよく休めるんだから
 　ありがたく思わないとな」
@@ -26,7 +26,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「それで、どれくらい休むつもり？」
 # TRANSLATION 
 
@@ -36,7 +36,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「急ぐのはあんたの都合だから
 　しっかり休憩を取りたいって
 　言うなら私は構わないけど」
@@ -48,7 +48,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「へっ、ありがたくって涙が出るぜ」
 # TRANSLATION 
 
@@ -58,7 +58,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「実際、モンスターに追われながら
 　全力疾走なんて慣れない事したもん
 　だから全身クタクタでよ」
@@ -70,7 +70,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「正直、ここで一晩休憩してから出発してえ」
 # TRANSLATION 
 
@@ -80,7 +80,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「…さっきも言ったけど
 　急いでるんじゃなかったわけ？」
 # TRANSLATION 
@@ -91,7 +91,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「そうなんだが…出る前はこんなに
 　しんどいとは思わなかったからよ…」
 # TRANSLATION 
@@ -102,7 +102,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「疲れちまったもんはしょうがねえ。
 　遅れた分は、まぁ…なんとかならぁな」
 # TRANSLATION 
@@ -113,7 +113,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「適当ねー。
 　早死にするタイプだわ」
 # TRANSLATION 
@@ -124,7 +124,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「ほっとけ。
 　さ、本当にもう疲れたんだ。
 　とっとと休ませてくれ」
@@ -136,7 +136,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「はいはい」
 # TRANSLATION 
 
@@ -146,7 +146,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「…本当にいいのか？
 　ベッドを使うの俺だけで」
 # TRANSLATION 
@@ -157,7 +157,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「これがプライベートなら
 　ブン殴ってあんたを床にでも
 　寝させる所だけどね」
@@ -169,7 +169,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「一応あんたの護衛ってのが仕事
 　だから、出入り口の近くに私が
 　いた方が何かと都合がいいのよ」
@@ -181,7 +181,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「へっ、何かと…ね」
 # TRANSLATION 
 
@@ -191,7 +191,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「分かったよ…そんじゃ、お言葉に甘えて
 　ベッドでゆっくり大いびきこかせて貰うぜ」
 # TRANSLATION 
@@ -202,7 +202,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「………」
 # TRANSLATION 
 
@@ -212,7 +212,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「さて、私も一休みしようかな」
 # TRANSLATION 
 
@@ -222,7 +222,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「んー…
 　ゆっくり休むって事だし…
 　私も寝ちゃおっかなぁ」
@@ -234,7 +234,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「いやいや…一応、護衛だし…」
 # TRANSLATION 
 
@@ -244,7 +244,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「ゆっくり寝こけちゃうわけには…」
 # TRANSLATION 
 
@@ -254,7 +254,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「なんて言いつつ…」
 # TRANSLATION 
 
@@ -264,7 +264,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「しっかり睡眠の準備をしちゃう
 　私なのであった」
 # TRANSLATION 
@@ -275,7 +275,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「人間、睡魔には勝てないわよねー…」
 # TRANSLATION 
 
@@ -285,7 +285,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「……」
 # TRANSLATION 
 
@@ -295,7 +295,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「………」
 # TRANSLATION 
 
@@ -305,7 +305,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「Zzz……」
 # TRANSLATION 
 
@@ -408,7 +408,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「ふぅ、危機一髪ってところね」
 # TRANSLATION 
 
@@ -418,7 +418,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「あ、ああ、助かったよ」
 # TRANSLATION 
 
@@ -428,7 +428,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「追手に気付いて即座に屋根裏に
 　隠れるなんて、あんた見かけに
 　よらず頼りになるんだな」
@@ -440,7 +440,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 （田舎で怒ったじっちゃんから
 　逃げる為に培った技術が偶然
 　役に立っただけなんだけど…）
@@ -452,7 +452,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 （わざわざ言う必要はないわよね）
 # TRANSLATION 
 
@@ -462,7 +462,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「…それより、あいつら
 　何なのかしら？」
 # TRANSLATION 
@@ -473,7 +473,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「見るからに強盗団か
 　山賊かって出で立ち…」
 # TRANSLATION 
@@ -484,7 +484,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「どう見てもカタギの
 　人には見えないけど」
 # TRANSLATION 
@@ -495,7 +495,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「多分、『血の兄弟』って山賊だ。
 　ここいらを縄張りにして金さえ貰えば
 　何でもやるっていう性質の悪い連中さ」
@@ -507,7 +507,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「狙われたのは、やっぱりあんた？」
 # TRANSLATION 
 
@@ -517,7 +517,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「あんたのケツがあいつらを
 　誘ったんでなけりゃ、そうだろうな」
 # TRANSLATION 
@@ -528,7 +528,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「………。
 　何を運んでるのかは聞かないけど
 　ちゃんと今持ってるんでしょうね？」
@@ -540,7 +540,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「ああ、しっかり持ってる。
 　おかげさんでな」
 # TRANSLATION 
@@ -551,7 +551,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「それなら…」
 # TRANSLATION 
 
@@ -561,7 +561,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「っ！」
 # TRANSLATION 
 
@@ -571,7 +571,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「静かにっ！」
 # TRANSLATION 
 
@@ -581,7 +581,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「……」
 # TRANSLATION 
 
@@ -591,7 +591,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「…？何よあんた
 　…ジロジロ何見て…」
 # TRANSLATION 
@@ -602,7 +602,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「…へっ？あっ！」
 # TRANSLATION 
 
@@ -612,7 +612,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「～～～っ！！！！」
 # TRANSLATION 
 
@@ -622,7 +622,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 （あんまり必死で
 　自分の格好忘れてた!!!!）
 # TRANSLATION 
@@ -633,7 +633,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「へっへっへ…眼福眼福」
 # TRANSLATION 
 
@@ -643,7 +643,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「状況わかってんのあんた！？」
 # TRANSLATION 
 
@@ -653,7 +653,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「ていうか、こっち見るな！
 　ブン殴るわよ！」
 # TRANSLATION 
@@ -664,7 +664,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「へいへいっ！と」
 # TRANSLATION 
 
@@ -674,7 +674,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「いやなんだ、疲れマラというかだな。
 　男ってのは生命の危機に瀕すると
 　とってもチンコが…」
@@ -739,7 +739,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「…ほっ…どうやら行ったみたい…」
 # TRANSLATION 
 
@@ -749,7 +749,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「なら、もう降りて大丈夫か？」
 # TRANSLATION 
 
@@ -759,7 +759,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「誘い出す為の罠って事も
 　考えられるわ…」
 # TRANSLATION 
@@ -770,7 +770,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「日が昇るまではここにこのまま
 　隠れていた方が無難だと思う」
 # TRANSLATION 
@@ -781,7 +781,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「今更時間がどうしただの
 　言わないわよね？」
 # TRANSLATION 
@@ -792,7 +792,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「ああ、今更文句もねえさ」
 # TRANSLATION 
 
@@ -802,7 +802,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「…えっ？」
 # TRANSLATION 
 
@@ -812,7 +812,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「もしかして、朝までずっとこのままなのか？」
 # TRANSLATION 
 
@@ -822,7 +822,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「顎の骨を砕かれてもいい
 　って言うなら他の選択肢を
 　試してみてもいいけど？」
@@ -834,7 +834,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「いえ…遠慮しておきます…」
 # TRANSLATION 
 
@@ -844,7 +844,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「うひぃー…
 　ちっくしょー…
 　生殺しだよぉー…」
@@ -856,7 +856,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「ハァ…ハァ…ハァ…」
 # TRANSLATION 
 
@@ -866,7 +866,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「……さっきから息が荒いけど
 　なにか良からぬこと考えてるん
 　じゃないでしょうね？」
@@ -878,7 +878,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「バ、バカ言えってんだ！
 　こうも狭いんじゃ暑苦しくて
 　仕方ねぇだけだよ」
@@ -890,7 +890,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「……そう。
 　ならいいんだけど……」
 # TRANSLATION 
@@ -901,16 +901,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-………
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「――ッァン \|\^」
 # TRANSLATION 
 
@@ -920,7 +911,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「ちょ、ちょっと
 　どこ触ってるのよ！」
 # TRANSLATION 
@@ -931,7 +922,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「悪い、悪い。
 　暗くて手元が良く見えないもんでよ」
 # TRANSLATION 
@@ -942,7 +933,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「いくら見えないからって……」
 # TRANSLATION 
 
@@ -952,7 +943,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「――ァアン \|\^」
 # TRANSLATION 
 
@@ -962,7 +953,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「おっと、またやっちまった」
 # TRANSLATION 
 
@@ -972,7 +963,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「しかし、こりゃなんだ？
 　柔らかい中に妙にコリコリした
 　もんがあって……」
@@ -984,7 +975,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「ちょっと、いい加減に……」
 # TRANSLATION 
 
@@ -994,7 +985,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「――アンッ \|\^」
 # TRANSLATION 
 
@@ -1004,7 +995,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「分かったぞ、このたまらねぇ手応え
 　にゃ覚えがあるぜ」
 # TRANSLATION 
@@ -1015,7 +1006,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「妊娠してミルクが詰まってるからか？
 　もみ応えのたまんねえいい乳してんなぁ」
 # TRANSLATION 
@@ -1026,7 +1017,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「へへ、思ったとおりだ。
 　まったく最高の体してんなぁ」
 # TRANSLATION 
@@ -1037,7 +1028,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「ア、アンタ全部分かってて！」
 # TRANSLATION 
 
@@ -1047,7 +1038,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「おっと、大きな声を出すなよ。
 　連中に見つかっちまったら
 　一大事だろう？」
@@ -1059,7 +1050,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「見つかったらまずいのは
 　アンタだって同じでしょうが！」
 # TRANSLATION 
@@ -1070,7 +1061,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「その通りさ」
 # TRANSLATION 
 
@@ -1080,7 +1071,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「だからお互いのために、ここは
 　静かーにしとこうじゃないか？」
 # TRANSLATION 
@@ -1091,7 +1082,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「なぁ？」
 # TRANSLATION 
 
@@ -1101,7 +1092,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 （どうしよう？
 　このまま調子づかせたら
 　何されることかわかんないし）
@@ -1113,7 +1104,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 （けど、下手に騒いだらさっきの
 　連中に感づかれる可能性も……）
 # TRANSLATION 
@@ -1124,7 +1115,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 （仕方ない、ここは……）
 # TRANSLATION 
 
@@ -1152,7 +1143,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「わ、分かったわ。
 　す、好きにしなさい」
 # TRANSLATION 
@@ -1163,7 +1154,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「ただし！　
 　あくまで静かに大人しくよ！」
 # TRANSLATION 
@@ -1174,7 +1165,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「へへっ、わかってるわかってるって」
 # TRANSLATION 
 
@@ -1193,7 +1184,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「…ン…ハァッ…ァ……」
 # TRANSLATION 
 
@@ -1203,7 +1194,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「…ゥッ……アン……ァハ…」
 # TRANSLATION 
 
@@ -1213,7 +1204,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「…ンッ…ハァ…フッ……」
 # TRANSLATION 
 
@@ -1223,7 +1214,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「…クッ……フ……ァンッ……」
 # TRANSLATION 
 
@@ -1233,7 +1224,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「なんつーか、こう、声を噛み殺してる
 　女の表情ってのはソソるよな」
 # TRANSLATION 
@@ -1244,7 +1235,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「…アンッ…そ、そう……？」
 # TRANSLATION 
 
@@ -1254,7 +1245,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「ああ、ホントたまんねぇぜ」
 # TRANSLATION 
 
@@ -1264,7 +1255,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「……ンンッ！？　\|\^」
 # TRANSLATION 
 
@@ -1274,7 +1265,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「…ン……」
 （あ、舌が……）
 # TRANSLATION 
@@ -1285,7 +1276,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「…ンフ…チュ……」
 （やだ、頭がボーッとしてきちゃう……）
 # TRANSLATION 
@@ -1296,7 +1287,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「…ン…チュ…ンム……」
 # TRANSLATION 
 
@@ -1306,7 +1297,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「――――ンンッ！？　\|\^」
 # TRANSLATION 
 
@@ -1316,7 +1307,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「…ンフッ…ンンッ…ハッ……」
 # TRANSLATION 
 
@@ -1326,7 +1317,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「…アフッ…ンゥッ…ハフッ……」
 # TRANSLATION 
 
@@ -1336,7 +1327,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「…プハァッ」
 # TRANSLATION 
 
@@ -1346,7 +1337,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「へへ、どうよ。
 　キスされながら突かれるってのは
 　悪くないだろ？」
@@ -1358,7 +1349,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「うん……イイ……」
 # TRANSLATION 
 
@@ -1368,7 +1359,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「気に入ったみたいだな。
 　なら、ほら舌を出しなよ」
 # TRANSLATION 
@@ -1379,7 +1370,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「……ン…」
 # TRANSLATION 
 
@@ -1389,7 +1380,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「そんなの……
 　知らない……わよ……」
 # TRANSLATION 
@@ -1400,7 +1391,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「なら、俺が教えてやるよ」
 # TRANSLATION 
 
@@ -1410,7 +1401,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「――ンッ――ンムゥッ――」
 # TRANSLATION 
 
@@ -1420,7 +1411,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「へへっ、このまま最後までイクぜ」
 # TRANSLATION 
 
@@ -1430,7 +1421,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「ンッ――ンン――――」
 （待って、中は！！）
 # TRANSLATION 
@@ -1441,7 +1432,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「ンッ――――――」
 （ダメなのに、イっちゃうーー！）
 # TRANSLATION 
@@ -1452,7 +1443,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「ああ、最高だ。
 　搾り取られたみてぇに凄え出たぜ」
 # TRANSLATION 
@@ -1463,7 +1454,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「妊婦ってのも悪かねえな」
 # TRANSLATION 
 
@@ -1473,7 +1464,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「ハァッ…ハァッ…ハァッ…」
 （ダメなのに、仕事中なのに
 　中でイかされちゃった……）
@@ -1485,7 +1476,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「アンタ、最高だったぜ」
 # TRANSLATION 
 
@@ -1495,7 +1486,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「ン……」
 （あ、また……）
 # TRANSLATION 
@@ -1506,7 +1497,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「…クゥッ……ァ……
 　馬鹿……言って…ないで…」
 # TRANSLATION 
@@ -1517,7 +1508,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「…ンンッ…早く……
 　終わらせなさい……」
 # TRANSLATION 
@@ -1528,7 +1519,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「はいはい、それならお言葉通り
 　させていただきますかっと……！」
 # TRANSLATION 
@@ -1558,7 +1549,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「馬鹿っ！分かってるなら…
 　もっと…ゆっくり……」
 # TRANSLATION 
@@ -1569,7 +1560,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「――アァンッ！　\|\^」
 # TRANSLATION 
 
@@ -1579,7 +1570,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「やれやれ、仕方ねぇなぁ。
 　アンタが我慢できねぇなら、
 　俺の方で塞いでやらないとな」
@@ -1591,7 +1582,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「ちょっと、何を……ンッ！」
 # TRANSLATION 
 
@@ -1601,7 +1592,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「…ンンッ！……ンー！
 （やだ、舌が……！）
 # TRANSLATION 
@@ -1612,7 +1603,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「…ンフ…チュ……」
 （なんだか変……
 　頭がボーッとしてきちゃう…）
@@ -1624,7 +1615,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「…ンフ…チュ……」
 （いや、気色悪い…
 　こんな奴に……！）
@@ -1636,7 +1627,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「…ンフッ！…ンンッ！…フッ！」
 # TRANSLATION 
 
@@ -1646,7 +1637,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-･･･プハァッ
+…プハァッ
 # TRANSLATION 
 
 # END STRING
@@ -1664,7 +1655,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「……何を……勝手なことを！」
 # TRANSLATION 
 
@@ -1674,7 +1665,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「おっと、また声が大きいな」
 # TRANSLATION 
 
@@ -1684,7 +1675,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「――ンンッ！　\|\^」
 # TRANSLATION 
 
@@ -1703,7 +1694,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「ンンン――ッ――――」
 （赤ちゃんが！！）
 # TRANSLATION 
@@ -1714,7 +1705,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「ハァッ…ハァッ…ハァッ…」
 （ダメなのに、仕事中なのに
 　イかされちゃった……）
@@ -1726,7 +1717,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「……私、言ったわよね？
 　変なことしたら、顎ぶち砕くって」
 # TRANSLATION 
@@ -1737,7 +1728,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「おいおい、ちょっと待てよ。
 　今騒いだりなんかしたら……」
 # TRANSLATION 
@@ -1748,7 +1739,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「騒ぐ暇なんか無し！
 　問答無用！」
 # TRANSLATION 
@@ -1759,7 +1750,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「アンタねぇ！　
 　変なことしたらぶっ飛ばすって
 　言っておいたわよね！」
@@ -1771,7 +1762,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「違う、違ぇって！
 　暗くてよく見えねぇんで
 　手元が狂っちまっただけだよ！」
@@ -1783,7 +1774,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「……いいわ。
 　今回は許すけど次にやったら
 　引っこ抜くからね！」
@@ -1795,7 +1786,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「サー！イエス、サー！」
 # TRANSLATION 
 
@@ -1805,7 +1796,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「しかし、あれだな。
 　あんた随分色っぽい声してんな」
 # TRANSLATION 
@@ -1816,7 +1807,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「―――キッ！」
 # TRANSLATION 
 
@@ -1826,7 +1817,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「いえ！
 　何でもありません、サー！」
 # TRANSLATION 
@@ -1837,7 +1828,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 （……やれやれ、予想以上にお堅ぇや）
 # TRANSLATION 
 
@@ -1847,7 +1838,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 （仕方ねぇ、諦めて
 　大人しく寝とくとするか）
 # TRANSLATION 
@@ -1858,7 +1849,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「…見てきたわ。
 　今この小屋の周りには
 　誰もいないみたい」
@@ -1870,7 +1861,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「降りてきて」
 # TRANSLATION 
 
@@ -1880,7 +1871,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「イテテテ…
 　結局一晩こんなとこで
 　過ごしちまって…」
@@ -1892,7 +1883,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「疲れが取れるどころか
 　余計疲れが溜まったぜ」
 # TRANSLATION 
@@ -1903,7 +1894,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「あいつらがまた探しに
 　戻ってこないとも限らないわ。
 　四の五の言ってないで―」
@@ -1915,7 +1906,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「さっさと出発するわよ。
 　もう疲れたのなんだの
 　言ってられないんだから」
@@ -1927,7 +1918,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「わかってるよ。
 　俺だってこんなとこで
 　まだ死にたかないからな…」
@@ -1939,7 +1930,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「ひゃあ、ひょれなふれ
 　ふょんにゃときょれれらんらっけ？」
 （なぁ、俺なんでこんなとこで寝てたんだっけ？）
@@ -1951,7 +1942,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「しょへにあぎょぐぁ
 　すぎょくいひゃいし…」
 （それに顎が凄く痛むし…）
@@ -1963,7 +1954,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「うるさいわね、ぐだぐだ言って
 　ないでさっさと行くわよ！」
 # TRANSLATION 
@@ -1974,7 +1965,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「にゃあ、ひょっとらてって」
 （なぁ、ちょっと待てって）
 # TRANSLATION 
@@ -1985,7 +1976,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「へへっ…結局一晩屋根裏で
 　過ごしちまったなぁ…」
 # TRANSLATION 
@@ -1996,7 +1987,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「これじゃ疲れが取れるどころか
 　余計疲れが溜まったぜ。
 　特に腰の辺りにな」
@@ -2008,7 +1999,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「せっかくだしどうよ。
 　もう一晩ここに泊まるってのは…？」
 # TRANSLATION 
@@ -2019,7 +2010,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「なれなれしくしない！」
 # TRANSLATION 
 
@@ -2029,7 +2020,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「あれは、アンタが性欲を持て余して
 　いたいけな私を押し倒しただけなんだから
 　勘違いしないで！」
@@ -2041,7 +2032,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「はいはい、分かりましたよ。
 　……全く、昨日の夜はあんなに
 　可愛かったのによぉ」
@@ -2053,7 +2044,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「なに、何か言った！？」
 # TRANSLATION 
 
@@ -2063,7 +2054,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「いいえ、なんでもねぇですよっと」
 # TRANSLATION 
 

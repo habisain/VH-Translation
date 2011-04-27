@@ -3,7 +3,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-あっ、15位になってる！
+\N[0]
+「あっ、15位になってる！」
 # TRANSLATION 
 
 # END STRING
@@ -12,7 +13,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-これで5人抜き成功ってところね
+\N[0]
+「これで5人抜き成功ってところね」
 # TRANSLATION 
 
 # END STRING
@@ -21,7 +23,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-どんなもんよってね♪
+\N[0]
+「どんなもんよってね♪」
 # TRANSLATION 
 
 # END STRING
@@ -30,7 +33,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ランクに変動はないみたい
+\N[0]
+「ランクに変動はないみたい」
 # TRANSLATION 
 
 # END STRING

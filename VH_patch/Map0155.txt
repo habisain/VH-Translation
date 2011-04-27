@@ -3,7 +3,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-あ！私の名前！
+\N[0]
+「あ！私の名前！」
 # TRANSLATION 
 
 # END STRING
@@ -12,7 +13,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-う・・・嬉しい・・・
+\N[0]
+「う……嬉しい……」
 # TRANSLATION 
 
 # END STRING
@@ -21,7 +23,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-どうしようニヤニヤが止まんない・・・
+\N[0]
+「どうしようニヤニヤが止まんない……」
 # TRANSLATION 
 
 # END STRING
@@ -30,7 +33,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ランクに変動はないみたい
+\N[0]
+「ランクに変動はないみたい」
 # TRANSLATION 
 
 # END STRING

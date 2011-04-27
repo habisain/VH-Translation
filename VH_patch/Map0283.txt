@@ -3,7 +3,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-よい・・・しょっと！
+\N[0]
+「よい…しょっと！」
 # TRANSLATION 
 
 # END STRING
@@ -12,7 +13,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-まずは奥の箱に入れましょう
+\N[0]
+「まずは奥の箱に入れましょう」
 # TRANSLATION 
 
 # END STRING
@@ -21,8 +23,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-これ以上一度には持てないわ
-先に持っている分を運びましょう
+\N[0]
+「これ以上一度には持てないわ
+　先に持っている分を運びましょう」
 # TRANSLATION 
 
 # END STRING
@@ -31,7 +34,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-よいしょっと
+\N[0]
+「よいしょっと」
 # TRANSLATION 
 
 # END STRING
@@ -40,7 +44,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-次は真ん中ね
+\N[0]
+「次は真ん中ね」
 # TRANSLATION 
 
 # END STRING
@@ -49,7 +54,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-エサやりはおわったわ
+\N[0]
+「エサやりはおわったわ」
 # TRANSLATION 
 
 # END STRING
@@ -58,7 +64,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-次の作業にかかりましょう
+\N[0]
+「次の作業にかかりましょう」
 # TRANSLATION 
 
 # END STRING
@@ -67,8 +74,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-こっちは出荷準備や外の奴の世話をしとくから
-お前さんもがんばれよ
+牧場のおじさん
+「こっちは出荷準備や外の奴の世話をしとくから
+　お前さんもがんばれよ」
 # TRANSLATION 
 
 # END STRING
@@ -77,9 +85,10 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-まずはエサやりだな
-厩舎の端に干した牧草が積んであるだろ
-それを取ってエサ箱まで運ぶんだ
+牧場のおじさん
+「まずはエサやりだな。
+　厩舎の端に干した牧草が積んであるだろ
+　それを取ってエサ箱まで運ぶんだ」
 # TRANSLATION 
 
 # END STRING
@@ -88,9 +97,10 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-次の仕事は水汲みだな
-厩舎の右下に水を貯める場所があるから
-外の井戸で水を汲んでそこに入れてくれ
+牧場のおじさん
+「次の仕事は水汲みだな。
+　厩舎の左下に水を貯める場所があるから
+　外の井戸で水を汲んでそこに入れてくれ」
 # TRANSLATION 
 
 # END STRING
@@ -99,8 +109,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-次の仕事はブラッシングだな
-声でもかけながら優しく体を洗ってやってくれ
+牧場のおじさん
+「次の仕事はブラッシングだな
+　声でもかけながら優しく体を洗ってやってくれ」
 # TRANSLATION 
 
 # END STRING
@@ -109,10 +120,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-次はいよいよ乳搾りだな
-簡単に見えるが、あれで結構コツが要る
-まぁ、その辺は習うより慣れろだ
-がんばってくれよ
+牧場のおじさん
+「次はいよいよ乳搾りだな」
 # TRANSLATION 
 
 # END STRING
@@ -121,7 +130,10 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-終わりました～
+牧場のおじさん
+「簡単に見えるが、あれで結構コツが要る。
+　まぁ、その辺は習うより慣れろだ。
+　がんばってくれよ」
 # TRANSLATION 
 
 # END STRING
@@ -130,8 +142,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ご苦労さん
-思ったより早かったな
+\N[0]
+「終わりました～」
 # TRANSLATION 
 
 # END STRING
@@ -140,8 +152,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-結構疲れたけどね
-牛さん達がかわいいからはりきっちゃった♪
+牧場のおじさん
+「ご苦労さん
+　思ったより早かったな」
 # TRANSLATION 
 
 # END STRING
@@ -150,9 +163,10 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-そうかそうか
-そりゃいいことだ
-その調子でがんばってくれよ
+\N[0]
+「結構疲れたけどね。
+　牛さん達がかわいいから
+　はりきっちゃった♪」
 # TRANSLATION 
 
 # END STRING
@@ -161,8 +175,10 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-へ？
-終わりじゃないの？
+牧場のおじさん
+「そうかそうか。
+　そりゃいいことだ。
+　その調子でがんばってくれよ」
 # TRANSLATION 
 
 # END STRING
@@ -171,9 +187,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-何を言っとる
-牛は１日に６回エサを食べるんだ
-それに夕方にもう一度搾乳があるからな
+\N[0]
+「へ？
+　終わりじゃないの？」
 # TRANSLATION 
 
 # END STRING
@@ -182,7 +198,10 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ええーーー！
+牧場のおじさん
+「何を言っとる。
+　牛は１日に６回エサを食べるんだ。
+　それに夕方にもう一度搾乳があるからな」
 # TRANSLATION 
 
 # END STRING
@@ -191,9 +210,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-これをやらんと牛が病気になるからな
-飯は作っておいてやる
-かわいい牛さん達のためにがんばってくれよ
+\N[0]
+「ええーーー！」
 # TRANSLATION 
 
 # END STRING
@@ -202,7 +220,10 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-そんな～
+牧場のおじさん
+「これをやらんと牛が病気になるからな。
+　飯は作っておいてやる。
+　かわいい牛さん達のためにがんばってくれよ」
 # TRANSLATION 
 
 # END STRING
@@ -211,8 +232,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ん？どうした？
-やっぱり嫁になりたいってか？
+\N[0]
+「そんな～」
 # TRANSLATION 
 
 # END STRING
@@ -221,8 +242,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ひょっとしてそれ、割と
-本気で言ってる？
+牧場のおじさん
+「お？どうした？
+　やっぱり嫁になりたいってか？」
 # TRANSLATION 
 
 # END STRING
@@ -231,7 +253,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-これでよしっ！
+\N[0]
+「ひょっとしてそれ、割と
+　本気で言ってる？」
 # TRANSLATION 
 
 # END STRING
@@ -240,7 +264,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-エサやりはこれで終わりね
+\N[0]
+「これでよしっ！」
 # TRANSLATION 
 
 # END STRING
@@ -249,7 +274,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-次の作業に移りましょう
+\N[0]
+「エサやりはこれで終わりね」
 # TRANSLATION 
 
 # END STRING
@@ -258,7 +284,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ここはもう終わりね
+\N[0]
+「次の作業に移りましょう」
 # TRANSLATION 
 
 # END STRING
@@ -267,8 +294,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-・・・・・となるわけだ。
-わかったか？
+\N[0]
+「ここはもう終わりね」
 # TRANSLATION 
 
 # END STRING
@@ -277,7 +304,19 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-バッチリよ！
+牧場のおじさん
+「……となるわけだ。
+　わかったか？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「バッチリよ！」
 # TRANSLATION 
 
 # END STRING
@@ -306,7 +345,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-これでいいのよね
+\N[0]
+「これでいいのよね」
 # TRANSLATION 
 
 # END STRING
@@ -315,8 +355,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-大体それでいいが、わからなくなったら
-また教えてやるから聞きに来い
+牧場のおじさん
+「大体それでいいが、わからなくなったら
+　また教えてやるから聞きに来い」
 # TRANSLATION 
 
 # END STRING
@@ -325,8 +366,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-さぁ、最初にも言ったが時間が無い
-手際よくやってくれよ
+牧場のおじさん
+「さぁ、最初にも言ったが時間が無い。
+　手際よくやってくれよ」
 # TRANSLATION 
 
 # END STRING
@@ -335,8 +377,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-りょ～かい！
-がんばってきます♪
+\N[0]
+「りょ～かい！
+　がんばってきます♪」
 # TRANSLATION 
 
 # END STRING
@@ -345,7 +388,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-さ、がんばるぞ～！
+\N[0]
+「さ、がんばるぞ～！」
 # TRANSLATION 
 
 # END STRING
@@ -354,8 +398,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-まずはエサやりね
-奥から順番にやって行きましょう
+\N[0]
+「まずはエサやりね。
+　奥から順番にやって行きましょう」
 # TRANSLATION 
 
 # END STRING
@@ -364,8 +409,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-も・・・もうだめ・・・
-一歩も動けないわ・・・
+\N[0]
+「も…もうだめ…
+　一歩も動けないわ…」
 # TRANSLATION 
 
 # END STRING
@@ -374,8 +420,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ハッハッハッ！
-さすがにこたえたか
+牧場のおじさん
+「ハッハッハッ！
+　さすがにこたえたか」
 # TRANSLATION 
 
 # END STRING
@@ -384,8 +431,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-牧場がこんなに大変だとは
-知らなかったわ・・・
+\N[0]
+「牧場がこんなに大変だとは
+　知らなかったわ…」
 # TRANSLATION 
 
 # END STRING
@@ -394,8 +442,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-なんでもやってみなけりゃわからんもんさ
-しかしお前さんはよくやったよ
+牧場のおじさん
+「なんでもやってみなけりゃわからんもんさ。
+　しかしお前さんはよくやったよ」
 # TRANSLATION 
 
 # END STRING
@@ -404,7 +453,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-正直途中で逃げ出すんじゃないかと思っとった
+牧場のおじさん
+「正直、途中で逃げ出すんじゃないかと
+　思っとった」
 # TRANSLATION 
 
 # END STRING
@@ -413,8 +464,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-一度受けた依頼だもの
-そんなわけにはいかないわ
+\N[0]
+「一度受けた依頼だもの。
+　そんなわけにはいかないわ」
 # TRANSLATION 
 
 # END STRING
@@ -423,8 +475,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-しかし、そんな状態じゃあもう動けんじゃろう
-今日はここに泊まっていくか？
+牧場のおじさん
+「しかし、そんな状態じゃあもう動けんじゃろう
+　今日はここに泊まっていくか？」
 # TRANSLATION 
 
 # END STRING
@@ -433,8 +486,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-そうね、確かにもう動くのも
-億劫だし・・・
+\N[0]
+「そうね、確かにもう動くのも
+　億劫だし…」
 # TRANSLATION 
 
 # END STRING
@@ -443,7 +497,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-お言葉に甘えさせてもらうわ
+\N[0]
+「お言葉に甘えさせてもらうわ」
 # TRANSLATION 
 
 # END STRING
@@ -452,9 +507,10 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-そうかそうか
-遠慮なく泊まっていけ
-今布団を用意するからな
+牧場のおじさん
+「そうかそうか。
+　遠慮なく泊まっていけ。
+　今布団を用意するからな」
 # TRANSLATION 
 
 # END STRING
@@ -463,7 +519,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ありがとう
+\N[0]
+「ありがとう」
 # TRANSLATION 
 
 # END STRING
@@ -472,7 +529,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-う～ん、よく寝た～
+\N[0]
+「う～ん、よく寝た～」
 # TRANSLATION 
 
 # END STRING
@@ -481,7 +539,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-さて、それじゃそろそろ行くわ
+\N[0]
+「さて、それじゃそろそろ行くわ」
 # TRANSLATION 
 
 # END STRING
@@ -490,8 +549,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-そうかい、昨日はありがとよ
-気が向いたらまた手伝いに来てくれ
+牧場のおじさん
+「そうかい、昨日はありがとよ。
+　気が向いたらまた手伝いに来てくれ」
 # TRANSLATION 
 
 # END STRING
@@ -500,8 +560,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-げ・・・
-しばらくは結構よ・・・
+\N[0]
+「げ…、
+　しばらくは結構よ…」
 # TRANSLATION 
 
 # END STRING
@@ -510,8 +571,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ハッハッハッ！
-まぁそうだわな！
+牧場のおじさん
+「ハッハッハッ！まぁそうだわな！」
 # TRANSLATION 
 
 # END STRING
@@ -520,9 +581,10 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-しかし本当にタフな娘だ
-嫁にでも来てもらえればそれこそ
-大助かりなんだがな
+牧場のおじさん
+「しかし本当にタフな娘だ。
+　嫁にでも来てもらえればそれこそ
+　大助かりなんだがな」
 # TRANSLATION 
 
 # END STRING
@@ -531,7 +593,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-冗談は顔だけにしときなさい
+\N[0]
+「冗談は顔だけにしときなさい」
 # TRANSLATION 
 
 # END STRING
@@ -540,9 +603,10 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-こりゃ手厳しい
-だが手伝いも嫁も大歓迎だぞ
-いつでも来いよ！
+牧場のおじさん
+「こりゃ手厳しい。
+　だが手伝いも嫁も大歓迎だぞ。
+　いつでも来いよ！」
 # TRANSLATION 
 
 # END STRING
@@ -551,7 +615,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-結構です！
+\N[0]
+「結構です！」
 # TRANSLATION 
 
 # END STRING
@@ -560,7 +625,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-さ、戻りましょうか
+\N[0]
+「さ、ギルドに戻りましょうか」
 # TRANSLATION 
 
 # END STRING
@@ -569,8 +635,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-次は水汲みね
-確か外に井戸があったはず
+\N[0]
+「次は水汲みね。
+　外の水場にあるはず」
 # TRANSLATION 
 
 # END STRING
@@ -579,7 +646,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-よし！汲んで来よう！
+\N[0]
+「よし！汲んで来よう！」
 # TRANSLATION 
 
 # END STRING
@@ -588,7 +656,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-水は外の井戸ね
+\N[0]
+「水は外の井戸ね」
 # TRANSLATION 
 
 # END STRING
@@ -597,7 +666,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ドバー
+\N[0]
+「ドバー」
 # TRANSLATION 
 
 # END STRING
@@ -606,7 +676,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ふぅ、これでＯＫね
+\N[0]
+「ふぅ、水汲み(？)は終わり」
 # TRANSLATION 
 
 # END STRING
@@ -615,8 +686,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-領主様から賜ったありがた～いお水よ～
-心して飲むがよい～
+\N[0]
+「最初はどうなることかと思ったけど…
+　世の中なんとかなるものね！」
 # TRANSLATION 
 
 # END STRING
@@ -625,7 +697,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-なんてね♪
+\N[0]
+「は～い、牛さんお待たせぇ～」
 # TRANSLATION 
 
 # END STRING
@@ -634,8 +707,61 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-水汲みも終わりね
-この調子で、どんどんいくわよ！
+\N[0]
+「美少女から賜ったありがた～いお水よ～
+　心して飲むがよい～」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「ぐ…ぐぐ、バレないって！たぶん」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「ふぅ、これでＯＫね」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「領主様から賜ったありがた～いお水よ～
+　心して飲むがよい～」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「なんてね♪」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「水汲みも終わりね
+　この調子で、どんどんいくわよ！」
 # TRANSLATION 
 
 # END STRING
@@ -653,7 +779,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-次はブラッシングね
+\N[0]
+「次はブラッシングね」
 # TRANSLATION 
 
 # END STRING
@@ -671,8 +798,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-これで良し！
-次の子に行きましょう
+\N[0]
+「これで良し！
+　次の子に行きましょう」
 # TRANSLATION 
 
 # END STRING
@@ -681,7 +809,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-この子のブラッシングは終わったわ
+\N[0]
+「この子のブラッシングは終わったわ」
 # TRANSLATION 
 
 # END STRING
@@ -690,7 +819,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-いよいよ乳絞りか～
+\N[0]
+「いよいよ乳絞りか～」
 # TRANSLATION 
 
 # END STRING
@@ -699,7 +829,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-一回やってみたかったのよね～♪
+\N[0]
+「一回やってみたかったのよね～♪」
 # TRANSLATION 
 
 # END STRING
@@ -708,7 +839,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-確かこうやって・・・
+\N[0]
+「確かこうやって…」
 # TRANSLATION 
 
 # END STRING
@@ -717,7 +849,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-・・・・・・あら？
+\N[0]
+「……あら？」
 # TRANSLATION 
 
 # END STRING
@@ -726,8 +859,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-け、結構難しいのね
-今度はもう少しこう・・・
+\N[0]
+「け、結構難しいのね
+　今度はもう少しこう…」
 # TRANSLATION 
 
 # END STRING
@@ -745,8 +879,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-あ、ごめん！
-痛かった！？
+\N[0]
+「あ、ごめん！
+　痛かった！？」
 # TRANSLATION 
 
 # END STRING
@@ -755,7 +890,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-じゃあ今度はもっと丁寧に・・・
+\N[0]
+「じゃあ今度はもっと丁寧に…」
 # TRANSLATION 
 
 # END STRING
@@ -764,8 +900,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-できた！
-こんな感じでいいのね
+\N[0]
+「できた！
+　こんな感じでいいのね」
 # TRANSLATION 
 
 # END STRING
@@ -774,8 +911,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-・・・・・・・・・ふぅ
-こんなもんかしら
+\N[0]
+「………ふぅ、
+　こんなもんかしら」
 # TRANSLATION 
 
 # END STRING
@@ -784,7 +922,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-次の子に行きましょう
+\N[0]
+「次の子に行きましょう」
 # TRANSLATION 
 
 # END STRING
@@ -793,7 +932,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-この子の番はもう終わりね
+\N[0]
+「この子の番はもう終わりね」
 # TRANSLATION 
 
 # END STRING
@@ -802,7 +942,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-次はこの子のブラッシングね
+\N[0]
+「牛さん、かわいいなー」
 # TRANSLATION 
 
 # END STRING
@@ -811,8 +952,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-・・・・・・これで良し！
-ブラッシングも終わりね
+\N[0]
+「次はこの子のブラッシングね」
 # TRANSLATION 
 
 # END STRING
@@ -821,7 +962,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-これでブラッシングも終わりね
+\N[0]
+「～～～♪♪」
 # TRANSLATION 
 
 # END STRING
@@ -830,7 +972,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-この子を絞ったら終わりね
+\N[0]
+「……これで良し！
+　ブラッシングも終わりね」
 # TRANSLATION 
 
 # END STRING
@@ -839,7 +983,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-さっきのでコツが掴めたし
+\N[0]
+「これでブラッシングも終わりね」
 # TRANSLATION 
 
 # END STRING
@@ -848,7 +993,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-だんだん楽しくなってきたわ
+\N[0]
+「この子を絞ったら終わりね」
 # TRANSLATION 
 
 # END STRING
@@ -857,8 +1003,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-・・・・・・これで良し！
-これで作業は全部終わりね
+\N[0]
+「さっきのでコツが掴めたし」
 # TRANSLATION 
 
 # END STRING
@@ -867,7 +1013,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-おじさんに報告に行きましょう
+\N[0]
+「だんだん楽しくなってきたわ」
 # TRANSLATION 
 
 # END STRING
@@ -876,7 +1023,79 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-つぎにいきましょう
+\N[0]
+「……これで良し！
+　これで作業は全部終わりね」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「おじさんに報告に行きましょう」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「また遊びにくるからね！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「つぎにいきましょう」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+牧場のおじさん
+「こらこら、勝手に開けるんじゃないよ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+（ちぇ…）
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+牧場のおじさん
+「ギルドの手続きが終わったら、また来なさい」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「？？？」
 # TRANSLATION 
 
 # END STRING

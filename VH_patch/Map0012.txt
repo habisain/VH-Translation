@@ -1,45 +1,45 @@
 # RPGMAKER TRANS PATCH FILE VERSION 2.0
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 太った男
-「暇だ・・・
+「暇だ……
 　何か面白いことでもないものか」
 # TRANSLATION 
-Fat Man
-I'm so bored... 
-I need a fun way to kill some time.
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 太った男
-「ん・・・女か？
+「ん……女か？
 　サービスを頼んだ覚えはないが」
 # TRANSLATION 
-Fat Man
-A woman? I don't remember requesting
-any services.
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「サ、サービス？」
 # TRANSLATION 
-Se... services?
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 太った男
-「ふむ・・・勝手に部屋に入ってきた
+「ふむ……勝手に部屋に入ってきた
 　一般人か」
 # TRANSLATION 
-Fat Man
-Hmm... A commoner comes in uninvited.
+
 # END STRING
 
 # TEXT STRING
@@ -55,11 +55,13 @@ Begone!
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「なんかむかつく言い方ね・・・」
+\N[0]
+「なんかむかつく言い方ね……」
 # TRANSLATION 
-People like you make me sick... 
+
 # END STRING
 
 # TEXT STRING
@@ -93,25 +95,26 @@ It's the type of work only a woman can do.
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「いきなり何よ・・・？
+\N[0]
+「いきなり何よ……？
 　いっとくけどそういうの期待してるなら
 　絶対にお断りだからね」
 # TRANSLATION 
-What's this all of the sudden... ? If
-you expect that kind of thing from me,
-I absolutely refuse!
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「あんたみたいな男にお金もらってまで
 　抱かれたくはないわ」
 # TRANSLATION 
-I'd never let someone like you touch
-me, even if you pay me.
+
 # END STRING
 
 # TEXT STRING
@@ -123,7 +126,7 @@ me, even if you pay me.
 # TRANSLATION 
 Fat Man
 Hmpph, what an ego you have.
-I'm not asking you to do it with me... 
+I'm not asking you to do it with me...
 # END STRING
 
 # TEXT STRING
@@ -137,11 +140,13 @@ Fat Man
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「ベルフェール・・・誰よ？」
+\N[0]
+「ベルフェール……誰よ？」
 # TRANSLATION 
-Who is... Belfer?
+
 # END STRING
 
 # TEXT STRING
@@ -155,11 +160,13 @@ My loyal dog, over there.
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ワン！
+ベルフェール
+「ワン！」
 # TRANSLATION 
-Woof!
+
 # END STRING
 
 # TEXT STRING
@@ -173,11 +180,13 @@ Down, boy.
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「な・・・何がいいたいのよ」
+\N[0]
+「な……何がいいたいのよ」
 # TRANSLATION 
-What... I don't understand.
+
 # END STRING
 
 # TEXT STRING
@@ -193,32 +202,34 @@ I want you to satisfy Belfer.
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「は・・・？」
+\N[0]
+「は……？」
 # TRANSLATION 
-Ehh... ?
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「な、何いってんのよこの変態親父！」
 # TRANSLATION 
-You're such a pervert, old man!
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 太った男
-「ふん・・・金なら出してやる。
+「ふん……金なら出してやる。
 　いくらほしいんだ？　1000か2000か？」
 # TRANSLATION 
-Fat Man
-Yes... but a rich one.
-How much would it take?
-1000G? 2000G?
+
 # END STRING
 
 # TEXT STRING
@@ -234,13 +245,14 @@ for lowly commoner like yourself.
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「人を何だと思ってるの！？
 　信じられないわ！」
 # TRANSLATION 
-Have you no shame?
-You're unbelievable!
+
 # END STRING
 
 # TEXT STRING
@@ -254,21 +266,24 @@ Then how about 5000G?
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「な、なんですって・・・」
+\N[0]
+「な、なんですって……」
 # TRANSLATION 
-Wha, what did you say?
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 （よほどお金が余ってるのか
-　ただの色ボケなのか・・・）
+　ただの色ボケなのか……）
 # TRANSLATION 
-(I could do a lot with that money... 
-But just how messed up is this... )
+
 # END STRING
 
 # TEXT STRING
@@ -313,15 +328,15 @@ So, how about it?
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「あんたの態度は気に入らないけど
 　犬一匹満足させて大金もらえるなら
 　してあげないこともないわ」
 # TRANSLATION 
-I don't like your attitude, but for
-that kind of money, I'm willing to
-do your dog.
+
 # END STRING
 
 # TEXT STRING
@@ -335,11 +350,13 @@ Good answer. Let us begin immediately.
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ワン！ワン！
+ベルフェール
+「ワン！ワン！」
 # TRANSLATION 
-Woof! Woof!
+
 # END STRING
 
 # TEXT STRING
@@ -355,12 +372,13 @@ Take off those dirty clothes, quickly!
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「あ、あんたの目の前でやるの！？」
 # TRANSLATION 
-Y-you want me to do it
-in front of you!?
+
 # END STRING
 
 # TEXT STRING
@@ -388,24 +406,24 @@ down and open your legs.
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「くっ・・・分かったわよ」
+\N[0]
+「くっ……分かったわよ」
 # TRANSLATION 
-Fine... I get the point.
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-言われるがまま、ななこは服を脱いだ。
+言われるがまま、\N[0]は服を脱いだ。
 褐色の瑞々しい肌が、一人と一匹の
 目の前に晒される
 # TRANSLATION 
-(Nanako did as he commanded and stripped
-off her clothes. Her smooth brown skin
-was now exposed to both the dog and the
-fat man.)
+
 # END STRING
 
 # TEXT STRING
@@ -415,16 +433,17 @@ fat man.)
 「ほう…貴様妊娠しているのか」
 # TRANSLATION 
 Fat Man
-So you're pregnant... 
+So you're pregnant...
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「そうよ。何か文句ある？」
 # TRANSLATION 
-Yes, I am.
-Is that a problem?
+
 # END STRING
 
 # TEXT STRING
@@ -438,11 +457,13 @@ No... it's rather amusing.
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 （本当に変態ねこいつ）
 # TRANSLATION 
-(Damn pervert.)
+
 # END STRING
 
 # TEXT STRING
@@ -458,42 +479,44 @@ accept Belfer's penis.
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「っ・・・！」
+\N[0]
+「っ……！」
 # TRANSLATION 
-Tch... !
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこは不満そうにその場に座り込み、
+\N[0]は不満そうにその場に座り込み、
 自ら大きく股を広げた
 # TRANSLATION 
-(Though annoyed, Nanako sat down in front
-of the fat man and spread her legs wide.)
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 太ももに引っ張られる形で、陰唇は広がり
-ななこの秘部はその中身をさらけだす
+\N[0]の秘部はその中身をさらけだす
 # TRANSLATION 
-(She pulled her labia towards the thighs,
-revealing the insides of her pussy.)
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ベルフェールはななこを見て興奮
+ベルフェールは\N[0]を見て興奮
 したのか、口からどろどろと透明
 な涎を垂らしている
 # TRANSLATION 
-(As this sight, Belfer began salivating
-with excitement.)
+
 # END STRING
 
 # TEXT STRING
@@ -520,29 +543,33 @@ He will indeed be pleased.
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「屈辱的ね・・・」
+\N[0]
+「屈辱的ね……」
 # TRANSLATION 
-How humiliating... 
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ベルフェールは涎の滴る舌で、ななこの
+ベルフェールは涎の滴る舌で、\N[0]の
 秘部を舐め始めた
 # TRANSLATION 
-(Belfer began to lick Nanako's private
-parts, saliva dripping as he did so.)
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「んんっ・・・ああっ」
+\N[0]
+「んんっ……ああっ」
 # TRANSLATION 
-Mmm... aah.
+
 # END STRING
 
 # TEXT STRING
@@ -557,14 +584,14 @@ pink folds created a obscene sound.)
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 最初は不快感しかなかったその感触は
-徐々にななこの女性としての本能を刺激
+徐々に\N[0]の女性としての本能を刺激
 していった
 # TRANSLATION 
-(Though unpleasant at first, the stimulation
-gradually began to feel good.)
+
 # END STRING
 
 # TEXT STRING
@@ -578,13 +605,14 @@ You sure are enjoying my dog's tongue.
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「か、感じてなんか・・・んっ・・・
-　ないわ・・・・あぅ・・・んんっ・・」
+\N[0]
+「か、感じてなんか……んっ……
+　ないわ………あぅ……んんっ…」
 # TRANSLATION 
-T-to feel... such a thing... 
-Mm... no... aaah... 
+
 # END STRING
 
 # TEXT STRING
@@ -602,15 +630,15 @@ an important part of his discipline.
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「な、なにいっ・・・てるのっ・・・？
-　まさか普段からこんな・・・んっ・・・
-　こと・・・させて・・・ああっ！」
+\N[0]
+「な、なにいっ……てるのっ……？
+　まさか普段からこんな……んっ……
+　こと……させて……ああっ！」
 # TRANSLATION 
-In-inserting... himself... ?
-No way... I'll never... ahh... 
-let it... in me!
+
 # END STRING
 
 # TEXT STRING
@@ -651,23 +679,24 @@ practice before you, hahaha!
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「こ、この変態っ・・・！」
+\N[0]
+「こ、この変態っ……！」
 # TRANSLATION 
-You... you really are a pervert!
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 不意にベルフェールが顔をあげた。
 同時に絶え間なく続いていた局部への責め
-が終わり、ななこは秘部が疼くのを感じた
+が終わり、\N[0]は秘部が疼くのを感じた
 # TRANSLATION 
-(Suddenly, Belfer lifted his face and
-stopped, causing Nanako's body to ache
-with need.)
+
 # END STRING
 
 # TEXT STRING
@@ -681,13 +710,13 @@ Worry not, for the real fun is about to start.
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ベルフェールはゆっくりとななこに覆い
+ベルフェールはゆっくりと\N[0]に覆い
 かぶさり、いきり立った陰茎を擦り付ける
 # TRANSLATION 
-(Belfer stood over Nanako and began to rub
-his throbbing erection against her.)
+
 # END STRING
 
 # TEXT STRING
@@ -702,33 +731,34 @@ looking as if it were about to burst.)
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「い、犬のペニスって・・・
-　こんな形してたの・・・・？」
+\N[0]
+「い、犬のペニスって……
+　こんな形してたの………？」
 # TRANSLATION 
-So this... is what a dog's
-penis looks like... ?
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「い、いやよ・・・こんなの入らないっ」
+\N[0]
+「い、いやよ……こんなの入らないっ」
 # TRANSLATION 
-There's no way... 
-It won't fit!
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 自らの下腹部に擦り付けられる陰茎を見て
-ななこは直感的に犯されると感じた
+\N[0]は直感的に犯されると感じた
 # TRANSLATION 
-(Feeling the dog's penis brush up
-against her, Nanako knew what was
-about to happen.)
+
 # END STRING
 
 # TEXT STRING
@@ -758,23 +788,26 @@ Belfer once he gets going.
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「そ、そんな・・・
+\N[0]
+「そ、そんな……
 　やめさせて、お願い！
 　もうお金なんてらないからぁ！」
 # TRANSLATION 
-P-please... stop this!
-I don't want the money anymore!
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「お腹に赤ちゃんだっているのよ？！
 　こ、こんな事…」
 # TRANSLATION 
-N-no, I have a baby in my stomach!
+
 # END STRING
 
 # TEXT STRING
@@ -791,22 +824,23 @@ Now submit to this, girl!
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「いやっ、そんなこと言わないでっ」
 # TRANSLATION 
-No... I won't!
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 そうしているうちに、グロテスクな陰茎が
-ななこの膣口に頭を入れた
+\N[0]の膣口に頭を入れた
 # TRANSLATION 
-(In the meantime, the head of this
-grotesque penis penetrated Nanako's
-vagina.)
+
 # END STRING
 
 # TEXT STRING
@@ -821,34 +855,36 @@ easily slid in.)
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「だ、だめぇ！？
 　入ってくる、入ってくるよ！」
 # TRANSLATION 
-Wh-what!?
-Pull it out, pull it out!
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-一際強い圧迫感がななこの下腹部を襲った
+一際強い圧迫感が\N[0]の下腹部を襲った
 時、そこには陰茎がずぶりと挿し込まれて
 いた
 # TRANSLATION 
-(Forcefully, Belfer entered more of his
-dick into Nanako with a strong push.)
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「う、うそ・・・入ったの？
-　犬のが、私の中に・・・？」
+\N[0]
+「う、うそ……入ったの？
+　犬のが、私の中に……？」
 # TRANSLATION 
-It's... it's inside of me?
-The dog's penis is inside me... ?
+
 # END STRING
 
 # TEXT STRING
@@ -865,15 +901,14 @@ is distorting your sloppy pussy!
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-満足そうに笑う男と対照的に、ななこの
+満足そうに笑う男と対照的に、\N[0]の
 表情は呆気にとられたかのように呆然と
 していた
 # TRANSLATION 
-(In contrast to the rich man's astonished 
-and gleeful grin, Nanako wore a horrified
-expression upon her face.)
+
 # END STRING
 
 # TEXT STRING
@@ -888,22 +923,24 @@ grind his waist back and forth.)
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「う、うごかないでぇ！」
 # TRANSLATION 
-D-don't move!
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-陰茎が出し入れされるたび、ななこの
+陰茎が出し入れされるたび、\N[0]の
 とベルフェールの結合部から泡と水音が
 漏れ出す
 # TRANSLATION 
-(With each stroke, a bit of fluid leaked
-forth, accompanied by a obscene sound.)
+
 # END STRING
 
 # TEXT STRING
@@ -918,31 +955,34 @@ Come now, move your hips more!
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「んっ・・はっ・・ああっ・・！」
+\N[0]
+「んっ…はっ…ああっ…！」
 # TRANSLATION 
-Ha... uha... ahh... !
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 膣壁に肉棒が擦り付けられるたびに、
-ななこの下腹部に痺れのような感覚が
+\N[0]の下腹部に痺れのような感覚が
 生じる
 # TRANSLATION 
-(Each time Belfer's penis slammed into
-Nanako, a numbing sensation spread
-throughout her ambdomen.)
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「いやっ・・・また激しいっ・・」
+\N[0]
+「いやっ……また激しいっ…」
 # TRANSLATION 
-Iyaaa... too hard... 
+
 # END STRING
 
 # TEXT STRING
@@ -968,41 +1008,45 @@ Heh, I hope you'll become pregant. (2)
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「いやぁ！　犬の精液なんて出されたく
-　ないのぉ！　もう許してよぉ・・・！」
+　ないのぉ！　もう許してよぉ……！」
 # TRANSLATION 
-No! I don't want it cumming
-inside me! Not inside... !
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 陰茎が一際大きく脈打った瞬間だった。
-迸るようなスペルマが、ななこの下腹部を
+迸るようなスペルマが、\N[0]の下腹部を
 刺激した
 # TRANSLATION 
-(Suddenly, Belfer's penis pulsated
-violently. Sperm gushed out of him
-and into Nanako.)
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「で、でちゃってる・・・？」
+\N[0]
+「で、でちゃってる……？」
 # TRANSLATION 
-It... it came inside... ?
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「う、嘘でしょ・・・」
+\N[0]
+「う、嘘でしょ……」
 # TRANSLATION 
-No, that's can't happen... 
+
 # END STRING
 
 # TEXT STRING
@@ -1016,12 +1060,14 @@ discharging a lot of semen.)
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「ま、まだでるの！？
-　そんなっ・・・まってよ！」
+　そんなっ……まってよ！」
 # TRANSLATION 
-It's still... still coming?
+
 # END STRING
 
 # TEXT STRING
@@ -1039,70 +1085,76 @@ stay inside until he's done.
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「う、嘘・・・」
+\N[0]
+「う、嘘……」
 # TRANSLATION 
-N-no way... !
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 ベルフェールの射精は一向に止まる
-気配をみせず、ななこの膣内へ延々
+気配をみせず、\N[0]の膣内へ延々
 と精を吐き続ける
 # TRANSLATION 
-(With no sign of stopping, the dog came
-inside Nanako yet again.)
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「もうだめぇ！
 　おなかが破裂しちゃうのぉ！」
 # TRANSLATION 
-Aargh, stop it!
-My stomach feels like it'll burst!
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「赤ちゃんが死んじゃう！赤ちゃんが！」
 # TRANSLATION 
-The baby will die! The baby!
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこの膣口と陰茎はぴったり結合して
+\N[0]の膣口と陰茎はぴったり結合して
 おり、行き場のなくなった精液はどんどん
 溜まっていく
 # TRANSLATION 
-(With the penis fitted snugly to her
-vagina, more and more sperm was
-deposited inside Nanako.)
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「おぇ・・・ぅ・・・く、くるしいよぉ」
+\N[0]
+「おぇ……ぅ……く、くるしいよぉ」
 # TRANSLATION 
-Ahh... ha... I'm too full.
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 ようやく射精が止まり、ベルフェールは
-ななこから陰茎を抜き出した
+\N[0]から陰茎を抜き出した
 # TRANSLATION 
-(Once he finally stopped ejaculating,
-Belfer pulled out of Nanako.)
+
 # END STRING
 
 # TEXT STRING
@@ -1118,11 +1170,13 @@ out of her.)
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「・・・・・・」
+\N[0]
+「……………」
 # TRANSLATION 
-... 
+
 # END STRING
 
 # TEXT STRING
@@ -1146,11 +1200,13 @@ Now for your payment.
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「・・・こんな・・・もの・・」
+\N[0]
+「……こんな……もの…」
 # TRANSLATION 
-Doing... such a thing... 
+
 # END STRING
 
 # TEXT STRING
@@ -1175,7 +1231,7 @@ treatment?
 # TRANSLATION 
 Fat Man
 You got off easy. The last girl had
-to pay off her parents' debt... 
+to pay off her parents' debt...
 # END STRING
 
 # TEXT STRING
@@ -1245,92 +1301,98 @@ natural that she died afterward.
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 太った男
-「・・・・ん？」
+「………ん？」
 # TRANSLATION 
-Fat Man
-... Hm?
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 太った男
-「気を失っていたのか・・・
+「気を失っていたのか……
 　仕方ない、メイドどもに処理させるか」
 # TRANSLATION 
-Fat Man
-She's unconscious? Well, it can't be helped.
-I should have the maid come and take her away.
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「私一体どうしてたのかしら・・・」
+\N[0]
+「私一体どうしてたのかしら……」
 # TRANSLATION 
-What happened to me... 
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「そう、あの変態親父のせいで・・・！」
+\N[0]
+「そう、あの変態親父のせいで……！」
 # TRANSLATION 
-Oh yeah, because of
-that old pervert... !
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「・・・でもお金に目がくらんで
-　あんなことしたのは私よね・・・」
+\N[0]
+「……でもお金に目がくらんで
+　あんなことしたのは私よね……」
 # TRANSLATION 
-I was so blinded by the money
-that I let him do such awful
-things... 
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「赤ちゃんに悪い事しちゃった…
 　もうあんな事はやめましょう…」
 # TRANSLATION 
-I should stop doing this... 
-It's not good for the baby.
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「あんまり自分の体を安く売るのは
-　やめておきましょう・・・」
+　やめておきましょう……」
 # TRANSLATION 
-I sold my body like a cheap whore... 
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「色ボケ親父の妄言になんか付き合って
 　られないわ。帰らせてもらうわよ」
 # TRANSLATION 
-Never! I won't do such
-a ridiculuous thing!
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 太った男
-「ふむ・・・気が変わったら来るといい」
+「ふむ……気が変わったら来るといい」
 # TRANSLATION 
-Fat Man
-Pity... come back if you change your mind.
+
 # END STRING
 
 # TEXT STRING
@@ -1365,96 +1427,368 @@ Then let us begin immediately.
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「はいはい・・・分かったわよ」
+\N[0]
+「はいはい……分かったわよ」
 # TRANSLATION 
-Yeah, yeah... I got it.
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「はいはい・・もうっ！」
+\N[0]
+「はいはい…もうっ！」
 # TRANSLATION 
-I know, I know... 
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 グロテスクな陰茎が
-ななこの膣口に頭を入れた
+\N[0]の膣口に頭を入れた
 # TRANSLATION 
-(The head of this grotesque penis
-peneterated Nanako's vagina.)
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「はぁうぅ、・・・入ったの？」
+\N[0]
+「はぁうぅ、……入ったの？」
 # TRANSLATION 
-Haaa... it's in?
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「あ、ああっ！」
 # TRANSLATION 
-Ahh!
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「は、はひぃ！」
 # TRANSLATION 
-Haa... ahh!
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「あああっ・・・激しいっ・・」
+\N[0]
+「あああっ……激しいっ…」
 # TRANSLATION 
-Haaa... so hard... 
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「あ、でてる・・・？」
+\N[0]
+「あ、でてる……？」
 # TRANSLATION 
-It came... ?
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「ま、まだでる！？
-　ああっ・・・あ、はぁー！」
+　ああっ……あ、はぁー！」
 # TRANSLATION 
-Already!? Ah... haaa... !
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「はひぃ、もうだめぇ！
 　おなかが、いっぱいなのぉ！」
 # TRANSLATION 
-Stop it!
-My stomach feels like it'll burst!
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「おぅ……ぅ……い、いっぱいよぉ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+太った男
+「おいおい……
+　お前が、楽しんでどうする」
+# TRANSLATION 
+
 # END STRING
 
 # TEXT STRING
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「おぅ・・・ぅ・・・い、いっぱいよぉ」
+10ゴールドを握らされた
 # TRANSLATION 
-,... 
+(10G Obtained)
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「……えー少なくない……」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+太った男
+「ん？　お前も楽しんだんだろ？」
+# TRANSLATION 
+Fat Man
+Hm? Did you not enjoy yourself?
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「……まぁー・ね…　」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+（なんだか疲れて、眠くなっちゃた…）
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+太った男
+「気を失ったのか……
+　仕方ない、メイドどもに運ばせるか」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「そっか、わたし犬と……！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「…ふぅまぁまぁだったわね
+　たまには、いいかも……」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「でも、10Ｇって、金持ちのくせに！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「もう犬となんて、ごめんだわ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「二度とするもんですか！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+太った男
+「そ、そうか……残念だ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+何かいやらしい目でこちらを見ている
+# TRANSLATION 
+(The dog eyes you in an almost obscene manner.)
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+やけに懐いてくる
+# TRANSLATION 
+(It's awfully fond of you.)
+# END STRING
+
+# UNUSED TRANSLATABLES
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「こ、この変態っ・・・！」
+# TRANSLATION 
+You... you really are a pervert!
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「あ、あんたの目の前でやるの！？」
+# TRANSLATION 
+Y-you want me to do it
+in front of you!?
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+自らの下腹部に擦り付けられる陰茎を見て
+ななこは直感的に犯されると感じた
+# TRANSLATION 
+(Feeling the dog's penis brush up
+against her, Nanako knew what was
+about to happen.)
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+言われるがまま、ななこは服を脱いだ。
+褐色の瑞々しい肌が、一人と一匹の
+目の前に晒される
+# TRANSLATION 
+(Nanako did as he commanded and stripped
+off her clothes. Her smooth brown skin
+was now exposed to both the dog and the
+fat man.)
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+そうしているうちに、グロテスクな陰茎が
+ななこの膣口に頭を入れた
+# TRANSLATION 
+(In the meantime, the head of this
+grotesque penis penetrated Nanako's
+vagina.)
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ベルフェールの射精は一向に止まる
+気配をみせず、ななこの膣内へ延々
+と精を吐き続ける
+# TRANSLATION 
+(With no sign of stopping, the dog came
+inside Nanako yet again.)
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「で、でちゃってる・・・？」
+# TRANSLATION 
+It... it came inside... ?
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「な、何いってんのよこの変態親父！」
+# TRANSLATION 
+You're such a pervert, old man!
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「なんかむかつく言い方ね・・・」
+# TRANSLATION 
+People like you make me sick...
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「くっ・・・分かったわよ」
+# TRANSLATION 
+Fine... I get the point.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「もうだめぇ！
+　おなかが破裂しちゃうのぉ！」
+# TRANSLATION 
+Aargh, stop it!
+My stomach feels like it'll burst!
 # END STRING
 
 # TEXT STRING
@@ -1471,35 +1805,119 @@ Haha... you seemed to enjoy it.
 # TEXT STRING
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-10ゴールドを握らされた
+「は・・・？」
 # TRANSLATION 
-(10G Obtained)
+Ehh... ?
 # END STRING
 
 # TEXT STRING
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「・・・えー少なくない・・・」
+「だ、だめぇ！？
+　入ってくる、入ってくるよ！」
 # TRANSLATION 
-... There's less... 
+Wh-what!?
+Pull it out, pull it out!
 # END STRING
 
 # TEXT STRING
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 太った男
-「ん？　お前も楽しんだんだろ？」
+「・・・・ん？」
 # TRANSLATION 
 Fat Man
-Hm? Did you not enjoy yourself?
+... Hm?
 # END STRING
 
 # TEXT STRING
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「・・・まぁー・ね・・　」
+グロテスクな陰茎が
+ななこの膣口に頭を入れた
 # TRANSLATION 
-... Yes... 
+(The head of this grotesque penis
+peneterated Nanako's vagina.)
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+膣壁に肉棒が擦り付けられるたびに、
+ななこの下腹部に痺れのような感覚が
+生じる
+# TRANSLATION 
+(Each time Belfer's penis slammed into
+Nanako, a numbing sensation spread
+throughout her ambdomen.)
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+（よほどお金が余ってるのか
+　ただの色ボケなのか・・・）
+# TRANSLATION 
+(I could do a lot with that money... 
+But just how messed up is this... )
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ワン！
+# TRANSLATION 
+Woof!
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「はいはい・・・分かったわよ」
+# TRANSLATION 
+Yeah, yeah... I got it.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「う、うごかないでぇ！」
+# TRANSLATION 
+D-don't move!
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ワン！ワン！
+# TRANSLATION 
+Woof! Woof!
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「そっか、わたし犬と・・・！」
+# TRANSLATION 
+Oh yeah... 
+I fucked that dog again!
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「ま、まだでる！？
+　ああっ・・・あ、はぁー！」
+# TRANSLATION 
+Already!? Ah... haaa... !
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「な・・・何がいいたいのよ」
+# TRANSLATION 
+What... I don't understand.
 # END STRING
 
 # TEXT STRING
@@ -1509,6 +1927,380 @@ Hm? Did you not enjoy yourself?
 # TRANSLATION 
 (Nanako started to feel very
 tired and sleepy... )
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「はぁうぅ、・・・入ったの？」
+# TRANSLATION 
+Haaa... it's in?
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「はいはい・・もうっ！」
+# TRANSLATION 
+I know, I know...
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「いやっ、そんなこと言わないでっ」
+# TRANSLATION 
+No... I won't!
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+太った男
+「ふん・・・金なら出してやる。
+　いくらほしいんだ？　1000か2000か？」
+# TRANSLATION 
+Fat Man
+Yes... but a rich one.
+How much would it take?
+1000G? 2000G?
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「あんたの態度は気に入らないけど
+　犬一匹満足させて大金もらえるなら
+　してあげないこともないわ」
+# TRANSLATION 
+I don't like your attitude, but for
+that kind of money, I'm willing to
+do your dog.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+太った男
+「そ、そうか・・・残念だ」
+# TRANSLATION 
+Fat Man
+I see, that's a shame.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「んっ・・はっ・・ああっ・・！」
+# TRANSLATION 
+Ha... uha... ahh... !
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「おぅ・・・ぅ・・・い、いっぱいよぉ」
+# TRANSLATION 
+,...
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「ワン！」
+# TRANSLATION 
+Woof!
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「はひぃ、もうだめぇ！
+　おなかが、いっぱいなのぉ！」
+# TRANSLATION 
+Stop it!
+My stomach feels like it'll burst!
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+（本当に変態ねこいつ）
+# TRANSLATION 
+(Damn pervert.)
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ベルフェールは涎の滴る舌で、ななこの
+秘部を舐め始めた
+# TRANSLATION 
+(Belfer began to lick Nanako's private
+parts, saliva dripping as he did so.)
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「う、うそ・・・入ったの？
+　犬のが、私の中に・・・？」
+# TRANSLATION 
+It's... it's inside of me?
+The dog's penis is inside me... ?
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「そう、あの変態親父のせいで・・・！」
+# TRANSLATION 
+Oh yeah, because of
+that old pervert... !
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+太ももに引っ張られる形で、陰唇は広がり
+ななこの秘部はその中身をさらけだす
+# TRANSLATION 
+(She pulled her labia towards the thighs,
+revealing the insides of her pussy.)
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「あ、ああっ！」
+# TRANSLATION 
+Ahh!
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「あんまり自分の体を安く売るのは
+　やめておきましょう・・・」
+# TRANSLATION 
+I sold my body like a cheap whore...
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「そうよ。何か文句ある？」
+# TRANSLATION 
+Yes, I am.
+Is that a problem?
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「私一体どうしてたのかしら・・・」
+# TRANSLATION 
+What happened to me...
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+陰茎が一際大きく脈打った瞬間だった。
+迸るようなスペルマが、ななこの下腹部を
+刺激した
+# TRANSLATION 
+(Suddenly, Belfer's penis pulsated
+violently. Sperm gushed out of him
+and into Nanako.)
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+最初は不快感しかなかったその感触は
+徐々にななこの女性としての本能を刺激
+していった
+# TRANSLATION 
+(Though unpleasant at first, the stimulation
+gradually began to feel good.)
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「・・・えー少なくない・・・」
+# TRANSLATION 
+... There's less...
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「屈辱的ね・・・」
+# TRANSLATION 
+How humiliating...
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこは不満そうにその場に座り込み、
+自ら大きく股を広げた
+# TRANSLATION 
+(Though annoyed, Nanako sat down in front
+of the fat man and spread her legs wide.)
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「あんたみたいな男にお金もらってまで
+　抱かれたくはないわ」
+# TRANSLATION 
+I'd never let someone like you touch
+me, even if you pay me.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「っ・・・！」
+# TRANSLATION 
+Tch... !
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「ま、まだでるの！？
+　そんなっ・・・まってよ！」
+# TRANSLATION 
+It's still... still coming?
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「・・・・・・」
+# TRANSLATION 
+...
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「・・・でもお金に目がくらんで
+　あんなことしたのは私よね・・・」
+# TRANSLATION 
+I was so blinded by the money
+that I let him do such awful
+things...
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「サ、サービス？」
+# TRANSLATION 
+Se... services?
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「・・ふぅまぁまぁだったわね
+　たまには、いいかも・・・」
+# TRANSLATION 
+I guess doing it once in a
+while might be nice... 
+I sorta enjoyed it.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+陰茎が出し入れされるたび、ななこの
+とベルフェールの結合部から泡と水音が
+漏れ出す
+# TRANSLATION 
+(With each stroke, a bit of fluid leaked
+forth, accompanied by a obscene sound.)
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「おぇ・・・ぅ・・・く、くるしいよぉ」
+# TRANSLATION 
+Ahh... ha... I'm too full.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+太った男
+「ふむ・・・勝手に部屋に入ってきた
+　一般人か」
+# TRANSLATION 
+Fat Man
+Hmm... A commoner comes in uninvited.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+太った男
+「ん・・・女か？
+　サービスを頼んだ覚えはないが」
+# TRANSLATION 
+Fat Man
+A woman? I don't remember requesting
+any services.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ようやく射精が止まり、ベルフェールは
+ななこから陰茎を抜き出した
+# TRANSLATION 
+(Once he finally stopped ejaculating,
+Belfer pulled out of Nanako.)
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「赤ちゃんに悪い事しちゃった…
+　もうあんな事はやめましょう…」
+# TRANSLATION 
+I should stop doing this... 
+It's not good for the baby.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこの膣口と陰茎はぴったり結合して
+おり、行き場のなくなった精液はどんどん
+溜まっていく
+# TRANSLATION 
+(With the penis fitted snugly to her
+vagina, more and more sperm was
+deposited inside Nanako.)
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+太った男
+「暇だ・・・
+　何か面白いことでもないものか」
+# TRANSLATION 
+Fat Man
+I'm so bored... 
+I need a fun way to kill some time.
 # END STRING
 
 # TEXT STRING
@@ -1526,29 +2318,12 @@ should have the maid come and take her away.
 # TEXT STRING
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「そっか、わたし犬と・・・！」
+一際強い圧迫感がななこの下腹部を襲った
+時、そこには陰茎がずぶりと挿し込まれて
+いた
 # TRANSLATION 
-Oh yeah... 
-I fucked that dog again!
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「・・ふぅまぁまぁだったわね
-　たまには、いいかも・・・」
-# TRANSLATION 
-I guess doing it once in a
-while might be nice... 
-I sorta enjoyed it.
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「でも、10Ｇって、金持ちのくせに！」
-# TRANSLATION 
-But 10G, while he's rich!?
+(Forcefully, Belfer entered more of his
+dick into Nanako with a strong push.)
 # END STRING
 
 # TEXT STRING
@@ -1562,6 +2337,236 @@ I'm not doing your dog, sorry.
 # TEXT STRING
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+「・・・こんな・・・もの・・」
+# TRANSLATION 
+Doing... such a thing...
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「か、感じてなんか・・・んっ・・・
+　ないわ・・・・あぅ・・・んんっ・・」
+# TRANSLATION 
+T-to feel... such a thing... 
+Mm... no... aaah...
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「いやぁ！　犬の精液なんて出されたく
+　ないのぉ！　もう許してよぉ・・・！」
+# TRANSLATION 
+No! I don't want it cumming
+inside me! Not inside... !
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「は、はひぃ！」
+# TRANSLATION 
+Haa... ahh!
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「な、なんですって・・・」
+# TRANSLATION 
+Wha, what did you say?
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「ベルフェール・・・誰よ？」
+# TRANSLATION 
+Who is... Belfer?
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「いやっ・・・また激しいっ・・」
+# TRANSLATION 
+Iyaaa... too hard...
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「な、なにいっ・・・てるのっ・・・？
+　まさか普段からこんな・・・んっ・・・
+　こと・・・させて・・・ああっ！」
+# TRANSLATION 
+In-inserting... himself... ?
+No way... I'll never... ahh... 
+let it... in me!
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ベルフェールはゆっくりとななこに覆い
+かぶさり、いきり立った陰茎を擦り付ける
+# TRANSLATION 
+(Belfer stood over Nanako and began to rub
+his throbbing erection against her.)
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「う、嘘でしょ・・・」
+# TRANSLATION 
+No, that's can't happen...
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「いきなり何よ・・・？
+　いっとくけどそういうの期待してるなら
+　絶対にお断りだからね」
+# TRANSLATION 
+What's this all of the sudden... ? If
+you expect that kind of thing from me,
+I absolutely refuse!
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ベルフェールはななこを見て興奮
+したのか、口からどろどろと透明
+な涎を垂らしている
+# TRANSLATION 
+(As this sight, Belfer began salivating
+with excitement.)
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「・・・まぁー・ね・・　」
+# TRANSLATION 
+... Yes...
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+太った男
+「気を失っていたのか・・・
+　仕方ない、メイドどもに処理させるか」
+# TRANSLATION 
+Fat Man
+She's unconscious? Well, it can't be helped.
+I should have the maid come and take her away.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「そ、そんな・・・
+　やめさせて、お願い！
+　もうお金なんてらないからぁ！」
+# TRANSLATION 
+P-please... stop this!
+I don't want the money anymore!
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+太った男
+「ふむ・・・気が変わったら来るといい」
+# TRANSLATION 
+Fat Man
+Pity... come back if you change your mind.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「あああっ・・・激しいっ・・」
+# TRANSLATION 
+Haaa... so hard...
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+不意にベルフェールが顔をあげた。
+同時に絶え間なく続いていた局部への責め
+が終わり、ななこは秘部が疼くのを感じた
+# TRANSLATION 
+(Suddenly, Belfer lifted his face and
+stopped, causing Nanako's body to ache
+with need.)
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「い、犬のペニスって・・・
+　こんな形してたの・・・・？」
+# TRANSLATION 
+So this... is what a dog's
+penis looks like... ?
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+満足そうに笑う男と対照的に、ななこの
+表情は呆気にとられたかのように呆然と
+していた
+# TRANSLATION 
+(In contrast to the rich man's astonished 
+and gleeful grin, Nanako wore a horrified
+expression upon her face.)
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「赤ちゃんが死んじゃう！赤ちゃんが！」
+# TRANSLATION 
+The baby will die! The baby!
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「でも、10Ｇって、金持ちのくせに！」
+# TRANSLATION 
+But 10G, while he's rich!?
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「色ボケ親父の妄言になんか付き合って
+　られないわ。帰らせてもらうわよ」
+# TRANSLATION 
+Never! I won't do such
+a ridiculuous thing!
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「あ、でてる・・・？」
+# TRANSLATION 
+It came... ?
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
 「二度とするもんですか！」
 # TRANSLATION 
 How could I do it again.
@@ -1570,33 +2575,43 @@ How could I do it again.
 # TEXT STRING
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-太った男
-「そ、そうか・・・残念だ」
+「んんっ・・・ああっ」
 # TRANSLATION 
-Fat Man
-I see, that's a shame.
+Mmm... aah.
 # END STRING
 
 # TEXT STRING
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「ワン！」
+「う、嘘・・・」
 # TRANSLATION 
-Woof!
+N-no way... !
 # END STRING
 
 # TEXT STRING
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-何かいやらしい目でこちらを見ている
+「お腹に赤ちゃんだっているのよ？！
+　こ、こんな事…」
 # TRANSLATION 
-(The dog eyes you in an almost obscene manner.)
+N-no, I have a baby in my stomach!
 # END STRING
 
 # TEXT STRING
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-やけに懐いてくる
+「人を何だと思ってるの！？
+　信じられないわ！」
 # TRANSLATION 
-(It's awfully fond of you.)
+Have you no shame?
+You're unbelievable!
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「い、いやよ・・・こんなの入らないっ」
+# TRANSLATION 
+There's no way... 
+It won't fit!
 # END STRING

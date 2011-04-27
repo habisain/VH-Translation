@@ -13,9 +13,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
-（どうしよう…膣が緩くなってきたからたのを
-　治したいだなんて…）
+\N[0]
+（どうしよう…膣が緩く
+　なってきたのを治したいだなんて…）
 # TRANSLATION 
 
 # END STRING
@@ -34,7 +34,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-あの・・・
+\N[0]
+「あの……」
 # TRANSLATION 
 
 # END STRING
@@ -71,7 +72,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-はい・・・
+\N[0]
+「はい……」
 # TRANSLATION 
 
 # END STRING
@@ -81,7 +83,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 魔女
-「まあ、治せないことは無いね。」
+「まあ、治せないことは無いね」
 # TRANSLATION 
 
 # END STRING
@@ -90,7 +92,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-本当ですか！？
+\N[0]
+「本当ですか！？」
 # TRANSLATION 
 
 # END STRING
@@ -129,8 +132,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
-「処女、の血、ですか・・・」
+\N[0]
+「処女、の血、ですか……」
 # TRANSLATION 
 
 # END STRING
@@ -141,7 +144,8 @@
 # ADVICE : 49 char limit (35 if face)
 魔女
 「あぁ、何ならアンタの子供のでもいいよ
-まあそうなったら、その子はアタシが貰い受けるがね」
+　まあそうなったら、
+　その子はアタシが貰い受けるがね」
 # TRANSLATION 
 
 # END STRING
@@ -178,8 +182,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
-「はい、お願いします・・・」
+\N[0]
+「はい、お願いします……」
 # TRANSLATION 
 
 # END STRING
@@ -208,7 +212,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-秘薬・処女の生き血を手に入れた・・・
+秘薬・処女の生き血を手に入れた……
 # TRANSLATION 
 
 # END STRING
@@ -237,7 +241,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「…いえ、なんでもないです」
 # TRANSLATION 
 
@@ -267,8 +271,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-あの、道具屋の使いで来た者
-なんですが
+\N[0]
+「あの、
+　道具屋の使いで来た者なんですが」
 # TRANSLATION 
 
 # END STRING
@@ -298,7 +303,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-はい、どうぞっ
+\N[0]
+「はい、どうぞっ」
 # TRANSLATION 
 
 # END STRING
@@ -307,7 +313,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこは届け物を渡した
+\N[0]は届け物を渡した
 # TRANSLATION 
 
 # END STRING

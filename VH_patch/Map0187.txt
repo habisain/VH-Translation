@@ -26,8 +26,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ここまで堕ちちゃったなんて…。
-
+\N[0]
+（ここまで堕ちちゃったなんて…）
 # TRANSLATION 
 
 # END STRING
@@ -47,7 +47,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 千歳
-「あん...あ...はん...い、いや」
+「あん…あ…はん…い、いや」
 # TRANSLATION 
 
 # END STRING
@@ -97,8 +97,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男とセックスをするのって、
-そんなに気持ちいいの…。
+\N[0]
+（男とセックスをするのって、
+　そんなに気持ちいいの…）
 # TRANSLATION 
 
 # END STRING
@@ -107,7 +108,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ここから、離れよ…。
+\N[0]
+（ここから、離れよ…）
 # TRANSLATION 
 
 # END STRING
@@ -125,7 +127,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-どうやら終わったようね。
+\N[0]
+（どうやら終わったようね）
 # TRANSLATION 
 
 # END STRING
@@ -134,8 +137,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-まさか千歳が、
-あんなにエッチな女の子だったなんて…。
+\N[0]
+（まさか千歳があんなに
+　エッチな女の子だったなんて…）
 # TRANSLATION 
 
 # END STRING
@@ -144,7 +148,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-......
+\N[0]
+（……）
 # TRANSLATION 
 
 # END STRING
@@ -153,7 +158,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-私はずっと、セックスのことばかり考えていた。
+私はずっと、
+セックスのことばかり考えていた。
 # TRANSLATION 
 
 # END STRING
@@ -181,7 +187,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-服を脱いでからでないと入れないわよ。
+\N[0]
+「服を脱いでからでないと入れないわよ」
 # TRANSLATION 
 
 # END STRING
@@ -219,7 +226,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「じゃあ、待ってるわね」
 # TRANSLATION 
 
@@ -229,10 +236,10 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
-「気にしないわよ、ただにしてもらってるんだし。
-　それに、千歳の旅館なんだもの、
-　とても綺麗よ」
+\N[0]
+「気にしないわよ、ただにして
+　もらってるんだし。それに、
+　千歳の旅館なんだもの、とても綺麗よ」
 # TRANSLATION 
 
 # END STRING
@@ -252,8 +259,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-良い温泉ね。
-疲れが取れるわー。
+\N[0]
+「良い温泉ね。
+　疲れが取れるわー」
 # TRANSLATION 
 
 # END STRING
@@ -262,8 +270,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-十分浸かったし、
-着替えよっと。
+\N[0]
+「十分浸かったし、
+　着替えよっと」
 # TRANSLATION 
 
 # END STRING
@@ -273,7 +282,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 
-どこからか、女のエロい声が聞こえる......
+どこからか、女のエロい声が聞こえる……
 # TRANSLATION 
 
 # END STRING
@@ -282,8 +291,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-やだ
-まさか...
+\N[0]
+「やだ、まさか…」
 # TRANSLATION 
 
 # END STRING
@@ -301,9 +310,10 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ああ、ダメ……。この格好で外に出たら
-どうなっちゃうかって、考えただけで
-すごくゾクゾクする……。
+\N[0]
+「ああ、ダメ……。この格好で外に出たら
+　どうなっちゃうかって、考えただけで
+　すごくゾクゾクする……」
 # TRANSLATION 
 
 # END STRING
@@ -391,7 +401,7 @@
 # ADVICE : 49 char limit (35 if face)
 
 これから
-ななこの肉便器の人生が始まる...
+\N[0]の肉便器の人生が始まる…
 # TRANSLATION 
 
 # END STRING
@@ -412,7 +422,7 @@
 # ADVICE : 49 char limit (35 if face)
 
 千歳も変質者に調教されて、
-ななこと一緒に、男の肉便器となりました。
+\N[0]と一緒に、男の肉便器となりました。
 # TRANSLATION 
 
 # END STRING
@@ -421,7 +431,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-じゃあね～
+\N[0]
+「じゃあね～」
 # TRANSLATION 
 
 # END STRING
@@ -430,8 +441,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-うわっ...
-臭い......
+客
+「うわっ…
+　臭い……」
 # TRANSLATION 
 
 # END STRING
@@ -440,8 +452,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-うふふ、
-初めてですか。
+\N[0]
+「うふふ、
+　初めてですか」
 # TRANSLATION 
 
 # END STRING
@@ -452,7 +465,7 @@
 # ADVICE : 49 char limit (35 if face)
 
 そして、
-毎日毎日、男がななこを犯しました。
+毎日毎日、男が\N[0]を犯しました。
 # TRANSLATION 
 
 # END STRING
@@ -461,8 +474,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-もう一泊して･･･
-今日は寝て過ごそう･･･
+\N[0]
+「もう一泊して…
+　今日は寝て過ごそう…」
 # TRANSLATION 
 
 # END STRING
@@ -471,8 +485,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-･･･顔色悪いぞ？
-大丈夫か？
+金峰楼の女将
+「…あなた、
+　顔色悪そうよ？大丈夫？」
 # TRANSLATION 
 
 # END STRING
@@ -481,7 +496,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-あ･･･
+千歳
+「…\N[0]さん、
+　顔色悪いようだけど無理はしないでね」
 # TRANSLATION 
 
 # END STRING
@@ -490,8 +507,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-もう一泊するには
-お金が足りないわ･･･
+幼い女将
+「おねえちゃん、辛そうな顔してるよ？
+　何かあったの？」
 # TRANSLATION 
 
 # END STRING
@@ -500,8 +518,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-･･･仕方ない･･･
-出よう･･･
+\N[0]
+「あ…」
 # TRANSLATION 
 
 # END STRING
@@ -510,7 +528,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-………
+\N[0]
+「もう一泊するには
+　お金が足りないわ…」
 # TRANSLATION 
 
 # END STRING
@@ -519,7 +539,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-……だめだ
+\N[0]
+「…仕方ない…
+　出よう…」
 # TRANSLATION 
 
 # END STRING
@@ -528,8 +550,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-アソコがグチュグチュに
-疼いちゃってる……
+\N[0]
+「………」
 # TRANSLATION 
 
 # END STRING
@@ -538,8 +560,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-このままじゃ眠る前におかしく
-なっちゃうよ……
+\N[0]
+「……だめだ」
 # TRANSLATION 
 
 # END STRING
@@ -548,8 +570,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-なんだか体が火照っちゃって
-全然眠れない……
+\N[0]
+「アソコがグチュグチュに
+　疼いちゃってる……」
 # TRANSLATION 
 
 # END STRING
@@ -558,7 +581,30 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-もうこうなったら……
+\N[0]
+「このままじゃ眠る前におかしく
+　なっちゃうよ……」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「なんだか体が火照っちゃって
+　全然眠れない……」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「もうこうなったら……」
 # TRANSLATION 
 
 # END STRING
@@ -594,8 +640,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-もうだめ……
-ガマンなんてできないわ……
+\N[0]
+「もうだめ……
+　ガマンなんてできないわ……」
 # TRANSLATION 
 
 # END STRING
@@ -604,7 +651,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-あっ……
+\N[0]
+「あっ……」
 # TRANSLATION 
 
 # END STRING
@@ -613,7 +661,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-(なんだか……いつもより凄く感じちゃう)
+\N[0]
+（なんだか……
+　いつもより凄く感じちゃう）
 # TRANSLATION 
 
 # END STRING
@@ -622,7 +672,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ん…っ！ぁ……はぁ…っ！
+\N[0]
+「ん…っ！ぁ……はぁ…っ！」
 # TRANSLATION 
 
 # END STRING
@@ -631,7 +682,10 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\N[25]……\N[26]……\N[27]……
+\N[0]
+「\N[25]……
+\>　　 \<\.\N[26]……
+\>　　　　\<\.\N[27]……」
 # TRANSLATION 
 
 # END STRING
@@ -640,7 +694,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-イイぃ…もう、ちょっと……
+\N[0]
+「イイぃ…もう、ちょっと……」
 # TRANSLATION 
 
 # END STRING
@@ -649,8 +704,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-んん！アぁ！　も、イク♪！
-イっちゃうぅぅ！
+\N[0]
+「んん！アぁ！　も、イク♪！
+　イっちゃうぅぅ！」
 # TRANSLATION 
 
 # END STRING
@@ -659,7 +715,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-あぁ！はぁはぁっはぁ…
+\N[0]
+「あぁ！はぁはぁっはぁ…」
 # TRANSLATION 
 
 # END STRING
@@ -668,7 +725,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-はぁ…はぁ…ふぅ
+\N[0]
+「はぁ…はぁ…ふぅ」
 # TRANSLATION 
 
 # END STRING
@@ -677,7 +735,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-これでなんとか眠れるかな……
+\N[0]
+「これでなんとか眠れるかな……」
 # TRANSLATION 
 
 # END STRING
@@ -686,8 +745,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-昨夜のアレのおかげか
-結構よく眠れたわね。
+\N[0]
+「昨夜のアレのおかげか
+　結構よく眠れたわね」
 # TRANSLATION 
 
 # END STRING
@@ -696,7 +756,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-それじゃ、出発しましょうか。
+\N[0]
+「それじゃ、出発しましょうか」
 # TRANSLATION 
 
 # END STRING
@@ -705,8 +766,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-こんなことで心を乱してるようじゃ
-修行が足りないわ。
+\N[0]
+「こんなことで心を乱してるようじゃ
+　修行が足りないわ」
 # TRANSLATION 
 
 # END STRING
@@ -715,8 +777,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-心頭滅却の精神で心と体を
-落ち着けなきゃ！
+\N[0]
+「心頭滅却の精神で心と体を
+　落ち着けなきゃ！」
 # TRANSLATION 
 
 # END STRING
@@ -725,7 +788,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-やっぱり全然眠れなかった……
+\N[0]
+「やっぱり全然眠れなかった……」
 # TRANSLATION 
 
 # END STRING
@@ -734,7 +798,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-うぅ、寝不足で体が重いよ……
+\N[0]
+「うぅ、寝不足で体が重いよ……」
 # TRANSLATION 
 
 # END STRING
@@ -743,8 +808,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-もうダメッ……誰でもいいから
-気持ちよくして欲しい…
+\N[0]
+「もうダメッ……誰でもいいから
+　気持ちよくして欲しい…」
 # TRANSLATION 
 
 # END STRING
@@ -762,8 +828,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-が、我慢は体に毒だし、一度スッキリ
-しといたほうがいいわよね
+\N[0]
+「が、我慢は体に毒だし、一度スッキリ
+　しといたほうがいいわよね」
 # TRANSLATION 
 
 # END STRING
@@ -772,8 +839,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-そうね、一度夜風に当たって
-頭を冷やしましょう。
+\N[0]
+「そうね、一度夜風に当たって
+　頭を冷やしましょう」
 # TRANSLATION 
 
 # END STRING
@@ -782,7 +850,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-さて、と。
+\N[0]
+「さて、と」
 # TRANSLATION 
 
 # END STRING
@@ -791,7 +860,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-行動に移りますか。
+\N[0]
+「行動に移りますか」
 # TRANSLATION 
 
 # END STRING
@@ -800,7 +870,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-行こう…
+\N[0]
+「行こう…」
 # TRANSLATION 
 
 # END STRING
@@ -809,7 +880,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-服を脱ぐ？
+\N[0]
+「服を脱ぐ？」
 # TRANSLATION 
 
 # END STRING
@@ -818,7 +890,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-それじゃ着替えちゃいましょ。
+\N[0]
+「それじゃ着替えちゃいましょ」
 # TRANSLATION 
 
 # END STRING
@@ -845,8 +918,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-結構厚手の生地なのね。
-でも、ちょっと胸がきついかも……
+\N[0]
+「結構厚手の生地なのね。
+　でも、ちょっと胸がきついかも……」
 # TRANSLATION 
 
 # END STRING
@@ -855,7 +929,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-それじゃ行きましょうか。
+\N[0]
+「それじゃ行きましょうか」
 # TRANSLATION 
 
 # END STRING
@@ -864,7 +939,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-そうね、まだいいわ。
+\N[0]
+「そうね、まだいいわ」
 # TRANSLATION 
 
 # END STRING
@@ -873,7 +949,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-服を着るの？
+\N[0]
+「服を着るの？」
 # TRANSLATION 
 
 # END STRING
@@ -882,7 +959,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-よし、それじゃ出ましょうか。
+\N[0]
+「よし、それじゃ出ましょうか」
 # TRANSLATION 
 
 # END STRING
@@ -891,7 +969,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-まだ温泉に入いってないでしょう。
+\N[0]
+「まだ温泉に入いってないでしょう」
 # TRANSLATION 
 
 # END STRING
@@ -900,8 +979,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-良い温泉ね。
-疲れが取れるわ。
+\N[0]
+「良い温泉ね。
+　疲れが取れるわ」
 # TRANSLATION 
 
 # END STRING
@@ -930,8 +1010,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-まさか…。
-私が売春をするの？
+\N[0]
+「まさか…。
+　私が売春をするの？」
 # TRANSLATION 
 
 # END STRING
@@ -940,8 +1021,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-何かあるかもしれないわね。
-調べてみる？
+\N[0]
+「何かあるかもしれないわね。
+　調べてみる？」
 # TRANSLATION 
 
 # END STRING
@@ -959,7 +1041,19 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-勝手にいじるのは良くないわね…
+\N[0]
+「勝手にいじるのは良くないわね…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+aaa
+「何かあるかもしれないわね。
+　調べてみる？」
 # TRANSLATION 
 
 # END STRING
@@ -977,8 +1071,28 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ここになにか隠してあるようね。
-調べてみる？
+aaa
+「勝手にいじるのは良くないわね…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「ここになにか隠してあるようね」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「調べてみる？」
 # TRANSLATION 
 
 # END STRING
@@ -988,7 +1102,16 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 強制排卵剤を見つけた。
-これ……使う？
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「これ……使う？」
 # TRANSLATION 
 
 # END STRING
@@ -1019,7 +1142,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 金峰楼の女将
-「・・・って、ちょっとあなた、
+「……って、ちょっとあなた、
 　そんな格好じゃ襲われちゃうわよ。
 　ちゃんとした服を着ないとだめよ」
 # TRANSLATION 
@@ -1040,7 +1163,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「あれ、嘘？　お金が足りないよ！？」
 # TRANSLATION 
 
@@ -1060,7 +1183,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「えっと、その、まぁ……」
 # TRANSLATION 
 
@@ -1090,7 +1213,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「ええ、そうです」
 # TRANSLATION 
 
@@ -1149,7 +1272,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「やります、やらせてください！」
 # TRANSLATION 
 
@@ -1181,8 +1304,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
-「私はななこよ。これからよろしくね」
+\N[0]
+「私は\N[0]よ。これからよろしくね」
 # TRANSLATION 
 
 # END STRING
@@ -1191,7 +1314,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「私が襲われちゃうかもしれないから、
 　その依頼は、ちょっと…」
 # TRANSLATION 
@@ -1243,7 +1366,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 千歳
-「ななこさん、泊まっていく？」
+「\N[0]さん、泊まっていく？」
 # TRANSLATION 
 
 # END STRING
@@ -1292,7 +1415,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 千歳
-「ななこちゃん、もう夜も遅いわよ。
+「\N[0]ちゃん、もう夜も遅いわよ。
 　早く寝なきゃだめよ」
 # TRANSLATION 
 
@@ -1303,7 +1426,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 千歳
-「ななこちゃん、お肌を大切にね」
+「\N[0]ちゃん、お肌を大切にね」
 # TRANSLATION 
 
 # END STRING
@@ -1337,6 +1460,16 @@
 幼い女将
 「金峰楼にようこそ。
 　一泊250Gですが、泊まっていかれますか？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「あれ、嘘？　お金が足りないよ！？」
 # TRANSLATION 
 
 # END STRING
@@ -1448,7 +1581,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 変質者
-「こんな夜に、ななこは俺に用があるようだな」
+「こんな夜に、\N[0]は俺に用があるようだな」
 # TRANSLATION 
 
 # END STRING
@@ -1467,7 +1600,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「あの時、オマンコがとても痛かったのに。
 　それなのに、するって言うの…」
 # TRANSLATION 
@@ -1489,7 +1622,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「し……して……」
 # TRANSLATION 
 
@@ -1500,7 +1633,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 
-ななこは自分の女性としての尊厳が、
+\N[0]は自分の女性としての尊厳が、
 すっかり無くなったことを自覚した。
 # TRANSLATION 
 
@@ -1520,7 +1653,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「嬉しい…」
 # TRANSLATION 
 
@@ -1550,8 +1683,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-やだ...
-変質者の精液が...口の中に全部…
+\N[0]
+（やだ…
+　変質者の精液が…口の中に全部…）
 # TRANSLATION 
 
 # END STRING
@@ -1561,7 +1695,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 
-ななこの犯されたいという
+\N[0]の犯されたいという
 隠れた願望はこうして叶いました。
 # TRANSLATION 
 
@@ -1582,9 +1716,10 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-アァ、イイよぉ！
-もっと、もっと激しくして。
-思いっきり突き上げてぇ♪
+\N[0]
+「アァ、イイよぉ！
+　もっと、もっと激しくして。
+　思いっきり突き上げてぇ♪」
 # TRANSLATION 
 
 # END STRING
@@ -1594,7 +1729,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 変質者
-「このまま中に出すぞ。」
+「このまま中に出すぞ」
 # TRANSLATION 
 
 # END STRING
@@ -1632,8 +1767,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-そんなのだめ…。
-でも、オマンコがもう我慢できない…。
+\N[0]
+（そんなのだめ…。
+　でも、オマンコがもう我慢できない…）
 # TRANSLATION 
 
 # END STRING
@@ -1652,9 +1788,10 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-中に、出してっ！
-だから、このまま……
-一番奥でイかせてぇ！
+\N[0]
+「中に、出してっ！
+　だから、このまま……
+　一番奥でイかせてぇ！」
 # TRANSLATION 
 
 # END STRING
@@ -1663,7 +1800,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-イク、イクぅ～
+\N[0]
+「イク、イクぅ～」
 # TRANSLATION 
 
 # END STRING
@@ -1672,7 +1810,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ハァ、ハァ、ハァ……
+\N[0]
+「ハァ、ハァ、ハァ……」
 # TRANSLATION 
 
 # END STRING
@@ -1681,9 +1820,10 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-すごかった…。
-お腹の中があなたの
-熱いものでいっぱいだわ…
+\N[0]
+「すごかった…。
+　お腹の中があなたの
+　熱いものでいっぱいだわ…」
 # TRANSLATION 
 
 # END STRING
@@ -1692,8 +1832,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-なんだか満たされた感じで、
-とても幸せな気分…
+\N[0]
+「なんだか満たされた感じで、
+　とても幸せな気分…」
 # TRANSLATION 
 
 # END STRING
@@ -1712,8 +1853,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-アァンッアンッ、ハァアン♪
-スゴイ、イク、イッちゃぅ！
+\N[0]
+「アァンッアンッ、ハァアン♪
+　スゴイ、イク、イッちゃぅ！」
 # TRANSLATION 
 
 # END STRING
@@ -1722,7 +1864,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-アァァッァァッァァ！！！
+\N[0]
+「アァァッァァッァァ！！！」
 # TRANSLATION 
 
 # END STRING
@@ -1731,7 +1874,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ハァ、ハァ、ァン……
+\N[0]
+「ハァ、ハァ、ァン……」
 # TRANSLATION 
 
 # END STRING
@@ -1770,7 +1914,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこは変質者に押し倒された！
+\N[0]は変質者に押し倒された！
 # TRANSLATION 
 
 # END STRING
@@ -1779,7 +1923,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-イヤッ！　やめてぇ！！
+\N[0]
+「イヤッ！　やめてぇ！！」
 # TRANSLATION 
 
 # END STRING
@@ -1788,8 +1933,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-早く彼を押しのけないと、
-このまま犯されちゃう…。
+\N[0]
+（早く彼を押しのけないと、
+　このまま犯されちゃう…）
 # TRANSLATION 
 
 # END STRING
@@ -1798,7 +1944,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ああ、先っぽが中に入っちゃった。
+\N[0]
+（ああ、先っぽが中に入っちゃった）
 # TRANSLATION 
 
 # END STRING
@@ -1807,9 +1954,20 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-いや…、オチンチンが入ってくる…。
-もう後がないわ。
-全力で反撃するなら、なんとかなるかも…。
+\N[0]
+（いや…、オチンチンが入ってくる…。
+　もう後がないわ）
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+（全力で反撃するなら、
+　なんとかなるかも…）
 # TRANSLATION 
 
 # END STRING
@@ -1829,7 +1987,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「いや、やめて。
 　お願い…入れないで」
 # TRANSLATION 
@@ -1840,8 +1998,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-後少し…
-すぐにも入りそう。
+\N[0]
+（後少し…
+　すぐにも入りそう）
 # TRANSLATION 
 
 # END STRING
@@ -1860,8 +2019,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-もう終わりだ。
-本当に犯されちゃう…。
+\N[0]
+（もう終わりだ。
+　本当に犯されちゃう…）
 # TRANSLATION 
 
 # END STRING
@@ -1881,9 +2041,10 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-いや…
-一番奥まで挿し込まれて、
-あそこが裂けちゃいそう。
+\N[0]
+（いや…
+　一番奥まで挿し込まれて、
+　あそこが裂けちゃいそう）
 # TRANSLATION 
 
 # END STRING
@@ -1892,7 +2053,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「痛い…痛いよ…
 　やめてよ…」
 # TRANSLATION 
@@ -1903,7 +2064,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「アハァッ、ァァァァ……」
 # TRANSLATION 
 
@@ -1923,18 +2084,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「嘘…中…に…。
 　私の中に、こんな奴のが…」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-\N[25]…、\N[26]…、\N[27]…、
 # TRANSLATION 
 
 # END STRING
@@ -1954,7 +2106,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「どうして…
 　私が変質者のもので感じちゃうの…」
 # TRANSLATION 
@@ -1965,7 +2117,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「変質者に犯されていっちゃうなんて、
 　そんなの…いやぁ…」
 # TRANSLATION 
@@ -1976,8 +2128,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-オマンコを我慢しないと。
-変質者と一緒にイクなんて、絶対いや。
+\N[0]
+（オマンコを我慢しないと。
+　変質者と一緒にイクなんて、絶対いや）
 # TRANSLATION 
 
 # END STRING
@@ -1986,9 +2139,10 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「こんな、アッ、ダメッ、イヤ！
-　アァァァ、アハン、イク、イッちゃう～」
+　アァァァ、
+　アハン、イク、イッちゃう～」
 # TRANSLATION 
 
 # END STRING
@@ -1997,8 +2151,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-いっちゃった…
-こんなに気持ちいいのは初めて…
+\N[0]
+「いっちゃった…
+　こんなに気持ちいいのは初めて…」
 # TRANSLATION 
 
 # END STRING
@@ -2007,10 +2162,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-１つだけ良いことがあるとすれば、
-中に出されなかったということだけ。
-変質者の赤ちゃんを孕んじゃうなんて、
-最悪だもの。
+\N[0]
+（１つだけ良いことがあるとすれば、
+　中に出されなかったということだけ）
 # TRANSLATION 
 
 # END STRING
@@ -2019,7 +2173,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-とにかく、早くここから離れないと。
+\N[0]
+（変質者の赤ちゃんを
+　孕んじゃうなんて、最悪だもの）
 # TRANSLATION 
 
 # END STRING
@@ -2028,8 +2184,19 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-死ね！
-このヘンタイ！
+\N[0]
+「とにかく、早くここから離れないと」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「死ね！
+　このヘンタイ！」
 # TRANSLATION 
 
 # END STRING
@@ -2059,7 +2226,17 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 千歳
-「でもななこ、早く服を着た方がいいわよ」
+「でも\N[0]、早く服を着た方がいいわよ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「……」
 # TRANSLATION 
 
 # END STRING

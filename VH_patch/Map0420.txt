@@ -1,0 +1,67 @@
+# RPGMAKER TRANS PATCH FILE VERSION 2.0
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+商業地区としてデザインしたマップです
+最初の門で商会の品物の検閲をやる設定です
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+その上の建物がそれぞれ、武器防具の大商会とアイテム
+アクセサリーの大商会です。大通りなどの品物より高価
+な物を販売する設定です
+その上にある建物は、それぞれの商会の倉庫です
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+その先にある教会と要塞を足した様な建物は、銀行です
+騎士団(騎士修道会)の金融機関であり、商会も貴族も
+御用達です
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+教会の傘下にあった機関ですが、今は騎士修道会が教会
+から距離を取って、王国側に媚ている設定です
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+その先の仰々しい城壁は貴族区画と平民区画を区分する
+城壁です
+万一、反乱が起こった場合、この城壁で平民を完膚なき
+までに殺戮出来る様に工夫されています(ｷﾘｯ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+建物の中身は出来ていません
+これから追加していくつもりです
+
+ここまで長文を読んで頂き、ありがとうございました
+# TRANSLATION 
+
+# END STRING

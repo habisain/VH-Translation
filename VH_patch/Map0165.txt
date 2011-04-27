@@ -3,7 +3,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-遂に一桁ナンバー・・・
+\N[0]
+「遂に一桁ナンバー……」
 # TRANSLATION 
 
 # END STRING
@@ -12,8 +13,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-もうそろそろプロの冒険者を名乗っても
-いいんじゃないかしら
+\N[0]
+「もうそろそろプロの冒険者を
+　名乗ってもいいんじゃないかしら」
 # TRANSLATION 
 
 # END STRING
@@ -22,7 +24,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ランクに変動はないみたい
+\N[0]
+「ランクに変動はないみたい」
 # TRANSLATION 
 
 # END STRING

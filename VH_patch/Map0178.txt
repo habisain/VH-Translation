@@ -1,46 +1,45 @@
 # RPGMAKER TRANS PATCH FILE VERSION 2.0
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-依頼人
+依頼人の男
 「ぎゃあああああああああ！」
 # TRANSLATION 
-The Client
-「Wow, Yessssss！」
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「ああっ！
 　間に合わなかった……」
 # TRANSLATION 
-Nanako
-Oh! I was not in time...
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「これは、もう依頼どころ
 　じゃないわね……
 　一旦ギルドに戻って手当しなきゃ」
 # TRANSLATION 
-Nanako
-This quest is finished...
-I need to return to the guild.
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「今日はここから先に用はないわね」
 # TRANSLATION 
-Nanako
-Is there any business here today.
+
 # END STRING
 
 # TEXT STRING
@@ -52,88 +51,89 @@ The door is locked.
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\C[07]\>\N[01]\<\C[0]
-「えー…コホン
+\N[0]
+「えー…コホン」
 # TRANSLATION 
-\C[07]\>\N[01]\<\C[0]
-Er... hello.
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 （こういうのって
-なんだか変に緊張しちゃうなぁ…
+　なんだか変に緊張しちゃうなぁ…）
 # TRANSLATION 
-(I feel really nervous for some reason...)
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「こんにちわー！
-あー…依頼を受けて来た
-ギルドの者ですがー！
+　あー…依頼を受けて来た
+　ギルドの者ですがー！」
 # TRANSLATION 
-Hello!
-I'm from the guild and
-I've taken up your contract!
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-？？？
+女性の声
 「はーい！
-開いてるので入ってきてくださーい。
+　開いてるので入ってきてくださーい」
 # TRANSLATION 
-???
-Yes, yes,
-I'm coming!
-I'll open the door right away!
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\C[07]\>\N[01]\<\C[0]
-（はぁ…やっぱなんか緊張する…
+\N[0]
+（はぁ…やっぱなんか緊張する…）
 # TRANSLATION 
-\C[07]\>\N[01]\<\C[0]
-I don't know why I'm so nervous,
-this contract seems just
-like I thought it'd be...
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-他人のテリトリーに入るってのが
-アレなのねきっと。
+\N[0]
+（他人のテリトリーに
+　入るってのがアレなのねきっと）
 # TRANSLATION 
-(Maybe it's because I'm entering
-an unknown person's house.)
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ま、くだらない事気にしてないで
-さっさと終わらせちゃいましょう。
+\N[0]
+（ま、くだらない事気にしてないで
+　さっさと終わらせちゃいましょう）
 # TRANSLATION 
-(Well, it seems like an easy job,
-so I should be able
-to finish it up quickly.)
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「お邪魔しまーす。
+\N[0]
+「お邪魔しまーす」
 # TRANSLATION 
-Alright, I'm going in.
+
 # END STRING
 
 # TEXT STRING
@@ -145,11 +145,13 @@ I got to hurry.
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「もう二度と家に来ないで！！
+セフィリアの声
+「もう二度と家に来ないで！！」
 # TRANSLATION 
-Don`t you ever come back again!
+
 # END STRING
 
 # TEXT STRING
@@ -171,6 +173,96 @@ come back tomorrow.
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「依頼人を置いて
+　先に行く訳にはいかないわ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「依頼人を置いて
+　帰る訳にはいかないわ」
+# TRANSLATION 
+
+# END STRING
+
+# UNUSED TRANSLATABLES
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+他人のテリトリーに入るってのが
+アレなのねきっと。
+# TRANSLATION 
+(Maybe it's because I'm entering
+an unknown person's house.)
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+？？？
+「はーい！
+開いてるので入ってきてくださーい。
+# TRANSLATION 
+???
+Yes, yes,
+I'm coming!
+I'll open the door right away!
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「ああっ！
+　間に合わなかった……」
+# TRANSLATION 
+Nanako
+Oh! I was not in time...
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+依頼人
+「ぎゃあああああああああ！」
+# TRANSLATION 
+The Client
+「Wow, Yessssss！」
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「依頼人を置いて
+　帰る訳にはいかないわ」
+# TRANSLATION 
+Nanako
+I returned, and the client was not there.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\C[07]\>\N[01]\<\C[0]
+（はぁ…やっぱなんか緊張する…
+# TRANSLATION 
+\C[07]\>\N[01]\<\C[0]
+I don't know why I'm so nervous,
+this contract seems just
+like I thought it'd be...
+# END STRING
+
+# TEXT STRING
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 ななこ
@@ -184,10 +276,80 @@ I went there and the client was not there.
 # TEXT STRING
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+（こういうのって
+なんだか変に緊張しちゃうなぁ…
+# TRANSLATION 
+(I feel really nervous for some reason...)
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
 ななこ
-「依頼人を置いて
-　帰る訳にはいかないわ」
+「これは、もう依頼どころ
+　じゃないわね……
+　一旦ギルドに戻って手当しなきゃ」
 # TRANSLATION 
 Nanako
-I returned, and the client was not there.
+This quest is finished...
+I need to return to the guild.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「もう二度と家に来ないで！！
+# TRANSLATION 
+Don`t you ever come back again!
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ま、くだらない事気にしてないで
+さっさと終わらせちゃいましょう。
+# TRANSLATION 
+(Well, it seems like an easy job,
+so I should be able
+to finish it up quickly.)
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「今日はここから先に用はないわね」
+# TRANSLATION 
+Nanako
+Is there any business here today.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「こんにちわー！
+あー…依頼を受けて来た
+ギルドの者ですがー！
+# TRANSLATION 
+Hello!
+I'm from the guild and
+I've taken up your contract!
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「お邪魔しまーす。
+# TRANSLATION 
+Alright, I'm going in.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\C[07]\>\N[01]\<\C[0]
+「えー…コホン
+# TRANSLATION 
+\C[07]\>\N[01]\<\C[0]
+Er... hello.
 # END STRING

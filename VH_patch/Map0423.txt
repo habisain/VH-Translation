@@ -1,0 +1,129 @@
+# RPGMAKER TRANS PATCH FILE VERSION 2.0
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「負債区画」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+こちらは銀行にとっての負債、つまり顧客の預貯金を
+保管する区画です
+基本的には金貨が多いですが、宝石や値打ちのある物品
+なども貨幣の代わりに預金として預かっています
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「債権区画」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+こちらは銀行にとっての債権、つまり顧客の負債と担保
+を保管する区画です
+負債区画に比べて、貨幣等は余り保管していません
+貨幣を担保にして金を借りる人は数が少ないからです
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+代わりに、担保になりそうな物・・・
+例えば宝石類や家宝の武具、土地や家の所有権証明書が
+多く保管されてる感じです
+貴族の身分、といった「珍品」もあったりします
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+最近では、人間を担保にしてお金を借りる人も増えて
+いるそうです。奥の部屋にベッドがあったり、各小部屋
+に鎖が繋がれていたりするのはそれが理由です
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+もし、債務者が担保になった人間を見捨てて金を返さ
+なかった場合、当然ながら銀行は担保を競売にかけて
+損失分を取り戻します。・・・奴隷にするわけです
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「大金庫」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+こちらは名前の通り大金庫です
+銀行の支払予備金がここに納められています
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+中を見て貰えば分かる通り途方も無い量の金があります
+しかし、これは騎士団銀行の保有する全資産の2割にも
+満たない量です
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+この銀行は、証券の発行で信用創造を裏で行っている
+ため、実物の無い名目貨幣を日々生み出しています
+お陰で、恐るべき資金力を持っています
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+以上が、銀行とこの地下金庫の設定です
+このエリアを使ったイベントを作る時の参考にどうぞ
+勿論、設定の改変は完全に自由です
+設定は素材、の精神で気軽にお使い下さい
+# TRANSLATION 
+
+# END STRING

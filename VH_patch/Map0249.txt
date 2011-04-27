@@ -733,43 +733,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\N[1]は淫魔になった。性へのモラルが低下した。
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-\N[2]は淫魔になった。性へのモラルが低下した。
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-\N[3]は淫魔になった。性へのモラルが低下した。
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-\N[4]は淫魔になった。性へのモラルが低下した。
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-\N[5]は淫魔になった。性へのモラルが低下した。
+\N[0]は淫魔になった。性へのモラルが低下した
 # TRANSLATION 
 
 # END STRING
@@ -894,6 +858,38 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 神父
+「ロリメイドとか正直、
+　あなたの主人が羨ましいですね」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「私の主人は母上だけだ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「ママにいっぱい
+　ご奉仕しなきゃ！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+神父
 「ではこれより存分にご奉仕するがいい。」
 # TRANSLATION 
 
@@ -903,7 +899,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこはメイドになった。
+\N[0]はメイドになった
 # TRANSLATION 
 
 # END STRING
@@ -912,7 +908,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこは奉仕の気持ちが芽生えた！
+奉仕したい気持ちが芽生えた！
 # TRANSLATION 
 
 # END STRING
@@ -932,7 +928,36 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ正真正銘の乙女だった。
+\N[0]は正真正銘の乙女だった
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+神父
+「例えその身が穢れようとも、
+　少女とは紛れもなく乙女なのです」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]は乙女だった。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]は乙女だった
 # TRANSLATION 
 
 # END STRING
@@ -952,7 +977,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこは乙女になった(と自身に言い聞かせた)。
+\N[0]は乙女になった(と自身に言い聞かせた)
 # TRANSLATION 
 
 # END STRING
@@ -962,8 +987,8 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 神父
-「あなたの身と心は快楽に溺れましたね？
-あなたは立派な淫乱ですよ。」
+「その歳でそう願うなら、
+　充分、将来有望な淫乱ですよ」
 # TRANSLATION 
 
 # END STRING
@@ -972,7 +997,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこは淫乱だった。
+\N[0]は淫乱の期待の星だった。
 # TRANSLATION 
 
 # END STRING
@@ -981,7 +1006,47 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこは淫乱になった。
+\N[0]は淫乱の期待の星だった
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+神父
+「欲望に溺れたあなたは、
+　紛うことなき淫乱です」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]は淫乱にだった
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+神父
+「ならば、欲望を開放しなさい。
+　己の御心のままに生きるのです」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]は欲望を解放し、淫乱になった
 # TRANSLATION 
 
 # END STRING
@@ -1027,6 +1092,26 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 神父
+「あなたのお歳でも大丈夫ですよ？
+　世の雄の半分はロリコンですから」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]は娼婦の自信がついた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+神父
 「あなたは自身を売ったことがありますね？
 あなたはすでに立派な娼婦ですよ。」
 # TRANSLATION 
@@ -1037,7 +1122,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこはたしかに娼婦だった。
+\N[0]はたしかに娼婦だった
 # TRANSLATION 
 
 # END STRING
@@ -1046,7 +1131,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこは娼婦になった(ような気がした)。
+神父
+「あなたの美貌ならば、
+　すぐに立派な娼婦になれますよ」
 # TRANSLATION 
 
 # END STRING
@@ -1055,7 +1142,54 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこはとても自身を売りたい気分だ。
+\N[0]は娼婦になった(ような気がした)
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+とても自身を売りたい気分だ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+神父
+「ならば、まずは美しくなる事です」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]は美しくなる事を誓った
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+神父
+「犬よりもこのネコグッズをですね…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+それでも\N[0]は犬になりたかった
 # TRANSLATION 
 
 # END STRING
@@ -1075,7 +1209,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこはすでに自分が雌犬になっていたことを自覚した。
+\N[0]はすでに自分が雌犬になっていた
 # TRANSLATION 
 
 # END STRING
@@ -1084,7 +1218,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこは雌犬になった。
+\N[0]は雌犬になった
 # TRANSLATION 
 
 # END STRING
@@ -1093,7 +1227,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-雌の衝動が体を駆け巡るようだ。
+雌の衝動が体を駆け巡るようだ
 # TRANSLATION 
 
 # END STRING
@@ -1103,8 +1237,8 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 神父
-「何を言っているんですか、
-そんな格好をして。」
+「難しいですねその見た目だと、
+　あまり変には見られませんから」
 # TRANSLATION 
 
 # END STRING
@@ -1113,7 +1247,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこはすでに痴女だった。
+\N[0]は美しくなりたくなった
 # TRANSLATION 
 
 # END STRING
@@ -1122,7 +1256,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこは痴女になった。
+神父
+「何言ってんですか？
+　そんな格好して」
 # TRANSLATION 
 
 # END STRING
@@ -1131,7 +1267,35 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-服を脱ぎさりたい衝動に駆られた。
+\N[0]はすでに痴女だった
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+神父
+「それにはまず、服を脱いでみれば？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]は痴女になった
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+服を脱ぎさりたい衝動に駆られた
 # TRANSLATION 
 
 # END STRING
@@ -1167,7 +1331,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Choice
 # ADVICE : 49 char limit
-武道家に戻りたい！
+元の肩書きに戻りたい！
 # TRANSLATION 
 
 # END STRING
@@ -1188,7 +1352,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこはすでに性奴隷だった。
+\N[0]はすでに性奴隷だった。
 # TRANSLATION 
 
 # END STRING
@@ -1206,7 +1370,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこは性奴隷になった。
+\N[0]は性奴隷になった
 # TRANSLATION 
 
 # END STRING
@@ -1236,7 +1400,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこはすでに牝奴隷だった。
+\N[0]はすでに牝奴隷だった
 # TRANSLATION 
 
 # END STRING
@@ -1245,7 +1409,16 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこは牝奴隷になった。
+女としての尊厳なんてすでになかった
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]は牝奴隷になった
 # TRANSLATION 
 
 # END STRING
@@ -1266,7 +1439,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこはすでに完全無欠の便女だった。
+\N[0]はすでに完全無欠の便女だった。
 # TRANSLATION 
 
 # END STRING
@@ -1275,7 +1448,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-女としての尊厳など、そもそも無かったようだ。
+女としての尊厳など、そもそも無かったようだ
 # TRANSLATION 
 
 # END STRING
@@ -1296,7 +1469,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこはすでに便女だったようだ。
+\N[0]はすでに便女だったようだ。
 # TRANSLATION 
 
 # END STRING
@@ -1305,7 +1478,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-女としての尊厳はすでに欠片も残っていなかった。
+女としての尊厳は欠片も残っていなかった
 # TRANSLATION 
 
 # END STRING
@@ -1325,7 +1498,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこは便女の素質があった。
+\N[0]は便女の素質があった
 # TRANSLATION 
 
 # END STRING
@@ -1343,7 +1516,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこは便女になった。
+\N[0]は便女になった。
 # TRANSLATION 
 
 # END STRING
@@ -1352,7 +1525,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-神父「では、瞑想しなさい。」
+神父「では、瞑想しなさい」
 # TRANSLATION 
 
 # END STRING
@@ -1361,7 +1534,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこは精神を集中し、かつての自分を思い返した。
+\N[0]は精神を集中し、本来の自分を思い返した
 # TRANSLATION 
 
 # END STRING
@@ -1370,7 +1543,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこは武道家にもどった。
+\N[0]は自分を取り戻した
 # TRANSLATION 
 
 # END STRING

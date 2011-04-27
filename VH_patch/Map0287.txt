@@ -3,17 +3,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-デバグや素材テストなど置き場
-ゲームを遊ぶだけなら入る必要はありません
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-イベント作成用テンプレ置き場
+守備隊門番
+「南口は現在誰も作っておりません。
+　お好きにアイディアがあればどうぞー」
 # TRANSLATION 
 
 # END STRING

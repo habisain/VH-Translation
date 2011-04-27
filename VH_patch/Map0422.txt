@@ -1,0 +1,68 @@
+# RPGMAKER TRANS PATCH FILE VERSION 2.0
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+総長
+「僕が騎士団の総長です」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「騎士団の団長って言う割りには、戦士っ
+　ぽく見えないけど」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+総長
+「事実、僕は戦士ではありませんよ
+　騎士ではありますけど、貴族とも違いますし」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+総長
+「僕は騎士修道会のトップというだけです
+　そもそも騎士団自体が別に戦闘集団という訳じゃない
+　ですよ。修道会兼銀行が僕達の業務です」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+総長
+「まあ、たまに商戦や利権確保のために信仰を口実に
+　して戦争したりはしますけどね
+　そのための戦力は傭兵で賄ってます」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+総長
+「その関係で、貴族様方や商会とは勿論の事、我々は
+　傭兵団の皆さんとも癒着してるんです
+　我々には逆らわない方が良いですよ」
+# TRANSLATION 
+
+# END STRING

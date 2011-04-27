@@ -3,7 +3,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「う…う…」
 # TRANSLATION 
 
@@ -13,7 +13,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「かはっ…！」
 # TRANSLATION 
 
@@ -23,7 +23,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「はっ…はっ…げ…っほ…
 　げほっ…」
 # TRANSLATION 
@@ -34,7 +34,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「………？？？」
 # TRANSLATION 
 
@@ -44,7 +44,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-???
+馴れ馴れしい女の人
 「よっ、起きたか」
 # TRANSLATION 
 
@@ -54,7 +54,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-???
+馴れ馴れしい女の人
 「びびったぜー…川に水汲みに
 　行ったら妊婦さんがぶっ倒れてんだ
 　もんな」
@@ -66,7 +66,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-???
+馴れ馴れしい女の人
 「びびったぜー…川に水汲みに
 　行ったら人間ぶっ倒れてんだ
 　もんな」
@@ -78,7 +78,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-???
+馴れ馴れしい女の人
 「あ、いや、今のなし。
 　びびってない。
 　ちょっと驚いただけ」
@@ -90,7 +90,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「…けほっ…」
 # TRANSLATION 
 
@@ -100,7 +100,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-???
+馴れ馴れしい女の人
 「ホントだよ？」
 # TRANSLATION 
 
@@ -110,7 +110,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「…っ…あ…」
 # TRANSLATION 
 
@@ -120,7 +120,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-???
+馴れ馴れしい女の人
 「んっ？」
 # TRANSLATION 
 
@@ -130,7 +130,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「わあああああああああ！！！」
 # TRANSLATION 
 
@@ -140,7 +140,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-???
+馴れ馴れしい女の人
 「おあああああああああ！！」
 # TRANSLATION 
 
@@ -150,7 +150,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「い、今時間って！？私どれくらい
 　寝…ていうかここは？！なんで
 　私ベッドで寝てるの？！」
@@ -162,7 +162,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-???
+馴れ馴れしい女の人
 「おおお、おい！」
 # TRANSLATION 
 
@@ -172,7 +172,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「どどど、どうしよう、すぐに
 　戻らなくちゃ、あ、アシュリーさんが
 　アシュリーさんが！」
@@ -184,7 +184,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-???
+馴れ馴れしい女の人
 「おいって！」
 # TRANSLATION 
 
@@ -194,7 +194,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「帰らないと、帰らないと…
 　アイテムと装備…服は？！
 　私の服どこ？！」
@@ -206,8 +206,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-???
-「落ち着け！『ななこ』！！」
+馴れ馴れしい女の人
+「落ち着け！『\N[0]』！！」
 # TRANSLATION 
 
 # END STRING
@@ -216,7 +216,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「な…え…？」
 # TRANSLATION 
 
@@ -226,7 +226,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-???
+馴れ馴れしい女の人
 「…やっぱりな」
 # TRANSLATION 
 
@@ -236,7 +236,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「………」
 # TRANSLATION 
 
@@ -246,7 +246,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「…あなたは？」
 # TRANSLATION 
 
@@ -256,7 +256,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-???
+馴れ馴れしい女の人
 「そうだよ最初にそれを
 　聞くべきだよ。
 　物事には順序ってものがある」
@@ -268,7 +268,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-???
+馴れ馴れしい女の人
 「無視されたら悲しいだろ…？
 　いや俺は悲しくないけどな？」
 # TRANSLATION 
@@ -279,7 +279,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-???
+馴れ馴れしい女の人
 「まぁこういうのは聞きたい者から
 　まず名乗るってのが礼儀だが、
 　俺はお前を知ってるしな」
@@ -291,7 +291,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-???
+馴れ馴れしい女の人
 「俺から自己紹介しとこう」
 # TRANSLATION 
 
@@ -301,7 +301,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-???
+馴れ馴れしい女の人
 「おっほん」
 # TRANSLATION 
 
@@ -311,9 +311,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-???
+馴れ馴れしい女の人
 「俺はエーリカ・リウンルート。
-　見ての通り冒険者だ。」
+　見ての通り冒険者だ」
 # TRANSLATION 
 
 # END STRING
@@ -322,7 +322,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-エリカ
+馴れ馴れしい女の人
 「呼びにくかったらエリカでいいぞ」
 # TRANSLATION 
 
@@ -332,7 +332,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「リウン…ルート？…」
 # TRANSLATION 
 
@@ -365,7 +365,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「これ日焼けじゃない…」
 # TRANSLATION 
 
@@ -398,7 +398,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「そんなことより…っ！
 　私はすぐにでも街に戻りたいの！」
 # TRANSLATION 
@@ -479,7 +479,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「…」
 # TRANSLATION 
 
@@ -522,7 +522,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「止まり木の宿？」
 # TRANSLATION 
 
@@ -836,7 +836,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「…その…」
 # TRANSLATION 
 
@@ -858,7 +858,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「うん…その…リウンルート…さん？」
 # TRANSLATION 
 
@@ -880,7 +880,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「じゃあエリカ…
 　ありがとう…」
 # TRANSLATION 
@@ -901,7 +901,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「本当にありがとう…助かったっ
 　なんていうか、何から何まで…」
 # TRANSLATION 
@@ -912,7 +912,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「面識があるわけでもないのに…
 　倒れてた私をここまで運んで、
 　介抱してくれて…」
@@ -924,7 +924,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「いっぱい質問にも答えてくれて…
 　親切にしてくれて…
 　ありがとう…」
@@ -960,7 +960,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「うっ…ぐす…」
 # TRANSLATION 
 
@@ -991,7 +991,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 エリカ
-「お、おいななこ、泣いてんのか？
+「お、おい\N[0]、泣いてんのか？
 　どっか痛くなってきたか？」
 # TRANSLATION 
 
@@ -1001,7 +1001,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「…わたじ…」
 # TRANSLATION 
 
@@ -1021,7 +1021,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「わたじね…人に助けられてばっか
 　なんだ…」
 # TRANSLATION 
@@ -1032,7 +1032,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「アシュリーさんってね、人がね…
 　いてね…」
 # TRANSLATION 
@@ -1043,7 +1043,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「私を逃がしてね、
 　くれたんだけど…」
 # TRANSLATION 
@@ -1065,7 +1065,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「助けるって言ったのに、私何にも
 　考えてなぐっで…！ふぐ…！」
 # TRANSLATION 
@@ -1076,7 +1076,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「なのにね、アシュリーさんはね、
 　ちゃんと考えてて、私を助けで
 　…」
@@ -1110,7 +1110,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「すー…はー…
 　すー…はー…ずずっ…」
 # TRANSLATION 
@@ -1154,7 +1154,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「うん…きっと今頃、酷い目に
 　あってる…」
 # TRANSLATION 
@@ -1175,7 +1175,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「…あ…へ…変…かな…
 　その、ほんの何十分しか
 　一緒にいなかった人とその…」
@@ -1210,7 +1210,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「そっか…」
 # TRANSLATION 
 
@@ -1231,7 +1231,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「えっ？！あ？！もうそんなに！？
 　ごごめんエリカ！」
 # TRANSLATION 
@@ -1252,7 +1252,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「だってその…夜通し話に付き合わせ
 　ちゃって…エリカの寝る時間が…
 　私はさっきまで寝てたけど…」
@@ -1267,7 +1267,7 @@
 エリカ
 「はーっはっは
 　なんだそんな事か
-　甘いなぁななこ」
+　甘いなぁ\N[0]」
 # TRANSLATION 
 
 # END STRING
@@ -1276,7 +1276,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「？」
 # TRANSLATION 
 
@@ -1322,7 +1322,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「ああー！ひっどーーい！
 　徹夜するのに利用したなー！！」
 # TRANSLATION 
@@ -1345,7 +1345,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 エリカ
-「聞かなかったのはななこの勝手
+「聞かなかったのは\N[0]の勝手
 　ですぅー！
 　責められる言われはありまセーン！」
 # TRANSLATION 
@@ -1356,7 +1356,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「この…！う…ふ…、ばかー！」
 # TRANSLATION 
 
@@ -1378,7 +1378,7 @@
 # ADVICE : 49 char limit (35 if face)
 エリカ
 「ひ…ひひ…はーぁあ。どうだ、
-　ななこ、元気出たか？」
+　\N[0]、元気出たか？」
 # TRANSLATION 
 
 # END STRING
@@ -1387,7 +1387,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「ん…ありがとエリカ」
 # TRANSLATION 
 
@@ -1432,7 +1432,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「うん…」
 # TRANSLATION 
 
@@ -1454,7 +1454,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「ううん…エリカ…
 　ありがと…」
 # TRANSLATION 
@@ -1487,7 +1487,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「今はエリカに甘えよう…
 　少しでも体を休めて…」
 # TRANSLATION 
@@ -1498,7 +1498,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「あ…干し肉…
 　食欲ないけど…
 　食べなくちゃ…」
@@ -1510,7 +1510,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「……」
 # TRANSLATION 
 

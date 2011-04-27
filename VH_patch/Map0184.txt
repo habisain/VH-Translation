@@ -14,7 +14,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「やっと着いた…
 　ハァ…ハハ……
 　もう走れねえ…」
@@ -26,7 +26,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「ほん…と…
 　流石に私もへとへとだわ…」
 # TRANSLATION 
@@ -37,7 +37,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「結局追跡もなかったし、
 　ビクビクしてたのが馬鹿みたいね」
 # TRANSLATION 
@@ -48,7 +48,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「………」
 # TRANSLATION 
 
@@ -58,7 +58,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「…確か依頼の護衛範囲は
 　ここまでだったな」
 # TRANSLATION 
@@ -69,7 +69,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「へ？あぁ、そうね。
 　ここでお別れって事になるかしら」
 # TRANSLATION 
@@ -80,7 +80,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「…あー…なんというかだな、その…」
 # TRANSLATION 
 
@@ -90,7 +90,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「助かった。随分な。
 　最初、馬鹿にして悪かったよ」
 # TRANSLATION 
@@ -101,7 +101,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「あんたは、立派な一人前の冒険者だ」
 # TRANSLATION 
 
@@ -111,7 +111,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「え、えぇと…」
 # TRANSLATION 
 
@@ -121,7 +121,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 （面と向かってこういう事
 　言われると、反応に困っちゃうな…）
 # TRANSLATION 
@@ -132,7 +132,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-男
+依頼人の男
 「俺の名前はジョニーだ。
 　ケチなチンピラだが、チンピラなりに顔は利く」
 # TRANSLATION 
@@ -155,7 +155,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「そういえば私達、自己紹介も
 　してなかったんだっけ？」
 # TRANSLATION 
@@ -166,8 +166,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
-「私はななこよ。
+\N[0]
+「私は\N[0]よ。
 　今更言うのもおかしいけれど
 　よろしく、ジョニー」
 # TRANSLATION 
@@ -179,7 +179,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 ジョニー
-「ああ、よろしく、ななこ」
+「ああ、よろしく、\N[0]」
 # TRANSLATION 
 
 # END STRING
@@ -201,7 +201,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 ジョニー
-「本当に助かったよななこ。ありがとう。
+「本当に助かったよ\N[0]。ありがとう。
 　じゃあな、気をつけて帰れよ」
 # TRANSLATION 
 
@@ -211,7 +211,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「うん。
 　またね、ジョニー」
 # TRANSLATION 

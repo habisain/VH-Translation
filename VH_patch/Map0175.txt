@@ -3,6 +3,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「何…ここ？」
 # TRANSLATION 
 
@@ -12,8 +13,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「いいか、今から私はこの一時間にあった
-事を全部忘れる」
+ギルドの女戦士
+「いいか、今から私は
+　この一時間にあった事を全部忘れる」
 # TRANSLATION 
 
 # END STRING
@@ -22,6 +24,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ギルドの女戦士
 「私は何も見てないし、私は何も知らない」
 # TRANSLATION 
 
@@ -31,9 +34,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「ななこが今から何をしようとどうしよう
-と、明日ギルドで会う私は「いつもの」私
-だ」
+ギルドの女戦士
+「\N[0]が今から何をしようとどうしようと、
+　明日ギルドで会う私は「いつもの」私だ」
 # TRANSLATION 
 
 # END STRING
@@ -42,6 +45,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「何…何言ってるの？…どう…いう…」
 # TRANSLATION 
 
@@ -51,8 +55,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ギルドの女戦士
 「いいか、ここは、街の人間、特に女なら
-誰でも知ってる「子消しの場所」だ」
+　誰でも知ってる「子消しの場所」だ」
 # TRANSLATION 
 
 # END STRING
@@ -61,6 +66,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「っ…」
 # TRANSLATION 
 
@@ -70,9 +76,10 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「あそこに色の違う草が生えてるのが見え
-るだろう、あそこに子供を置いて、そんで
-帰る。それだけだ。」
+ギルドの女戦士
+「あそこに色の違う草が生えてるのが
+　見えるだろう、あそこに子供を置いて、
+　そんで帰る。それだけだ」
 # TRANSLATION 
 
 # END STRING
@@ -81,8 +88,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「日付が変わる頃には子供はどこかへ行っ
-ている」
+ギルドの女戦士
+「日付が変わる頃には子供はどこかへ行っている」
 # TRANSLATION 
 
 # END STRING
@@ -91,8 +98,10 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「まって！ちょっと待って！急にそんな、
-連れてこられて、私…っ」
+\N[0]
+「まって！ちょっと待って！
+　急にそんな、
+　連れてこられて、私…っ」
 # TRANSLATION 
 
 # END STRING
@@ -101,9 +110,10 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「いいかななこ。子供を育てるってのは冗
-談じゃあないんだ。特に私達みたいな根な
-し草には尚更だ。」
+ギルドの女戦士
+「いいか\N[0]。
+　子供を育てるってのは冗談じゃあないんだ。
+　特に私達みたいな根なし草には尚更だ」
 # TRANSLATION 
 
 # END STRING
@@ -112,8 +122,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ギルドの女戦士
 「とても育てられないし、育てたところで
-幸せにはしてやれない」
+　幸せにはしてやれない」
 # TRANSLATION 
 
 # END STRING
@@ -122,6 +133,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「待って…待ってよ…」
 # TRANSLATION 
 
@@ -131,9 +143,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「強制はしないさ。選択するのはななこ、お前だ。
-都に行けば孤児院があるって話だし、そこまで連れ
-ていくのもいいかもしれない」
+ギルドの女戦士
+「強制はしないさ。
+　選択するのは\N[0]、お前だ」
 # TRANSLATION 
 
 # END STRING
@@ -142,8 +154,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「無茶を分かった上でそれでも育てるって
-んなら、それもいいだろう」
+ギルドの女戦士
+「都に行けば孤児院があるって話だし、
+　そこまで連れていくのもいいかもしれない」
 # TRANSLATION 
 
 # END STRING
@@ -152,6 +165,18 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ギルドの女戦士
+「無茶を分かった上で
+　それでも育てるってんなら、それもいいだろう」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
 「私…私は…」
 # TRANSLATION 
 
@@ -161,9 +186,10 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「ま…決断するにも時間はいるよな。私だ
-って何も今すぐ答えを出せって言ってるわ
-けじゃない」
+ギルドの女戦士
+「ま…決断するにも時間はいるよな。
+　私だって何も今すぐ答えを出せって
+　言ってるわけじゃない」
 # TRANSLATION 
 
 # END STRING
@@ -172,9 +198,10 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ギルドの女戦士
 「子消しの場所はいつでも空いてるんだ、
-どうしても決められないなら、今日は帰っ
-て宿でじっくり考えてみるのもいい」
+　どうしても決められないなら、
+　今日は帰って宿でじっくり考えてみるのもいい」
 # TRANSLATION 
 
 # END STRING
@@ -183,6 +210,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「…」
 # TRANSLATION 
 
@@ -192,9 +220,10 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「私は先に帰る。ここでななこがどういう
-選択をするのか、私は知るつもりもないし
-興味も持たない」
+ギルドの女戦士
+「私は先に帰る。
+　ここで\N[0]がどういう選択をするのか、
+　私は知るつもりもないし興味も持たない」
 # TRANSLATION 
 
 # END STRING
@@ -203,8 +232,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ギルドの女戦士
 「だが「経験者」として忠告しとくぜ。
-お前はその子供を絶対に愛せないよ。」
+　お前はその子供を絶対に愛せないよ」
 # TRANSLATION 
 
 # END STRING
@@ -213,8 +243,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「もしそのまま育てても、行きつく先は今
-よりもっと不幸な場所だ」
+ギルドの女戦士
+「もしそのまま育てても、
+　行きつく先は今よりもっと不幸な場所だ」
 # TRANSLATION 
 
 # END STRING
@@ -223,6 +254,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ギルドの女戦士
 「お前には…いや、これ以上はいいか…」
 # TRANSLATION 
 
@@ -232,6 +264,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ギルドの女戦士
 「…じゃあな…また明日」
 # TRANSLATION 
 
@@ -241,6 +274,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「そんな…私…どうすれば…」
 # TRANSLATION 
 
@@ -286,6 +320,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「ごめんなさい…ごめんなさい…」
 # TRANSLATION 
 
@@ -295,7 +330,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこは寝ている子供をそっと草の上に横たえた
+\N[0]は寝ている子供をそっと草の上に横たえた
 # TRANSLATION 
 
 # END STRING
@@ -304,6 +339,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「できないよ…やっぱり…こんな事…」
 # TRANSLATION 
 
@@ -313,6 +349,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「帰ろう…」
 # TRANSLATION 
 

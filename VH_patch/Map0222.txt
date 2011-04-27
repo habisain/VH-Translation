@@ -3,6 +3,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+守備隊兵
 「今日も平和だなぁ～」
 # TRANSLATION 
 
@@ -12,6 +13,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+守備隊兵
 「デバッカーなら条件無視でもしかたがない！」
 # TRANSLATION 
 
@@ -21,8 +23,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「現在ゴブリン発生中につき特に厳重に閉鎖
-　しております」
+守備隊兵
+「現在ゴブリン発生中につき
+　特に厳重に閉鎖しております」
 # TRANSLATION 
 
 # END STRING
@@ -31,7 +34,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「ここはまっすぐ北の道ね」
 # TRANSLATION 
 
@@ -41,6 +44,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+守備隊兵
 「いじょうなーーーし」
 # TRANSLATION 
 

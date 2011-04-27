@@ -3,8 +3,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ああ～忙しい！
-このままじゃとても間に合わん・・・
+牧場のおじさん
+「ああ～忙しい！
+　このままじゃとても間に合わん…」
 # TRANSLATION 
 
 # END STRING
@@ -13,7 +14,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-(なんか忙しそう・・・)
+\N[0]
+（なんか忙しそう・・・)
 # TRANSLATION 
 
 # END STRING
@@ -22,7 +24,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-(邪魔しちゃ悪いわね)
+\N[0]
+（邪魔しちゃ悪いわね）
 # TRANSLATION 
 
 # END STRING
@@ -31,8 +34,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-すいませ～ん
-ギルドから依頼を受けて来ました～
+\N[0]
+「すいませ～ん。
+　ギルドから依頼を受けて来ました～」
 # TRANSLATION 
 
 # END STRING
@@ -41,8 +45,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-え！？
-お前さんが？
+牧場のおじさん
+「え！？
+　お前さんが？」
 # TRANSLATION 
 
 # END STRING
@@ -51,7 +56,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-何か問題でも？
+\N[0]
+「何か問題でも？」
 # TRANSLATION 
 
 # END STRING
@@ -60,8 +66,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-いや、問題も何も重労働なんだぞ
-お前さんみたいなひょろい女に勤まるかい
+牧場のおじさん
+「いや、問題も何も重労働なんだぞ。
+　お前さんみたいなひょろい女に勤まるかい」
 # TRANSLATION 
 
 # END STRING
@@ -70,9 +77,10 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-大丈夫です！
-こう見えても結構力持ちですから
-それに体力もバッチリですよ！
+\N[0]
+「大丈夫です！
+　こう見えても結構力持ちですから
+　それに体力もバッチリですよ！」
 # TRANSLATION 
 
 # END STRING
@@ -81,8 +89,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-・・・そこまで言うなら仕方無い
-言った限りはしっかりやってもらわんと困るぞ！
+牧場のおじさん
+「……そこまで言うなら仕方無い
+　言った限りはしっかりやってもらわんと困るぞ！」
 # TRANSLATION 
 
 # END STRING
@@ -91,7 +100,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-任せてください！
+\N[0]
+「任せてください！」
 # TRANSLATION 
 
 # END STRING
@@ -100,9 +110,10 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-よし、時間も無いことだし、簡単に
-仕事を説明するぞ。
-まずは・・・
+牧場のおじさん
+「よし、時間も無いことだし、簡単に
+　仕事を説明するぞ。
+　まずは…」
 # TRANSLATION 
 
 # END STRING
@@ -111,7 +122,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-おう、お前さんかい
+牧場のおじさん
+「おう、お前さんかい」
 # TRANSLATION 
 
 # END STRING
@@ -120,7 +132,42 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-この前はありがとよ
+牧場のおじさん
+「この前はありがとよ。
+　領主邸のメイドも喜んでくれたみたいだ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+牧場のおじさん
+「牛好きな、おまえさんに贈り物がある。
+　そこの宝箱を開けてみなさい」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+牧場のおじさん
+「お？どうした？
+　やっぱり嫁になりたいってか？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「ひょっとしてそれ、割と
+　本気で言ってる？」
 # TRANSLATION 
 
 # END STRING
@@ -130,6 +177,90 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 モー
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+牧場のおじさん
+「こらこら、勝手に開けるんじゃないよ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+（ちぇ…）
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「こ、これは…！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+
+　　\N[1]は「牧場の搾乳器」を手に入れた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+牧場のおじさん
+「その名のとおり、
+　牛のミルクを搾る、魔法の道具だ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+牧場のおじさん
+「おまえさんが遠く離れても、
+　牛たちのことを思い出してやってくれ…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「すごい、すごいよ！
+　牛のパパさん…！ありがとう」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+牧場のおじさん
+「へ、水くせぇ。いいってことよ。
+　こうして未来の嫁の笑顔が拝めりゃなぁー…」
 # TRANSLATION 
 
 # END STRING

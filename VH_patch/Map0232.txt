@@ -3,7 +3,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\N[1]
+\N[0]
 「…雰囲気が変わったわね」
 # TRANSLATION 
 
@@ -13,7 +13,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\N[1]
+\N[0]
 「こいつ…できるっ！」
 # TRANSLATION 
 
@@ -23,7 +23,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\N[1]
+\N[0]
 「ふぅ…なんとか倒せたわね」
 # TRANSLATION 
 
@@ -33,7 +33,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\N[1]
+\N[0]
 「あれ、何か落としたわね」
 # TRANSLATION 
 
@@ -43,7 +43,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\N[1]
+\N[0]
 「とりあえず、貰っちゃおうっと♪」
 # TRANSLATION 
 
@@ -54,7 +54,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 
-\N[1]は「ゴブリンパール」を手に入れた！
+\N[0]は「ゴブリンパール」を手に入れた！
 # TRANSLATION 
 
 # END STRING
@@ -63,7 +63,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\N[1]
+\N[0]
 （洞窟の最深部から逃げ切るのは難しそうね）
 # TRANSLATION 
 
@@ -73,7 +73,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\N[1]
+\N[0]
 「さて、どうしようかな？」
 # TRANSLATION 
 
@@ -101,7 +101,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\N[1]
+\N[0]
 「ふ～、やっと外に出られたわ」
 # TRANSLATION 
 
@@ -111,7 +111,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\N[1]
+\N[0]
 「宿に戻って、ゆっくりと休みたいな」
 # TRANSLATION 
 
@@ -121,7 +121,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-乱暴者のななこの一撃で
+乱暴者の\N[0]の一撃で
 頭蓋骨がヒビ割れてしまった！
 # TRANSLATION 
 
@@ -131,7 +131,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\N[1]
+\N[0]
 「ご…ごめんなさいっ！」
 # TRANSLATION 
 

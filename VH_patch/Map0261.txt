@@ -4,7 +4,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 
-　　\N[1]は「ガードアップ」を手に入れた！
+　　\N[0]は「ガードアップ」を手に入れた！
 # TRANSLATION 
 
 # END STRING
@@ -14,7 +14,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 
-　　\N[1]は「パワーアップ」を手に入れた！
+　　\N[0]は「パワーアップ」を手に入れた！
 # TRANSLATION 
 
 # END STRING
@@ -33,7 +33,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 
-　　\N[1]は「秘薬」を手に入れた！
+　　\N[0]は「秘薬」を手に入れた！
 # TRANSLATION 
 
 # END STRING
@@ -43,7 +43,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 
-　　\N[1]は「傷薬」を５つ手に入れた！
+　　\N[0]は「傷薬」を５つ手に入れた！
 # TRANSLATION 
 
 # END STRING
@@ -53,7 +53,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 
-　　\N[1]は「気付け薬」を手に入れた！
+　　\N[0]は「気付け薬」を手に入れた！
 # TRANSLATION 
 
 # END STRING

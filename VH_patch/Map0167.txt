@@ -3,8 +3,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ラッキーセブン！
-なーんちゃって
+\N[0]
+「ラッキーセブン！
+　なーんちゃって」
 # TRANSLATION 
 
 # END STRING
@@ -13,8 +14,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-・・・今の内に宝くじでも
-買ってみようかな・・・？
+\N[0]
+「……今の内に宝くじでも
+　買ってみようかな……？」
 # TRANSLATION 
 
 # END STRING
@@ -23,7 +25,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ランクに変動はないみたい
+\N[0]
+「ランクに変動はないみたい」
 # TRANSLATION 
 
 # END STRING

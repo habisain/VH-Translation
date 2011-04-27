@@ -3,7 +3,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「あの黒いのがターゲットね」
 # TRANSLATION 
 
@@ -13,7 +13,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「ふ～…
 　拳が割れるかと思ったわ」
 # TRANSLATION 
@@ -25,7 +25,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 
-　ななこは「メタルスライムの破片」を手に入れた
+　\N[0]は「メタルスライムの破片」を手に入れた
 # TRANSLATION 
 
 # END STRING
@@ -34,7 +34,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「あとは武器屋の店主に持っていくだけね」
 # TRANSLATION 
 

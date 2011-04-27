@@ -3,8 +3,18 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ここから中に入れそうよね。
-どうしよう？
+\N[0]
+「ここから中に入れそうよね」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「どうしよう？」
 # TRANSLATION 
 
 # END STRING
@@ -50,15 +60,6 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-こちらには用はない
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
 このマップは、ARPGアクション演出の強化のための
 いろいろ仕掛けをほどこしています。
 # TRANSLATION 
@@ -79,7 +80,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「さて…見張りがいるとしたら
 　ここからよね」
 # TRANSLATION 
@@ -90,7 +91,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「やっつけちゃったほうがいいかな？」
 # TRANSLATION 
 
@@ -122,7 +123,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「そっか。
 　じゃあ一応隠れながら」
 # TRANSLATION 
@@ -155,7 +156,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ・エリカ
+\N[0]・エリカ
 「あいあい」
 # TRANSLATION 
 

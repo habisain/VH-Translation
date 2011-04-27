@@ -1,11 +1,12 @@
 # RPGMAKER TRANS PATCH FILE VERSION 2.0
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 （あ、この箱、都行きって書いてあるし）
 # TRANSLATION 
-(Ah, it says on this box that 
-it's going to the capital.)
+
 # END STRING
 
 # TEXT STRING
@@ -27,69 +28,69 @@ it's going to the capital.)
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-（しめしめ。いいこと思いついたわ･･･）
+\N[0]
+（しめしめ。いいこと思いついたわ…）
 # TRANSLATION 
-(Hehe. I thought of such a good idea.)
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 （荷台の箱に隠れて、数日我慢してれば
 　いちいち街で途中下車しなくても
 　都まで最短距離、一直線じゃない？）
 # TRANSLATION 
-(It's a lot better to hide in this box
-then to endure lots of stops from city
-to city. The shortest route to the
-capital is a short line isn't it?)
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 （きっとそうよ！
 　うう～ん、私ってば頭っいい～～）
 # TRANSLATION 
-(Of course!
-I'm such a genius~~)
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 （ふふ。臨機応変、いち冒険者たるもの
 　自分の道は自分で切りひらくのが基本よね）
 # TRANSLATION 
-(Fufu, taking it as it comes is the staple
-of a great adventurer isn't it? It's the
-best way to expand your limits.)
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 （ひゃー、ハーブの香り。
 　私もいよいよ都会デビューかぁ。がんばるぞ～）
 # TRANSLATION 
-(Ahh, the smell of herbs.
-I wonder if it's finally time for 
-my city debut. I'd better do my best.~)
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 無論、人生はそんなに甘くなく、
-ななこは検査官によって身柄を拘束され、しかるべき
-措置をとられることとなりましたとさ･･･
+\N[0]は検査官によって身柄を拘束され、しかるべき
+措置をとられることとなりましたとさ…
 # TRANSLATION 
-Of course, life isn't that sweet,
-Nanako was discovered and restrained by
-an inspector and the proper steps were
-taken against her.
+
 # END STRING
 
 # TEXT STRING
@@ -102,13 +103,14 @@ taken against her.
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 （おっとと、貨物車両に侵入したのがバレたら
 　なにを疑われても現行犯よね）
 # TRANSLATION 
-(Ah! I don't want to get caught 
-breaking both of these freight cars.)
+
 # END STRING
 
 # TEXT STRING
@@ -168,12 +170,13 @@ This luggage carrier is locked tight.
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-（ん？ここから車両の屋根に上がれそうね･･･）
+\N[0]
+（ん？ここから車両の屋根に上がれそうね…）
 # TRANSLATION 
-(Hm? It looks like I can get on the roof
-from here...)
+
 # END STRING
 
 # TEXT STRING
@@ -195,14 +198,14 @@ from here...)
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「大冒険を始める前に冒険終了になってもしかたないし
 　命知らずなことは控えとこ」
 # TRANSLATION 
-"It would suck if my great adventure ended before
-it even began, I should hold back on doing anything
-too reckless."
+
 # END STRING
 
 # TEXT STRING
@@ -214,50 +217,54 @@ A ladder is here to help you get up and down.
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+憂う男
 「馬列車が実用化されてから早10年、
 　いまだ戦争に使われた事はありませんが」
 # TRANSLATION 
-"The horse train has already been 
-implemented for 10 years, so far they 
-haven't used it at all in war but,"
-# END STRING
 
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「かくも大量の人間や物資を次から次へと好きな場所に
-　送りこめる馬列車がある現在」
-# TRANSLATION 
-"So many people and goods are being taken 
-from their chosen place to place."
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「もしどこかの国と戦争が起こったなら、
-　それは我々人間が経験した事のない未曾有の規模の
-　大戦争になるのではないかと」
-# TRANSLATION 
-"If a war breaks out in some country, then
-all our experience as people here might
-help escalate it into a huge war."
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「私は不安で堪らないのです」
-# TRANSLATION 
-"I can't stop feeling nervous!"
 # END STRING
 
 # TEXT STRING
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+憂う男
+「かくも大量の人間や物資を次から次へと好きな場所に
+　送りこめる馬列車がある現在」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+憂う男
+「もしどこかの国と戦争が起こったなら、
+　それは我々人間が経験した事のない未曾有の規模の
+　大戦争になるのではないかと」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+憂う男
+「私は不安で堪らないのです」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+憂う男
 「そういえばなんでも都の中央図書館で
 　燃素というものの抽出に成功したらしいですよ」
 # TRANSLATION 
@@ -268,6 +275,7 @@ help escalate it into a huge war."
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+憂う男
 「物が燃えるのはこの燃素という物の仕業だそうで、
 　いえ私にはよくわかりませんが…」
 # TRANSLATION 
@@ -278,6 +286,7 @@ help escalate it into a huge war."
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+憂う男
 「早速それを利用して新しい兵器を
 　作っていると聞きました」
 # TRANSLATION 
@@ -288,6 +297,7 @@ help escalate it into a huge war."
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+憂う男
 「神の御技を暴きだし、あまつさえ人殺しの道具に
 　使おうとは…いやはや。
 　学者という生き物はどうしようもありませんな」
@@ -299,6 +309,7 @@ help escalate it into a huge war."
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+憂う男
 「いや…或いは、人間全体の
 　業という奴なのでしょうか…」
 # TRANSLATION 
@@ -306,83 +317,86 @@ help escalate it into a huge war."
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+乗客の女
 「あんた、冒険者志望よね？」
 # TRANSLATION 
-Do you want to be an adventurer?"
-# END STRING
 
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「避妊薬は毎日飲みなさい」
-# TRANSLATION 
-"You'd better take your birth pills everyday."
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「仕事上、危ない目にも遭うだろうし
-　場合によっては体を使う必要があるかもしれない」
-# TRANSLATION 
-"In your line of work you might have some
-bad encounters and in those situations you
-might have to use your body to get out of it."
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「孕まされてからじゃ遅いからね。
-　特にモンスターの子供なんて・・・」
-# TRANSLATION 
-"If you become pregnant then it's
-already too late, especially if it's a
-monster kid..."
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「私？私は・・・しくじっちゃってね。\!
-　今から中絶に行くとこ。
-　噂じゃ、都に腕のいい医者がいるってんでね」
-# TRANSLATION 
-"Hm? What about me? I... kinda screwed up.\!
-I'm going to this place to have an abortion.
-I've heard that in the capital there's
-some good doctors."
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「中絶にいい顔しない人たちもいっぱいいるしね。
-　口約束も信用のできない所ではなおさらよ」
-# TRANSLATION 
-"There's lots of people who 
-frown on abortion. But it can't be 
-helped if I can't make a promise."
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「命に関わる事には金と手間を惜しむな･･･って、
-　冒険者の鉄則だけど、今じゃ私の経験談でもあるわ」
-# TRANSLATION 
-"When it's about life or death don't care 
-about how much money or work it takes, it's an
-unavoidable rule as adventurer but that's 
-just my experience."
 # END STRING
 
 # TEXT STRING
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+乗客の女
+「避妊薬は毎日飲みなさい」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+乗客の女
+「仕事上、危ない目にも遭うだろうし
+　場合によっては体を使う必要があるかもしれない」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+乗客の女
+「孕まされてからじゃ遅いからね。
+　特にモンスターの子供なんて……」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+乗客の女
+「私？私は……しくじっちゃってね。\!
+　今から中絶に行くとこ。
+　噂じゃ、都に腕のいい医者がいるってんでね」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+乗客の女
+「中絶にいい顔しない人たちもいっぱいいるしね。
+　口約束も信用のできない所ではなおさらよ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+乗客の女
+「命に関わる事には金と手間を惜しむな…って、
+　冒険者の鉄則だけど、今じゃ私の経験談でもあるわ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+幼子を抱いた女
 「おーよちよち…」
 # TRANSLATION 
 
@@ -402,6 +416,7 @@ just my experience."
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+幼子を抱いた女
 「あーこの子？うん。私の子供」
 # TRANSLATION 
 
@@ -411,6 +426,7 @@ just my experience."
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+幼子を抱いた女
 「最初は堕ろそうと思ったんだけどね。
 　間に合わなくって…産んじゃった」
 # TRANSLATION 
@@ -421,6 +437,7 @@ just my experience."
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+幼子を抱いた女
 「最初はさ…受け入れらんなくて、
 　泣き叫んで、捨ててしまおうと
 　まで思ったけど…」
@@ -432,6 +449,7 @@ just my experience."
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+幼子を抱いた女
 「…でも、まぁ色々あってさ。
 　結局、私は逃げない事にしたんだ。
 　そういう、何もかもから」
@@ -443,6 +461,7 @@ just my experience."
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+幼子を抱いた女
 「幸い、この子はゴブリンの形質が
 　あんまり強く出てないみたいだし…」
 # TRANSLATION 
@@ -453,6 +472,7 @@ just my experience."
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+幼子を抱いた女
 「母子二人で、頑張ってみせるわ」
 # TRANSLATION 
 
@@ -462,24 +482,27 @@ just my experience."
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+幼子を抱いた女
 「都は、結構亜人も多いって言うしね」
 # TRANSLATION 
 
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+陽気な娘
 「都ってどんなところなのかしら！ワクワク！」
 # TRANSLATION 
-"I wonder what kind of place the capital
-is! I'm so excited!"
+
 # END STRING
 
 # TEXT STRING
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+陽気な娘
 「せーんろはつづくーよー
 　どーこまーでーもー」
 # TRANSLATION 
@@ -487,43 +510,53 @@ is! I'm so excited!"
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+鎧の男
 「ったく相棒の心配症ときたら堪らんぜ！」
 # TRANSLATION 
-"Damnit I can't stop worrying about my
-friend's illness!"
-# END STRING
 
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「馬列車は便利だからそれでいいじゃねーか。\!
-　国の税金になるもんが、戦争の形を変えるシロモノに
-　なるわけねえだろって俺が何度も教えてやってんのに
-　聞きやしねえんだから！」
-# TRANSLATION 
-"The horse train is pretty convenient! It came as
-a result of the country's taxes and changes war
-since you can bring things around more easily!
-No matter how many times I say it I'm still excited!"
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「もし馬列車が武器密輸につかわれてたなら、俺りゃあ
-　裸で都を一周してやんよ。わははは！！」
-# TRANSLATION 
-"If they're using the horse train to smuggling
-weapons then I'll run around the capital naked.
-Hahaha!"
 # END STRING
 
 # TEXT STRING
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+鎧の男
+「馬列車は便利だからそれでいいじゃねーか」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+鎧の男
+「国の税金になるもんが、戦争の形を変えるシロモノに
+　なるわけねえだろって俺が何度も教えてやってんのに
+　聞きやしねえんだから！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+鎧の男
+「もし馬列車が武器密輸につかわれてたなら、俺りゃあ
+　裸で都を一周してやんよ。わははは！！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+鎧の男
 「よう、この時期に都行きってこたぁ
 　お前さんも武術大会に出るのかい？」
 # TRANSLATION 
@@ -534,6 +567,7 @@ Hahaha!"
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+鎧の男
 「俺もだよ。腕が鳴るな。
 　上手くいきゃあこんな貧乏暮らしとも
 　おさらばだ」
@@ -545,6 +579,7 @@ Hahaha!"
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+鎧の男
 「しかしまぁ俺らみてえなチンピラ同然の
 　冒険者にとっちゃこういうチャンスを
 　提供してくれるのは有り難いが」
@@ -556,6 +591,7 @@ Hahaha!"
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+鎧の男
 「タダでさえ国中のゴロツキが雪崩れ込んで
 　ごった返してる都に、これ以上人を集めるような
 　真似して、どういうつもりなんだろうな？」
@@ -567,6 +603,7 @@ Hahaha!"
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+鎧の男
 「まぁ偉いさんの考える事はよくわかんねえや」
 # TRANSLATION 
 
@@ -576,17 +613,20 @@ Hahaha!"
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+鎧の男
 「都がどうなろうが、俺には関係ねえしな」
 # TRANSLATION 
 
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+乗客の若者
 「馬列車って何か知ってるかい？」
 # TRANSLATION 
-Do you know anything about the horse train?
+
 # END STRING
 
 # TEXT STRING
@@ -608,104 +648,119 @@ Do you know anything about the horse train?
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+乗客の若者
 「わはは！そりゃそうだ！」
 # TRANSLATION 
-"Waha! Is that so!"
-# END STRING
 
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「おいおい今、君が乗ってるこの乗り物の事だぜ！」
-# TRANSLATION 
-"Hey hey, right now you're riding it!"
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「30頭建て10両編成都行き！
-　ボロのトロくさの最安価貨物馬列車！
-　荷物と一緒に揺られ揺られて馬鹿アホ間抜けが今日も
-　行く～ってな」
-# TRANSLATION 
-"With 30 horses, organized 
-in you can go to the metroplis! This is where
-the cheapest most scummy people go! 
-The freight cart! We shake and shake like 
-idiots with the luggage, we're going again today~"
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-（腹立つヤツね。
-　都行きの切符なんてそもそも法外すぎて
-　買えないにきまってるじゃない）
-# TRANSLATION 
-(It's an angry man. Looks like
-he realized he didn't have enough money
-to buy the outrageous ticket price in the
-first place.)
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-（･･････）
-# TRANSLATION 
-(......)
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「かー、まいったね。このスカートってのはどうも
-　スカスカして落ち着かねえや」
-# TRANSLATION 
-"Ahh, I'm beat. It's really hard to calm down
-with this skirt on"
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「ま、女冒険者ほど割に合わねえ商売もねえからな！
-　五体満足ですっぱり足洗えたのに文句言ってちゃ神様に
-　怒られちゃうぜ！」
-# TRANSLATION 
-"Well I guess it matches for the kind of thing 
-you do as a female adventurer! 
-Since I'm a girl with no defects if I keep 
-complaining then god might get angry!"
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「へへっ、あんたも新米冒険者なら人生の先輩から
-　一つ忠告しておくが」
-# TRANSLATION 
-"Hehe, if you're a new adventurer then you
-should heed the advice of your senpai."
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「体の安売りはよしなよ！
-　私みてえにいい男の玉を捕まえたけりゃあなぁ～」
-# TRANSLATION 
-"Don't sell your body cheaply!
-You have to catch men with tons of money like me!"
 # END STRING
 
 # TEXT STRING
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+乗客の若者
+「おいおい今、君が乗ってるこの乗り物の事だぜ！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+乗客の若者
+「30頭建て10両編成都行き！
+　ボロのトロくさの最安価貨物馬列車！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+乗客の若者
+「荷物と一緒に揺られ揺られて
+　馬鹿アホ間抜けが今日も行く～ってな」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+（腹立つヤツね。
+　都行きの切符なんてそもそも法外すぎて
+　買えないにきまってるじゃない）
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+（……）
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+粗野な女性
+「かー、まいったね。このスカートってのはどうも
+　スカスカして落ち着かねえや」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+粗野な女性
+「ま、女冒険者ほど割に合わねえ商売もねえからな！
+　五体満足ですっぱり足洗えたのに文句言ってちゃ
+　神様に怒られちゃうぜ！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+粗野な女性
+「へへっ、あんたも新米冒険者なら人生の先輩から
+　一つ忠告しておくが」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+粗野な女性
+「体の安売りはよしなよ！
+　私みてえにいい男の玉を捕まえたけりゃあなぁ～」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+乗客の女
 「私…私、結婚して三年、ただひたすら
 　耐えてきましたが…」
 # TRANSLATION 
@@ -716,6 +771,7 @@ You have to catch men with tons of money like me!"
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+乗客の女
 「もう我慢の限界です！あんなチャランポランと
 　結婚したのが間違いでした！」
 # TRANSLATION 
@@ -726,6 +782,7 @@ You have to catch men with tons of money like me!"
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+乗客の女
 「都に行って！私冒険者になります！
 　とってもとっても、グレてやる～！」
 # TRANSLATION 
@@ -733,65 +790,73 @@ You have to catch men with tons of money like me!"
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+男性乗客
 「私の前いた町には有名な美人の露出狂女がいたんだ」
 # TRANSLATION 
-"In my old city there was a beautiful girl
-who was an exhibisionist."
-# END STRING
 
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「最初はただそれだけで町の男共も喜んでたんだが、
-　彼女の行為はどんどんエスカレートしていってね･･･」
-# TRANSLATION 
-"At first she just used to amuse the city's
-men but slowly her actions escalated..."
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「終いには子供達にまで手を出すようになって町から
-　叩き出す事になってしまったよ」
-# TRANSLATION 
-"The final straw was when she starting doing
-it with kids, after that she got kicked out."
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「君はそういう風にはならないようにね。人前に出る時
-　は身だしなみをきちんと整えたほうがいい」
-# TRANSLATION 
-"You don't turn out like that too alright.
-It's better if you get yourself dressed to
-go out in front of people"
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「･･････」
-# TRANSLATION 
-(......)
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「やるならこっそりやりたまえ」
-# TRANSLATION 
-"But if you wanna do it then do it in secret"
 # END STRING
 
 # TEXT STRING
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+男性乗客
+「最初はただそれだけで町の男共も喜んでたんだが、
+　彼女の行為はどんどんエスカレートしていってね…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+男性乗客
+「終いには子供達にまで手を出すようになって町から
+　叩き出す事になってしまったよ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+男性乗客
+「君はそういう風にはならないようにね。人前に出る時
+　は身だしなみをきちんと整えたほうがいい」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「……」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+男性乗客
+「やるならこっそりやりたまえ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+男性乗客
 「最近都のならず者達の間でね。
 　酷い遊びが流行ってるらしい」
 # TRANSLATION 
@@ -802,6 +867,7 @@ go out in front of people"
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+男性乗客
 「なんでも若い女の人を捕まえて
 　冒涜的な刺青を無理矢理
 　入れてしまうらしいんだ」
@@ -813,6 +879,7 @@ go out in front of people"
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+男性乗客
 「キリステを冒涜する人間。
 　つまり背教者にしてしまうんだね…」
 # TRANSLATION 
@@ -823,6 +890,7 @@ go out in front of people"
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+男性乗客
 「そうなった人間は、もう誰も
 　助けてくれない…」
 # TRANSLATION 
@@ -833,6 +901,7 @@ go out in front of people"
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+男性乗客
 「だから好き放題できるって、
 　そういう寸法らしい」
 # TRANSLATION 
@@ -843,6 +912,7 @@ go out in front of people"
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+男性乗客
 「酷い話だけど、何の後ろ盾もない
 　一般人を、権力は守っちゃくれない
 　からね…」
@@ -854,17 +924,20 @@ go out in front of people"
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+男性乗客
 「お嬢ちゃんも、気をつけな」
 # TRANSLATION 
 
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「・・・何か？」
+警備兵
+「……何か？」
 # TRANSLATION 
-"...huh?"
+
 # END STRING
 
 # TEXT STRING
@@ -895,74 +968,88 @@ looking face.
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+警備兵
 「んー？おのぼりさん丸出しの田舎者め。
 　そんな事もわからんのか」
 # TRANSLATION 
-"Hm? Oh it's just a conutry hick. I don't
-know that either."
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「ぐっ･･･」
+\N[0]
+「ぐっ…」
 # TRANSLATION 
-"Nhg..."
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+警備兵
 「お前の目的地になら、あと半日もせずに着くわ」
 # TRANSLATION 
-"We still have half a day until we get to
-your destination."
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「えっ？！」
 # TRANSLATION 
-"Huh!?"
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「ふん、驚いたか？\!
-　こんなボロ馬列車の警備員も長いことやってるとな、\.
-　知りたくもない新米冒険者お決まりの思考というヤツ
-　にも詳しくなってしまうのだ」
+警備兵
+「ふん、\.驚いたか？」
 # TRANSLATION 
-"Hmph, surprised?\!
-I've been working on this broken down horse train 
-for a long time and I don't even want to know 
-where people get the idea to become adventurers. 
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+警備兵
+「こんなボロ馬列車の警備員も長いことやってるとな、
+　\.知りたくもない新米冒険者お決まりの
+　思考というヤツにも詳しくなってしまうのだ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+警備兵
 「大方、家出半分に実家を飛び出てきたものの
 　都へ行くには金が足りてない事に途中で気付いて」
 # TRANSLATION 
-"Almost all of them are runaways from home who
-try to get to the city before realizing that
-they don't have enough money."
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+警備兵
 「この先の街で一旦降りて適当に冒険者でもやりつつ、
 　切符代の駄賃を稼ごうという魂胆だろう」
 # TRANSLATION 
-"At the previous city some adventures got off to
-do their work but I think it was mainly just
-to pay off the ticket price."
+
 # END STRING
 
 # TEXT STRING
@@ -978,88 +1065,88 @@ to pay off the ticket price."
 # UNTRANSLATED
 # CONTEXT : Dialogue/Choice
 # ADVICE : 49 char limit
-「うぐっ･･･」
+「うぐっ…」
 # TRANSLATION 
 
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+警備兵
 「終わりか？まあいい。
 　もうお前の知りたい事は教えてやっただろう。
 　とっとと俺の前から消えてくれ」
 # TRANSLATION 
-"Hm that's it? Well alright.
-I guess I already answered all 
-your questions so hurry up and disappear."
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+警備兵
 「図星か。そんな調子じゃ都に行っても大成する以前に
 　道ばたで命を落っことすのがオチだぞ」
 # TRANSLATION 
-"Bullseye huh? If it's like that you'll die
-on the road side before you make a big sucess.
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+警備兵
 「田舎から都へのぼって行くお前みたいなどうでもいい
 　人間は数限りなく見てきたが、それで上手く行った奴
 　の話なんて聞いた事もない」
 # TRANSLATION 
-"I guess it doesn't matter if you ride 
-from the country to the capital looking like 
-that but there's no point in saying that scum 
-like you will make it out there"
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+警備兵
 「悪い事は言わん。家に帰ったほうがいいぞ。\!
 　みじめな現実に覆われてからじゃ遅いんだからな」
 # TRANSLATION 
-"I won't say anything bad but just go home.
-It's too late for your miserable reality to
-uncovered."
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+警備兵
 「じゃあ何の為にそこに立ってるんだ？
 　邪魔だから今すぐその空っぽの頭を横にどけてくれ」
 # TRANSLATION 
-"Hey what are you doing standing there?
-You're annyoing me so move your empty head
-over there."
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+警備兵
 「聞きたい情報は聞きだせたんだろう？
 　だったら、さっさと自分の物置に戻ったらどうだ？」
 # TRANSLATION 
-"Hm? You didn't come here to ask about
-anything? Then how about you hurry up and go
-back to you storeroom?"
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「ふん、なにか言いたげな顔が戻ってきたな･･･。
-　ぬかしてみろ」
+警備兵
+「ふん、\.なにか言いたげな顔が戻ってきたな…。
+　\.ぬかしてみろ」
 # TRANSLATION 
-"Hmph, you've come back looking like you
-want to ask another question... hurry up and
-say it"
+
 # END STRING
 
 # TEXT STRING
@@ -1090,56 +1177,62 @@ say it"
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+警備兵
 「金を得る方法なんていくらでもあるだろうに」
 # TRANSLATION 
-"It doesn't matter how much money I earn
-as long as I earn it"
-# END STRING
 
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「ゴミはやはりゴミ溜めに集まる害虫だな」
-# TRANSLATION 
-"Trash is trash I guess, collecting flies
-and smelling like shit"
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「そんなこと知るか。
-　名声がほしいのは金目的なのか？売女め」
-# TRANSLATION 
-"You think I know that?
-You just want money for reputation huh? Slut."
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「ああ、馬鹿が馬鹿なりに考えたところで、
-　どうせ･･･とは思ってたが、まあどうでもいい」
-# TRANSLATION 
-"Aah, if you think about it being an idiot
-is all about... oh I thought of something
-but never mind."
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「さっさと田舎に戻るんだな」
-# TRANSLATION 
-"Hurry up and go back to the country!"
 # END STRING
 
 # TEXT STRING
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+警備兵
+「ゴミはやはりゴミ溜めに集まる害虫だな」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+警備兵
+「そんなこと知るか。
+　名声がほしいのは金目的なのか？売女め」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+警備兵
+「ああ、馬鹿が馬鹿なりに考えたところで、
+　どうせ…とは思ってたが、まあどうでもいい」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+警備兵
+「さっさと田舎に戻るんだな」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+警備兵
 「ん？」
 # TRANSLATION 
 
@@ -1149,7 +1242,8 @@ but never mind."
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「お前、この間も馬列車に乗ってなかったか？」
+警備兵
+「お前、\.この間も馬列車に乗ってなかったか？」
 # TRANSLATION 
 
 # END STRING
@@ -1158,7 +1252,8 @@ but never mind."
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「…やはりな。ちょっとは逞しくなったか？」
+警備兵
+「…やはりな。\.ちょっとは逞しくなったか？」
 # TRANSLATION 
 
 # END STRING
@@ -1167,7 +1262,8 @@ but never mind."
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「しかしま、都に行けばお前くらいの人間は
+警備兵
+「しかしま、\.都に行けばお前くらいの人間は
 　わんさかいる」
 # TRANSLATION 
 
@@ -1177,8 +1273,9 @@ but never mind."
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+警備兵
 「せっかくつけた自信を粉砕されない内に、
-　田舎モンは田舎に帰ったらどうだ」
+　\.田舎モンは田舎に帰ったらどうだ」
 # TRANSLATION 
 
 # END STRING
@@ -1187,8 +1284,9 @@ but never mind."
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+警備兵
 「わざわざ喜んで行くような所じゃないと
-　思うがな…今の都は」
+　思うがな…\.今の都は」
 # TRANSLATION 
 
 # END STRING
@@ -1203,45 +1301,53 @@ see anything on the inside.
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-･･････じぃ～･････････
+……じぃ～………
 # TRANSLATION 
-....stare.....
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 （この車両、警備隊の共同部屋なのかぁ。
-　お客は雑魚寝なのに、･･････）
+　お客は雑魚寝なのに、……）
 # TRANSLATION 
-(This cart is where all the guards get together.
-Even though all of us are sleeping together...)
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-（ん、んんん？あれ･･･宝箱発見）
+\N[0]
+（ん、んんん？あれ…宝箱発見）
 # TRANSLATION 
-(Hm,hmm? Huh...I found a treasure box.)
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-（･････････）
+\N[0]
+（………）
 # TRANSLATION 
-(......)
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 （もしかして、貴重品の類かしら？）
 # TRANSLATION 
-(There could be treasure here...)
+
 # END STRING
 
 # TEXT STRING
@@ -1282,11 +1388,13 @@ tough paying for inns and food...
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 （金、お金。やっぱりお金よねー）
 # TRANSLATION 
-(Money is money I guess.)
+
 # END STRING
 
 # TEXT STRING
@@ -1317,11 +1425,13 @@ tough paying for inns and food...
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-よし、決めた。
+\N[0]
+「よし、決めた」
 # TRANSLATION 
-Okay, I've got it.
+
 # END STRING
 
 # TEXT STRING
@@ -1343,44 +1453,53 @@ Okay, I've got it.
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-いやいやいや･･･$d
+\N[0]
+「いやいやいや…$d」
 # TRANSLATION 
-No no no...$d
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-（んー、いくらなんでも盗みはねぇ･･･）
+\N[0]
+（んー、いくらなんでも盗みはねぇ…）
 # TRANSLATION 
-(Nn... it doesn't matter 
-stealing is a little...)
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-（どうしよっかなぁ～･･･）
+\N[0]
+（どうしよっかなぁ～…）
 # TRANSLATION 
-(What should I do~...)
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-（やっぱり犯罪はよくないわよねぇ･･･）
+\N[0]
+（やっぱり犯罪はよくないわよねぇ…）
 # TRANSLATION 
-(Yeah crimes aren't too good...)
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-（うーん･･･）
+\N[0]
+（うーん…）
 # TRANSLATION 
-(uuun...)
+
 # END STRING
 
 # TEXT STRING
@@ -1392,43 +1511,44 @@ The window already needs a key.
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+乗客の若者
 「年寄り共は、俺たち冒険者の事を悪く言うが
 　実際じゃあこうやる以外に食うあてのない連中は
 　どうすればいいんだよ？」
 # TRANSLATION 
-"The old folks always talk dirty about us
-adventurers, they always say that living
-practically like this leads us to want nothing 
-but do eat and live. What should I do?"
-# END STRING
 
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「この国をこんなにしちまったのはてめえらだろうが」
-# TRANSLATION 
-"What this country has turned into is all
-your fault!"
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「そのくせに俺たち、下の世代には飢え死にしようが
-　何しようが馬車馬のように働けとこきやがる。
-　クソくらえだぜっ」
-# TRANSLATION 
-"Even so, our younger generation is starving
-to death maybe I should start working
-with the horse train... damnit."
 # END STRING
 
 # TEXT STRING
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+乗客の若者
+「この国をこんなにしちまったのはてめえらだろうが」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+乗客の若者
+「そのくせに俺たち、下の世代には飢え死にしようが
+　何しようが馬車馬のように働けとこきやがる。
+　クソくらえだぜっ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+乗客の若者
 「冒険者ギルドっていうのもさ、
 　結局ヤクザなんだよ」
 # TRANSLATION 
@@ -1439,6 +1559,7 @@ with the horse train... damnit."
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+乗客の若者
 「報酬の殆どをピン跳ねしやがるくせに、
 　それを嫌って個人で依頼受けようとする奴には
 　容赦なく制裁とくらぁ」
@@ -1450,6 +1571,7 @@ with the horse train... damnit."
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+乗客の若者
 「後ろ盾だ。権力。それが必要なんだよ。
 　結局よ。
 　それがねえ限り、俺達は永遠に豚共の餌だ」
@@ -1461,6 +1583,7 @@ with the horse train... damnit."
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+乗客の若者
 「世の中のバカ共は真面目に依頼をこなせば
 　いつか幸せになれると思ってるらしいが」
 # TRANSLATION 
@@ -1471,6 +1594,7 @@ with the horse train... damnit."
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+乗客の若者
 「そんなもんは幻想だ。
 　死ぬまで都合よくコキ使われるのがオチだ」
 # TRANSLATION 
@@ -1481,6 +1605,7 @@ with the horse train... damnit."
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+乗客の若者
 「だが俺は違う。
 　俺は豚の餌にはならねえ。
 　俺が逆に、豚共を食ってやる」
@@ -1492,6 +1617,7 @@ with the horse train... damnit."
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+乗客の若者
 「どいつもこいつも踏み台にして
 　俺はどこまでものし上がってやるぜ…」
 # TRANSLATION 
@@ -1591,17 +1717,20 @@ get to your destination?
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「あいたっ」
 # TRANSLATION 
-"Ah!"
+
 # END STRING
 
 # TEXT STRING
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「はぁ～…相変わらず
 　乗り心地は最悪ね…」
 # TRANSLATION 
@@ -1612,6 +1741,7 @@ get to your destination?
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「まぁタダだし、文句は
 　言えないけど…」
 # TRANSLATION 
@@ -1622,6 +1752,7 @@ get to your destination?
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「んっ…せっと」
 # TRANSLATION 
 
@@ -1631,6 +1762,7 @@ get to your destination?
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「さて、もう寝れそうにないし…」
 # TRANSLATION 
 
@@ -1640,6 +1772,7 @@ get to your destination?
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「車内見てまわって、
 　時間潰そうかな」
 # TRANSLATION 
@@ -1655,20 +1788,21 @@ The carriage got hit by a large rock.
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-体を跳ね上げられてななこは目がさめた
+体を跳ね上げられて\N[0]は目がさめた
 # TRANSLATION 
-Nanako woke up because of the sudden jolt.
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-目的地までの道のりはあとどれくらいだろう・・・
+目的地までの道のりはあとどれくらいだろう……
 # TRANSLATION 
-I wonder how long we have left until my
-destinatation...
+
 # END STRING
 
 # TEXT STRING
@@ -1680,19 +1814,21 @@ Maybe I should try asking someone.
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+乗客の男
 「だー畜生！この馬列車って奴ぁ全く！
 　ケツが痛くなって仕方ねえぜ！」
 # TRANSLATION 
-"Damnit! I'm fed up with this train's servants
-my ass hurts damnit!'
+
 # END STRING
 
 # TEXT STRING
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+乗客の男
 「うん…だんだん…
 　このケツの痛みが…
 　快感になってきたぞ…ウッ…」
@@ -1701,40 +1837,43 @@ my ass hurts damnit!'
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+若い神父
 「馬列車のおかげで、人や物の流れは以前とは比べ物に
 　ならないくらい活発になりました」
 # TRANSLATION 
-"I can't believe that thanks to the horse train
-so many people and good have started moving
-all over the place since before"
-# END STRING
 
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「構想の大本は、都の商人ギルドらが
-　モンスターや野盗の類から我が身を守る為に
-　仕方なく始めたものと聞きますが･･･」
-# TRANSLATION 
-"My plan mainly is to protect merchants from
-thieves and monsters but..."
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「世の中、何が成功するかわからないものです」
-# TRANSLATION 
-"I don't know if I'll suceed doing that in
-this day and age..."
 # END STRING
 
 # TEXT STRING
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+若い神父
+「構想の大本は、都の商人ギルドらが
+　モンスターや野盗の類から我が身を守る為に
+　仕方なく始めたものと聞きますが…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+若い神父
+「世の中、何が成功するかわからないものです」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+若い神父
 「肉眼では見えませんが、馬列車の線路は
 　旧帝国が作ったマナラインに沿って
 　作られています」
@@ -1746,6 +1885,7 @@ this day and age..."
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+若い神父
 「マナラインから魔力を吸い上げ、
 　魔法で常に車体を軽くする事で
 　馬列車は動いているのです」
@@ -1757,6 +1897,7 @@ this day and age..."
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+若い神父
 「しかし旧帝国が分裂して以後、
 　マナラインを維持する資金も
 　修復する技術も失われていますから…」
@@ -1768,6 +1909,7 @@ this day and age..."
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+若い神父
 「もし天災や戦争でマナラインが
 　損傷した場合、馬列車は…」
 # TRANSLATION 
@@ -1778,6 +1920,7 @@ this day and age..."
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+若い神父
 「いえ、我々の生活そのものが
 　大きく揺らぐ事になるでしょう」
 # TRANSLATION 
@@ -1785,63 +1928,73 @@ this day and age..."
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+髭面の乗客
 「お嬢ちゃん不用心だなあ」
 # TRANSLATION 
-"Miss you're very careless"
-# END STRING
 
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「はい？」
-# TRANSLATION 
-"Huh?"
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「最下級クラスの車室で手足広げて
-　グースカ寝てるなんて、何されても
-　文句は言えないぜ？」
-# TRANSLATION 
-"In the lowest class cart you slept with
-your arms and legs spread wide open. If
-someone did something you wouldn't complain?"
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「あう･･･」
-# TRANSLATION 
-"Ah..."
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「世の中悪い奴ばっかりなんだ。
-　どんな時でも気を許しちゃいけないよ」
-# TRANSLATION 
-"In this time there's nothing but bad people,
-you have to keep your guard up at all times"
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「は、はい･･･ありがとうございます･･･」
-# TRANSLATION 
-"Yes... T-thank you..."
 # END STRING
 
 # TEXT STRING
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
+「はい？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+髭面の乗客
+「最下級クラスの車室で手足広げて
+　グースカ寝てるなんて、何されても
+　文句は言えないぜ？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「あう…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+髭面の乗客
+「世の中悪い奴ばっかりなんだ。
+　どんな時でも気を許しちゃいけないよ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「は、\.はい…\.ありがとうございます…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+髭面の乗客
 「お嬢ちゃん、見かけによらず
 　なかなかヤルみたいだね…」
 # TRANSLATION 
@@ -1852,6 +2005,7 @@ you have to keep your guard up at all times"
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+髭面の乗客
 「寝ていても、しっかり周囲に
 　気を張っているのが分かったよ」
 # TRANSLATION 
@@ -1862,6 +2016,7 @@ you have to keep your guard up at all times"
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+髭面の乗客
 「しかし、冒険者ならそれくらいは
 　誰でも当たり前にやるもんだ」
 # TRANSLATION 
@@ -1872,6 +2027,7 @@ you have to keep your guard up at all times"
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+髭面の乗客
 「都には海千山千の化け物共が
 　わんさかいる。
 　気をつけるんだね」
@@ -1889,34 +2045,40 @@ allowed in.
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「ん、この先は御者席かな？」
 # TRANSLATION 
-"Hm, I wonder if the driver's seat is in here?"
-# END STRING
 
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「･･･行ってもいいことはなさそうね」
-# TRANSLATION 
-"It doesn't look like I can get in though..."
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「力技じゃ、開きそうにないわね」
-# TRANSLATION 
-"It seems like I can't open it up with skill
-or power"
 # END STRING
 
 # TEXT STRING
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
+「…行ってもいいことはなさそうね」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「力技じゃ、開きそうにないわね」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
 「欲を張りすぎる必要はないわね。次にいこう」
 # TRANSLATION 
 
@@ -1926,69 +2088,73 @@ or power"
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+暑苦しい乗客
 「君も冒険者志望でありますか？」
 # TRANSLATION 
 
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+暑苦しい乗客
 「おおおおおおお。やはり！
 　田舎に籠っていても仕様がありませぬものね！
 　やはり若者は夢に向かって雄飛せねば！！」
 # TRANSLATION 
-"Yes!!!!
-Even though I lived out in the country there
-was a way! I'm going to set my sights on a
-young man's dream!"
-# END STRING
 
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「今の世、国は乱れに乱れておりますが
-　だからこそ我々の様な何のツテも持たない人間でも
-　腕っ節一つで成り上がれるというもの！」
-# TRANSLATION 
-"There's some disorder going on in the country
-so there's a little loss of people with
-influence and I'll rise to the top with brute
-strength!"
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「お互い頑張りましょう！うおおおおおおお！！！
-　俺も燃えてきたああああ！！」
-# TRANSLATION 
-"Let's both do our best!! RAUGHHHH!!!
-I'm so pumped up!!!!!"
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「う、恥ずかしい。私の勘違いでありました。
-　申し訳ございません･･･」
-# TRANSLATION 
-"Uh, I'm so embarassed. I made a mistake
-I can't believe it..."
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「ダメだ。俺もうだめ。しにたい」
-# TRANSLATION 
-"I can't do it, it's done, I want to die."
 # END STRING
 
 # TEXT STRING
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+暑苦しい乗客
+「今の世、国は乱れに乱れておりますが
+　だからこそ我々の様な何のツテも持たない人間でも
+　腕っ節一つで成り上がれるというもの！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+暑苦しい乗客
+「お互い頑張りましょう！うおおおおおおお！！！
+　俺も燃えてきたああああ！！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+暑苦しい乗客
+「う、恥ずかしい。私の勘違いでありました。
+　申し訳ございません…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+暑苦しい乗客
+「ダメだ。俺もうだめ。しにたい」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+皮肉っぽい乗客
 「お前は…冒険者か？」
 # TRANSLATION 
 
@@ -1998,6 +2164,7 @@ I can't believe it..."
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+皮肉っぽい乗客
 「ふーん…その若さでねえ？」
 # TRANSLATION 
 
@@ -2007,6 +2174,7 @@ I can't believe it..."
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+皮肉っぽい乗客
 「まぁせいぜい気をつけるこった。
 　都は今、ひどく治安が悪いって話
 　だからな」
@@ -2018,6 +2186,7 @@ I can't believe it..."
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+皮肉っぽい乗客
 「なんでも傭兵団ってのが
 　血で血を洗う抗争の真っ最中らしい」
 # TRANSLATION 
@@ -2028,6 +2197,7 @@ I can't believe it..."
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+皮肉っぽい乗客
 「旅行の帰りか？そのまま旅先に
 　永住しちまってたほうが
 　良かったんじゃねえか？」
@@ -2036,71 +2206,75 @@ I can't believe it..."
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-号外だろうか･･･
+号外だろうか…
 落書きで埋め尽くされていて読む事ができない
 # TRANSLATION 
-A newspaper extra huh...
-It's totally covered with graffiti so I
-can't read it.
-# END STRING
 
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「モンスターのなかには、
-　繁殖の為に人間の女性を襲う者もいます」
-# TRANSLATION 
-"Among the monsters there are beasts 
-that attack women to try to multiply"
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「奴らの服を剥ぎ取る攻撃には気をつけてください」
-# TRANSLATION 
-"They have an attack that melts off your
-clothes so be careful"
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「もし裸にされてしまったら、急いで逃げた方が
-　身のためです」
-# TRANSLATION 
-"If you ever become naked hurry and run
-away to protect your body."
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「運悪く追いつかれて組みしかれてしまった場合でも、
-　諦めずに方向キーを連打すればなんとか逃れられるかも
-　しれません」
-# TRANSLATION 
-"If they catch up with you don't give up
-and press the movement key as fast as you
-can to get away."
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「どんなに苦しくても、最後まで絶対に絶対に、
-　諦めては駄目ですよ」
-# TRANSLATION 
-"No matter how painful it is you have to keep
-pushing forward"
 # END STRING
 
 # TEXT STRING
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+冒険者風の乗客
+「モンスターのなかには、
+　繁殖の為に人間の女性を襲う者もいます」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+冒険者風の乗客
+「奴らの服を剥ぎ取る攻撃には気をつけてください」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+冒険者風の乗客
+「もし裸にされてしまったら、急いで逃げた方が
+　身のためです」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+冒険者風の乗客
+「運悪く追いつかれて組みしかれてしまった場合でも、
+　諦めずに方向キーを連打すれば
+　なんとか逃れられるかもしれません」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+冒険者風の乗客
+「どんなに苦しくても、最後まで絶対に絶対に、
+　諦めては駄目ですよ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+冒険者風の乗客
 「近頃、集団失踪が各地の村で相次いで
 　いるらしいです」
 # TRANSLATION 
@@ -2111,6 +2285,7 @@ pushing forward"
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+冒険者風の乗客
 「盗賊が村を襲って壊滅させるというのは
 　そこまで珍しい事でもありませんが…」
 # TRANSLATION 
@@ -2121,6 +2296,7 @@ pushing forward"
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+冒険者風の乗客
 「死体も上がらず、奴隷として市場にも
 　出ず、ただ忽然と人々が消えさるなんて
 　余りにも不可解です…」
@@ -2132,6 +2308,7 @@ pushing forward"
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+冒険者風の乗客
 「なにかが、起こりつつあるのかも
 　しれません。
 　なにかが…」
@@ -2140,63 +2317,67 @@ pushing forward"
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ウンザリ顔の商人
 「前の車両から来はりましたな。ほなあのアホな冒険者
 　志望のガキにも話かけられましたやろ？」
 # TRANSLATION 
-"You came from that previous cart. Did you
-tell your other idiot adventurer friends about
-their childish dream?"
-# END STRING
 
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「近年、都の大事業の馬列車のおかげで
-　ずいぶん地方への交通の便がようなった思たら
-　ああいうノータリンのアホが大挙して都になだれ込み
-　やがりましてなぁー」
-# TRANSLATION 
-"In the recent years thanks to the huge 
-business of the horse train I thought that 
-lots of morons might start rushing in here."
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「夢破れて失意のうちに･･･、
-　そんで都のスラムに根ぇ張ってチンピラ生活や」
-# TRANSLATION 
-"After your dream shatters you're just going
-to end up living in that city in a slum."
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「安全な旅も考え物ですな。
-　ここ数年は特にもう治安の悪化に歯止めがかからんゆ
-　うて、上から下から行政は大変な騒ぎですわ」
-# TRANSLATION 
-"You have to think about the safety of your
-journey aswell. In the recent years here things
-have steadly started to get worse and worse"
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「あんさんはああいう手合いとはちゃいまっしゃろな？」
-# TRANSLATION 
-"What if you end up dead?"
 # END STRING
 
 # TEXT STRING
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ウンザリ顔の商人
+「近年、都の大事業の馬列車のおかげでずいぶん地方へ
+　の交通の便がようなった思たらああいうノータリンの
+　アホが大挙して都になだれ込みやがりましてなぁー」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ウンザリ顔の商人
+「夢破れて失意のうちに…、
+　そんで都のスラムに根ぇ張ってチンピラ生活や」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ウンザリ顔の商人
+「安全な旅も考え物ですな。
+　ここ数年は特にもう治安の悪化に歯止めがかからんゆ
+　うて、上から下から行政は大変な騒ぎですわ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ウンザリ顔の商人
+「あんさんは
+　ああいう手合いとはちゃいまっしゃろな？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ウンザリ顔の商人
 「都はいよいよえらい荒れようらしいですわ」
 # TRANSLATION 
 
@@ -2206,6 +2387,7 @@ have steadly started to get worse and worse"
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ウンザリ顔の商人
 「王さんの体調がいよいよいかんらしいとなって
 　貴族はん達はもう後継者争いを始めはっとる
 　らしいでっせ」
@@ -2217,6 +2399,7 @@ have steadly started to get worse and worse"
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ウンザリ顔の商人
 「気の早いこっちゃ。
 　王太子はんが生きてはったら、
 　大騒ぎする事もなかったんでしょうけどなぁ」
@@ -2228,6 +2411,7 @@ have steadly started to get worse and worse"
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ウンザリ顔の商人
 「まぁそんな事はどうでもええ。
 　問題はちっとでも勢力を広げようと
 　色んな貴族が滅茶苦茶やっとる言う事や」
@@ -2239,6 +2423,7 @@ have steadly started to get worse and worse"
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ウンザリ顔の商人
 「治安を維持すべき人間が率先して治安乱しとる。
 　ビジネスチャンスやけど、今の都は危険やでー」
 # TRANSLATION 
@@ -2246,29 +2431,31 @@ have steadly started to get worse and worse"
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+甲冑の男
 「数多の若者が英雄を夢見て旅に出る」
 # TRANSLATION 
-"Lots of young people go out on journies to
-follow their dream of becoming heroes."
-# END STRING
 
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「自分の力量の程々鑑みもせずにな。\!
-　全く愚かだ･･･、いや愚かだったよ･･････」
-# TRANSLATION 
-"Even without thinking about their physical
-strength.\!
-"Jesus they're stupid.. no they're morons.."
 # END STRING
 
 # TEXT STRING
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+甲冑の男
+「自分の力量の程々鑑みもせずにな。\!
+　全く愚かだ…、いや愚かだったよ……」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+甲冑の男
 「人生とは果てしない階段のようなものだ」
 # TRANSLATION 
 
@@ -2278,6 +2465,7 @@ strength.\!
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+甲冑の男
 「一段上っても、またすぐに次の段差がある」
 # TRANSLATION 
 
@@ -2287,6 +2475,7 @@ strength.\!
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+甲冑の男
 「上っても上っても、段差は延々と続く…」
 # TRANSLATION 
 
@@ -2296,6 +2485,7 @@ strength.\!
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+甲冑の男
 「だが自分達の目指している階段の頂点が
 　どうなっているのか
 　誰か考えてみた事はあるのか…」
@@ -2307,6 +2497,7 @@ strength.\!
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+甲冑の男
 「皆、そこは今よりいい場所だと
 　信じているようだが…」
 # TRANSLATION 
@@ -2317,6 +2508,7 @@ strength.\!
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+甲冑の男
 「私は、そこは意外とつまらない場所なんじゃ
 　ないのかなと、そう思うよ」
 # TRANSLATION 
@@ -2327,6 +2519,7 @@ strength.\!
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+甲冑の男
 「さっさと階段から降りてしまうのも
 　また一つの道じゃないだろうか…？」
 # TRANSLATION 
@@ -2334,41 +2527,745 @@ strength.\!
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+コブシ系の女
 「その身なり、君も武道家か？」
 # TRANSLATION 
-"Judging from your apperance you're a
-martial artist?"
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+コブシ系の女
 「ならいくつか特技を覚えているだろう」
 # TRANSLATION 
-"So you know lots of skills I guess."
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+コブシ系の女
 「我々武道家にとって『構え』は生命線だ。
 　構えを取る事で純粋に戦闘力がアップするし」
 # TRANSLATION 
-"When it comes to use martial artists, style
-is our life line. With style our battle skill
-increases to the point of being pure."
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+コブシ系の女
+「それぞれの構えの特徴を把握して使い分ければ
+　様々な状況に対応できる」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+コブシ系の女
+「ただし構えは、一旦とると走れなくなるから
+　使いどころは見極めなくてはならない」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+コブシ系の女
+「片っ端からモンスターを撃退するつもりならば
+　自然体の素早さを生かすべきだろう」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+コブシ系の女
+「特技は、誰かに師事することで習得できる。
+　相手が金を要求するか、なにを条件とするかは知らんが
+　物好きを探してみるのもいいだろう」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+コブシ系の女
+「ふむ…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+コブシ系の女
+「その身なり、君も武術大会に出るつもりか？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+コブシ系の女
+「なら我々はライバルという事になるな」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+コブシ系の女
+「今度の大会は、在野の無名兵法者から
+　人材を拾い上げる目的で行われるらしい」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+コブシ系の女
+「例え優勝できなくとも、いい戦いぶりを
+　見せれば、仕官の声がかからんとも
+　限らんわけだ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+コブシ系の女
+「だから、例えどんなに絶望的な相手に
+　当たったとしても、負けるまで
+　精一杯頑張ったほうがいいぞ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+コブシ系の女
+「私か？私は当然優勝する。
+　今のは君へのアドバイスだ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+乗客の女
+「おばあちゃんしっかり！あともう少しよ！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+乗客の女
+「おぶ…うぶぶぶ…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+乗客の女
+「吐きそう…死ぬ…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+乗客の老婆
+「うぐえぇー」
+# TRANSLATION 
+
 # END STRING
 
 # TEXT STRING
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「それぞれの構えの特徴を把握して使い分ければ
-　様々な状況に対応できる」
+老人が気持ち悪そうにしている。
 # TRANSLATION 
-"If you understand how to use a style then
-you can respond to various situations."
+The old person is carrying some bad feelings.
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+乗客の老婆
+「わしゃもう……絶対に……乗らんぞ……こんな
+　も……うぐええええ……」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+乗客の老婆
+「降ろして……降ろしてくれ……」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+乗客の老婆
+「ほら！しっかりおし！
+　なさけない子だねー！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+警備兵
+「はっ！異常なしであります！\!…ってか？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+警備兵
+「あーあ、馬列車の警備担当って、
+　そりゃあモンスター相手に走り回ったりしない分は
+　楽なのかもしれないけどさ～…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+警備兵
+「こんな寝台もない貨物列車、三等以下だよ。
+　一等・二等の名士列車にゃ、
+　食堂や社交場もあるっていうのに」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+警備兵
+「ま、荷駄の見張り役には分相応ってことなのかね」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+警備兵
+「ん？なんだい？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+警備兵
+「んーそうだね…、
+　都までならあと三日ってところかな」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「いえ、その、
+　都じゃなくってその途中にある…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+警備兵
+「あー、あの街かぁ。
+　ええっと。さっきあの湖畔を通ったから
+　……んー」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+警備兵
+「んー、んー、駄目だ。わからない。\.\.
+　ごめんね、実は本官ここに配属されたばかりで
+　まだ慣れていないんだ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+警備兵
+「後列の車両にいる先輩なら道案内とかも
+　わかると思うんだけどね。
+　……悪いね、力になれなくて」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+警備兵
+「聞きたい事があればなんでも聞いてくれ。
+　何といっても暇なんだ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+警備兵
+「んーそうだね…、
+　都までならあと二日ってところかな」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「なるほど。
+　ありがとう警備員さん」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+警備兵
+「どういたしまして」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+商人風の女性
+「私のような零細商人は、馬列車で荷物を運ぶ場合
+　自分も一緒に乗り込みます」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+商人風の女性
+「荷物が盗まれないか見張っていないと心配なのです」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+商人風の女性
+「いつか私ももっと上のランクの馬列車に荷物を預けて
+　自分は悠々と店で荷物の到着を待つような身分に
+　なりたいものです」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+商人風の女性
+「信頼できる銀行がなくなってしまいました…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+商人風の女性
+「大金を持ち歩くのは危険すぎますし、
+　不便で仕方ありません」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+商人風の女性
+「聖ケサギリ騎士団は確かに評判は
+　よくありませんでしたが」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+商人風の女性
+「異端の罪などというのが騎士団の資産を
+　没収する為のでっち上げである事など
+　誰の目にも明らかです」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+商人風の女性
+「騎士団を潰す事で国の資産は
+　一時潤ったかもしれませんが、
+　金融機関が消滅した影響は…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+商人風の女性
+「長期的には、国全体の経済活動にとって
+　大損害をもたらすと思います」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+大柄な男
+「はー…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+大柄な男
+「傭兵としてよ…あちこち戦場まわってたんだが、
+　右手が動かなくなっちまってよ…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+大柄な男
+「そしたらあっけなくクビを切られちまった」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+大柄な男
+「大見得きって家をおんでて来た手前、
+　頭を低くして帰るわけにもいかねえし、都に行って
+　乞食するしかねえの、かなあ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+大柄な男
+「あんたぁ、最近流行りの冒険者かい？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「そ、そのつもりですけど…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+大柄な男
+「ま、せいぜい後悔のないようにな…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+大柄な男
+「なんでも都にはでっけえ傭兵団が
+　いくつもあるそうだ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+大柄な男
+「なんで都に傭兵団がそんなにいくつも
+　あるのかわかんねえが、とにかく
+　人を集めてるらしい」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+大柄な男
+「かく言う俺も、昔の仲間に誘われてよ。
+　その傭兵団に入りにいくとこなんだよ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+大柄な男
+「へへへ、戦働きはろくろくできなかったけどよ。
+　今度こそ俺はやるぜ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+乗客の男
+「馬列車が快適だからといって、なにも大陸すべての道
+　が舗装されているわけじゃないよ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+乗客の男
+「大型輸送の需要があがる一方で、
+　列車が運転できない入り組んだ自然の道は
+　昔ながらのほろの馬車がまだまだ活躍してるしね」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+乗客の男
+「馬列車を狙う盗賊ってのも当然いる」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+乗客の男
+「こないだもどっかででっかい魔法使った
+　馬列車強盗が発生したらしくてな」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+乗客の男
+「在野の魔法使いへの風当たりがまた
+　強くなりそうだ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+乗客の男
+「ただでさえ、教会からは余りいい顔されて
+　ないし…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+乗客の男
+「友達が無所属の野良魔法使いやってやがるから、
+　俺としちゃ心配でならんぜ」
+# TRANSLATION 
+
+# END STRING
+
+# UNUSED TRANSLATABLES
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「そんなこと知るか。
+　名声がほしいのは金目的なのか？売女め」
+# TRANSLATION 
+"You think I know that?
+You just want money for reputation huh? Slut."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+（ひゃー、ハーブの香り。
+　私もいよいよ都会デビューかぁ。がんばるぞ～）
+# TRANSLATION 
+(Ahh, the smell of herbs.
+I wonder if it's finally time for 
+my city debut. I'd better do my best.~)
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「私のような零細商人は、馬列車で荷物を運ぶ場合
+　自分も一緒に乗り込みます」
+# TRANSLATION 
+"I'm just a small merchant so I thought
+instead of putting the luggage on the cart I
+took it with me."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「あんた、冒険者志望よね？」
+# TRANSLATION 
+Do you want to be an adventurer?"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「は、はい･･･ありがとうございます･･･」
+# TRANSLATION 
+"Yes... T-thank you..."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「君はそういう風にはならないようにね。人前に出る時
+　は身だしなみをきちんと整えたほうがいい」
+# TRANSLATION 
+"You don't turn out like that too alright.
+It's better if you get yourself dressed to
+go out in front of people"
 # END STRING
 
 # TEXT STRING
@@ -2388,152 +3285,87 @@ naturally ready."
 # END STRING
 
 # TEXT STRING
-# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「特技は、誰かに師事することで習得できる。
-　相手が金を要求するか、なにを条件とするかは知らんが
-　物好きを探してみるのもいいだろう」
+「･･････」
 # TRANSLATION 
-
+(......)
 # END STRING
 
 # TEXT STRING
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「ふむ･･･」
+「孕まされてからじゃ遅いからね。
+　特にモンスターの子供なんて・・・」
 # TRANSLATION 
-"Hmph..."
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「その身なり、君も武術大会に出るつもりか？」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「なら我々はライバルという事になるな」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「今度の大会は、在野の無名兵法者から
-　人材を拾い上げる目的で行われるらしい」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「例え優勝できなくとも、いい戦いぶりを
-　見せれば、仕官の声がかからんとも
-　限らんわけだ」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「だから、例えどんなに絶望的な相手に
-　当たったとしても、負けるまで
-　精一杯頑張ったほうがいいぞ」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「私か？私は当然優勝する。
-　今のは君へのアドバイスだ」
-# TRANSLATION 
-
+"If you become pregnant then it's
+already too late, especially if it's a
+monster kid..."
 # END STRING
 
 # TEXT STRING
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「おばあちゃんしっかり！あともう少しよ！」
+「ふん、驚いたか？\!
+　こんなボロ馬列車の警備員も長いことやってるとな、\.
+　知りたくもない新米冒険者お決まりの思考というヤツ
+　にも詳しくなってしまうのだ」
 # TRANSLATION 
-"Old lady do your best! Just a little more!"
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「おぶ…うぶぶぶ…」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「吐きそう…死ぬ…」
-# TRANSLATION 
-
+"Hmph, surprised?\!
+I've been working on this broken down horse train 
+for a long time and I don't even want to know 
+where people get the idea to become adventurers.
 # END STRING
 
 # TEXT STRING
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「うぐえぇー」
+「30頭建て10両編成都行き！
+　ボロのトロくさの最安価貨物馬列車！
+　荷物と一緒に揺られ揺られて馬鹿アホ間抜けが今日も
+　行く～ってな」
 # TRANSLATION 
-"Uwaaa-"
+"With 30 horses, organized 
+in you can go to the metroplis! This is where
+the cheapest most scummy people go! 
+The freight cart! We shake and shake like 
+idiots with the luggage, we're going again today~"
 # END STRING
 
 # TEXT STRING
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-老人が気持ち悪そうにしている。
+（ん？ここから車両の屋根に上がれそうね･･･）
 # TRANSLATION 
-The old person is carrying some bad feelings.
+(Hm? It looks like I can get on the roof
+from here...)
 # END STRING
 
 # TEXT STRING
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「わしゃもう・・・絶対に・・・乗らんぞ・・・こんな
-　も・・・うぐええええ・・・」
+「あいたっ」
 # TRANSLATION 
-"I'll definitely...won't beable to ride
-this nghhh!...."
+"Ah!"
 # END STRING
 
 # TEXT STRING
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「降ろして・・・降ろしてくれ・・・」
+「ああ、馬鹿が馬鹿なりに考えたところで、
+　どうせ･･･とは思ってたが、まあどうでもいい」
 # TRANSLATION 
-"Let me off... let me off..."
+"Aah, if you think about it being an idiot
+is all about... oh I thought of something
+but never mind."
 # END STRING
 
 # TEXT STRING
-# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「ほら！しっかりおし！
-　なさけない子だねー！」
+（もしかして、貴重品の類かしら？）
 # TRANSLATION 
-
+(There could be treasure here...)
 # END STRING
 
 # TEXT STRING
@@ -2545,28 +3377,32 @@ this nghhh!...."
 # END STRING
 
 # TEXT STRING
-# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「あーあ、馬列車の警備担当って、
-　そりゃあモンスター相手に走り回ったりしない分は
-　楽なのかもしれないけどさ～･･･」
+（あ、この箱、都行きって書いてあるし）
 # TRANSLATION 
-
+(Ah, it says on this box that 
+it's going to the capital.)
 # END STRING
 
 # TEXT STRING
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「こんな寝台もない貨物列車、三等以下だよ。
-　一等・二等の名士列車にゃ、食堂や社交場もあるって
-　いうのに」
+「終いには子供達にまで手を出すようになって町から
+　叩き出す事になってしまったよ」
 # TRANSLATION 
-"There isn't a bed in this freight car since
-it's the third class. I heard the first 
-and second class are for celebrities 
-so they have their own food court and 
-meeting place." 
+"The final straw was when she starting doing
+it with kids, after that she got kicked out."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「体の安売りはよしなよ！
+　私みてえにいい男の玉を捕まえたけりゃあなぁ～」
+# TRANSLATION 
+"Don't sell your body cheaply!
+You have to catch men with tons of money like me!"
 # END STRING
 
 # TEXT STRING
@@ -2581,41 +3417,145 @@ back to watching the horse load."
 # TEXT STRING
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「ん？なんだい？」
+（ん、んんん？あれ･･･宝箱発見）
 # TRANSLATION 
-"Hm? What do you want?"
+(Hm,hmm? Huh...I found a treasure box.)
 # END STRING
 
 # TEXT STRING
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「んーそうだね･･･、
-　都までならあと三日ってところかな」
+「お嬢ちゃん不用心だなあ」
 # TRANSLATION 
-"Hm well...
-I think it's about 3 days until the capital"
+"Miss you're very careless"
 # END STRING
 
 # TEXT STRING
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「いえ、その、
-　都じゃなくってその途中にある･･･」
+「んー？おのぼりさん丸出しの田舎者め。
+　そんな事もわからんのか」
 # TRANSLATION 
-"No um,
-we're still on the way..."
+"Hm? Oh it's just a conutry hick. I don't
+know that either."
 # END STRING
 
 # TEXT STRING
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「あー、あの街かぁ。
-　ええっと。さっきあの湖畔を通ったから
-　･･････んー」
+「大見得きって家をおんでて来た手前、
+　頭を低くして帰るわけにもいかねえし、都に行って
+　乞食するしかねえの、かなあ」
 # TRANSLATION 
-"Ah, that town?
-Uhh, well we just passed that lake...
-uhmm...."
+"I came here because after coming home
+and finding my house in ruins I had no
+choice but coming here poor."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「ダメだ。俺もうだめ。しにたい」
+# TRANSLATION 
+"I can't do it, it's done, I want to die."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「年寄り共は、俺たち冒険者の事を悪く言うが
+　実際じゃあこうやる以外に食うあてのない連中は
+　どうすればいいんだよ？」
+# TRANSLATION 
+"The old folks always talk dirty about us
+adventurers, they always say that living
+practically like this leads us to want nothing 
+but do eat and live. What should I do?"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「モンスターのなかには、
+　繁殖の為に人間の女性を襲う者もいます」
+# TRANSLATION 
+"Among the monsters there are beasts 
+that attack women to try to multiply"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「やるならこっそりやりたまえ」
+# TRANSLATION 
+"But if you wanna do it then do it in secret"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「ふん、なにか言いたげな顔が戻ってきたな･･･。
+　ぬかしてみろ」
+# TRANSLATION 
+"Hmph, you've come back looking like you
+want to ask another question... hurry up and
+say it"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「馬列車は便利だからそれでいいじゃねーか。\!
+　国の税金になるもんが、戦争の形を変えるシロモノに
+　なるわけねえだろって俺が何度も教えてやってんのに
+　聞きやしねえんだから！」
+# TRANSLATION 
+"The horse train is pretty convenient! It came as
+a result of the country's taxes and changes war
+since you can bring things around more easily!
+No matter how many times I say it I'm still excited!"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「聞きたい事があればなんでも聞いてくれ。
+　何といっても暇なんだ」
+# TRANSLATION 
+"If you have any other questions just ask me
+I'm a little bit free right now."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「荷物が盗まれないか見張っていないと心配なのです」
+# TRANSLATION 
+"I hope it doesn't get 
+stolen when I'm not looking."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「それぞれの構えの特徴を把握して使い分ければ
+　様々な状況に対応できる」
+# TRANSLATION 
+"If you understand how to use a style then
+you can respond to various situations."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「ま、女冒険者ほど割に合わねえ商売もねえからな！
+　五体満足ですっぱり足洗えたのに文句言ってちゃ神様に
+　怒られちゃうぜ！」
+# TRANSLATION 
+"Well I guess it matches for the kind of thing 
+you do as a female adventurer! 
+Since I'm a girl with no defects if I keep 
+complaining then god might get angry!"
 # END STRING
 
 # TEXT STRING
@@ -2634,162 +3574,29 @@ to it."
 # TEXT STRING
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「後列の車両にいる先輩なら道案内とかも
-　わかると思うんだけどね。
-　･･････悪いね、力になれなくて」
+「図星か。そんな調子じゃ都に行っても大成する以前に
+　道ばたで命を落っことすのがオチだぞ」
 # TRANSLATION 
-"If you go to the back of the railroad cars
-my senpai is there who can give you I had I
-think... Sorry about that!"
+"Bullseye huh? If it's like that you'll die
+on the road side before you make a big sucess.
 # END STRING
 
 # TEXT STRING
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「聞きたい事があればなんでも聞いてくれ。
-　何といっても暇なんだ」
+（きっとそうよ！
+　うう～ん、私ってば頭っいい～～）
 # TRANSLATION 
-"If you have any other questions just ask me
-I'm a little bit free right now."
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「んーそうだね･･･、
-　都までならあと二日ってところかな」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「なるほど。
-　ありがとう警備員さん」
-# TRANSLATION 
-
+(Of course!
+I'm such a genius~~)
 # END STRING
 
 # TEXT STRING
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「どういたしまして」
+「あんさんはああいう手合いとはちゃいまっしゃろな？」
 # TRANSLATION 
-"You're welcome"
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「私のような零細商人は、馬列車で荷物を運ぶ場合
-　自分も一緒に乗り込みます」
-# TRANSLATION 
-"I'm just a small merchant so I thought
-instead of putting the luggage on the cart I
-took it with me."
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「荷物が盗まれないか見張っていないと心配なのです」
-# TRANSLATION 
-"I hope it doesn't get 
-stolen when I'm not looking."
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「いつか私ももっと上のランクの馬列車に荷物を預けて
-　自分は悠々と店で荷物の到着を待つような身分になり
-　たいものです」
-# TRANSLATION 
-"Maybe one day when I rank up I can give my
-luggage to the cart while I wait in my shop
-for it to come, that's what I want to be."
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「信頼できる銀行がなくなってしまいました･･･」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「大金を持ち歩くのは危険すぎますし、
-　不便で仕方ありません」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「聖ケサギリ騎士団は確かに評判は
-　よくありませんでしたが」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「異端の罪などというのが騎士団の資産を
-　没収する為のでっち上げである事など
-　誰の目にも明らかです」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「騎士団を潰す事で国の資産は
-　一時潤ったかもしれませんが、
-　金融機関が消滅した影響は･･･」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「長期的には、国全体の経済活動にとって
-　大損害をもたらすと思います」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「はー･･･」
-# TRANSLATION 
-"Sigh..."
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「傭兵としてよ･･･あちこち戦場まわってたんだが、
-　右手が動かなくなっちまってよ･･･」
-# TRANSLATION 
-"As a soldier I went everywhere fighting
-exciting battles but now I can't move my hand."
+"What if you end up dead?"
 # END STRING
 
 # TEXT STRING
@@ -2803,80 +3610,18 @@ exciting battles but now I can't move my hand."
 # TEXT STRING
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「大見得きって家をおんでて来た手前、
-　頭を低くして帰るわけにもいかねえし、都に行って
-　乞食するしかねえの、かなあ」
+「私は不安で堪らないのです」
 # TRANSLATION 
-"I came here because after coming home
-and finding my house in ruins I had no
-choice but coming here poor."
+"I can't stop feeling nervous!"
 # END STRING
 
 # TEXT STRING
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「あんたぁ、最近流行りの冒険者かい？」
+「ったく相棒の心配症ときたら堪らんぜ！」
 # TRANSLATION 
-"You're part of the latest craze of
-adventurers right?"
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「そ、そのつもりですけど･･･」
-# TRANSLATION 
-"Y-yeah..."
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「ま、せいぜい後悔のないようにな･･･」
-# TRANSLATION 
-"Well do it a hundred percent 
-without regretting it."
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「なんでも都にはでっけえ傭兵団が
-　いくつもあるそうだ」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「なんで都に傭兵団がそんなにいくつも
-　あるのかわかんねえが、とにかく
-　人を集めてるらしい」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「かく言う俺も、昔の仲間に誘われてよ。
-　その傭兵団に入りにいくとこなんだよ」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「へへへ、戦働きはろくろくできなかったけどよ。
-　今度こそ俺はやるぜ」
-# TRANSLATION 
-
+"Damnit I can't stop worrying about my
+friend's illness!"
 # END STRING
 
 # TEXT STRING
@@ -2893,6 +3638,381 @@ paved roads."
 # TEXT STRING
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+「命に関わる事には金と手間を惜しむな･･･って、
+　冒険者の鉄則だけど、今じゃ私の経験談でもあるわ」
+# TRANSLATION 
+"When it's about life or death don't care 
+about how much money or work it takes, it's an
+unavoidable rule as adventurer but that's 
+just my experience."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「構想の大本は、都の商人ギルドらが
+　モンスターや野盗の類から我が身を守る為に
+　仕方なく始めたものと聞きますが･･･」
+# TRANSLATION 
+"My plan mainly is to protect merchants from
+thieves and monsters but..."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+（やっぱり犯罪はよくないわよねぇ･･･）
+# TRANSLATION 
+(Yeah crimes aren't too good...)
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「どういたしまして」
+# TRANSLATION 
+"You're welcome"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+（金、お金。やっぱりお金よねー）
+# TRANSLATION 
+(Money is money I guess.)
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「傭兵としてよ･･･あちこち戦場まわってたんだが、
+　右手が動かなくなっちまってよ･･･」
+# TRANSLATION 
+"As a soldier I went everywhere fighting
+exciting battles but now I can't move my hand."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「最下級クラスの車室で手足広げて
+　グースカ寝てるなんて、何されても
+　文句は言えないぜ？」
+# TRANSLATION 
+"In the lowest class cart you slept with
+your arms and legs spread wide open. If
+someone did something you wouldn't complain?"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「馬列車のおかげで、人や物の流れは以前とは比べ物に
+　ならないくらい活発になりました」
+# TRANSLATION 
+"I can't believe that thanks to the horse train
+so many people and good have started moving
+all over the place since before"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「今の世、国は乱れに乱れておりますが
+　だからこそ我々の様な何のツテも持たない人間でも
+　腕っ節一つで成り上がれるというもの！」
+# TRANSLATION 
+"There's some disorder going on in the country
+so there's a little loss of people with
+influence and I'll rise to the top with brute
+strength!"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「都ってどんなところなのかしら！ワクワク！」
+# TRANSLATION 
+"I wonder what kind of place the capital
+is! I'm so excited!"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「ふむ･･･」
+# TRANSLATION 
+"Hmph..."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「降ろして・・・降ろしてくれ・・・」
+# TRANSLATION 
+"Let me off... let me off..."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「夢破れて失意のうちに･･･、
+　そんで都のスラムに根ぇ張ってチンピラ生活や」
+# TRANSLATION 
+"After your dream shatters you're just going
+to end up living in that city in a slum."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「もし馬列車が武器密輸につかわれてたなら、俺りゃあ
+　裸で都を一周してやんよ。わははは！！」
+# TRANSLATION 
+"If they're using the horse train to smuggling
+weapons then I'll run around the capital naked.
+Hahaha!"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「私の前いた町には有名な美人の露出狂女がいたんだ」
+# TRANSLATION 
+"In my old city there was a beautiful girl
+who was an exhibisionist."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「中絶にいい顔しない人たちもいっぱいいるしね。
+　口約束も信用のできない所ではなおさらよ」
+# TRANSLATION 
+"There's lots of people who 
+frown on abortion. But it can't be 
+helped if I can't make a promise."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「数多の若者が英雄を夢見て旅に出る」
+# TRANSLATION 
+"Lots of young people go out on journies to
+follow their dream of becoming heroes."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「ん、この先は御者席かな？」
+# TRANSLATION 
+"Hm, I wonder if the driver's seat is in here?"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+（腹立つヤツね。
+　都行きの切符なんてそもそも法外すぎて
+　買えないにきまってるじゃない）
+# TRANSLATION 
+(It's an angry man. Looks like
+he realized he didn't have enough money
+to buy the outrageous ticket price in the
+first place.)
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「終わりか？まあいい。
+　もうお前の知りたい事は教えてやっただろう。
+　とっとと俺の前から消えてくれ」
+# TRANSLATION 
+"Hm that's it? Well alright.
+I guess I already answered all 
+your questions so hurry up and disappear."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「もしどこかの国と戦争が起こったなら、
+　それは我々人間が経験した事のない未曾有の規模の
+　大戦争になるのではないかと」
+# TRANSLATION 
+"If a war breaks out in some country, then
+all our experience as people here might
+help escalate it into a huge war."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「あー、あの街かぁ。
+　ええっと。さっきあの湖畔を通ったから
+　･･････んー」
+# TRANSLATION 
+"Ah, that town?
+Uhh, well we just passed that lake...
+uhmm...."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「･･･行ってもいいことはなさそうね」
+# TRANSLATION 
+"It doesn't look like I can get in though..."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「う、恥ずかしい。私の勘違いでありました。
+　申し訳ございません･･･」
+# TRANSLATION 
+"Uh, I'm so embarassed. I made a mistake
+I can't believe it..."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「大方、家出半分に実家を飛び出てきたものの
+　都へ行くには金が足りてない事に途中で気付いて」
+# TRANSLATION 
+"Almost all of them are runaways from home who
+try to get to the city before realizing that
+they don't have enough money."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「じゃあ何の為にそこに立ってるんだ？
+　邪魔だから今すぐその空っぽの頭を横にどけてくれ」
+# TRANSLATION 
+"Hey what are you doing standing there?
+You're annyoing me so move your empty head
+over there."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「力技じゃ、開きそうにないわね」
+# TRANSLATION 
+"It seems like I can't open it up with skill
+or power"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「お前の目的地になら、あと半日もせずに着くわ」
+# TRANSLATION 
+"We still have half a day until we get to
+your destination."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「我々武道家にとって『構え』は生命線だ。
+　構えを取る事で純粋に戦闘力がアップするし」
+# TRANSLATION 
+"When it comes to use martial artists, style
+is our life line. With style our battle skill
+increases to the point of being pure."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「お互い頑張りましょう！うおおおおおおお！！！
+　俺も燃えてきたああああ！！」
+# TRANSLATION 
+"Let's both do our best!! RAUGHHHH!!!
+I'm so pumped up!!!!!"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+･･････じぃ～･････････
+# TRANSLATION 
+....stare.....
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+（･･････）
+# TRANSLATION 
+(......)
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「えっ？！」
+# TRANSLATION 
+"Huh!?"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「おいおい今、君が乗ってるこの乗り物の事だぜ！」
+# TRANSLATION 
+"Hey hey, right now you're riding it!"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「おばあちゃんしっかり！あともう少しよ！」
+# TRANSLATION 
+"Old lady do your best! Just a little more!"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「そのくせに俺たち、下の世代には飢え死にしようが
+　何しようが馬車馬のように働けとこきやがる。
+　クソくらえだぜっ」
+# TRANSLATION 
+"Even so, our younger generation is starving
+to death maybe I should start working
+with the horse train... damnit."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「あう･･･」
+# TRANSLATION 
+"Ah..."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+号外だろうか･･･
+落書きで埋め尽くされていて読む事ができない
+# TRANSLATION 
+A newspaper extra huh...
+It's totally covered with graffiti so I
+can't read it.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
 「大型輸送の需要があがる一方で、
 　列車が運転できない入り組んだ自然の道は
 　昔ながらのほろの馬車がまだまだ活躍してるしね」
@@ -2904,50 +4024,612 @@ back then though."
 # END STRING
 
 # TEXT STRING
-# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「馬列車を狙う盗賊ってのも当然いる」
+「かー、まいったね。このスカートってのはどうも
+　スカスカして落ち着かねえや」
 # TRANSLATION 
-
+"Ahh, I'm beat. It's really hard to calm down
+with this skirt on"
 # END STRING
 
 # TEXT STRING
-# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「こないだもどっかででっかい魔法使った
-　馬列車強盗が発生したらしくてな」
+「おおおおおおお。やはり！
+　田舎に籠っていても仕様がありませぬものね！
+　やはり若者は夢に向かって雄飛せねば！！」
 # TRANSLATION 
-
+"Yes!!!!
+Even though I lived out in the country there
+was a way! I'm going to set my sights on a
+young man's dream!"
 # END STRING
 
 # TEXT STRING
-# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「在野の魔法使いへの風当たりがまた
-　強くなりそうだ」
+「いえ、その、
+　都じゃなくってその途中にある･･･」
 # TRANSLATION 
-
+"No um,
+we're still on the way..."
 # END STRING
 
 # TEXT STRING
-# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「ただでさえ、教会からは余りいい顔されて
-　ないし…」
+「んーそうだね･･･、
+　都までならあと三日ってところかな」
 # TRANSLATION 
-
+"Hm well...
+I think it's about 3 days until the capital"
 # END STRING
 
 # TEXT STRING
-# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「友達が無所属の野良魔法使いやってやがるから、
-　俺としちゃ心配でならんぜ」
+「わしゃもう・・・絶対に・・・乗らんぞ・・・こんな
+　も・・・うぐええええ・・・」
 # TRANSLATION 
+"I'll definitely...won't beable to ride
+this nghhh!...."
+# END STRING
 
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「世の中、何が成功するかわからないものです」
+# TRANSLATION 
+"I don't know if I'll suceed doing that in
+this day and age..."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+（んー、いくらなんでも盗みはねぇ･･･）
+# TRANSLATION 
+(Nn... it doesn't matter 
+stealing is a little...)
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「へへっ、あんたも新米冒険者なら人生の先輩から
+　一つ忠告しておくが」
+# TRANSLATION 
+"Hehe, if you're a new adventurer then you
+should heed the advice of your senpai."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「この国をこんなにしちまったのはてめえらだろうが」
+# TRANSLATION 
+"What this country has turned into is all
+your fault!"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+いやいやいや･･･$d
+# TRANSLATION 
+No no no...$d
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+よし、決めた。
+# TRANSLATION 
+Okay, I've got it.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+体を跳ね上げられてななこは目がさめた
+# TRANSLATION 
+Nanako woke up because of the sudden jolt.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「わはは！そりゃそうだ！」
+# TRANSLATION 
+"Waha! Is that so!"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「世の中悪い奴ばっかりなんだ。
+　どんな時でも気を許しちゃいけないよ」
+# TRANSLATION 
+"In this time there's nothing but bad people,
+you have to keep your guard up at all times"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「ぐっ･･･」
+# TRANSLATION 
+"Nhg..."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「私？私は・・・しくじっちゃってね。\!
+　今から中絶に行くとこ。
+　噂じゃ、都に腕のいい医者がいるってんでね」
+# TRANSLATION 
+"Hm? What about me? I... kinda screwed up.\!
+I'm going to this place to have an abortion.
+I've heard that in the capital there's
+some good doctors."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「・・・何か？」
+# TRANSLATION 
+"...huh?"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「田舎から都へのぼって行くお前みたいなどうでもいい
+　人間は数限りなく見てきたが、それで上手く行った奴
+　の話なんて聞いた事もない」
+# TRANSLATION 
+"I guess it doesn't matter if you ride 
+from the country to the capital looking like 
+that but there's no point in saying that scum 
+like you will make it out there"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+（･････････）
+# TRANSLATION 
+(......)
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+（おっとと、貨物車両に侵入したのがバレたら
+　なにを疑われても現行犯よね）
+# TRANSLATION 
+(Ah! I don't want to get caught 
+breaking both of these freight cars.)
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「自分の力量の程々鑑みもせずにな。\!
+　全く愚かだ･･･、いや愚かだったよ･･････」
+# TRANSLATION 
+"Even without thinking about their physical
+strength.\!
+"Jesus they're stupid.. no they're morons.."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+（ふふ。臨機応変、いち冒険者たるもの
+　自分の道は自分で切りひらくのが基本よね）
+# TRANSLATION 
+(Fufu, taking it as it comes is the staple
+of a great adventurer isn't it? It's the
+best way to expand your limits.)
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+無論、人生はそんなに甘くなく、
+ななこは検査官によって身柄を拘束され、しかるべき
+措置をとられることとなりましたとさ･･･
+# TRANSLATION 
+Of course, life isn't that sweet,
+Nanako was discovered and restrained by
+an inspector and the proper steps were
+taken against her.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「もし裸にされてしまったら、急いで逃げた方が
+　身のためです」
+# TRANSLATION 
+"If you ever become naked hurry and run
+away to protect your body."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「避妊薬は毎日飲みなさい」
+# TRANSLATION 
+"You'd better take your birth pills everyday."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「馬列車って何か知ってるかい？」
+# TRANSLATION 
+Do you know anything about the horse train?
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「運悪く追いつかれて組みしかれてしまった場合でも、
+　諦めずに方向キーを連打すればなんとか逃れられるかも
+　しれません」
+# TRANSLATION 
+"If they catch up with you don't give up
+and press the movement key as fast as you
+can to get away."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「こんな寝台もない貨物列車、三等以下だよ。
+　一等・二等の名士列車にゃ、食堂や社交場もあるって
+　いうのに」
+# TRANSLATION 
+"There isn't a bed in this freight car since
+it's the third class. I heard the first 
+and second class are for celebrities 
+so they have their own food court and 
+meeting place."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+（荷台の箱に隠れて、数日我慢してれば
+　いちいち街で途中下車しなくても
+　都まで最短距離、一直線じゃない？）
+# TRANSLATION 
+(It's a lot better to hide in this box
+then to endure lots of stops from city
+to city. The shortest route to the
+capital is a short line isn't it?)
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「馬列車が実用化されてから早10年、
+　いまだ戦争に使われた事はありませんが」
+# TRANSLATION 
+"The horse train has already been 
+implemented for 10 years, so far they 
+haven't used it at all in war but,"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「あんたぁ、最近流行りの冒険者かい？」
+# TRANSLATION 
+"You're part of the latest craze of
+adventurers right?"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「はー･･･」
+# TRANSLATION 
+"Sigh..."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「うぐえぇー」
+# TRANSLATION 
+"Uwaaa-"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+（この車両、警備隊の共同部屋なのかぁ。
+　お客は雑魚寝なのに、･･････）
+# TRANSLATION 
+(This cart is where all the guards get together.
+Even though all of us are sleeping together...)
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「いつか私ももっと上のランクの馬列車に荷物を預けて
+　自分は悠々と店で荷物の到着を待つような身分になり
+　たいものです」
+# TRANSLATION 
+"Maybe one day when I rank up I can give my
+luggage to the cart while I wait in my shop
+for it to come, that's what I want to be."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「仕事上、危ない目にも遭うだろうし
+　場合によっては体を使う必要があるかもしれない」
+# TRANSLATION 
+"In your line of work you might have some
+bad encounters and in those situations you
+might have to use your body to get out of it."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「安全な旅も考え物ですな。
+　ここ数年は特にもう治安の悪化に歯止めがかからんゆ
+　うて、上から下から行政は大変な騒ぎですわ」
+# TRANSLATION 
+"You have to think about the safety of your
+journey aswell. In the recent years here things
+have steadly started to get worse and worse"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「金を得る方法なんていくらでもあるだろうに」
+# TRANSLATION 
+"It doesn't matter how much money I earn
+as long as I earn it"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「近年、都の大事業の馬列車のおかげで
+　ずいぶん地方への交通の便がようなった思たら
+　ああいうノータリンのアホが大挙して都になだれ込み
+　やがりましてなぁー」
+# TRANSLATION 
+"In the recent years thanks to the huge 
+business of the horse train I thought that 
+lots of morons might start rushing in here."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「そ、そのつもりですけど･･･」
+# TRANSLATION 
+"Y-yeah..."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「ならいくつか特技を覚えているだろう」
+# TRANSLATION 
+"So you know lots of skills I guess."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「最初はただそれだけで町の男共も喜んでたんだが、
+　彼女の行為はどんどんエスカレートしていってね･･･」
+# TRANSLATION 
+"At first she just used to amuse the city's
+men but slowly her actions escalated..."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「ま、せいぜい後悔のないようにな･･･」
+# TRANSLATION 
+"Well do it a hundred percent 
+without regretting it."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「はい？」
+# TRANSLATION 
+"Huh?"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「奴らの服を剥ぎ取る攻撃には気をつけてください」
+# TRANSLATION 
+"They have an attack that melts off your
+clothes so be careful"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「さっさと田舎に戻るんだな」
+# TRANSLATION 
+"Hurry up and go back to the country!"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「かくも大量の人間や物資を次から次へと好きな場所に
+　送りこめる馬列車がある現在」
+# TRANSLATION 
+"So many people and goods are being taken 
+from their chosen place to place."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「この先の街で一旦降りて適当に冒険者でもやりつつ、
+　切符代の駄賃を稼ごうという魂胆だろう」
+# TRANSLATION 
+"At the previous city some adventures got off to
+do their work but I think it was mainly just
+to pay off the ticket price."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「悪い事は言わん。家に帰ったほうがいいぞ。\!
+　みじめな現実に覆われてからじゃ遅いんだからな」
+# TRANSLATION 
+"I won't say anything bad but just go home.
+It's too late for your miserable reality to
+uncovered."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「前の車両から来はりましたな。ほなあのアホな冒険者
+　志望のガキにも話かけられましたやろ？」
+# TRANSLATION 
+"You came from that previous cart. Did you
+tell your other idiot adventurer friends about
+their childish dream?"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「後列の車両にいる先輩なら道案内とかも
+　わかると思うんだけどね。
+　･･････悪いね、力になれなくて」
+# TRANSLATION 
+"If you go to the back of the railroad cars
+my senpai is there who can give you I had I
+think... Sorry about that!"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「聞きたい情報は聞きだせたんだろう？
+　だったら、さっさと自分の物置に戻ったらどうだ？」
+# TRANSLATION 
+"Hm? You didn't come here to ask about
+anything? Then how about you hurry up and go
+back to you storeroom?"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「どんなに苦しくても、最後まで絶対に絶対に、
+　諦めては駄目ですよ」
+# TRANSLATION 
+"No matter how painful it is you have to keep
+pushing forward"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+目的地までの道のりはあとどれくらいだろう・・・
+# TRANSLATION 
+I wonder how long we have left until my
+destinatation...
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「ゴミはやはりゴミ溜めに集まる害虫だな」
+# TRANSLATION 
+"Trash is trash I guess, collecting flies
+and smelling like shit"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「大冒険を始める前に冒険終了になってもしかたないし
+　命知らずなことは控えとこ」
+# TRANSLATION 
+"It would suck if my great adventure ended before
+it even began, I should hold back on doing anything
+too reckless."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+（しめしめ。いいこと思いついたわ･･･）
+# TRANSLATION 
+(Hehe. I thought of such a good idea.)
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+（うーん･･･）
+# TRANSLATION 
+(uuun...)
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「だー畜生！この馬列車って奴ぁ全く！
+　ケツが痛くなって仕方ねえぜ！」
+# TRANSLATION 
+"Damnit! I'm fed up with this train's servants
+my ass hurts damnit!'
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「ん？なんだい？」
+# TRANSLATION 
+"Hm? What do you want?"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+（どうしよっかなぁ～･･･）
+# TRANSLATION 
+(What should I do~...)
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「その身なり、君も武道家か？」
+# TRANSLATION 
+"Judging from your apperance you're a
+martial artist?"
 # END STRING

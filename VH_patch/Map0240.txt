@@ -1220,8 +1220,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-デバック娘1
-「ここのイベントの説明用デバック娘です
+デバッグ娘1
+「ここのイベントの説明用デバッグ娘です
 　どのくらい説明をうけますか？」
 # TRANSLATION 
 
@@ -1892,9 +1892,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-デバック娘
-「デバックツール開くのがめんどくさい、
-　そんな貴方のためのデバック娘です」
+デバッグ娘
+「デバッグツール開くのがめんどくさい、
+　そんな貴方のためのデバッグ娘です」
 # TRANSLATION 
 
 # END STRING

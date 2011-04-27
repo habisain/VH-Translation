@@ -3,7 +3,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\N[1]
+\N[0]
 「こっ…今度こそ…勝つ」
 # TRANSLATION 
 
@@ -13,7 +13,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\N[1]
+\N[0]
 （それとも…
 　私は他の何かを期待して…来たの…？）
 # TRANSLATION 
@@ -24,7 +24,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\N[1]
+\N[0]
 （ミノタウロスの…あの、臭い精液を……）
 # TRANSLATION 
 
@@ -34,7 +34,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\N[1]
+\N[0]
 （いやだ！私なに考えてるの！？）
 # TRANSLATION 
 
@@ -44,7 +44,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\N[1]
+\N[0]
 「……っ」
 # TRANSLATION 
 
@@ -54,7 +54,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\N[1]
+\N[0]
 「こ…この前の怨み！
 　晴らさせてもらうわ！」
 # TRANSLATION 
@@ -65,7 +65,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\N[1]
+\N[0]
 「えっ？」
 # TRANSLATION 
 
@@ -75,7 +75,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\N[1]
+\N[0]
 「に、二匹もいるだなんて聞いてないっ！」
 # TRANSLATION 
 
@@ -85,7 +85,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\N[1]
+\N[0]
 「…けど、捕まっている人達がいる以上
 　逃げる訳にもいかないわよね」
 # TRANSLATION 
@@ -96,7 +96,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\N[1]
+\N[0]
 「いいわ、かかってきなさい！」
 # TRANSLATION 
 
@@ -106,7 +106,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\N[1]
+\N[0]
 「よし、これで依頼達成ね！」
 # TRANSLATION 
 
@@ -116,7 +116,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\N[1]
+\N[0]
 「さて、後は捕まってる人たちを探さなきゃ」
 # TRANSLATION 
 

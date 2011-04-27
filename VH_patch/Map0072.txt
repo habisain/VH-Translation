@@ -1,9 +1,0 @@
-# RPGMAKER TRANS PATCH FILE VERSION 2.0
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-阿片でトランス状態
-# TRANSLATION 
-
-# END STRING

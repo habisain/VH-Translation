@@ -54,6 +54,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ななこ
 「この女の子見たことない？
 　サラっていう娘なんだけど」
 # TRANSLATION 
@@ -84,6 +85,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ななこ
 「知っているの？」
 # TRANSLATION 
 
@@ -104,6 +106,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ななこ
 「どういう事よ」
 # TRANSLATION 
 
@@ -125,6 +128,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ななこ
 「傭兵団の事？」
 # TRANSLATION 
 
@@ -146,6 +150,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ななこ
 「げっ」
 # TRANSLATION 
 
@@ -165,6 +170,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ななこ
 「…………」
 # TRANSLATION 
 
@@ -185,6 +191,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ななこ
 「え？　私の他にも誰か来たの？」
 # TRANSLATION 
 
@@ -196,8 +203,8 @@
 # ADVICE : 49 char limit (35 if face)
 マスター
 「あぁ。\!
-　とんでもなく場違いな人がな。\!
-　支配人に用だとか言っていたが……」
+　ちっちぇえ癖にやけに
+　偉そうなガキがな」
 # TRANSLATION 
 
 # END STRING
@@ -206,6 +213,18 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+マスター
+「支配人に用だとか
+　言っていたが……」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
 「んー、誰なのかしら」
 # TRANSLATION 
 
@@ -237,6 +256,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ななこ
 「娼婦？」
 # TRANSLATION 
 

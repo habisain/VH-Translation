@@ -25,7 +25,7 @@
 # ADVICE : 49 char limit (35 if face)
 アシュリー
 「そっちじゃないですよ
-　ななこさんっ」
+　\N[0]さんっ」
 # TRANSLATION 
 
 # END STRING
@@ -45,7 +45,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「ここが…脱出口…
 　なんですか？」
 # TRANSLATION 
@@ -58,7 +58,7 @@
 # ADVICE : 49 char limit (35 if face)
 アシュリー
 「はい。さ、時間がありません
-　ななこさん中へ」
+　\N[0]さん中へ」
 # TRANSLATION 
 
 # END STRING
@@ -67,8 +67,19 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「あ、は、はい」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+盗賊
+「ヤロウ！
+　いやがった！！　侵入者だっ！！！」
 # TRANSLATION 
 
 # END STRING

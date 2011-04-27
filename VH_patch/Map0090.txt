@@ -1,81 +1,76 @@
 # RPGMAKER TRANS PATCH FILE VERSION 2.0
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-？？？
+母子の声
 「お母さん、もっとおちんちん吸って」
 # TRANSLATION 
-？？？
-"More. . 
-Keep violating mom even more!"
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-？？？
-「はいはい、んちゅ･･･美味し･･･」
+母子の声
+「はいはい、んちゅ…美味し…」
 # TRANSLATION 
-？？？
-"Yes... Yes... More...
-Ahh good... "
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 セフィリア
-「あっ、あん、あらっ？ななこちゃん
+「あっ、あん、あらっ？\N[0]ちゃん
 　ちょうどいいところに」
 # TRANSLATION 
-Cefilia
-"Ahh... Ahh... Huh?
-Nanako-chan?
-You came at a good time!"
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\C[07]\>\N[01]\<\C[0]
-「あ･･･お取り込み中だったかな」
+\N[0]
+「あ…お取り込み中だったかな」
 # TRANSLATION 
-\C[07]\>\N[01]\<\C[0]
-"Oh... I though you where busy..."
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 セフィリア
 「いいのよ、気にしないで
-　それよりも･･･」
+　それよりも…」
 # TRANSLATION 
-Cefilia
-"Don`t worry about that...
-Instead..."
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+セフィリア
 「この子達ったらホントすごい性欲で
-　私一人じゃ同時に相手できなくて･･･」
+　私一人じゃ同時に相手できなくて…」
 # TRANSLATION 
-"There kids really take the cake. . 
-Their so good at having sex. . 
-That I`m not enough to please
-Them both!"
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+セフィリア
 「よかったらまた『子守』を
 　お願いしてもいいかしら？」
 # TRANSLATION 
-"If it`s ok, can i ask you to
-do some more baby sitting again?"
+
 # END STRING
 
 # TEXT STRING
@@ -91,7 +86,7 @@ do some more baby sitting again?"
 # UNTRANSLATED
 # CONTEXT : Dialogue/Choice
 # ADVICE : 49 char limit
-\>今日はちょっと･･･
+\>今日はちょっと…
 # TRANSLATION 
 
 # END STRING
@@ -122,16 +117,14 @@ insides I never get tired."
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\C[07]\>\N[01]\<\C[0]
-「あんっはぁん、お姉ちゃんとお母さん
-　どっちが気持ちいい？」
+\N[0]
+「あんっはぁん、お姉ちゃんと
+　お母さんどっちが気持ちいい？」
 # TRANSLATION 
-\C[07]\>\N[01]\<\C[0]
-"Aaahhh... Oooh...
-between mom and big sis. . 
-Which feels better?"
+
 # END STRING
 
 # TEXT STRING
@@ -145,16 +138,14 @@ Elder Brother
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\C[07]\>\N[01]\<\C[0]
+\N[0]
 「じゃお母さんとどっちが
 　先にイかせるのか競争しようか」
 # TRANSLATION 
-\C[07]\>\N[01]\<\C[0]
-Then... let`s do this...
-The first one to finish inside
-is the best one!
+
 # END STRING
 
 # TEXT STRING
@@ -198,16 +189,14 @@ I`m going to go all out!"
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\C[07]\>\N[01]\<\C[0]
+\N[0]
 「はぁん、あん、臨むところよ！
 　ああん、こっちもいくわよ！」
 # TRANSLATION 
-\C[07]\>\N[01]\<\C[0]
-"Haaa. . Aahh. . Ahh!. . 
-Just as i want it, Ahh Aaah!. . 
-I`m going to make you feel good!"
+
 # END STRING
 
 # TEXT STRING
@@ -246,27 +235,24 @@ Elder Brother
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\C[07]\>\N[01]\<\C[0]
+\N[0]
 「うふふ、いつまで我慢できるかな」
 # TRANSLATION 
-\C[07]\>\N[01]\<\C[0]
-"Fufuf. . For how long can you
-endure it? fufu"
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 セフィリア
-「ななこちゃんやるわね･･･
+「\N[0]ちゃんやるわね…
 　仕方ないわ　前立腺にスイッチオン！」
 # TRANSLATION 
-Cefilia
-"Nanako-chan, Your good...
-Seems i have to go all out
-to beat you!"
+
 # END STRING
 
 # TEXT STRING
@@ -281,13 +267,13 @@ I`m cumming! I`m cumming..."
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\C[07]\>\N[01]\<\C[0]
+\N[0]
 「え、そんな、あっ」
 # TRANSLATION 
-\C[07]\>\N[01]\<\C[0]
-"Eeeh! No way!.. Ahhh!"
+
 # END STRING
 
 # TEXT STRING
@@ -301,34 +287,35 @@ Elder Brother
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\C[07]\>\N[01]\<\C[0]
+\N[0]
 「おなかの中がいっぱい…
 　赤ちゃんが溺れちゃう」
 # TRANSLATION 
-\C[07]\>\N[01]\<\C[0]
-Ahh! My insides are beeing filled!
-The baby`s going to drown. . 
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「ああ…負けちゃった…」
 # TRANSLATION 
-"Ahh... I... I lost..."
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「でも
 　三回勝負だからまだ負けてないわよ！」
 # TRANSLATION 
-"But 
-since it`s 3 way game. .
-I wont lose anymore!"
+
 # END STRING
 
 # TEXT STRING
@@ -342,13 +329,13 @@ Cefilia
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 兄＆弟
-「「うわあああああ」」
+「うわあああああ」
 # TRANSLATION 
-Brothers
-"Uwaah! Aah ,, Ooh, ,oooh,,, haa!"
+
 # END STRING
 
 # TEXT STRING
@@ -389,14 +376,13 @@ Can`t hold it no more. . "
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\C[07]\>\N[01]\<\C[0]
+\N[0]
 「うそ！そんなところに入っちゃうの！？」
 # TRANSLATION 
-\C[07]\>\N[01]\<\C[0]
-No way! You`re letting him inside
-your womb!?
+
 # END STRING
 
 # TEXT STRING
@@ -426,43 +412,33 @@ times do you want to conceive mama"
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\C[07]\>\N[01]\<\C[0]
-「ああ･･･負けちゃった･･･」
-# TRANSLATION 
-\C[07]\>\N[01]\<\C[0]
-"Aahhh... I lost..."
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-\C[07]\>\N[01]\<\C[0]
+\N[0]
 「気持ちよかった、また来ようっと」
 # TRANSLATION 
-\C[07]\>\N[01]\<\C[0]
-"That was good. . 
-I`ll come again later"
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 セフィリア
-「そう･･･残念･･･んっ」
+「そう…残念…んっ」
 # TRANSLATION 
-Cefilia
-"Is that so? 
-That`s a shame..."
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+セフィリア
 「またおいでね」
 # TRANSLATION 
-"Now... sleeping should be possible..."
+
 # END STRING
 
 # TEXT STRING
@@ -477,21 +453,20 @@ Keep violating mom even more!"
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 セフィリア
-「はいはい、んちゅ･･･美味し･･･」
+「はいはい、んちゅ…美味し…」
 # TRANSLATION 
-Cefilia
-"Yes... Yes... More...
-Ahh good... "
+
 # END STRING
 
 # TEXT STRING
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\C[07]\>\N[01]\<\C[0]
+\N[0]
 「相変わらずですね」
 # TRANSLATION 
 
@@ -530,11 +505,384 @@ Baby-sitting fee 10G was obtained.
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-（おやすみ…
+\N[0]
+（おやすみ…）
 # TRANSLATION 
-(Good night...)
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+（もうだめ…
+　ガマンなんてできないわ…）
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「あっ……」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+（なんだか…
+　いつもより凄く感じちゃう）
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「ん…っ！ぁ……はぁ…っ！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「\N[25]……
+\>　　 \<\.\N[26]……
+\>　　　　\<\.\N[27]……」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「イイぃ…もう、ちょっと……」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「んん！アぁ！
+　も、イクっ！イっちゃうぅぅ！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「あぁ！はぁはぁっはぁ…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「はぁ…はぁ…ふぅ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+（これでなんとか眠れるかな……）
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「ンーー…よく眠れた！」
+# TRANSLATION 
+
+# END STRING
+
+# UNUSED TRANSLATABLES
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\C[07]\>\N[01]\<\C[0]
+「え、そんな、あっ」
+# TRANSLATION 
+\C[07]\>\N[01]\<\C[0]
+"Eeeh! No way!.. Ahhh!"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+兄＆弟
+「「うわあああああ」」
+# TRANSLATION 
+Brothers
+"Uwaah! Aah ,, Ooh, ,oooh,,, haa!"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+あぁ！はぁはぁっはぁ…
+# TRANSLATION 
+Haa... haaa... Ahahahaaaa,
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\C[07]\>\N[01]\<\C[0]
+「気持ちよかった、また来ようっと」
+# TRANSLATION 
+\C[07]\>\N[01]\<\C[0]
+"That was good. . 
+I`ll come again later"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「ん…っ！ぁ……はぁ…っ！」
+# TRANSLATION 
+"Ahhh... Haaa... Aaah..."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+？？？
+「はいはい、んちゅ･･･美味し･･･」
+# TRANSLATION 
+？？？
+"Yes... Yes... More...
+Ahh good... "
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「ああ…負けちゃった…」
+# TRANSLATION 
+"Ahh... I... I lost..."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+？？？
+「お母さん、もっとおちんちん吸って」
+# TRANSLATION 
+？？？
+"More. . 
+Keep violating mom even more!"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\C[07]\>\N[01]\<\C[0]
+「あんっはぁん、お姉ちゃんとお母さん
+　どっちが気持ちいい？」
+# TRANSLATION 
+\C[07]\>\N[01]\<\C[0]
+"Aaahhh... Oooh...
+between mom and big sis. . 
+Which feels better?"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+セフィリア
+「ななこちゃんやるわね･･･
+　仕方ないわ　前立腺にスイッチオン！」
+# TRANSLATION 
+Cefilia
+"Nanako-chan, Your good...
+Seems i have to go all out
+to beat you!"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「またおいでね」
+# TRANSLATION 
+"Now... sleeping should be possible..."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+セフィリア
+「あっ、あん、あらっ？ななこちゃん
+　ちょうどいいところに」
+# TRANSLATION 
+Cefilia
+"Ahh... Ahh... Huh?
+Nanako-chan?
+You came at a good time!"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+イイぃ…もう、ちょっと……
+# TRANSLATION 
+Ahh... Just... a little... more...
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\C[07]\>\N[01]\<\C[0]
+「じゃお母さんとどっちが
+　先にイかせるのか競争しようか」
+# TRANSLATION 
+\C[07]\>\N[01]\<\C[0]
+Then... let`s do this...
+The first one to finish inside
+is the best one!
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\C[07]\>\N[01]\<\C[0]
+「はぁん、あん、臨むところよ！
+　ああん、こっちもいくわよ！」
+# TRANSLATION 
+\C[07]\>\N[01]\<\C[0]
+"Haaa. . Aahh. . Ahh!. . 
+Just as i want it, Ahh Aaah!. . 
+I`m going to make you feel good!"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\C[07]\>\N[01]\<\C[0]
+「ンーー…よく眠れた！
+# TRANSLATION 
+\C[07]\>\N[01]\<\C[0]
+"Awww! I slept so well!"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+(なんだか･･･いつもより凄く感じちゃう)
+# TRANSLATION 
+(Ahh... this feels so much better
+then last time...)
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+セフィリア
+「はいはい、んちゅ･･･美味し･･･」
+# TRANSLATION 
+Cefilia
+"Yes... Yes... More...
+Ahh good... "
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\C[07]\>\N[01]\<\C[0]
+「うふふ、いつまで我慢できるかな」
+# TRANSLATION 
+\C[07]\>\N[01]\<\C[0]
+"Fufuf. . For how long can you
+endure it? fufu"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+はぁ…はぁ…ふぅ
+# TRANSLATION 
+Haa... Haa... fuu...
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\C[07]\>\N[01]\<\C[0]
+「ああ･･･負けちゃった･･･」
+# TRANSLATION 
+\C[07]\>\N[01]\<\C[0]
+"Aahhh... I lost..."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\C[07]\>\N[01]\<\C[0]
+「あ･･･お取り込み中だったかな」
+# TRANSLATION 
+\C[07]\>\N[01]\<\C[0]
+"Oh... I though you where busy..."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+（これでなんとか眠れるかな……
+# TRANSLATION 
+(Now i should be able to sleep...)
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「あっ……
+# TRANSLATION 
+"Ahh..."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「この子達ったらホントすごい性欲で
+　私一人じゃ同時に相手できなくて･･･」
+# TRANSLATION 
+"There kids really take the cake. . 
+Their so good at having sex. . 
+That I`m not enough to please
+Them both!"
 # END STRING
 
 # TEXT STRING
@@ -550,43 +898,64 @@ I`m too aroused to sleep...)
 # TEXT STRING
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「あっ……
+\C[07]\>\N[01]\<\C[0]
+「うそ！そんなところに入っちゃうの！？」
 # TRANSLATION 
-"Ahh..."
+\C[07]\>\N[01]\<\C[0]
+No way! You`re letting him inside
+your womb!?
 # END STRING
 
 # TEXT STRING
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-(なんだか･･･いつもより凄く感じちゃう)
+「よかったらまた『子守』を
+　お願いしてもいいかしら？」
 # TRANSLATION 
-(Ahh... this feels so much better
-then last time...)
+"If it`s ok, can i ask you to
+do some more baby sitting again?"
 # END STRING
 
 # TEXT STRING
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「ん…っ！ぁ……はぁ…っ！」
+セフィリア
+「そう･･･残念･･･んっ」
 # TRANSLATION 
-"Ahhh... Haaa... Aaah..."
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-\N[25]……\N[26]……\N[27]……
-# TRANSLATION 
-
+Cefilia
+"Is that so? 
+That`s a shame..."
 # END STRING
 
 # TEXT STRING
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-イイぃ…もう、ちょっと……
+「でも
+　三回勝負だからまだ負けてないわよ！」
 # TRANSLATION 
-Ahh... Just... a little... more...
+"But 
+since it`s 3 way game. .
+I wont lose anymore!"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\C[07]\>\N[01]\<\C[0]
+「おなかの中がいっぱい…
+　赤ちゃんが溺れちゃう」
+# TRANSLATION 
+\C[07]\>\N[01]\<\C[0]
+Ahh! My insides are beeing filled!
+The baby`s going to drown. .
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+（おやすみ…
+# TRANSLATION 
+(Good night...)
 # END STRING
 
 # TEXT STRING
@@ -602,33 +971,11 @@ Aaaaaaah!!
 # TEXT STRING
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-あぁ！はぁはぁっはぁ…
+セフィリア
+「いいのよ、気にしないで
+　それよりも･･･」
 # TRANSLATION 
-Haa... haaa... Ahahahaaaa,
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-はぁ…はぁ…ふぅ
-# TRANSLATION 
-Haa... Haa... fuu...
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-（これでなんとか眠れるかな……
-# TRANSLATION 
-(Now i should be able to sleep...)
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-\C[07]\>\N[01]\<\C[0]
-「ンーー…よく眠れた！
-# TRANSLATION 
-\C[07]\>\N[01]\<\C[0]
-"Awww! I slept so well!"
+Cefilia
+"Don`t worry about that...
+Instead..."
 # END STRING

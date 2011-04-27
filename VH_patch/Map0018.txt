@@ -20,7 +20,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\>・・・・\<なあ、一つ提案なんだけどよ
+宿屋の主人
+\>「…………\<なあ、一つ提案なんだけどよ」
 # TRANSLATION 
 
 # END STRING
@@ -30,7 +31,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 ななこ
-なに？改まって
+「なに？改まって」
 # TRANSLATION 
 
 # END STRING
@@ -39,37 +40,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-あー、\!その、\!やっぱり、
-その腹のは俺の子・・・\|なんだよな？
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ななこ
-そうよ。心当たりがない訳ないでしょ？
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-オホン、オホン。\|だよな
-\|じゃあ、言うぞ？
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-おれと\.\>一緒になってくれ！\<
+宿屋の主人
+「あー、\!その、\!やっぱり、
+　その腹のは俺の子……\|なんだよな？」
 # TRANSLATION 
 
 # END STRING
@@ -79,7 +52,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 ななこ
-え、ええぇぇぇーーーー！！？
+「そうよ。心当たりがない訳ないでしょ？」
 # TRANSLATION 
 
 # END STRING
@@ -88,10 +61,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-なあ、たのむよ俺いまやおまえにベタ惚れなんだって。そりゃあ最初の
-頃は、小娘丸め込んでセフレゲットｗｗｗとか思ってたけどよ、いつも
-やってるうちにだんだんとおまえにのめり込んでっちまってたんだって
-もうこんなの初めてだからこんな風にしか言えねえけどよ。とにかく\^
+宿屋の主人
+「オホン、オホン。\|だよな
+　\|じゃあ、言うぞ？」
 # TRANSLATION 
 
 # END STRING
@@ -100,7 +72,51 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-好きだ！\|結婚してくれええええええ！！
+宿屋の主人
+「おれと\.\>一緒になってくれ！」\<
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「え、ええぇぇぇーーーー！！？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+なあ、たのむよ俺いまやおまえにベタ惚れなんだって。
+そりゃあ最初の頃は、小娘丸め込んでセフレゲットｗｗ
+ｗとか思ってたけどよ、いつもやってるうちにだんだん
+とおまえにのめり込んでっちまってたんだってもうこん\^
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+なの初めてだからこんな風にしか言えねえけどよ。
+
+\>　　　　　　　　　\<とにかく
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+宿屋の主人
+「好きだ！\|結婚してくれええええええ！！」
 # TRANSLATION 
 
 # END STRING
@@ -219,7 +235,8 @@ FIN
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-う…そうか……
+宿屋の主人
+「う…そうか……」
 # TRANSLATION 
 
 # END STRING
@@ -229,8 +246,9 @@ FIN
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 ななこ
-うん・・・ごめんなさい
-いきなりだったから、ちょっと考えさせて
+「うん……ごめんなさい
+　いきなりだったから、
+　ちょっと考えさせて」
 # TRANSLATION 
 
 # END STRING
@@ -239,35 +257,8 @@ FIN
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-じゃあ、せめてその考えてる間は
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ななこ
-ちょ、ちょっと落ち着いて・・・
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-あばばばばばばばばばばばばば\^
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-その子を、俺に引き取らせてくれ…
+宿屋の主人
+「じゃあ、せめてその考えてる間は」
 # TRANSLATION 
 
 # END STRING
@@ -277,7 +268,7 @@ FIN
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 ななこ
-あ・・・
+「ちょ、ちょっと落ち着いて……」
 # TRANSLATION 
 
 # END STRING
@@ -286,9 +277,8 @@ FIN
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-おまえは冒険者だ
-とてもその子を連れてやっていけるわけがねえ\!
-それはおまえもわかってんだろ？
+宿屋の主人
+「あばばばばばばばばばばばばば」\^
 # TRANSLATION 
 
 # END STRING
@@ -297,49 +287,8 @@ FIN
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
-それは・・・
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-\>ななこ
-それは・・・\<(あの子のことは黙ってよ…)
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-なにも、もう会うなって言ってるんじゃない
-いつでも会いに来てくれ\!
-だが、その子は俺が引き取る。判ってくれ
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ななこ
-うん・・・
-# TRANSLATION 
-Nanako
-Yes...
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ななこ
-じゃあ・・\.　\^
+宿屋の主人
+「その子を、俺に引き取らせてくれ…」
 # TRANSLATION 
 
 # END STRING
@@ -349,7 +298,19 @@ Yes...
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 ななこ
-んん…んっ？
+「あ……」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+宿屋の主人
+「おまえは冒険者だ
+　とてもその子を連れてやっていけるわけがねえ\!
+　それはおまえもわかってんだろ？」
 # TRANSLATION 
 
 # END STRING
@@ -359,7 +320,30 @@ Yes...
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 ななこ
-うぎっ！
+「それは……」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\>ななこ\<
+\>「それは……」\<
+（あの子のことは黙ってよ…）
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+宿屋の主人
+「なにも、もう会うなって言ってるんじゃない
+　いつでも会いに来てくれ\!
+　だが、その子は俺が引き取る。判ってくれ」
 # TRANSLATION 
 
 # END STRING
@@ -369,16 +353,7 @@ Yes...
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 ななこ
-あぎぃいっ！
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-お、おい！？
+「うん……」
 # TRANSLATION 
 
 # END STRING
@@ -388,16 +363,7 @@ Yes...
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 ななこ
-これ…陣痛…？
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-な、なんだってぇーーー！？
+「じゃあ…」\.　\^
 # TRANSLATION 
 
 # END STRING
@@ -407,7 +373,7 @@ Yes...
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 ななこ
-あぐ…うぅううっ！
+「んん…んっ？」
 # TRANSLATION 
 
 # END STRING
@@ -417,7 +383,7 @@ Yes...
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 ななこ
-あっ…いやっ…水が…
+「うぎっ！」
 # TRANSLATION 
 
 # END STRING
@@ -427,7 +393,7 @@ Yes...
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 ななこ
-うぅ…
+「あぎぃいっ！」
 # TRANSLATION 
 
 # END STRING
@@ -436,7 +402,8 @@ Yes...
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-お、\|　\^
+宿屋の主人
+「お、おい！？」
 # TRANSLATION 
 
 # END STRING
@@ -445,7 +412,8 @@ Yes...
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\>お、\<お前ら\.手伝えーーー！！
+ななこ
+「これ…陣痛…？」
 # TRANSLATION 
 
 # END STRING
@@ -454,19 +422,83 @@ Yes...
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「\N[25]……\N[26]……\N[27]……」
+宿屋の主人
+「な、なんだってぇーーー！？」
 # TRANSLATION 
 
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ななこ
+「あぐ…うぅううっ！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「あっ…いやっ…水が…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「うぅ…」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+宿屋の主人
+「お、\|　\^
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\>宿屋の主人\<
+\>「お、\<お前ら\.手伝えーーー！！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「\N[25]……
+\>　　 \<\.\N[26]……
+\>　　　　\<\.\N[27]……」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+宿屋の主人
 「やっぱり若ぇ娘は締まりが違うな！
 　そろそろ出ちまいそうだ」
 # TRANSLATION 
-"Young girls are the best after all!
-At this rate I`m going to come."
+
 # END STRING
 
 # TEXT STRING
@@ -497,173 +529,183 @@ At this rate I`m going to come."
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+宿屋の主人
 「おっ、出そうだって言った瞬間から
 　膣内が吸い付いてギュウギュウ締め
 　つけてくるぜ。へへっ、期待してんだな？」
 # TRANSLATION 
-"Oh, You've tightened up since I said 
-I was going to come. 
-Hehehe, do you want it?"
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「うん、奥に出されるって思ったら、
 　凄く疼いちゃった……。
 　赤ちゃんもきっと喜んでる……」
 # TRANSLATION 
-"Yes, thinking about you coming
-inside has made me hot... 
-The baby will like it... "
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+宿屋の主人
 「見かけによらず本当にスケベなんだな。
 　なら、お望みどおり腹ん中の赤ん坊が
 　溺れちまうくらいたっぷりと出してやるぜ」
 # TRANSLATION 
-"You're very wanton despite your appearance.
-I'm going to come so much that the baby  
-in your belly drowns."
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「うん、子宮に出されるって思ったら、
 　凄く疼いちゃった……。
 　だから奥の奥に一杯ちょうだい……」
 # TRANSLATION 
-"Yes, thinking about you coming
-inside has made me so hot... 
-So come inside... "
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+宿屋の主人
 「見かけによらず本当にスケベなんだな。
 　なら、お望みどおり一発で孕んじまう
 　くらいたっぷりと出してやるぜ」
 # TRANSLATION 
-"You're very wanton despite your
-appearance. I'm going to come so much 
-that you will get pregnant."
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「あん、あ、はぁ……
 　いいよ、そのまま中でイっても……」
 # TRANSLATION 
-"Ah, oh, hah... 
-It is good inside... "
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+宿屋の主人
 「へへ、なら遠慮なく出させてもらうとするか」
 # TRANSLATION 
-"Hehe, then I assume it is fine
-to come inside without reserve."
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「アァッ、イイよ、気持ちイイッ
 　もっと深く、もっと激しく交尾して♪」
 # TRANSLATION 
-"It's going harder and deeper,
-It feels good.♪"
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「アッ、アッ、ハァッ、こんな、
 　激しいの、アンッ、凄いよ……」
 # TRANSLATION 
-"Hah, Hah, Hah... 
-It is going harder and better."
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+宿屋の主人
 「くぅっ、出る！」
 # TRANSLATION 
-"I'm coming!"
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「あぁすごい…奥に熱いのが一杯
 　絡み付いて……」
 # TRANSLATION 
-"It's wonderful... 
-It feels so hot and full inside."
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 （ほんとに出されちゃった……
-　ぁん、でもお腹がジンとして
-　気持ちいいかも……）
+　ぁん、でもお腹が
+　ジンとして気持ちいいかも……）
 # TRANSLATION 
-(He really came inside... 
-It feels good, but I shouldn't
-have let him.)
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「かけて……私の顔に、熱いの
 　いっぱいかけて……」
 # TRANSLATION 
-"I want you to come... 
-All over my face... "
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「ん、ぁ、中はダメ……外に、
 　はぁん、出して……」
 # TRANSLATION 
-"Hah, hah, you can't come inside... 
-Come outside... "
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+宿屋の主人
 「よし、ならその肌を
 　俺ので真っ白にしてやる」
 # TRANSLATION 
-"Then I'll make your
-skin pure white."
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+宿屋の主人
 「もうっイきそうだ。こっちを向きな！
 　顔にぶっかけてやるぜ！」
 # TRANSLATION 
-"I'm going to come... 
-Face this way!
-I'm going to come all over your face!"
+
 # END STRING
 
 # TEXT STRING
@@ -694,44 +736,363 @@ I'm going to come all over your face!"
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+宿屋の主人
 「でるぞ！　うぉぉ、喰らえ！！」
 # TRANSLATION 
-"I'm coming!
-Here it is!"
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「あはぁ……、熱い……。
 　匂いも凄くて……クラクラしそう…」
 # TRANSLATION 
-"Hah... . hah... ..
-The smell is so wonderful... 
-It's making me dizzy... "
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「きゃぁっ、嘘、こんなに出るなんて。
 　体、ドロドロになっちゃうよ……」
 # TRANSLATION 
-"You came so much.
-My body is dirty... "
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+宿屋の主人
+「ほら、口を開けてもっと
+　舌を突き出しな！　ウォォ、イクッ！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+（味も匂いも量も凄く濃い……舌の上で
+　ゼリーみたいにプルプルしてる……）
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+宿屋の主人
+「うほぉ、自分から吸い付いてくるたぁ、
+　なんてエロい女なんだ。
+　そんなに俺のが欲しいのかぁ？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+宿屋の主人
+「そのまま先っぽを吸い上げて……
+　そうだ、いいぞ！　そのまま一滴
+　残さず飲めよ！」
+# TRANSLATION 
+
 # END STRING
 
 # TEXT STRING
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「ほら、口を開けてもっと舌を突き出しな！
-　ウォォ、イクッ！」
+ン……ゴクッ……ゴクッ……
 # TRANSLATION 
-"Open your mouth and stick
-out your tongue!
-I'm Coming!"
+"Ah... . Mmm... . Mmm... ."
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「――ッハァ。なんて濃いの……喉に
+　熱いのが絡みついて火傷しちゃいそう」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「…………」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「ヒィッ、アァッ、アッ、アッン
+　は、激しすぎ……アゥンッ！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「あ…赤ちゃんが…驚いちゃう…！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+宿屋の主人
+「そんなこと言っても腰がしっかりと
+　吸い付いてきてるぜ。遠慮せずに
+　そのままイッちまいな！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「アァン！
+　だめ、もう、イッちゃ……！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+宿屋の主人
+「イくぞ、このまま、うぉぉ……」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「はぁぁ……
+　もうホントに出しちゃうなんて……」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「お腹に赤ちゃんがいるって事
+　考えて欲しいわ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+宿屋の主人
+「へっ、何言ってんだ。
+　最後の一滴を出し終わるまで嫌がりもせずに
+　ピッチリ腰を押し付けてたじゃねぇか」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+宿屋の主人
+「へへ、たっぷり出たぜ。
+　でも、まだ終わりじゃないぞ。
+　夜はまだまだ長いんだからな……」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「ふふっ。いいよ、何回でもちょうだい。
+　私と赤ちゃんのこと
+　一晩中好きにして……」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「ふふっ。いいよ、何回でもちょうだい。
+　私のこと一晩中好きにして……」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「きゃっ、アッ、だめよそんな
+　すぐになんて、まだ、ハァンッ、
+　敏感になりすぎちゃってるのに」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+宿屋の主人
+「昨夜はお互い楽しんだよなぁ。
+　思わずヤリすぎちまって、
+　まだ先っぽがヒリヒリしてるよ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+宿屋の主人
+「お嬢ちゃんならいつでもタダで泊めてやるぜ。
+　もちろん、俺の部屋にな」
+# TRANSLATION 
+
+# END STRING
+
+# UNUSED TRANSLATABLES
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「きゃっ、アッ、だめよそんなすぐ
+　になんて、まだ、ハァンッ、敏感
+　になりすぎちゃってるのに」
+# TRANSLATION 
+"So soon, I'm not ready
+yet, I'm too sensitive."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「あん、あ、はぁ……
+　いいよ、そのまま中でイっても……」
+# TRANSLATION 
+"Ah, oh, hah... 
+It is good inside... "
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「昨夜はお互い楽しんだよなぁ。
+　思わずヤリすぎちまって、
+　まだ先っぽがヒリヒリしてるよ。」
+# TRANSLATION 
+"Last night was certainly fun.
+I may have had too much fun,
+I'm a little sore."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「ふふっ。いいよ、何回でもちょうだい。
+　私と赤ちゃんのこと一晩中好きにして……」
+# TRANSLATION 
+"Hehe. I like it, do it with me
+more. Do it with me and the
+baby all night long... "
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「よし、ならその肌を
+　俺ので真っ白にしてやる」
+# TRANSLATION 
+"Then I'll make your
+skin pure white."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「うん、奥に出されるって思ったら、
+　凄く疼いちゃった……。
+　赤ちゃんもきっと喜んでる……」
+# TRANSLATION 
+"Yes, thinking about you coming
+inside has made me hot... 
+The baby will like it... "
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「はぁぁ……
+　もうホントに出しちゃうなんて……」
+# TRANSLATION 
+"Haa... .
+He came inside... "
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「アッ、アッ、ハァッ、こんな、
+　激しいの、アンッ、凄いよ……」
+# TRANSLATION 
+"Hah, Hah, Hah... 
+It is going harder and better."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「くぅっ、出る！」
+# TRANSLATION 
+"I'm coming!"
 # END STRING
 
 # TEXT STRING
@@ -749,32 +1110,34 @@ It wobbles like jelly on my tongue.)
 # TEXT STRING
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「うほぉ、自分から吸い付いてくるたぁ、
-　なんてエロい女なんだ。
-　そんなに俺のが欲しいのかぁ？」
+「もうっイきそうだ。こっちを向きな！
+　顔にぶっかけてやるぜ！」
 # TRANSLATION 
-"You're swallowing my cum, you are such
-a sexy woman. Do you want it that much?"
+"I'm going to come... 
+Face this way!
+I'm going to come all over your face!"
 # END STRING
 
 # TEXT STRING
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「そのまま先っぽを吸い上げて……
-　そうだ、いいぞ！　そのまま一滴
-　残さず飲めよ！」
+「おっ、出そうだって言った瞬間から
+　膣内が吸い付いてギュウギュウ締め
+　つけてくるぜ。へへっ、期待してんだな？」
 # TRANSLATION 
-"Suck on it more... 
-It feels so good! Drink it
-all, every single drop!"
+"Oh, You've tightened up since I said 
+I was going to come. 
+Hehehe, do you want it?"
 # END STRING
 
 # TEXT STRING
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ン……ゴクッ……ゴクッ……
+「ん、ぁ、中はダメ……外に、
+　はぁん、出して……」
 # TRANSLATION 
-"Ah... . Mmm... . Mmm... ."
+"Hah, hah, you can't come inside... 
+Come outside... "
 # END STRING
 
 # TEXT STRING
@@ -790,27 +1153,12 @@ down my throat burning hot."
 # TEXT STRING
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「…………」
+「あはぁ……、熱い……。
+　匂いも凄くて……クラクラしそう…」
 # TRANSLATION 
-"..."
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「ヒィッ、アァッ、アッ、アッン
-　は、激しすぎ……アゥンッ！」
-# TRANSLATION 
-"Ah, hah, hah, hah
-It's too intense...  Ah!"
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「あ…赤ちゃんが…驚いちゃう…！」
-# TRANSLATION 
-"The baby is kicking... !"
+"Hah... . hah... ..
+The smell is so wonderful... 
+It's making me dizzy... "
 # END STRING
 
 # TEXT STRING
@@ -828,10 +1176,165 @@ I'm going to come without reserve!"
 # TEXT STRING
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「アァン！　だめ、もう、イッちゃ……！」
+「ほら、口を開けてもっと舌を突き出しな！
+　ウォォ、イクッ！」
 # TRANSLATION 
-"Ah! It's no use, I'm
-coming already... ..!"
+"Open your mouth and stick
+out your tongue!
+I'm Coming!"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+うん・・・
+# TRANSLATION 
+Nanako
+Yes...
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「うほぉ、自分から吸い付いてくるたぁ、
+　なんてエロい女なんだ。
+　そんなに俺のが欲しいのかぁ？」
+# TRANSLATION 
+"You're swallowing my cum, you are such
+a sexy woman. Do you want it that much?"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+（ほんとに出されちゃった……
+　ぁん、でもお腹がジンとして
+　気持ちいいかも……）
+# TRANSLATION 
+(He really came inside... 
+It feels good, but I shouldn't
+have let him.)
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「見かけによらず本当にスケベなんだな。
+　なら、お望みどおり腹ん中の赤ん坊が
+　溺れちまうくらいたっぷりと出してやるぜ」
+# TRANSLATION 
+"You're very wanton despite your appearance.
+I'm going to come so much that the baby  
+in your belly drowns."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「きゃぁっ、嘘、こんなに出るなんて。
+　体、ドロドロになっちゃうよ……」
+# TRANSLATION 
+"You came so much.
+My body is dirty... "
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「ふふっ。いいよ、何回でもちょうだい。
+　私のこと一晩中好きにして……」
+# TRANSLATION 
+"Hehe. I like it, do it with me
+more. Do what you want all
+night long... "
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「…………」
+# TRANSLATION 
+"..."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「お嬢ちゃんならいつでもタダで泊めてやるぜ。
+　もちろん、俺の部屋にな。」
+# TRANSLATION 
+"You are free to stay here anytime
+little girl. Of course, in my room
+that is."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「やっぱり若ぇ娘は締まりが違うな！
+　そろそろ出ちまいそうだ」
+# TRANSLATION 
+"Young girls are the best after all!
+At this rate I`m going to come."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「あ…赤ちゃんが…驚いちゃう…！」
+# TRANSLATION 
+"The baby is kicking... !"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「でるぞ！　うぉぉ、喰らえ！！」
+# TRANSLATION 
+"I'm coming!
+Here it is!"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「かけて……私の顔に、熱いの
+　いっぱいかけて……」
+# TRANSLATION 
+"I want you to come... 
+All over my face... "
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「へへ、なら遠慮なく出させてもらうとするか」
+# TRANSLATION 
+"Hehe, then I assume it is fine
+to come inside without reserve."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「そのまま先っぽを吸い上げて……
+　そうだ、いいぞ！　そのまま一滴
+　残さず飲めよ！」
+# TRANSLATION 
+"Suck on it more... 
+It feels so good! Drink it
+all, every single drop!"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「あぁすごい…奥に熱いのが一杯
+　絡み付いて……」
+# TRANSLATION 
+"It's wonderful... 
+It feels so hot and full inside."
 # END STRING
 
 # TEXT STRING
@@ -845,21 +1348,13 @@ coming already... ..!"
 # TEXT STRING
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「はぁぁ……
-　もうホントに出しちゃうなんて……」
+「うん、子宮に出されるって思ったら、
+　凄く疼いちゃった……。
+　だから奥の奥に一杯ちょうだい……」
 # TRANSLATION 
-"Haa... .
-He came inside... "
-# END STRING
-
-# TEXT STRING
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「お腹に赤ちゃんがいるって事
-　考えて欲しいわ」
-# TRANSLATION 
-"I think the baby
-likes it."
+"Yes, thinking about you coming
+inside has made me so hot... 
+So come inside... "
 # END STRING
 
 # TEXT STRING
@@ -888,55 +1383,50 @@ The night is still young... "
 # TEXT STRING
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「ふふっ。いいよ、何回でもちょうだい。
-　私と赤ちゃんのこと一晩中好きにして……」
+「ヒィッ、アァッ、アッ、アッン
+　は、激しすぎ……アゥンッ！」
 # TRANSLATION 
-"Hehe. I like it, do it with me
-more. Do it with me and the
-baby all night long... "
+"Ah, hah, hah, hah
+It's too intense...  Ah!"
 # END STRING
 
 # TEXT STRING
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「ふふっ。いいよ、何回でもちょうだい。
-　私のこと一晩中好きにして……」
+「アァン！　だめ、もう、イッちゃ……！」
 # TRANSLATION 
-"Hehe. I like it, do it with me
-more. Do what you want all
-night long... "
+"Ah! It's no use, I'm
+coming already... ..!"
 # END STRING
 
 # TEXT STRING
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「きゃっ、アッ、だめよそんなすぐ
-　になんて、まだ、ハァンッ、敏感
-　になりすぎちゃってるのに」
+「アァッ、イイよ、気持ちイイッ
+　もっと深く、もっと激しく交尾して♪」
 # TRANSLATION 
-"So soon, I'm not ready
-yet, I'm too sensitive."
+"It's going harder and deeper,
+It feels good.♪"
 # END STRING
 
 # TEXT STRING
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「昨夜はお互い楽しんだよなぁ。
-　思わずヤリすぎちまって、
-　まだ先っぽがヒリヒリしてるよ。」
+「お腹に赤ちゃんがいるって事
+　考えて欲しいわ」
 # TRANSLATION 
-"Last night was certainly fun.
-I may have had too much fun,
-I'm a little sore."
+"I think the baby
+likes it."
 # END STRING
 
 # TEXT STRING
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「お嬢ちゃんならいつでもタダで泊めてやるぜ。
-　もちろん、俺の部屋にな。」
+「見かけによらず本当にスケベなんだな。
+　なら、お望みどおり一発で孕んじまう
+　くらいたっぷりと出してやるぜ」
 # TRANSLATION 
-"You are free to stay here anytime
-little girl. Of course, in my room
-that is."
+"You're very wanton despite your
+appearance. I'm going to come so much 
+that you will get pregnant."
 # END STRING

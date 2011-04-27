@@ -3,7 +3,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-あ！一気に順位上がってる！すごい私！
+\N[0]
+「あ！
+　一気に順位上がってる！すごい私！」
 # TRANSLATION 
 
 # END STRING
@@ -12,7 +14,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-・・・あれ？私以外も皆上がって・・・
+\N[0]
+「……あれ？私以外も皆上がって……」
 # TRANSLATION 
 
 # END STRING
@@ -21,7 +24,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-あっ
+\N[0]
+「あっ」
 # TRANSLATION 
 
 # END STRING
@@ -30,8 +34,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-常次郎さんがいなくなってる・・・
-これって・・・
+\N[0]
+「常次郎さんがいなくなってる……
+　これって……」
 # TRANSLATION 
 
 # END STRING
@@ -40,7 +45,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-・・・
+\N[0]
+「……」
 # TRANSLATION 
 
 # END STRING
@@ -49,7 +55,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ランクに変動はないみたい
+\N[0]
+「ランクに変動はないみたい」
 # TRANSLATION 
 
 # END STRING

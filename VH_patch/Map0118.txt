@@ -12,7 +12,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「あわっと！」
 # TRANSLATION 
 
@@ -22,7 +22,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「見張りか…そりゃいるわよね」
 # TRANSLATION 
 
@@ -32,7 +32,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「一人か…いけるかな？」
 # TRANSLATION 
 
@@ -73,7 +73,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「まず一人…って潜入任務なんだから
 　倒しちゃ不味かったかな？」
 # TRANSLATION 
@@ -84,7 +84,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「まぁいいや、とにかく中へ入りましょ」
 # TRANSLATION 
 

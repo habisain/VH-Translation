@@ -3,7 +3,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「ふぅ･･･。どうやら出口があるみたいね。
+\N[0]
+「ふぅ…。どうやら出口があるみたいね。
 　流れる空気がかわったわ」
 # TRANSLATION 
 
@@ -13,7 +14,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「崩落現場かしら。深入りはやめとこ･･･」
+\N[0]
+「崩落現場かしら。深入りはやめとこ…」
 # TRANSLATION 
 
 # END STRING
@@ -23,7 +25,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 
-　　\N[1]は「１０００Ｇ」を手に入れた！
+　　\N[0]は「１０００Ｇ」を手に入れた！
 # TRANSLATION 
 
 # END STRING

@@ -3,6 +3,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+守備隊歩哨
 「た、隊長ぅ！空から裸賊の女の子がぁ！！」
 # TRANSLATION 
 
@@ -12,6 +13,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+守備隊歩哨
 「なんだー。お姉ちゃん、どっからやってきた？」
 # TRANSLATION 
 
@@ -22,7 +24,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 ゴブリン集落(仮)への入り口までの道、
-デバック・ショートカット
+デバッグ・ショートカット
 # TRANSLATION 
 
 # END STRING
@@ -31,8 +33,10 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-これほどの崖、きちんとした装備でないと
-素肌が傷だらけになっちゃうわね
+\N[0]
+「これほどの崖、
+　きちんとした装備でないと
+　素肌が傷だらけになっちゃうわね」
 # TRANSLATION 
 
 # END STRING
@@ -41,8 +45,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-見張りらしきなのが数匹…、\!
-噂通りこっちの峡谷がくさいわね。
+\N[0]
+「見張りらしきなのが数匹…、\!
+　噂通りこっちの峡谷がくさいわね」
 # TRANSLATION 
 
 # END STRING
@@ -51,7 +56,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-さて、どうしますか･･･
+\N[0]
+「さて、どうしますか…」
 # TRANSLATION 
 
 # END STRING
@@ -78,8 +84,10 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-こいつらの親玉をしめれば、
-ゴブリンどももおとなしくなるのかしら？
+\N[0]
+「こいつらの親玉をしめれば、
+　ゴブリンどもも
+　おとなしくなるのかしら？」
 # TRANSLATION 
 
 # END STRING
@@ -88,7 +96,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-まっ、楽勝よね！？
+\N[0]
+「まっ、楽勝よね！？」
 # TRANSLATION 
 
 # END STRING
@@ -107,8 +116,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-うーん、どうしよう。
-今日は偵察だけでやめておこうかな？
+\N[0]
+「うーん、どうしよう。
+　今日は偵察だけでやめておこうかな？」
 # TRANSLATION 
 
 # END STRING
@@ -117,7 +127,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-またいつでも来られるし。
+\N[0]
+「またいつでも来られるし」
 # TRANSLATION 
 
 # END STRING
@@ -171,7 +182,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「確かこの西があいつらの洞窟のある
 　エリアだったはずだけど…」
 # TRANSLATION 
@@ -216,7 +227,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「うん。それでいこう」
 # TRANSLATION 
 
@@ -257,7 +268,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ななこ
+\N[0]
 「よし、先に進もう」
 # TRANSLATION 
 

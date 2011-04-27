@@ -3,6 +3,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「だいぶ、良くなってきたわね」
 # TRANSLATION 
 
@@ -12,6 +13,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「そろそろ帰りましょうか」
 # TRANSLATION 
 
@@ -21,6 +23,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ゴロツキ
 「よぉ、お嬢ちゃん。
 　こんな夜中にこんな場所をフラフラ
 　歩いてたら危ないぜ」
@@ -32,6 +35,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ゴロツキ
 「親切な俺らが送っていってやろう
 　じゃねぇか」
 # TRANSLATION 
@@ -42,6 +46,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ゴロツキ
 「ついでに楽しくて気持ちいいとこ
 　にも連れて行ってやるぜ、へへへ……」
 # TRANSLATION 
@@ -70,6 +75,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「……そうね、それじゃせっかくだし
 　お言葉に甘えようかしら」
 # TRANSLATION 
@@ -80,6 +86,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ゴロツキ
 「ぐへへ、いいぜそれじゃ先にいきなよ」
 # TRANSLATION 
 
@@ -89,6 +96,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「誰がアンタたちなんかと行くもんか！
 　お断りよ！」
 # TRANSLATION 
@@ -99,6 +107,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ゴロツキ
 「ちっ……大人しく頷いときゃ
 　いいのによぉ……」
 # TRANSLATION 
@@ -109,6 +118,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ゴロツキ
 「めんどくせぇ、それなら力づくで
 　いただくまでだ」
 # TRANSLATION 
@@ -119,6 +129,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「やれやれ、まったく碌な連中じゃ
 　なかったわね」
 # TRANSLATION 
@@ -129,6 +140,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「…………んっ……ふ……」
 # TRANSLATION 
 
@@ -138,6 +150,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ゴロツキ
 「くぅ、また出るぜ！」
 # TRANSLATION 
 
@@ -147,6 +160,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ゴロツキ
 「ふぅ、意識もねぇくせに、
 　これだけやってもまだグイグイ
 　締め付けてきやがる」
@@ -158,6 +172,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ゴロツキ
 「なんてエロい妊婦だ」
 # TRANSLATION 
 
@@ -167,6 +182,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ゴロツキ
 「おい、次は俺だぞ」
 # TRANSLATION 
 
@@ -176,6 +192,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ゴロツキ
 「わかってるよ、そう焦るなって」
 # TRANSLATION 
 
@@ -185,6 +202,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「……ぁっ……ん……」
 # TRANSLATION 
 
@@ -194,6 +212,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ゴロツキ
 「うへっ、ズルズルのドロドロだな」
 # TRANSLATION 
 
@@ -203,6 +222,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ゴロツキ
 「なんだぁ？　文句があるなら
 　とっとと代われよ」
 # TRANSLATION 
@@ -213,6 +233,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ゴロツキ
 「だれも文句なんか言ってねぇよバーカ。
 　お前がやる時はもっとドロドロだぜ」
 # TRANSLATION 
@@ -223,6 +244,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「…………ぅっ……ぁ……」
 # TRANSLATION 
 
@@ -232,6 +254,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ゴロツキ
 「おらぁ！孕みマンコにたっぷりくれてやるぜ！」
 # TRANSLATION 
 
@@ -241,6 +264,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ゴロツキ
 「へへ、俺ので孕ませてやる！」
 # TRANSLATION 
 
@@ -250,6 +274,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ゴロツキ
 「ようやく俺の番か」
 # TRANSLATION 
 
@@ -259,6 +284,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「……………………」
 # TRANSLATION 
 
@@ -268,6 +294,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ゴロツキ
 「うぉぉ、出る！」
 # TRANSLATION 
 
@@ -277,6 +304,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ゴロツキ
 「ふぅう、たっぷり出たぜぇ」
 # TRANSLATION 
 
@@ -286,6 +314,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ゴロツキ
 「なに一息ついてんだ。出したんなら
 　早くどけよ。俺はあと３発は出すつもり
 　なんだからな」
@@ -297,6 +326,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ゴロツキ
 「ちっ、すこしぐらい余韻にひたらせろ
 　っての」
 # TRANSLATION 
@@ -307,6 +337,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「ぁ…………ゃ…………」
 # TRANSLATION 
 
@@ -316,6 +347,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+ゴロツキ
 「おら、もう一発イクぞぉ！」
 # TRANSLATION 
 
@@ -325,6 +357,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「ぅ……」
 # TRANSLATION 
 
@@ -334,6 +367,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「寒い……」
 # TRANSLATION 
 
@@ -343,6 +377,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「あれ、私なんで……？」
 # TRANSLATION 
 
@@ -352,6 +387,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「……そうだ、あのあと倒れて……」
 # TRANSLATION 
 
@@ -361,6 +397,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「ひどい…こんな事…
 　お腹に赤ちゃんがいるのに…」
 # TRANSLATION 
@@ -371,6 +408,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「うぇぇ……ぅぐぅ……ふぅ……」
 # TRANSLATION 
 
@@ -380,7 +418,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「･･･」
+\N[0]
+「…」
 # TRANSLATION 
 
 # END STRING
@@ -389,9 +428,10 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「･･･いつまでもここにじっと
-　していても･･･
-　仕方ない･･･よね･･･」
+\N[0]
+「…いつまでもここにじっと
+　していても…
+　仕方ない…よね…」
 # TRANSLATION 
 
 # END STRING
@@ -400,7 +440,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「いこう･･･」
+\N[0]
+「いこう…」
 # TRANSLATION 
 
 # END STRING
@@ -409,6 +450,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「こんなに出すなんて何人ぐらい居たんだろ。
 　それに凄い濃くて……」
 # TRANSLATION 
@@ -419,6 +461,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「ちょっともったいないなぁ。
 　どうせならちゃんと起きておく
 　べきだったかも」
@@ -430,6 +473,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「こんな風にうち捨てとくなんて、
 　まったく最低の連中ね……」
 # TRANSLATION 
@@ -440,6 +484,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「お腹の赤ちゃんは大丈夫かな…？」
 # TRANSLATION 
 
@@ -449,27 +494,9 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[0]
 「痛い目にあったけど、今回は
 　まぁ授業料としておきましょ」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-開かない。\!
-しかし、中からすすり泣く声が聞こえる・・・
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-「う・・う・・・畜生…ぢぐじょう・・・」
 # TRANSLATION 
 
 # END STRING

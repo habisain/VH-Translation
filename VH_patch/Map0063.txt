@@ -3,9 +3,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ハーレムを解散した事が藩主様の品性の良さとして
-巷で話題になってるけど
-ホントは風俗是正と財政難が原因じゃないのよ
+鏡と地母神像があるが、
+なにかの儀式めいたものを感じる。
 # TRANSLATION 
 
 # END STRING
@@ -14,9 +13,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-巷ではあまり知られて無いけれど
-藩主様は先主様の女好きを受け継いで
-幼年の頃からハーレムに入り浸りだったの
+\N[0]
+「これ、主の趣味かしら？」
 # TRANSLATION 
 
 # END STRING
@@ -25,8 +23,25 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-ところが…
-ある日突然…その…
+鏡に触れてみますか？
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Choice
+# ADVICE : 49 char limit
+はい
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Choice
+# ADVICE : 49 char limit
+いいえ
 # TRANSLATION 
 
 # END STRING
@@ -35,7 +50,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-勃たなくなっちゃったのよ
+広間の鏡はななこの像を映し出している。
+特に何もおかしいことはない。
 # TRANSLATION 
 
 # END STRING
@@ -44,40 +60,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-自分が昂ぶらないのに誘ってくる女達を
-疎ましく思うようになっていったから
-先主の死をきっかけに追放したって噂よ
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ただ御世継ぎを残さないといけないから
-このままって訳にも行かないわよね
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-でも幼年の頃はハーレムの女達を
-次々失神させるほどの性豪だったから
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-御成人なされた今、藩主様が復活したら
-相手の方はきっと大変よ
-ウフフ…
+鏡はまるで怒っているかのように
+ゆらゆら歪んでいる…
 # TRANSLATION 
 
 # END STRING

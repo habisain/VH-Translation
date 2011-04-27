@@ -293,6 +293,26 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+\N[\v[0067]]
+「あれ、嘘？　お金が足りない！？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[\v[0067]]
+「えっと、その、まぁ……」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
 宿屋の女将
 「ん…ああブッチさんかい。
 　一階の奥の部屋だったね。
@@ -1250,15 +1270,6 @@
 ななこ
 「よし、とりあえずメイドさんに
 　相談しに行こう」
-# TRANSLATION 
-
-# END STRING
-
-# TEXT STRING
-# UNTRANSLATED
-# CONTEXT : Dialogue/Message/FaceUnknown
-# ADVICE : 49 char limit (35 if face)
-ここまで
 # TRANSLATION 
 
 # END STRING

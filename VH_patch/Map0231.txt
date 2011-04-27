@@ -4,7 +4,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 
-　　\N[1]は「金塊」を手に入れた！
+　　\N[0]は「金塊」を手に入れた！
 # TRANSLATION 
 
 # END STRING
@@ -14,7 +14,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 
-　\N[1]は「キャットクロー」を手に入れた！
+　\N[0]は「キャットクロー」を手に入れた！
 # TRANSLATION 
 
 # END STRING
