@@ -1,0 +1,3172 @@
+# RPGMAKER TRANS PATCH FILE VERSION 2.0
+# TEXT STRING
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+毒攻撃
+# TRANSLATION 
+Poison Attack
+# END STRING
+
+# TEXT STRING
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+敵単体にダメージを与え、毒状態にする。
+# TRANSLATION 
+Poison attack against a single enemy
+# END STRING
+
+# TEXT STRING
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+の攻撃！
+# TRANSLATION 
+Attack!
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/FailureMessage
+# ADVICE : 49 char limit
+
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+暗闇攻撃
+# TRANSLATION 
+Darkness Attack
+# END STRING
+
+# TEXT STRING
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+敵単体にダメージを与え、暗闇状態にする。
+# TRANSLATION 
+Darkness attack against a single enemy
+# END STRING
+
+# TEXT STRING
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+睡眠攻撃
+# TRANSLATION 
+Sleep Attack
+# END STRING
+
+# TEXT STRING
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+敵単体にダメージを与え、睡眠状態にする。
+# TRANSLATION 
+Sleep attack against a single enemy
+# END STRING
+
+# TEXT STRING
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+麻痺攻撃
+# TRANSLATION 
+Paralysis Attack
+# END STRING
+
+# TEXT STRING
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+敵単体にダメージを与え、麻痺状態にする。
+# TRANSLATION 
+Paralysis attack against a single enemy
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+火炎のブレス
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+敵全体に炎属性のダメージを与える。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+は火炎のブレスを吐いた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+吹雪のブレス
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+敵全体に冷気属性のダメージを与える。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+は吹雪のブレスを吐いた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+電撃
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+敵全体に雷属性のダメージを与える。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+は電撃を放った！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+津波
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+敵全体に水属性のダメージを与える。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+は津波を放った！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+石つぶて
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+敵全体に大地属性のダメージを与える。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+は石つぶてを放った！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+鎌いたち
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+敵全体に風属性のダメージを与える。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+は鎌いたちを放った！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+毒のブレス
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+敵全体を毒状態にする。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+は毒のブレスを吐いた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+眠りのブレス
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+敵全体を睡眠状態にする。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+は眠りのブレスを吐いた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/FailureMessage
+# ADVICE : 49 char limit
+
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+花粉（毒）
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+は花粉をまき散らした！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+花粉（暗闇）
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+敵全体を暗闇状態にする。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+花粉（暴走）
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+敵全体を暴走状態にする。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+花粉（混乱）
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+敵全体を混乱状態にする。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/FailureMessage
+# ADVICE : 49 char limit
+
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+花粉（麻痺）
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+敵全体を麻痺状態にする。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+超音波（暴走）
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+は超音波を放った！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+超音波（混乱）
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+超音波（睡眠）
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+妖しい霧（沈黙）
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+敵全体を沈黙状態にする。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+は妖しい霧を放った！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+妖しい霧（睡眠）
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+沈黙の歌
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+沈黙の歌を歌った！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+子守り歌
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+は子守り歌を歌った！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+誘惑の歌
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+は誘惑の歌を歌った！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+砂けむり
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+は砂けむりを巻き起こした！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+まぶしい光
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はまぶしい光を放った！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+巻き付き
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+は巻き付きで攻撃！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+麻痺にらみ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+敵単体を麻痺状態にする。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+は鋭い目でにらみつけた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+吸血
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+敵単体のＨＰを吸収する。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+の吸血攻撃！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+不気味なダンス
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+敵単体のＭＰを吸収する。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+は不気味なダンスを踊った！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+体当たり
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+敵単体にダメージを与え、バランスを崩させる。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+は体当たりした！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+足払い
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+敵単体のバランスを崩させる。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+は足払いを仕掛けた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+おたけび
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+敵全体を驚かせ、行動できなくする。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はおたけびをあげた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+--------------------
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+ヒールⅠ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+味方単体のＨＰを 30 ポイント程度回復する。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はヒールⅠを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+ヒールⅡ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+味方単体のＨＰを 120 ポイント程度回復する。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はヒールⅡを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+ヒールⅢ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+味方単体のＨＰを 480 ポイント程度回復する。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はヒールⅢを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+リカバーⅠ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+味方全体のＨＰを 20 ポイント程度回復する。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はリカバーⅠを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+リカバーⅡ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+味方全体のＨＰを 80 ポイント程度回復する。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はリカバーⅡを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+リカバーⅢ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+味方全体のＨＰを 320 ポイント程度回復する。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はリカバーⅢを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+キュアーⅠ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+毒状態を回復する。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はキュアーⅠを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+キュアーⅡ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+毒、暗闇、沈黙、睡眠を回復する。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はキュアーⅡを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+キュアーⅢ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+戦闘不能以外の状態異常を回復する。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はキュアーⅢを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+レイズⅠ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+戦闘不能から復活させ、ＨＰを10％回復する。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はレイズⅠを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+レイズⅡ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+戦闘不能から復活させ、ＨＰを50％回復する。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はレイズⅡを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+レイズⅢ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+戦闘不能から復活させ、ＨＰを100％回復する。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はレイズⅢを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+ノックアウト
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+敵全体を一撃で倒す。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はノックアウトを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+ポイズン
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はポイズンを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+ブラインド
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はブラインドを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+サイレンス
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はサイレンスを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+アンガー
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はアンガーを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+コンフューズ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はコンフューズを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+スリープ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はスリープを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+パラライズ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はパラライズを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+ウェポンブレス
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+味方単体の攻撃力を上げる。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はウェポンブレスを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+ウェポンカース
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+敵全体の攻撃力を下げる。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はウェポンカースを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+アーマーブレス
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+味方単体の防御力を上げる。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はアーマーブレスを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+アーマーカース
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+敵全体の防御力を下げる。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はアーマーカースを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+スピリットブレス
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+味方単体の精神力を上げる。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はスピリットブレスを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+スピリットカース
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+敵全体の精神力を下げる。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はスピリットカースを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+クイックムーブ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+味方単体の敏捷性を上げる。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はクイックムーブを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+スロームーブ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+敵全体の敏捷性を下げる。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はスロームーブを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+ヒートバリア
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+味方全体をバリアで包み、炎の攻撃から身を守る。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はヒートバリアを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+コールドバリア
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+味方全体をバリアで包み、冷気の攻撃から身を守る。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はコールドバリアを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+ライフアブソーブ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はライフアブソーブを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+ソウルアブソーブ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はソウルアブソーブを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+テレポート
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+行ったことがある町などに瞬間移動する。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はテレポートを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+エスケープ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+洞窟などの中から外へ脱出する。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はエスケープを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+ファイアⅠ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+敵単体に炎属性のダメージを与える。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はファイアⅠを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+ファイアⅡ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はファイアⅡを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+ファイアⅢ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はファイアⅢを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+フレイムⅠ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はフレイムⅠを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+フレイムⅡ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はフレイムⅡを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+フレイムⅢ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はフレイムⅢを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+アイスⅠ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+敵単体に冷気属性のダメージを与える。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はアイスⅠを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+アイスⅡ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はアイスⅡを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+アイスⅢ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はアイスⅢを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+ブリザードⅠ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はブリザードⅠを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+ブリザードⅡ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はブリザードⅡを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+ブリザードⅢ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はブリザードⅢを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+サンダーⅠ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+敵単体に雷属性のダメージを与える。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はサンダーⅠを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+サンダーⅡ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はサンダーⅡを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+サンダーⅢ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はサンダーⅢを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+スパークⅠ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はスパークⅠを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+スパークⅡ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はスパークⅡを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+スパークⅢ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はスパークⅢを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+ウォーターⅠ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+敵単体に水属性のダメージを与える。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はウォーターⅠを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+ウォーターⅡ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はウォーターⅡを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+ウォーターⅢ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はウォーターⅢを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+ウェーブⅠ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はウェーブⅠを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+ウェーブⅡ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はウェーブⅡを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+ウェーブⅢ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はウェーブⅢを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+ストーンⅠ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+敵単体に大地属性のダメージを与える。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はストーンⅠを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+ストーンⅡ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はストーンⅡを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+ストーンⅢ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はストーンⅢを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+クェイクⅠ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はクェイクⅠを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+クェイクⅡ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はクェイクⅡを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+クェイクⅢ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はクェイクⅢを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+ウィンドⅠ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+敵単体に風属性のダメージを与える。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はウィンドⅠを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+ウィンドⅡ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はウィンドⅡを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+ウィンドⅢ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はウィンドⅢを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+トルネードⅠ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はトルネードⅠを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+トルネードⅡ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はトルネードⅡを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+トルネードⅢ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はトルネードⅢを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+セイントⅠ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+敵単体に神聖属性のダメージを与える。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はセイントⅠを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+セイントⅡ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はセイントⅡを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+セイントⅢ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はセイントⅢを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+スターライトⅠ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+敵全体に神聖属性のダメージを与える。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はスターライトⅠを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+スターライトⅡ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はスターライトⅡを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+スターライトⅢ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はスターライトⅢを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+シェイドⅠ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+敵単体に暗黒属性のダメージを与える。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はシェイドⅠを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+シェイドⅡ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はシェイドⅡを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+シェイドⅢ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はシェイドⅢを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+ダークネスⅠ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+敵全体に暗黒属性のダメージを与える。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はダークネスⅠを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+ダークネスⅡ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はダークネスⅡを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+ダークネスⅢ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はダークネスⅢを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+バーストⅠ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+敵単体に無属性のダメージを与える。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はバーストⅠを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+バーストⅡ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はバーストⅡを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+バーストⅢ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はバーストⅢを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+ニュークリアⅠ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+敵全体に無属性のダメージを与える。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はニュークリアⅠを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+ニュークリアⅡ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はニュークリアⅡを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+ニュークリアⅢ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+はニュークリアⅢを唱えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+内気功
+# TRANSLATION 
+Inner Ki
+# END STRING
+
+# TEXT STRING
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+気を整えて体力を回復させる。
+# TRANSLATION 
+Use the mind to restore health.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+ななこは気を練った。
+# TRANSLATION 
+Nanako focused her mind
+# END STRING
+
+# TEXT STRING
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+★この先追加分
+# TRANSLATION 
+★Additional skills
+# END STRING
+
+# TEXT STRING
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+旋風脚
+# TRANSLATION 
+Whirlwind Kick
+# END STRING
+
+# TEXT STRING
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+は旋風脚を覚えた！
+# TRANSLATION 
+Whirlwind Kick learnt!
+# END STRING
+
+# TEXT STRING
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+気功弾
+# TRANSLATION 
+Ki-Bullet
+# END STRING
+
+# TEXT STRING
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+は気功弾を覚えた！
+# TRANSLATION 
+Ki-Bullet learnt!
+# END STRING
+
+# TEXT STRING
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+自然体
+# TRANSLATION 
+Natural Stance
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+本来の動き。癖がなく扱いやすい
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+は構えを解いた
+# TRANSLATION 
+Relieved stance.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+正門の構え
+# TRANSLATION 
+Front Gate Stance
+# END STRING
+
+# TEXT STRING
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+武道家としての基礎的な構え。
+# TRANSLATION 
+Basic stance for a martial artist.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+は正門の構えをとった！
+# TRANSLATION 
+Took the Front Gate Stance!
+# END STRING
+
+# TEXT STRING
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+裏門の構え
+# TRANSLATION 
+Back Gate Stance
+# END STRING
+
+# TEXT STRING
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+正門の構えをより実戦的なものに改良した構え。
+# TRANSLATION 
+Improved stance based on the Front Gate Stance.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+無門の構え
+# TRANSLATION 
+Non-Gate Stance
+# END STRING
+
+# TEXT STRING
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+技を捨てて己の力を限界まで解放する構え。
+# TRANSLATION 
+Throw away technique to reach the power's limits.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+は力を限界まで開放した！
+# TRANSLATION 
+Opened chakra to its limit!
+# END STRING
+
+# TEXT STRING
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+波動拳の構え
+# TRANSLATION 
+Wave Fist Stance
+# END STRING
+
+# TEXT STRING
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+波動（なみどう）による攻撃に集中した構え。
+# TRANSLATION 
+Stance to send waves of concentrated energy.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+は気を練りはじめた！
+# TRANSLATION 
+Started to knead the Ki!
+# END STRING
+
+# TEXT STRING
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+鬼門の構え
+# TRANSLATION 
+Demon Gate Stance
+# END STRING
+
+# TEXT STRING
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+甘さを捨て、敵が攻撃する前に嬲り殺す修羅道の構え。
+# TRANSLATION 
+Very rough fighting style, seeking killing blow.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+は覚悟を決めた！
+# TRANSLATION 
+Became ready to kill!
+# END STRING
+
+# TEXT STRING
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+裏鬼門の構え
+# TRANSLATION 
+Reverse Demon Gate Stance
+# END STRING
+
+# TEXT STRING
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+本能を呼び覚まし、獣のごとく暴れる危険な構え。
+# TRANSLATION 
+Awaken instinct, to fight like a dangerous beast.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+は高らかに咆哮した！
+# TRANSLATION 
+Roared loudly!
+# END STRING
+
+# TEXT STRING
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+槐門の構え
+# TRANSLATION 
+Pagoda Tree Stance
+# END STRING
+
+# TEXT STRING
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+後の先を取る防御型の構え。
+# TRANSLATION 
+Defensive stance for hidden withdrawal.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+の精神が研ぎ澄まされていく
+# TRANSLATION 
+Sharpened your spirit.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+水殺の構え
+# TRANSLATION 
+Water Shoot Stance
+# END STRING
+
+# TEXT STRING
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+水属性の敵に大ダメージを与える構え。
+# TRANSLATION 
+Large water damages to sensitive enemies.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+は水殺の構えをとった！
+# TRANSLATION 
+Took a Water Shooting Stance!
+# END STRING
+
+# TEXT STRING
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+火殺の構え
+# TRANSLATION 
+Fire Shoot Stance
+# END STRING
+
+# TEXT STRING
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+火属性の敵に大ダメージを与える構え。
+# TRANSLATION 
+Large fire damages to sensitive enemies.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+は火殺の構えをとった！
+# TRANSLATION 
+Took a Fire Shooting Stance!
+# END STRING
+
+# TEXT STRING
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+空殺の構え
+# TRANSLATION 
+Void Shoot Stance
+# END STRING
+
+# TEXT STRING
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+空を飛ぶ敵に大ダメージを与える構え。
+# TRANSLATION 
+Large damages to flying enemies.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+は空殺の構えをとった！
+# TRANSLATION 
+Took a Void Shooting Stance!
+# END STRING
+
+# TEXT STRING
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+回し受け
+# TRANSLATION 
+Rotation Move
+# END STRING
+
+# TEXT STRING
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+高度な受け技。バッチリ決まるとカッコいい。
+# TRANSLATION 
+Hi-level technique, unstoppable and cool-looking.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+は防御体勢に入った！
+# TRANSLATION 
+Entered a defense posture!
+# END STRING
+
+# TEXT STRING
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+喧嘩殺法
+# TRANSLATION 
+Fight Kill Skill
+# END STRING
+
+# TEXT STRING
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+全能力値微増。構えを取りながら走れる。
+# TRANSLATION 
+All abilities increase slightly, running allowed.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+は出鱈目な構えをとった！
+# TRANSLATION 
+Took an unstable stance!
+# END STRING
+
+# TEXT STRING
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+門戸厄神の構え
+# TRANSLATION 
+All-Ailments Stance
+# END STRING
+
+# TEXT STRING
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+あらゆる災厄を打ち払う構え。魔法攻撃に防御ボーナス
+# TRANSLATION 
+Gives clean status and defense to magic.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+四門の構え
+# TRANSLATION 
+Four Gates Stance
+# END STRING
+
+# TEXT STRING
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+ななこが辿り着いたひとつの答え。無の境地とされる
+# TRANSLATION 
+Nanako reached an answer. Nirvana.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+は静かに息を吐いた
+# TRANSLATION 
+Reached zen state, breathing.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+私の自慢の拳
+# TRANSLATION 
+Fierce Fist
+# END STRING
+
+# TEXT STRING
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+ななこが辿り着いたひとつの答え。理屈抜きの純粋な力
+# TRANSLATION 
+Nanako reached an answer. Pure power released.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : skillAttr/UsageText
+# ADVICE : 49 char limit
+は構えを解いた。
+# TRANSLATION 
+Untied to a stance.
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+淫魔の乱舞
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+相手の精の搾取に特化した構え
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+奥義の洗練
+# TRANSLATION 
+Arcane Arts
+# END STRING
+
+# TEXT STRING
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+奥義が最大HPの1/3で出せる。ななこの努力の結晶
+# TRANSLATION 
+Secrets can be used for 1/3HP. Crystal of effort.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+奥義の極意
+# TRANSLATION 
+Arcane Secrets
+# END STRING
+
+# TEXT STRING
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+奥義が最大HPの1/2で出せる。ななこの才能の開花
+# TRANSLATION 
+Secrets can be used for 1/2HP. Bloom of talent.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : skillAttr/SkillName
+# ADVICE : 19 char limit
+精神集中
+# TRANSLATION 
+Spiritual Elevation
+# END STRING
+
+# TEXT STRING
+# CONTEXT : skillAttr/Description
+# ADVICE : 54 char limit
+技の消費技力がほぼ半分になる。ななこの心の成長
+# TRANSLATION 
+Skills consume ~half the energy. Growth of heart.
+# END STRING

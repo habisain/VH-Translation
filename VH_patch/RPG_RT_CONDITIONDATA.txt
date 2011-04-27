@@ -1,0 +1,112 @@
+# RPGMAKER TRANS PATCH FILE VERSION 2.0
+# TEXT STRING
+# CONTEXT : conditionDataAttr/ConditionName
+# ADVICE : 8 char limit
+戦闘不能
+# TRANSLATION 
+Incapacitated
+# END STRING
+
+# TEXT STRING
+# CONTEXT : conditionDataAttr/ConditionName
+# ADVICE : 8 char limit
+毒
+# TRANSLATION 
+Poisoned
+# END STRING
+
+# TEXT STRING
+# CONTEXT : conditionDataAttr/ConditionName
+# ADVICE : 8 char limit
+暗闇
+# TRANSLATION 
+Blinded
+# END STRING
+
+# TEXT STRING
+# CONTEXT : conditionDataAttr/ConditionName
+# ADVICE : 8 char limit
+沈黙
+# TRANSLATION 
+Silenced
+# END STRING
+
+# TEXT STRING
+# CONTEXT : conditionDataAttr/ConditionName
+# ADVICE : 8 char limit
+暴走
+# TRANSLATION 
+Fear
+# END STRING
+
+# TEXT STRING
+# CONTEXT : conditionDataAttr/ConditionName
+# ADVICE : 8 char limit
+混乱
+# TRANSLATION 
+Confused
+# END STRING
+
+# TEXT STRING
+# CONTEXT : conditionDataAttr/ConditionName
+# ADVICE : 8 char limit
+睡眠
+# TRANSLATION 
+Sleep
+# END STRING
+
+# TEXT STRING
+# CONTEXT : conditionDataAttr/ConditionName
+# ADVICE : 8 char limit
+麻痺
+# TRANSLATION 
+Paralysis
+# END STRING
+
+# TEXT STRING
+# CONTEXT : conditionDataAttr/ConditionName
+# ADVICE : 8 char limit
+よろめき
+# TRANSLATION 
+Staggered
+# END STRING
+
+# TEXT STRING
+# CONTEXT : conditionDataAttr/ConditionName
+# ADVICE : 8 char limit
+驚き
+# TRANSLATION 
+Surprised
+# END STRING
+
+# TEXT STRING
+# CONTEXT : conditionDataAttr/ConditionName
+# ADVICE : 8 char limit
+発情
+# TRANSLATION 
+Aroused
+# END STRING
+
+# TEXT STRING
+# CONTEXT : conditionDataAttr/ConditionName
+# ADVICE : 8 char limit
+転倒
+# TRANSLATION 
+Knockdown
+# END STRING
+
+# TEXT STRING
+# CONTEXT : conditionDataAttr/ConditionName
+# ADVICE : 8 char limit
+疲労
+# TRANSLATION 
+Tired
+# END STRING
+
+# TEXT STRING
+# CONTEXT : conditionDataAttr/ConditionName
+# ADVICE : 8 char limit
+怒張
+# TRANSLATION 
+Horny
+# END STRING

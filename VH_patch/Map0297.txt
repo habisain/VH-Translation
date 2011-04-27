@@ -1,0 +1,222 @@
+# RPGMAKER TRANS PATCH FILE VERSION 2.0
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+※イベント未定地
+何かアイデアがありましたらご自由にどうぞ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+　　　　　　　　↑鍛冶ギルド
+←採掘場　　　　　　　　　　　　　　酒場→
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+--------------現在の完成度（中央区）--------------
+鍛冶ギルド・・・内装まで完成
+直販武器屋・・・完成
+酒場・・・・・・完成
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+--------------現在の完成度（ギルド）--------------
+冒険者ギルド・・・内装まで完成
+商店街・・・・・・酒場以外完成
+合成屋・・・・・・完成
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+--------------現在の完成度（鉱山前）--------------
+酒場・・・・完成
+民家・・・・完成
+その他・・・完成
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+--------------現在の完成度（鍛冶屋）--------------
+個別・・・・内装まで完成
+作業場・・・内装まで完成
+倉庫・・・・内装まで完成
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+廃材が山のように積まれている。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+この先冒険者ギルド・商業区画
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+鍛冶ギルドは何時見てもでけぇな～
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+昔はもっと小さかったんだが、最近新しく建ててよ。
+小奇麗にもなってて何だが入りづらいぜ。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+このアイゼンも元はただの鉱山だったんだ。
+そして鉱山の周りには、そこで働く奴らが
+集まって街を作る。
+いわゆる普通の鉱山街ってやつだな。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+だが、ここは違った。
+この辺は山脈が連なっていて足掛かりになる地形が
+周りには全くない。家も満足に建てられない位にね。
+掘り進むには開拓も同時にする必要があったんだ。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+それに一口に鉱山って言っても、ただ山を削って
+鉱石を掘るだけじゃ駄目なんだ。
+通り道はいるし、掘り出した物を外に運んだり
+保管したりする場所も必要だ。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+そうして掘り出した鉱石を運ぶ道なんかを
+整備してる間に自然と山肌にも空間が出来て来た。
+俺たちの先祖はそこに直接街を建設する
+大胆な計画を思いついたんだ。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+それからは見ての通り。
+鉱脈を求めて岩山の奥へ奥へと分け入り、
+その通り道に街を作って行く。
+そうして出来たのが今のアイゼンってわけさ。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+この街は今も広がり続けてるって事ね。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+そういうこと。
+ロマンがあるだろ？
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+間近で見ると迫力あるな～
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+街に来た人達のために実演中です。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ここは鉱山街「アイゼン」だ。
+あまり何も無い所だが、まぁゆっくり見ていってくれ。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+そこの酒場は料理がうまいが、お上品でいけねぇ。
+俺にはやっぱり西の酒場が性にあってるな。
+# TRANSLATION 
+
+# END STRING

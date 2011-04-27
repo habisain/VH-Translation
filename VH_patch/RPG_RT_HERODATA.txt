@@ -1,0 +1,220 @@
+# RPGMAKER TRANS PATCH FILE VERSION 2.0
+# TEXT STRING
+# CONTEXT : heroAttr/HeroName
+# ADVICE : 12 char limit
+ななこ
+# TRANSLATION 
+Nanako
+# END STRING
+
+# TEXT STRING
+# CONTEXT : heroAttr/ClassName
+# ADVICE : 12 char limit
+武道家
+# TRANSLATION 
+Martial Art.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : heroAttr/HeroName
+# ADVICE : 12 char limit
+リン
+# TRANSLATION 
+Rin
+# END STRING
+
+# TEXT STRING
+# CONTEXT : heroAttr/ClassName
+# ADVICE : 12 char limit
+警備隊長
+# TRANSLATION 
+Captain
+# END STRING
+
+# TEXT STRING
+# CONTEXT : heroAttr/HeroName
+# ADVICE : 12 char limit
+エリカ
+# TRANSLATION 
+Erika
+# END STRING
+
+# TEXT STRING
+# CONTEXT : heroAttr/ClassName
+# ADVICE : 12 char limit
+隻腕の冒険者
+# TRANSLATION 
+1-Armed Adv.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : heroAttr/HeroName
+# ADVICE : 12 char limit
+アシュリー
+# TRANSLATION 
+Ashley
+# END STRING
+
+# TEXT STRING
+# CONTEXT : heroAttr/ClassName
+# ADVICE : 12 char limit
+氷の魔法使い
+# TRANSLATION 
+Ice Witch
+# END STRING
+
+# TEXT STRING
+# CONTEXT : heroAttr/HeroName
+# ADVICE : 12 char limit
+セレナ
+# TRANSLATION 
+Serena
+# END STRING
+
+# TEXT STRING
+# CONTEXT : heroAttr/ClassName
+# ADVICE : 12 char limit
+貴族
+# TRANSLATION 
+Aristocrat
+# END STRING
+
+# TEXT STRING
+# CONTEXT : heroAttr/HeroName
+# ADVICE : 12 char limit
+ハンテン
+# TRANSLATION 
+Hang ten
+# END STRING
+
+# TEXT STRING
+# CONTEXT : heroAttr/ClassName
+# ADVICE : 12 char limit
+冒険者
+# TRANSLATION 
+Adventurer
+# END STRING
+
+# TEXT STRING
+# CONTEXT : heroAttr/HeroName
+# ADVICE : 12 char limit
+ベネッタ
+# TRANSLATION 
+Venetta
+# END STRING
+
+# TEXT STRING
+# CONTEXT : heroAttr/ClassName
+# ADVICE : 12 char limit
+魔法使い
+# TRANSLATION 
+Witch
+# END STRING
+
+# TEXT STRING
+# CONTEXT : heroAttr/HeroName
+# ADVICE : 12 char limit
+ようじょ
+# TRANSLATION 
+Little Girl
+# END STRING
+
+# TEXT STRING
+# CONTEXT : heroAttr/ClassName
+# ADVICE : 12 char limit
+ななこの娘？
+# TRANSLATION 
+Daughter?
+# END STRING
+
+# TEXT STRING
+# CONTEXT : heroAttr/HeroName
+# ADVICE : 12 char limit
+レイア
+# TRANSLATION 
+Leila
+# END STRING
+
+# TEXT STRING
+# CONTEXT : heroAttr/ClassName
+# ADVICE : 12 char limit
+女海賊
+# TRANSLATION 
+Woman Pirate
+# END STRING
+
+# TEXT STRING
+# CONTEXT : heroAttr/HeroName
+# ADVICE : 12 char limit
+主人公
+# TRANSLATION 
+Hero
+# END STRING
+
+# TEXT STRING
+# CONTEXT : heroAttr/ClassName
+# ADVICE : 12 char limit
+主人公の名前
+# TRANSLATION 
+Hero's Name
+# END STRING
+
+# TEXT STRING
+# CONTEXT : heroAttr/HeroName
+# ADVICE : 12 char limit
+仲間
+# TRANSLATION 
+Companion
+# END STRING
+
+# TEXT STRING
+# CONTEXT : heroAttr/ClassName
+# ADVICE : 12 char limit
+仲間の名前
+# TRANSLATION 
+Companion's Name
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : heroAttr/HeroName
+# ADVICE : 12 char limit
+喘ぎ声１
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : heroAttr/HeroName
+# ADVICE : 12 char limit
+喘ぎ声２
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : heroAttr/HeroName
+# ADVICE : 12 char limit
+喘ぎ声３
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : heroAttr/HeroName
+# ADVICE : 12 char limit
+喘ぎ声４
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# CONTEXT : heroAttr/HeroName
+# ADVICE : 12 char limit
+とうめい
+# TRANSLATION 
+Clear
+# END STRING

@@ -1,0 +1,19 @@
+# RPGMAKER TRANS PATCH FILE VERSION 2.0
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+先主の時には中々認めてもらえなかったが
+今の藩主になってやっと居留地建設を認めてもらえたよ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+これで我々も自衛しやすくなって安心して商売出切る
+# TRANSLATION 
+
+# END STRING

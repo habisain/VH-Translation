@@ -1,0 +1,425 @@
+# RPGMAKER TRANS PATCH FILE VERSION 2.0
+# TEXT STRING
+# CONTEXT : monsterAttr/MonsterName
+# ADVICE : 12 char limit
+スライム
+# TRANSLATION 
+Slime
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterAttr/MonsterName
+# ADVICE : 12 char limit
+こうもり
+# TRANSLATION 
+Bat
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterAttr/MonsterName
+# ADVICE : 12 char limit
+ホーネット
+# TRANSLATION 
+Wasp
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterAttr/MonsterName
+# ADVICE : 12 char limit
+大グモ
+# TRANSLATION 
+Large Spider
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterAttr/MonsterName
+# ADVICE : 12 char limit
+大蛇
+# TRANSLATION 
+Large Snake
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterAttr/MonsterName
+# ADVICE : 12 char limit
+大サソリ
+# TRANSLATION 
+Large Scorpion
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterAttr/MonsterName
+# ADVICE : 12 char limit
+ゴースト
+# TRANSLATION 
+Ghost
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterAttr/MonsterName
+# ADVICE : 12 char limit
+コボルト
+# TRANSLATION 
+Kobold
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterAttr/MonsterName
+# ADVICE : 12 char limit
+怪魚
+# TRANSLATION 
+Mysterious Fish
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterAttr/MonsterName
+# ADVICE : 12 char limit
+鬼火
+# TRANSLATION 
+Will-o'-the-wisp
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterAttr/MonsterName
+# ADVICE : 12 char limit
+使い魔
+# TRANSLATION 
+Familiar Spirit
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterAttr/MonsterName
+# ADVICE : 12 char limit
+スケルトン
+# TRANSLATION 
+Skeleton
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterAttr/MonsterName
+# ADVICE : 12 char limit
+ゴブリン
+# TRANSLATION 
+Goblin
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterAttr/MonsterName
+# ADVICE : 12 char limit
+ゾンビ
+# TRANSLATION 
+Zombie
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterAttr/MonsterName
+# ADVICE : 12 char limit
+オーク
+# TRANSLATION 
+Goblin
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterAttr/MonsterName
+# ADVICE : 12 char limit
+マミー
+# TRANSLATION 
+Mummy
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterAttr/MonsterName
+# ADVICE : 12 char limit
+ワーウルフ
+# TRANSLATION 
+Werewolf
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterAttr/MonsterName
+# ADVICE : 12 char limit
+ミミック
+# TRANSLATION 
+Mimic
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : monsterAttr/MonsterName
+# ADVICE : 12 char limit
+リッチ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterAttr/MonsterName
+# ADVICE : 12 char limit
+リザードマン
+# TRANSLATION 
+Lizardman
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterAttr/MonsterName
+# ADVICE : 12 char limit
+マーマン
+# TRANSLATION 
+Merman
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterAttr/MonsterName
+# ADVICE : 12 char limit
+ヴァンパイア
+# TRANSLATION 
+Vampire
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterAttr/MonsterName
+# ADVICE : 12 char limit
+ケルベロス
+# TRANSLATION 
+Cerberus
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterAttr/MonsterName
+# ADVICE : 12 char limit
+メデューサ
+# TRANSLATION 
+Medusa
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterAttr/MonsterName
+# ADVICE : 12 char limit
+トレント
+# TRANSLATION 
+Treant
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterAttr/MonsterName
+# ADVICE : 12 char limit
+コカトリス
+# TRANSLATION 
+Cockatrice
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterAttr/MonsterName
+# ADVICE : 12 char limit
+死神
+# TRANSLATION 
+Reaper
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterAttr/MonsterName
+# ADVICE : 12 char limit
+キマイラ
+# TRANSLATION 
+Chimera
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterAttr/MonsterName
+# ADVICE : 12 char limit
+ダークエルフ
+# TRANSLATION 
+Dark Elf
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterAttr/MonsterName
+# ADVICE : 12 char limit
+ガーゴイル
+# TRANSLATION 
+Gargoyle
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterAttr/MonsterName
+# ADVICE : 12 char limit
+グリフォン
+# TRANSLATION 
+Gryphon
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterAttr/MonsterName
+# ADVICE : 12 char limit
+ミノタウロス
+# TRANSLATION 
+Minotaur
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterAttr/MonsterName
+# ADVICE : 12 char limit
+ハーピー
+# TRANSLATION 
+Harpy
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterAttr/MonsterName
+# ADVICE : 12 char limit
+トルーパー
+# TRANSLATION 
+Trooper
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterAttr/MonsterName
+# ADVICE : 12 char limit
+ドラゴン
+# TRANSLATION 
+Dragon
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterAttr/MonsterName
+# ADVICE : 12 char limit
+ワイバーン
+# TRANSLATION 
+Wyvern
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterAttr/MonsterName
+# ADVICE : 12 char limit
+ゴーレム
+# TRANSLATION 
+Golem
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterAttr/MonsterName
+# ADVICE : 12 char limit
+ブラックナイト
+# TRANSLATION 
+Black Knight
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterAttr/MonsterName
+# ADVICE : 12 char limit
+龍
+# TRANSLATION 
+Dragon
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterAttr/MonsterName
+# ADVICE : 12 char limit
+デーモン
+# TRANSLATION 
+Demon
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterAttr/MonsterName
+# ADVICE : 12 char limit
+クラーケン
+# TRANSLATION 
+Kraken
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterAttr/MonsterName
+# ADVICE : 12 char limit
+ヒュドラ
+# TRANSLATION 
+Hydra
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterAttr/MonsterName
+# ADVICE : 12 char limit
+ドラゴンナイト
+# TRANSLATION 
+Dragon Knight
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterAttr/MonsterName
+# ADVICE : 12 char limit
+魔王
+# TRANSLATION 
+Demon King
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterAttr/MonsterName
+# ADVICE : 12 char limit
+魔神
+# TRANSLATION 
+Demon God
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterAttr/MonsterName
+# ADVICE : 12 char limit
+けり右
+# TRANSLATION 
+Right Kick
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterAttr/MonsterName
+# ADVICE : 12 char limit
+けり後ろ
+# TRANSLATION 
+Rear Kick
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterAttr/MonsterName
+# ADVICE : 12 char limit
+けり左
+# TRANSLATION 
+Left Kick
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterAttr/MonsterName
+# ADVICE : 12 char limit
+けり前
+# TRANSLATION 
+Front Kick
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterAttr/MonsterName
+# ADVICE : 12 char limit
+パンチ右
+# TRANSLATION 
+Right Punch
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterAttr/MonsterName
+# ADVICE : 12 char limit
+パンチ後ろ
+# TRANSLATION 
+Rear Punch
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterAttr/MonsterName
+# ADVICE : 12 char limit
+パンチ左
+# TRANSLATION 
+Left Punch
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterAttr/MonsterName
+# ADVICE : 12 char limit
+パンチ前
+# TRANSLATION 
+Front Punch
+# END STRING

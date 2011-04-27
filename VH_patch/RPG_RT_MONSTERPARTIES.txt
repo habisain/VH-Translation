@@ -1,0 +1,641 @@
+# RPGMAKER TRANS PATCH FILE VERSION 2.0
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+スライムx2
+# TRANSLATION 
+Slime x 2
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+スライムx3
+# TRANSLATION 
+Slime x 3
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+こうもりx2
+# TRANSLATION 
+Bat x2
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+こうもりx3
+# TRANSLATION 
+Bat x3
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+ホーネットx2
+# TRANSLATION 
+Wasp x2
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+ホーネットx3
+# TRANSLATION 
+Wasp x3
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+大グモx2
+# TRANSLATION 
+Large Spider x2
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+大グモx3
+# TRANSLATION 
+Large Spider x3
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+大蛇x2
+# TRANSLATION 
+Large Snake x2
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+大蛇x3
+# TRANSLATION 
+Large Snake x3
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+大サソリx2
+# TRANSLATION 
+Large Scorpion x2
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+大サソリx3
+# TRANSLATION 
+Large Scorpion x3
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+ゴーストx2
+# TRANSLATION 
+Ghost x2
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+ゴーストx3
+# TRANSLATION 
+Ghost x3
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+コボルトx2
+# TRANSLATION 
+Kobold x2
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+コボルトx3
+# TRANSLATION 
+Kobold x3
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+怪魚x2
+# TRANSLATION 
+Mysterious Fish x2
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+怪魚x3
+# TRANSLATION 
+Mysterious Fish x3
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+鬼火x2
+# TRANSLATION 
+Will-o'-the-wisp x2
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+鬼火x3
+# TRANSLATION 
+Will-o'-the-wisp x3
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+使い魔x2
+# TRANSLATION 
+Familiar Spirit x2
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+使い魔x3
+# TRANSLATION 
+Familiar Spirit x3
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+スケルトンx2
+# TRANSLATION 
+Skelton x2
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+スケルトンx3
+# TRANSLATION 
+Skelton x3
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+ゴブリンx2
+# TRANSLATION 
+Goblin x2
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+ゴブリンx3
+# TRANSLATION 
+Goblin x3
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+ゾンビx2
+# TRANSLATION 
+Zombie x2
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+ゾンビx3
+# TRANSLATION 
+Zombie x3
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+オークx2
+# TRANSLATION 
+Goblin x2
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+オークx3
+# TRANSLATION 
+Goblin x3
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+マミーx2
+# TRANSLATION 
+Mummy x2
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+マミーx3
+# TRANSLATION 
+Mummy x3
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+ワーウルフx2
+# TRANSLATION 
+Werewolf x2
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+ワーウルフx3
+# TRANSLATION 
+Werewolf x3
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+ミミック
+# TRANSLATION 
+Mimic
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+ミミックx2
+# TRANSLATION 
+Mimic x2
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+リッチx2
+# TRANSLATION 
+Mimic x2
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+リッチx3
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+リザードマンx2
+# TRANSLATION 
+Lizardman x2
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+リザードマンx3
+# TRANSLATION 
+Lizardman x3
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+マーマンx2
+# TRANSLATION 
+Merman x2
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+マーマンx3
+# TRANSLATION 
+Merman x3
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+ヴァンパイアx2
+# TRANSLATION 
+Vampire x2
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+ヴァンパイアx3
+# TRANSLATION 
+Vampire x3
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+ケルベロスx2
+# TRANSLATION 
+Cerberus x2
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+ケルベロスx3
+# TRANSLATION 
+Cerberus x3
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+メデューサx2
+# TRANSLATION 
+Medusa x2
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+メデューサx3
+# TRANSLATION 
+Medusa x3
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+トレント
+# TRANSLATION 
+Treant
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+トレントx2
+# TRANSLATION 
+Treant x2
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+コカトリスx2
+# TRANSLATION 
+Cockatrice x2
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+コカトリスx3
+# TRANSLATION 
+Cockatrice x3
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+死神x2
+# TRANSLATION 
+Reaper x2
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+死神x3
+# TRANSLATION 
+Reaper x3
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+キマイラx2
+# TRANSLATION 
+Chimera x2
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+キマイラx3
+# TRANSLATION 
+Chimera x3
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+ダークエルフx2
+# TRANSLATION 
+Dark Elf x2
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+ダークエルフx3
+# TRANSLATION 
+Dark Elf x3
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+ガーゴイルx2
+# TRANSLATION 
+Gargoyle x2
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+ガーゴイルx3
+# TRANSLATION 
+Gargoyle x3
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+グリフォンx2
+# TRANSLATION 
+Gryphon x2
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+グリフォンx3
+# TRANSLATION 
+Gryphon x3
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+ミノタウロス
+# TRANSLATION 
+Minotaur
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+ミノタウロスx2
+# TRANSLATION 
+Minotaur x2
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+ハーピー
+# TRANSLATION 
+Harpy
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+ハーピーx2
+# TRANSLATION 
+Harpy x2
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+トルーパー
+# TRANSLATION 
+Trooper
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+トルーパーx2
+# TRANSLATION 
+Trooper x2
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+ドラゴン
+# TRANSLATION 
+Dragon
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+ドラゴンx2
+# TRANSLATION 
+Dragon x2
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+ワイバーン
+# TRANSLATION 
+Wyvern
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+ゴーレム
+# TRANSLATION 
+Golem
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+ブラックナイト
+# TRANSLATION 
+Black Knight
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+龍
+# TRANSLATION 
+Dragon
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+デーモン
+# TRANSLATION 
+Demon
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+クラーケン
+# TRANSLATION 
+Kraken
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+ヒュドラ
+# TRANSLATION 
+Hydra
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+ドラゴンナイト
+# TRANSLATION 
+Dragon Knight
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+魔王
+# TRANSLATION 
+Demon King
+# END STRING
+
+# TEXT STRING
+# CONTEXT : monsterPartyAttr/MonsterPartyName
+# ADVICE : 12 char limit
+魔神
+# TRANSLATION 
+Demon God
+# END STRING

@@ -1,0 +1,10 @@
+# RPGMAKER TRANS PATCH FILE VERSION 2.0
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+人為的に洞窟の入口が
+塞がれた形跡がある
+# TRANSLATION 
+
+# END STRING

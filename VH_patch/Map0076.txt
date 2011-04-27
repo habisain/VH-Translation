@@ -1,0 +1,10 @@
+# RPGMAKER TRANS PATCH FILE VERSION 2.0
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+あの居留地の奴らがデカイ面してるせいで
+この倉庫もガラガラになっちまった！
+# TRANSLATION 
+
+# END STRING

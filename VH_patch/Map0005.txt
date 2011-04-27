@@ -1,0 +1,1104 @@
+# RPGMAKER TRANS PATCH FILE VERSION 2.0
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「ああっ、今にも漏れそうだよ」
+# TRANSLATION 
+Argh, I am going to leak at any moment!
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「肛門に押し寄せる、この濁流が！」
+# TRANSLATION 
+My ass can't hold back the pressure!
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「カ・イ・カ・ン」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「ああっ！」
+# TRANSLATION 
+Aaaargh!
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+事故発生！事故発生！
+# TRANSLATION 
+Emergency! Emergency!
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「この先は犯罪者を収容する地下牢です」
+# TRANSLATION 
+That way is a dungeon that serves as a prison.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「関係者以外立ち入り禁止となっております」
+# TRANSLATION 
+It is off-limits to unauthorized personnel.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「夜勤あけなんです･･･
+　ゆっくり眠らせてください･･･」
+# TRANSLATION 
+I had night duty... please let me sleep.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「守備隊でも寝る時くらいは鎧を外しますよ」
+# TRANSLATION 
+Even the troops remove their armor when sleeping.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「この町は、我ら守備隊の堅牢な守りの
+　おかげで今まで魔物の侵入を許したこと
+　はない」
+# TRANSLATION 
+Thanks to the garrison's protection, the town
+succesfully repelled a demonic invasion.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「だが最近は魔物も知恵をつけていると
+　いう。我々も油断はできないな」
+# TRANSLATION 
+However, goblins are wily. We must not be
+caught unprepared.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+やっと休憩なんだ。
+ゆっくりさせてくれ。
+# TRANSLATION 
+At last, I can rest. Please let me be.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「あー部屋なんか借りちゃって
+　すっかりこの町に根を下ろしちゃったなぁ」
+# TRANSLATION 
+Well, I rented a room and permanently settled
+into this town.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「まぁいいけどさ」
+# TRANSLATION 
+Or so I hope.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「我々守備隊の構成員は軍人が半分、
+　その町の人間が半分という割合に
+　なっています」
+# TRANSLATION 
+Half of our garrison comes from the military, and
+the other half being people from this town.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「主な任務はもちろん配属された町の守備ですが、
+　他にも街道の安全確保や犯罪への対応など
+　任されている仕事の範囲は大雑把かつ多様です」
+# TRANSLATION 
+Our chief duty is naturally the defense of the
+town, but this includes road safety and crime.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「しかし年々減少する予算の煽りを受けて組織規模は
+　限界まで縮小しており、最低限の警備以外は実際
+　殆ど手が回っていないのが現状です」
+# TRANSLATION 
+However, the budget decreases each year. We're
+strained to the limit and can't do much more
+than provide a bare minimum of security.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「その点では冒険者ギルドの存在に大いに
+　助けられているのは事実なのですが、」
+# TRANSLATION 
+In that respect, we're greatly helped by the
+adventurer's guild, but...
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「しかし本来我々がすべき仕事を外部の組織に任せざるを
+　えないという状況は、正直面白くありません」
+# TRANSLATION 
+we ought to do the work entrusted to us. This
+situation is not conducive to our integrity.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「はぁ･･･家に帰りたい･･･」
+# TRANSLATION 
+Huh... go home.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「元はここも自警団の宿舎だったんだが、自警団の規模
+　が縮小して使わなくなったんで、共同住宅にして売り
+　出してみたんだ」
+# TRANSLATION 
+Originally these were the guard dormitories, but
+they were converted into condos when the guard
+forces were scaled back.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「一部屋空いてるけど、君も入居してみないかい？
+　家賃は月2000Gだ。敷金も2000G貰うけどこれは出て行
+　く時に返すし、毎日宿屋に泊まるよりは安くつくよ」
+# TRANSLATION 
+Would you like to move in? The rent is 2000G per
+month, with an additional deposit of 2000G. It's
+less expensive than staying at the hotel.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「あまり長逗留するつもりはないから･･･
+　遠慮しておきます」
+# TRANSLATION 
+Since I don't intend to stay
+very long...
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「そうかい。まぁ気が変わったらいつでも
+　話かけてくれ」
+# TRANSLATION 
+I see. If you change your mind, come back anytime.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ぐごごごごご･･･
+ぐごごごごご･･･
+# TRANSLATION 
+Zzzzzz...
+Zzzzzz...
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「フリーパスをお持ちの方は、
+　外のカウンターで手続きを
+　してください」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「馬列車の切符の切符をお持ちですね」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+都へ行きますか？
+# TRANSLATION 
+Do you wish to go there?
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Choice
+# ADVICE : 49 char limit
+はい
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Choice
+# ADVICE : 49 char limit
+いいえ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「馬列車の切符ですか？
+　道具屋で取り扱っていますので、
+　そちらでお買い求め下さい
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「馬列車にご乗車の際は
+　切符を持って本官に話しかけて下さい
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「馬列車が来ていない時は
+　乗せてさしあげる事はできませんのでご注意下さい」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「都に行けるのは昼間だけです」
+# TRANSLATION 
+But the station is open only during the day.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「ここはこの町の平和と安全を守る
+　守備隊受付です」
+# TRANSLATION 
+This is the reception desk for the garrison
+that keeps the peace in this town.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「見かけない方ですね。この町に来られたのは
+　最近ですか？」
+# TRANSLATION 
+... Have you come into town recently?
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「冒険者の方なら冒険者カードのような、
+　何か身元を証明できる物はお持ちでしょうか」
+# TRANSLATION 
+As an adventurer, you should get a guild card
+for identification.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「い、いえ･･･特には･･･」
+# TRANSLATION 
+If I can just say...
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「では申し訳ありませんが先にそちらを取得
+　なさって下さい」
+# TRANSLATION 
+Sorry, but please get it there first.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「規則ですので、まずそちらがない事にはどういう
+　お話も聞く事ができません」
+# TRANSLATION 
+It's required by official policy that all reports
+be made by identified persons.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「皆様の信頼と村の安全を守る
+　守備隊窓口へようこそ」
+# TRANSLATION 
+Welcome to the guard office. We defend
+the trust and safety of the townpeople.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「本日はどうされましたか？」
+# TRANSLATION 
+What happened today?
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Choice
+# ADVICE : 49 char limit
+トイレでレイプされた
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Choice
+# ADVICE : 49 char limit
+とくになし
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「目下全力を挙げて捜査中であります。
+　もうしばらく時間をください」
+# TRANSLATION 
+All of our investigators are overworked.
+Please give us some time.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「じ･･･実は･･･」
+# TRANSLATION 
+A... Actually...
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「･･･う･･･うぅ･･･」
+# TRANSLATION 
+... Uhh...
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「うっ･･･ぐすっ･･･う･･･
+　うあっうああぁあー！！」
+# TRANSLATION 
+Uuu... *sniff*...
+Uuwaaaaaaaaah!!!
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「おおっとっと、何があったかは
+　知りませんが、落ち着いて、
+　落ち着いて･･･」
+# TRANSLATION 
+Calm down, calm down! Take a deep breath
+and don't think about what happened yet.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「なるほど･･･お話はわかりました」
+# TRANSLATION 
+Indeed... now I see what happened.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「スタリオンと、確かにそう言ったのです
+　ね？」
+# TRANSLATION 
+Are you sure he called himself "stallion"?
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「･･･はい･･･」
+# TRANSLATION 
+... yes...
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「ふー･･･実の所、あいつの被害に
+　会ったのは、貴女で5人目なのです」
+# TRANSLATION 
+*sigh*... confidentially speaking,
+you're the fifth victim of that guy
+that we know of.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「こちらで確認している限りなので、
+　泣き寝入りされている方を含めれば
+　実数はもっと多いでしょう」
+# TRANSLATION 
+Although if some suffered in silence rather
+than come forward, the real number might be
+higher.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+（確か･･･あいつは私で11人目って･･･）
+# TRANSLATION 
+(But I'm sure that...
+ he said I was his 11th.)
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+（あれが本当なら･･･私以外に･･･
+　10人も･･･っ！）
+# TRANSLATION 
+(If he told the truth, then
+ there were actually ten
+ other victims!)
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「･･･しもし、もしもし？大丈夫ですか？」
+# TRANSLATION 
+Hello? Are you alright?
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「っあ、は、はい･･･大丈夫です」
+# TRANSLATION 
+Ah... Y-yes, I'm fine.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「ふぅむ･･･えぇーそのですね･･･」
+# TRANSLATION 
+Well, we expect... the fact is that...
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「我々も現在割ける限りの人員を割いて
+　全力で奴を追っています」
+# TRANSLATION 
+We will pursue this fellow as much as we
+can. But the number of men we can spare
+is quite limited.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「･･･ですが何分、予算も人手も不足して
+　いましてね･･･」
+# TRANSLATION 
+We lack the budget, not to motion the
+manpower shortage...
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「もう少しお金があれば、なんとかなる
+　かもしれないんですが･･･？」
+# TRANSLATION 
+If we had a bit more money, then perhaps
+we could manage it, but...
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「んん･･･？」
+# TRANSLATION 
+Hmmm...?
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+（･･･こいつ･･･）
+# TRANSLATION 
+(... that guy...)
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+（･･･賄･･･賂渡せって･･･？）
+# TRANSLATION 
+(Bri... bed?)
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「おや、お帰りですか？お一人で？
+　よろしければお送り･･･」
+# TRANSLATION 
+Oh, you're back with us? And alone?
+If you don't mind, please take an
+escort.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「結構です。･･･それでは」
+# TRANSLATION 
+That would be nice. Well, then...
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「･･･」
+# TRANSLATION 
+...
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+（･･･）
+# TRANSLATION 
+(...)
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+（守備隊は頼りにならない･･･）
+# TRANSLATION 
+(The guards are unreliable...)
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+（やっぱり私が･･･私が奴を･･･っ）
+# TRANSLATION 
+(I would have to find him myself...)
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「それはようございました。
+　我々の出番がないのならそれに越した
+　事はありません。」
+# TRANSLATION 
+「目下全力を挙げて捜査中であります。
+　もうしばらく時間をください」
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Choice
+# ADVICE : 49 char limit
+温泉で暴行を受けた
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「･･･それは間違いないですか？
+　あの温泉でそんな事が？」
+# TRANSLATION 
+Is that right? Did such a thing happen there?
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「･･･温泉の主人もグルです･･･
+　大勢で、よってたかって･･･」
+# TRANSLATION 
+There was a whole crowd... and
+the owner was one of them...
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「･･･なんてこった」
+# TRANSLATION 
+Damn!
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「実は同様の訴えが近頃何件も
+ ありまして･･･」
+# TRANSLATION 
+Actually, there were similar
+complaints recently...
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「しかし証言だけで毎回証拠が出ない
+　ものですから、我々も強く出る事が
+　できなかったのですが･･･」
+# TRANSLATION 
+But we were unable to prosecute because the
+accuser did not go forth with the testimony...
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「流石に、訴えの数が余りにも多すぎます･･･
+　もはや証拠がないなどと悠長な事は言って
+　いられないようですね」
+# TRANSLATION 
+Indeed, there are too many complaints now...
+One can't dismiss them as baseless anymore.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「おい！ちょっと来てくれ！」
+# TRANSLATION 
+Hey! Please come along for a minute...
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「･･･先に行って･･･現場･･･」
+# TRANSLATION 
+to the previous... spot.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「人手･･････主人を･･･」
+# TRANSLATION 
+The people... the owner...
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「ぞろぞろと大人数で動くと住民の方々を
+　混乱させてしまうので、まず部下を先に
+　向かわせました。」
+# TRANSLATION 
+It would be confusing to coordinate such a
+number of people, so I sent a subordinate
+to go ahead of us.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「できれば証人としてあなたにもご同行
+　願いたいのですが、宜しいですか？」
+# TRANSLATION 
+I hope you will accompany us as a witness.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「えぇ、大丈夫。私も行きます」
+# TRANSLATION 
+Ah, it's safe now. I'll go.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「ご協力感謝します。
+　では準備がありますので少し
+　お待ち下さい。」
+# TRANSLATION 
+Thank you for your cooperation. Please
+wait a bit while we get things ready.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「お待たせしました。
+　それでは行きましょう」
+# TRANSLATION 
+Thank you for waiting. Let's go.
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Choice
+# ADVICE : 49 char limit
+温泉で暴行をうけた
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「一応規則ですので何かご用でしたら
+　まず机の向こう側からお願いします」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[01]
+（今更こいつらに話す事なんてない……）
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「ヒモ生活も思っていたほど楽じゃないなぁ」
+# TRANSLATION 
+It's not so easy to be dependent on a woman.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「ペットの気分だぜ」
+# TRANSLATION 
+It's like being a pet.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「兵士に最も必要なのは対応力だ。
+　いかなる状況にも即座に対応出来なくては
+　街を守ることは出来ない」
+# TRANSLATION 
+Readiness is the essential trait of a soldier.
+If we can't respond to any situation immediately,
+the town will be left undefended.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「ということを教えてやろうと
+　ここのトイレを閉鎖している。
+　おお、私はなんと仲間思いな奴なんだろうか」
+# TRANSLATION 
+This restroom is closed so as to teach this.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「対応力よりも耐久力がつきそうね」
+# TRANSLATION 
+Higher stamina will increase
+our responsiveness.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「ああっ！どうしてこんな事に！？」
+# TRANSLATION 
+Oh, why did it have to be like this?!
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「これは間違いなく
+　我が国の歴史に残る大災害だ！」
+# TRANSLATION 
+This disaster will surely be remembered
+in the annals of our country's history!
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「とりあえず…」
+# TRANSLATION 
+For now...
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「責任問題になる前に、
+　色でも塗って誤魔化しておこう」
+# TRANSLATION 
+before blame is assigned, I'll cover it
+up with paint.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+Ｚｚｚｚ・・・
+# TRANSLATION 
+Zzz...
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「敵の背後から攻撃する訓練をしています」
+# TRANSLATION 
+I'm practicing attacking an enemy from behind.
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「意外と簡単にとれるもんですね、背後」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「敵との距離間について訓練をしています」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「戦闘の際はこちらから近づかず、
+　敵から近寄らせることにより
+　攻撃の先手を打つことが可能です」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「理論上はわかってるんですが
+　相手がこっちにこないとあたらないんですよね」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「ああ、そうそう。
+　そこにいると危ないですよ？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「いいか、戦闘の基本は"間合い"だ。
+　いかなる強烈な攻撃も、間合いさえ
+　とっていれば届かない」
+# TRANSLATION 
+Proper distance between opponents is the founda-
+tion of combat. The severity of an attack is
+irrelevant if it doesn't connect.
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「こちらからモンスターに向かっていく
+　のは攻撃してくださいといっている
+　ようなものだ」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「敵が近づいてきたら攻撃を叩き込み、
+　そして離れる！
+　ヒット＆ウェイを守れば無敵だ！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+キザな男
+「師範代は間合いさえ取れば良いと
+　思っているようだが、それは違う」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+キザな男
+「真に必要なのは相手の動きを予測し、
+　的確に攻撃を加えるテクニック」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+キザな男
+「俺は長年修行し、ついに相手の未来を
+　予測し、先に回る技術を手に入れた」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+キザな男
+「お前にも見せてやろう。
+　技を極めた者の一瞬を」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「・・・！？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「み、見えなかった・・！？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「な、なにが起こったの？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+キザな男
+「お前も技を極めろ。
+　極めた者のみが習得できるのだ」
+# TRANSLATION 
+
+# END STRING

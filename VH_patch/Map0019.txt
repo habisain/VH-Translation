@@ -1,0 +1,77 @@
+# RPGMAKER TRANS PATCH FILE VERSION 2.0
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+遊ぶゲームモードを選択してください。
+# TRANSLATION 
+Please select a game mode.
+
+Debug mode allows you to "Cheat" and
+edit many of Nanako's statistics and variables.
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Choice
+# ADVICE : 49 char limit
+通常プレイ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Choice
+# ADVICE : 49 char limit
+デバッグモード
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+現在通常プレイでは、ＡＲＰＧ状態での衣装の着替えを
+禁止にして有ります、変更するには噴水の女神の前の
+看板を調べてください
+# TRANSLATION 
+In normal ARPG combat clothing may be removed
+permanently. Examine the sign before the 
+goddess statue at the fountain to change
+this behaviour.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+オープニングをみますか？
+# TRANSLATION 
+Do you want to see the opening?
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Choice
+# ADVICE : 49 char limit
+はい
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Choice
+# ADVICE : 49 char limit
+いいえ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+能力、所持金を増やしますか？
+# TRANSLATION 
+
+# END STRING

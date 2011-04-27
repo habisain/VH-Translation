@@ -1,0 +1,12 @@
+# RPGMAKER TRANS PATCH FILE VERSION 2.0
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「ふう……
+　これでおしまいかな？
+　さて、町に戻りましょう」
+# TRANSLATION 
+
+# END STRING

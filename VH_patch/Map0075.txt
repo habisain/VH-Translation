@@ -1,0 +1,63 @@
+# RPGMAKER TRANS PATCH FILE VERSION 2.0
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+やっと陸に上がったかと思ったら
+また狭い中で雑魚寝だもんなぁ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+寝心地は船の上とは比べ物にならんが
+ウチの船乗りはイビキがうるさいのが多くて
+寝付くのに苦労するよ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+何だあんた？
+船長が遣してくれた女か？
+やっぱ海より陸だな。へへっ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+我々の商船は海賊が襲撃してくるのに
+地元の船はまったく被害がない
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+航海を安定したものにする為にも
+海賊のねぐらを襲撃するしかないか…
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ここは水夫のねぐらだぞ
+そのような姿でいては危険だ
+服を着なさい
+# TRANSLATION 
+
+# END STRING

@@ -1,0 +1,21 @@
+# RPGMAKER TRANS PATCH FILE VERSION 2.0
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+魔法少女のボス戦は、製作期間が同じだったので
+とりあえずここに隔離しています。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+バトルイベント単体として出来ていると思うので、
+マップやエフェクトを変えるだけで
+他のお話などに引越し可能だと思います。
+# TRANSLATION 
+
+# END STRING

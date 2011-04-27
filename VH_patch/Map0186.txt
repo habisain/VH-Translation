@@ -1,0 +1,22 @@
+# RPGMAKER TRANS PATCH FILE VERSION 2.0
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+    金峰楼
+   温泉旅館
+
+　　　　　　　　ps.21歳未満の方お断り
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+此処での出来事は、すべてフィクションです。
+現実に行った際は、犯罪行為として処罰されます。
+# TRANSLATION 
+
+# END STRING

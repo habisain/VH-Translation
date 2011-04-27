@@ -1,0 +1,72 @@
+# RPGMAKER TRANS PATCH FILE VERSION 2.0
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「どうしよう……
+　返済期日に間に合わなかったよ……」
+# TRANSLATION 
+Not good..... 
+I missed the deadline for the payment.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「私……これからどうなっちゃうの？」
+# TRANSLATION 
+What... Is going to happen... 
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「きゃあっ！」
+# TRANSLATION 
+Eeeh!
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+黒服
+「\n[0]だな？」
+# TRANSLATION 
+Black suit
+Are you \n[0]?
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+黒服
+「若い女ならいくらでも買い手は
+　みつかるだろう。よし、連れて行け」
+# TRANSLATION 
+Black Suit
+Such a young woman..... 
+You going to sell good... 
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「いやあぁぁぁぁ！！」
+# TRANSLATION 
+Nooo!
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「むぐぅっ！！」
+# TRANSLATION 
+No way!
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「んーーーーーーーっっ！！！！」
+# TRANSLATION 
+Nooooo！！！！
+# END STRING

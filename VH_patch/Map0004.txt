@@ -1,0 +1,1542 @@
+# RPGMAKER TRANS PATCH FILE VERSION 2.0
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ああ、ダメ……。この格好で外に出たら
+どうなっちゃうかって、考えただけで
+すごくゾクゾクする……。
+# TRANSLATION 
+Ah, noo, Just thinking about
+walking outside like this...
+really give me a thrill!
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+長期滞在用の宿帳です。
+料金は先払いです。
+# TRANSLATION 
+The Inn register of the long-term stay service.
+The charge is payment in advance.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+長期滞在なさいますか？
+# TRANSLATION 
+Would you like a long-term stay?
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Choice
+# ADVICE : 49 char limit
+はい
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Choice
+# ADVICE : 49 char limit
+いいえ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+滞在期間は何ヶ月になさいますか？
+最大で12ヶ月滞在できます。
+# TRANSLATION 
+How many months?
+One can only stay for 12 months max.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+お金が足りません。
+# TRANSLATION 
+Not enough money.
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+滞在期間は\V[25]ヶ月ですね？
+料金は\V[26]Gです。
+本当によろしいですか？
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+いらっしゃい
+# TRANSLATION 
+Welcome!
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+おいおい、いくらこの町に温泉が
+あるからって気が早すぎねーか？
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ま…俺は構わねえけどよ…
+へへ、眼福眼福
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+で、ねーちゃんどうする、
+泊まってくのかい？
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+お客さんか。
+うちは一泊100Gだ。
+泊まっていくかい？
+# TRANSLATION 
+A visitor?
+one night here costs 100G.
+Do you want to stay?
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Choice
+# ADVICE : 49 char limit
+泊まる
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Choice
+# ADVICE : 49 char limit
+やめておく
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+あれ、嘘？　お金が足りないよ！？
+# TRANSLATION 
+(Oh no! I don't have enough money.)
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+なんだ、お嬢ちゃん。金が無いのか？
+# TRANSLATION 
+What is it little girl?
+Can't you pay?
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+えっと、その、まぁ……
+# TRANSLATION 
+Well about that...
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+なんだよ、しょーがねーなぁー。
+皿洗いかなんか手伝うってんなら泊めてやってもいいぜ。
+ま、なんなら俺の部屋に泊まるってんでもいいけどな。
+# TRANSLATION 
+Well we can also do something else.
+You can wash the dishes as a payments.
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Choice
+# ADVICE : 49 char limit
+はい、お願いします。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Choice
+# ADVICE : 49 char limit
+遠慮します。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Choice
+# ADVICE : 49 char limit
+…………
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+はい、すいません。お願いします。
+# TRANSLATION 
+Ah thanks you,
+please let me wash the dishes.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+よし、ならしっかり働いてくれよ？
+# TRANSLATION 
+Good, then let's get you to work
+right away.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+そうかい、ま、無理にとは言わねぇさ。
+また今度きてくんな。
+# TRANSLATION 
+Oh ok, if you get the money or
+change your mind, do come back again.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+おいおい、そんな悩むようなことか？　ま、なんなら
+俺の部屋に泊まるってのもアリだけどなグハハハハハ。
+# TRANSLATION 
+Hey, don't worrying about such little
+things. Well... you know, you could always
+stay in my room if you wanted to.
+Guahahahaha.
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Choice
+# ADVICE : 49 char limit
+泊めて、くれます……？
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Choice
+# ADVICE : 49 char limit
+謹んで遠慮します
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+本当に、泊めてくれます……？
+# TRANSLATION 
+You'll let me stay...?
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+おいおい、冗談だっての。
+本気にするなよお嬢ちゃん。
+# TRANSLATION 
+Hey it was only a joke,
+don't take it serious little girl.
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Choice
+# ADVICE : 49 char limit
+ですよねー
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+おいおい、本気で言ってんのか？
+それがどういうコトかわかってんのかい？
+# TRANSLATION 
+Your really serious.
+say, do you understand where
+I'm getting to here?
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+どういうことって……？
+# TRANSLATION 
+Hmm...
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+そりゃまぁ、男と女が同じ部屋で寝る
+わけだから、ナニがこうナニでニャン
+ニャンアンアンとだな。
+# TRANSLATION 
+You know, the reason thy why
+man and woman sleeps in the same
+room?
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+とにかくだ、アンタそれでも
+いいのかい？
+# TRANSLATION 
+Anyways, The offer is still on.
+Do you want to do this?
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Choice
+# ADVICE : 49 char limit
+はい……
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Choice
+# ADVICE : 49 char limit
+やっぱり止めておきます
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+マジかい。
+いや、俺としちゃ断る理由は無ぇんだけどよ。
+# TRANSLATION 
+Woah, your are serious.
+Though I think you might have your reasons
+though.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+まぁ、いいか。ならそのとなりの扉から
+こっちに回ってきな。
+# TRANSLATION 
+Anyways, enter the door to my left
+then come around to the back.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ほら、こっちだ。付いてきな。
+# TRANSLATION 
+Hey, over little girl.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+いえ……、やっぱり止めておきます。
+# TRANSLATION 
+Say... I'll stop after all.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+そうそう、馬鹿なことは考えないでそうしときな。
+# TRANSLATION 
+Guess that's for the best,
+People always do stupid things
+when they don't think.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+で、ですよねー。
+# TRANSLATION 
+Heh, I guess your right.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ハッハッハ、なんだい冗談かい。
+オッちゃん本気にしちゃうとこだったよ。
+# TRANSLATION 
+Gahahaha so you where joking too?
+At first I almost though you where
+serious.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+謹んで遠慮させていただきます
+# TRANSLATION 
+I'm going to have to decline the offer sir.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+おっと、フられちまったよ。グハハハハ。
+ま、また今度金があるときに来てくれよな。
+# TRANSLATION 
+Oh, oh, seems like I've gotten rejected!
+Guhahaha, Well come again if you change
+you mind, little girl.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+なんだよ、しょーがねーなぁー。
+皿洗いかなんか手伝うってんなら泊めてやってもいいけど
+どうする？
+# TRANSLATION 
+Well we can also do something else.
+You can wash the dishes as payment.
+or you can always stay in my room.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+金がないんじゃあ、泊めてやることはできねえな。
+金があるときにまた来てくれよ。
+# TRANSLATION 
+Since you don't have any money,
+you cannot stay here. Come back
+later when you have the money.
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+こらこら、勝手に入ってきちゃ駄目だろう
+宿泊ならカウンター越しに頼むよ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+おっと金が足りねえみたいだな、
+それじゃ泊めてやることはできねえよ。
+金があるときにまた来てくれよ。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+へっへっへ、夜遊びでもしてたのかい？
+そろそろ寝るのか？
+# TRANSLATION 
+Hehehe, have you've been enjoying the
+night life? Your going to bed now?
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+からだが火照ってしかたないけど
+無理にでも眠らないと・・・
+# TRANSLATION 
+My body's so hot, it's impossible for me
+to sleep.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+やっぱり全然眠れなかった……
+# TRANSLATION 
+Still can't sleep.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+うぅ、寝不足で体が重いよ……
+# TRANSLATION 
+Ahh... my body feels so heavy...
+I need to rest...
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+さっぱりしたし、よく眠れそうね。
+# TRANSLATION 
+Ahh, I slept so well.
+Feels so good.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+まだ遊び足りないのか？
+へっへっへっ
+# TRANSLATION 
+Your still not going to sleep?
+Guhahaha.
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+遊び足りないからって俺を誘うのかい？
+節操が無いねぇ、へっへっへっ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+……何があったかは詳しく聞かないが、
+あの子の宿泊費はまけといてやるよ。
+# TRANSLATION 
+... As I don't really know the details about
+that kid, I won't charge you with any extra.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+へへ、また来たのかい。
+今日も俺の部屋に来るか？
+# TRANSLATION 
+Guhaha, You've come for my room again?
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+アンタも大概好きものだな。
+いいぜ、今日もたっぷりと可愛がって
+やるよ。
+# TRANSLATION 
+Guhaha, your my favorite customer.
+I'll make sure you enjoy your cute
+little body all night.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+なんだ、そりゃ残念だな。
+なら、普通に泊まるかい？
+# TRANSLATION 
+Oh, well that's a shame.
+Then your here for a normal room?
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+アンタなら大マケして一人部屋なら
+３０Ｇだ
+# TRANSLATION 
+For you...
+I'll give you a room for 30G.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+なんだなんだ。せっかくまけたって
+のに３０Ｇも持ってないのかよ。
+# TRANSLATION 
+Oh what's this? seems that you don't
+have 30G.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+こりゃどうしても泊まりたかったら
+俺の部屋に泊まるしかないな～
+グヘヘヘヘ。
+# TRANSLATION 
+So it seems you'll be staying
+at my room after all.
+Guhahaha
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Choice
+# ADVICE : 49 char limit
+おやじの部屋に泊まる
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Choice
+# ADVICE : 49 char limit
+宿を諦める
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+そうこなくっちゃな。
+今夜もたっぷり楽しもうぜ。
+# TRANSLATION 
+That's good.
+I'll make sure to enjoy all night.
+Is that so?
+Well come back anytime.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+さぁさぁ、入った入った。
+# TRANSLATION 
+Night has fallen!
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+そうか、まぁいいさ。
+アンタならいつでも待ってるぜ。
+# TRANSLATION 
+??? Oh that was a good night.
+I will be waiting for you anytime???
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+直接来るとは、気が早いじゃあないか。
+まったくカワイイやつだなぁ、お前は。
+さ、部屋へ行こうか。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+なんだい、思わせ振りかよ･･･
+大人をからかうのも程々にな。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+おいおい、なんて格好してやがる
+せめてここでは服を着ろ服を
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+おう、泊まってくか？
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+よかったらあいつにも会って行ってやってくれ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ん、そうかい
+いつでも来てくれよ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+あいつにちょっとでも顔を見せてやってくれ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+宿屋の主人と会話している場合ではない。
+早く出発しよう。
+# TRANSLATION 
+There is no time to talk to the Innkeeper
+Let's depart!
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+宿屋の主人
+「お客さんかい。二人連れなら
+　一泊200Gだ」
+# TRANSLATION 
+Innkeeper
+Oh a guest?
+If so the price will be 200G
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+エリカ
+「ああん？ また値上げしやがったな
+　狒々親父が」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+エリカ
+「ったく、おら持ってけ」
+# TRANSLATION 
+Erica
+Good grief... here...
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+エリカ
+「ななこ、ほれ、行くぞ行くぞ」
+# TRANSLATION 
+Erica
+Now Nanako, let's go...
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+【デバック】妊娠状況＋１
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+主：妊娠状況 \V[1623]
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+【デバック】清純度-10
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+主：清純度 \V[1601]
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「いらっしゃい」
+# TRANSLATION 
+Welcome!
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「おいおい、いくらこの町に温泉があるからって気が
+　早すぎねーか？　とりあえずちゃんと着替えてから
+　出直してきな」
+# TRANSLATION 
+Hey, just because here are hot springs here
+in town doesn’t mean can be dressed like
+that. Please return when you are
+properly dressed.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「お客さんか。
+　どの部屋に泊まるんだい？」
+# TRANSLATION 
+Are you a guest?
+In which room will you stay?
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Choice
+# ADVICE : 49 char limit
+一人部屋（100G
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Choice
+# ADVICE : 49 char limit
+Week
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Choice
+# ADVICE : 49 char limit
+全回復）
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Choice
+# ADVICE : 49 char limit
+雑魚寝部屋（50G
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Choice
+# ADVICE : 49 char limit
+3days
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Choice
+# ADVICE : 49 char limit
+小回復）
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Choice
+# ADVICE : 49 char limit
+床に寝る（10G
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Choice
+# ADVICE : 49 char limit
+1day）
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Choice
+# ADVICE : 49 char limit
+やっぱりやめておく
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Choice
+# ADVICE : 49 char limit
+一人部屋（100G/Week/全回復）
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「あれ、嘘？　お金が足りないよ！？」
+# TRANSLATION 
+Oh no! I don't have enough money.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「なんだ、お嬢ちゃん。金が無いのか？」
+# TRANSLATION 
+What is it little girl?
+Can't you pay?
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「えっと、その、まぁ……」
+# TRANSLATION 
+Well about that...
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「なんだよ、しょーがねーなぁー。
+　皿洗いかなんか手伝うってんなら泊めてやってもいいぜ。
+　ま、なんなら俺の部屋に泊まるってんでもいいけどな」
+# TRANSLATION 
+Well we can also do something else.
+You can wash the dishes as payment.
+or you can always stay in my room. Gahaha
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「はい、すいません。お願いします」
+# TRANSLATION 
+Ah thanks you,
+please let me wash the dishes.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「よし、ならしっかり働いてくれよ？」
+# TRANSLATION 
+Good, then let's get you to work
+right away.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「そうかい、ま、無理にとは言わねぇさ。
+　また今度きてくんな」
+# TRANSLATION 
+Oh ok, if you get the money or
+change your mind, do come back again.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「おいおい、そんな悩むようなことか？　ま、なんなら
+　俺の部屋に泊まるってのもアリだけどなグハハハハハ」
+# TRANSLATION 
+Hey, don't worrying about such little
+things. Well... you know, you could always
+stay in my room if you wanted to.
+Guahahahaha.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「本当に、泊めてくれます……？」
+# TRANSLATION 
+You'll let me stay...?
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「おいおい、冗談だっての。
+　本気にするなよお嬢ちゃん」
+# TRANSLATION 
+Hey it was only a joke,
+don't take it serious little girl.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「おいおい、本気で言ってんのか？
+　それがどういうコトかわかってんのかい？」
+# TRANSLATION 
+Your really serious.
+say, do you understand where
+I'm getting to here?
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「どういうことって……？」
+# TRANSLATION 
+Hmm...
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「そりゃまぁ、男と女が同じ部屋で寝る
+　わけだから、ナニがこうナニでニャン
+　ニャンアンアンとだな」
+# TRANSLATION 
+You know, the reason thy why
+man and woman sleeps in the same
+room?
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「とにかくだ、アンタそれでも
+　いいのかい？」
+# TRANSLATION 
+Anyways, The offer is still on.
+Do you want to do this?
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「マジかい。
+　いや、俺としちゃ断る理由は無ぇんだけどよ」
+# TRANSLATION 
+Woah, your are serious.
+Though I think you might have your reasons
+though.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「まぁ、いいか。ならそのとなりの扉から
+　こっちに回ってきな」
+# TRANSLATION 
+Anyways, enter the door to my left
+then come around to the back.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「ほら、こっちだ。付いてきな」
+# TRANSLATION 
+Hey, over little girl.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「いえ……、やっぱり止めておきます」
+# TRANSLATION 
+Say... I'll stop after all.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「そうそう、馬鹿なことは考えないでそうしときな」
+# TRANSLATION 
+Guess that's for the best,
+People always do stupid things
+when they don't think.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「で、ですよねー」
+# TRANSLATION 
+Heh, I guess your right.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「ハッハッハ、なんだい冗談かい。
+　オッちゃん本気にしちゃうとこだったよ」
+# TRANSLATION 
+Gahahaha so you where joking too?
+At first I almost though you where
+serious.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「謹んで遠慮させていただきます」
+# TRANSLATION 
+I'm going to have to decline the offer sir.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「おっと、フられちまったよ。グハハハハ。
+　ま、また今度金があるときに来てくれよな」
+# TRANSLATION 
+Oh, oh, seems like I've gotten rejected!
+Guhahaha, Well come again if you change
+you mind, little girl.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「なんだよ、しょーがねーなぁー。
+　皿洗いかなんか手伝うってんなら泊めてやってもいいけど
+　どうする？」
+# TRANSLATION 
+Well we can also do something else.
+You can wash the dishes as payment.
+or you can always stay in my room.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「金がないんじゃあ、泊めてやることはできねえな。
+　金があるときにまた来てくれよ」
+# TRANSLATION 
+Since you don't have any money,
+you cannot stay here. Come back
+later when you have the money.
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Choice
+# ADVICE : 49 char limit
+雑魚寝部屋（50G/3days/小回復）
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Choice
+# ADVICE : 49 char limit
+床に寝る（10G/1day）
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「へっへっへ、夜遊びでもしてたのかい？
+　そろそろ寝るのか？」
+# TRANSLATION 
+Hehehe, have you've been enjoying the
+night life? Your going to bed now?
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「まだ遊び足りないのか？
+　へっへっへっ」
+# TRANSLATION 
+Your still not going to sleep?
+Guhahaha.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「……何があったかは詳しく聞かないが、
+　あの子の宿泊費はまけといてやるよ」
+# TRANSLATION 
+... As I don't really know the details about
+that kid, I won't charge you with any extra.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「へへ、また来たのかい。
+　今日も俺の部屋に来るか？」
+# TRANSLATION 
+Guhaha, You've come for my room again?
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「アンタも大概好きものだな。
+　いいぜ、今日もたっぷりと可愛がってやるよ」
+# TRANSLATION 
+Guhaha, your my favorite customer.
+I'll make sure you enjoy your cute
+little body all night.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「なんだ、そりゃ残念だな。
+　なら、普通に泊まるかい？」
+# TRANSLATION 
+Oh, well that's a shame.
+Then your here for a normal room?
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「アンタなら大マケして一人部屋なら
+　３０Ｇだ、雑魚寝なら、１０Ｇ
+　床なら、５Ｇだ」
+# TRANSLATION 
+For you...
+I'll give you a single room for 30G,
+share room for 20G and floor for 5G.
+<<This txt has 10G, Menus have 20G>>
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Choice
+# ADVICE : 49 char limit
+一人部屋（30G
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Choice
+# ADVICE : 49 char limit
+雑魚寝部屋（20G
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Choice
+# ADVICE : 49 char limit
+床に寝る（5G
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Choice
+# ADVICE : 49 char limit
+一人部屋（30G/Week/全回復）
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「なんだなんだ。せっかくまけたって
+　のに３０Ｇも持ってないのかよ」
+# TRANSLATION 
+Oh what's this? seems that you don't
+have 30G.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「こりゃどうしても泊まりたかったら
+　俺の部屋に泊まるしかないな～
+　グヘヘヘヘ」
+# TRANSLATION 
+So it seems you'll be staying
+at my room after all.
+Guhahaha
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「そうこなくっちゃな。
+　今夜もたっぷり楽しもうぜ」
+# TRANSLATION 
+That's good.
+I'll make sure to enjoy all night.
+Is that so?
+Well come back anytime.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「さぁさぁ、入った入った」
+# TRANSLATION 
+Night has fallen!
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+「そうか、まぁいいさ。
+　アンタならいつでも待ってるぜ」
+# TRANSLATION 
+??? Oh that was a good night.
+I will be waiting for you anytime???
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Choice
+# ADVICE : 49 char limit
+雑魚寝部屋（20G/3days/小回復）
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Choice
+# ADVICE : 49 char limit
+床に寝る（5G/1day）
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+服を脱ぐ？
+# TRANSLATION 
+Do I take off my clothes?
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+それじゃ着替えちゃいましょ。
+# TRANSLATION 
+I get undressed.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+それじゃ行きましょうか。
+# TRANSLATION 
+Well, shall I go?
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+そうね、まだいいわ。
+# TRANSLATION 
+I have a good sleep.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+服を着るの？
+# TRANSLATION 
+Do I get dressed?
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+よし、それじゃ出ましょうか。
+# TRANSLATION 
+OK, now I shall leave.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+はい、ラムのロース一丁あがり。
+# TRANSLATION 
+One order of Beef Sirlon and
+another of Roast Lamb.
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+はい、ワシ流ベビーフード一丁あがり。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+最近、よく眠れないのよね…
+# TRANSLATION 
+Recently, I'm having trouble sleeping...
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ふう、あら来てたの。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+なら顔ぐらい見せてあげてきなさいね。
+二人とも親子揃って寂しがってるんだから。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+最近、ここの風呂場から妙な喘ぎ声が
+聞こえるんだが…
+# TRANSLATION 
+I have heard a strange ghostly voice
+in the bathroom recently...
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+お化けだったらどうしようかと怖くて覗けないです…
+# TRANSLATION 
+I fear to look in the bathroom
+because of the ghost.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+残り物を再利用してもバレないよね…
+# TRANSLATION 
+The cook reuses all the the leftovers...
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+この間お馬さんゴッコにつきあって腰を痛めました。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+うふふ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+おとなしくしてなさい、子猫ちゃん
+# TRANSLATION 
+Please keep quiet, kitten
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+お、お姉様ったらあ
+# TRANSLATION 
+
+# END STRING

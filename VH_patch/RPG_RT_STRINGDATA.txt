@@ -1,0 +1,989 @@
+# RPGMAKER TRANS PATCH FILE VERSION 2.0
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : stringData/Enemy encounter
+# ADVICE : 49 char limit
+だっ！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Headstart attack
+# ADVICE : 49 char limit
+先手必勝！
+# TRANSLATION 
+Flawless victory!
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Escape success
+# ADVICE : 49 char limit
+ここは、逃げよう！
+# TRANSLATION 
+Let's get out of here!
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Escape failure
+# ADVICE : 49 char limit
+だめだ、逃げられない！
+# TRANSLATION 
+I cannot run away!
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Battle victory
+# ADVICE : 49 char limit
+戦闘に勝利！
+# TRANSLATION 
+I am victorious!
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Battle defeat
+# ADVICE : 49 char limit
+負けてしまった・・・
+# TRANSLATION 
+I was defeated...
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : stringData/Experience received
+# ADVICE : 49 char limit
+の経験値を獲得！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Money recieved a
+# ADVICE : 49 char limit
+お金を
+# TRANSLATION 
+Money
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Money recieved b
+# ADVICE : 49 char limit
+入手！
+# TRANSLATION 
+Obtained!
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Item recieved
+# ADVICE : 49 char limit
+入手！
+# TRANSLATION 
+Obtained!
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Attack message
+# ADVICE : 49 char limit
+の攻撃！
+# TRANSLATION 
+Attack!
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Ally critical hit
+# ADVICE : 49 char limit
+会心の一撃！！
+# TRANSLATION 
+Critical hit!
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Enemy critical hit
+# ADVICE : 49 char limit
+痛恨の一撃！！
+# TRANSLATION 
+Weak hit!
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : stringData/Defend message
+# ADVICE : 49 char limit
+は身を守っている！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : stringData/Watch message
+# ADVICE : 49 char limit
+は様子を見ている・・・
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : stringData/Gathering energy
+# ADVICE : 49 char limit
+は力をためている・・・
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : stringData/Sacrificial attack
+# ADVICE : 49 char limit
+は自爆した！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : stringData/Enemy escape
+# ADVICE : 49 char limit
+は逃げてしまった！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : stringData/Enemy transform
+# ADVICE : 49 char limit
+は姿を変えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : stringData/Enemy damaged
+# ADVICE : 49 char limit
+のダメージを与えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : stringData/Enemy undamaged
+# ADVICE : 49 char limit
+にダメージを与えられない！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : stringData/Ally damaged
+# ADVICE : 49 char limit
+のダメージを受けた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : stringData/Ally undamaged
+# ADVICE : 49 char limit
+はダメージを受けていない！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : stringData/Skill failure a
+# ADVICE : 49 char limit
+には効かなかった！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : stringData/Skill failure b
+# ADVICE : 49 char limit
+は平気だった！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : stringData/Skill failure c
+# ADVICE : 49 char limit
+は眠らなかった！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : stringData/Attack dodged
+# ADVICE : 49 char limit
+は攻撃をかわした！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : stringData/Item use
+# ADVICE : 49 char limit
+を使った！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Stat recovery
+# ADVICE : 49 char limit
+回復した！
+# TRANSLATION 
+I am recovered!
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : stringData/Stat increase
+# ADVICE : 49 char limit
+上がった！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : stringData/Stat decrease
+# ADVICE : 49 char limit
+下がった！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : stringData/Ally lost via absorb
+# ADVICE : 49 char limit
+奪った！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : stringData/Enemy lost via absorb
+# ADVICE : 49 char limit
+奪われた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : stringData/Resistance increase
+# ADVICE : 49 char limit
+に強くなった！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : stringData/Resistance decrease
+# ADVICE : 49 char limit
+に弱くなった！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : stringData/Level up message
+# ADVICE : 49 char limit
+になった！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : stringData/Skill learned
+# ADVICE : 49 char limit
+を覚えた！
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Shop greeting a
+# ADVICE : 49 char limit
+「いらっしゃいませ」
+# TRANSLATION 
+"Hello. Can I help you?"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Shop regreeting a
+# ADVICE : 49 char limit
+「ほかにご用件はございますか？」
+# TRANSLATION 
+"Is there anything else ?"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Buy message a
+# ADVICE : 49 char limit
+購入する
+# TRANSLATION 
+Buy
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Sell message a
+# ADVICE : 49 char limit
+売却する
+# TRANSLATION 
+Sell
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Leave message a
+# ADVICE : 49 char limit
+やめる
+# TRANSLATION 
+Leave
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Buying message a
+# ADVICE : 49 char limit
+「何をお買い上げになりますか？」
+# TRANSLATION 
+"What do you want to purchase ?"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Quantity to buy a
+# ADVICE : 49 char limit
+「いくつお買い上げになりますか？」
+# TRANSLATION 
+"How many do you want to purchase ?"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Purchase end a
+# ADVICE : 49 char limit
+「毎度ありがとうございます」
+# TRANSLATION 
+"Thank you."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Selling message a
+# ADVICE : 49 char limit
+「何をお売りになりますか？」
+# TRANSLATION 
+"Would you like to sell something ?"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Quantity to sell a
+# ADVICE : 49 char limit
+「いくつお売りになりますか？」
+# TRANSLATION 
+"How many do you sell ?"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Selling end a
+# ADVICE : 49 char limit
+「毎度ありがとうございます」
+# TRANSLATION 
+"Thank you."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Shop greeting b
+# ADVICE : 49 char limit
+「いらっしゃい！　今日はどんな用だい？」
+# TRANSLATION 
+"Welcome! What are you looking for?"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Shop regreeting b
+# ADVICE : 49 char limit
+「ほかにも用があるかい？」
+# TRANSLATION 
+"Something else?"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Buy message b
+# ADVICE : 49 char limit
+購入する
+# TRANSLATION 
+Buy
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Sell message b
+# ADVICE : 49 char limit
+売却する
+# TRANSLATION 
+Sell
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Leave message b
+# ADVICE : 49 char limit
+やめる
+# TRANSLATION 
+Leave
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Buying message b
+# ADVICE : 49 char limit
+「何を買うんだい？」
+# TRANSLATION 
+“What do you want to buy ?”
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Quantity to buy b
+# ADVICE : 49 char limit
+「いくつ買うんだい？」
+# TRANSLATION 
+“How many you want to buy ?”
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Purchase end b
+# ADVICE : 49 char limit
+「ありがとよっ！」
+# TRANSLATION 
+"Thank you !"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Selling message b
+# ADVICE : 49 char limit
+「何を売るんだい？」
+# TRANSLATION 
+"What do you sell ?"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Quantity to sell b
+# ADVICE : 49 char limit
+「いくつ売るんだい？」
+# TRANSLATION 
+“How many ?”
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Selling end b
+# ADVICE : 49 char limit
+「ありがとよっ！」
+# TRANSLATION 
+"Thank you !"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Shop greeting c
+# ADVICE : 49 char limit
+「こんにちは。どんなご用ですか？」
+# TRANSLATION 
+"Hello. What can I do for you?"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Shop regreeting c
+# ADVICE : 49 char limit
+「ほかにもご用がありますか？」
+# TRANSLATION 
+"Do you want anything else?"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Buy message c
+# ADVICE : 49 char limit
+購入する
+# TRANSLATION 
+Buy
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Sell message c
+# ADVICE : 49 char limit
+売却する
+# TRANSLATION 
+Sell
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Leave message c
+# ADVICE : 49 char limit
+やめる
+# TRANSLATION 
+Leave
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Buying message c
+# ADVICE : 49 char limit
+「何を買ってくれますか？」
+# TRANSLATION 
+"What do you buy?"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Quantity to buy c
+# ADVICE : 49 char limit
+「いくつ買ってくれますか？」
+# TRANSLATION 
+"Quantity to buy?"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Purchase end c
+# ADVICE : 49 char limit
+「どうもありがとう」
+# TRANSLATION 
+"Thank you very much !"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Selling message c
+# ADVICE : 49 char limit
+「何を売ってくれますか？」
+# TRANSLATION 
+"What do you sell?"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Quantity to sell c
+# ADVICE : 49 char limit
+「いくつ売ってくれますか？」
+# TRANSLATION 
+"Quantity to sell?"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Selling end c
+# ADVICE : 49 char limit
+「どうもありがとう」
+# TRANSLATION 
+"Thank you very much !"
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Inn a greeting a
+# ADVICE : 49 char limit
+「宿泊料金は
+# TRANSLATION 
+The room fee
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : stringData/Inn a greeting b
+# ADVICE : 49 char limit
+になります。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Inn a greeting c
+# ADVICE : 49 char limit
+　お泊まりになりますか？」
+# TRANSLATION 
+Do you want to stay for the night ?
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Inn a accept
+# ADVICE : 49 char limit
+泊まる
+# TRANSLATION 
+Stay
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Inn a cancel
+# ADVICE : 49 char limit
+泊まらない
+# TRANSLATION 
+Don't stay
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Inn b greeting a
+# ADVICE : 49 char limit
+「一泊
+# TRANSLATION 
+The night's cost
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : stringData/Inn b greeting b
+# ADVICE : 49 char limit
+だが
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Inn b greeting c
+# ADVICE : 49 char limit
+　泊まっていくかい？」
+# TRANSLATION 
+Do you want to stay ?
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Inn b accept
+# ADVICE : 49 char limit
+泊まる
+# TRANSLATION 
+Stay
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Inn b cancel
+# ADVICE : 49 char limit
+泊まらない
+# TRANSLATION 
+Don't stay
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Loose items
+# ADVICE : ?20 char limit
+所持数
+# TRANSLATION 
+Quantity Owned
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Equipped items
+# ADVICE : 10 char limit
+装備数
+# TRANSLATION 
+Quantity Equip.
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : stringData/Monetary unit
+# ADVICE : 2 char limt
+Ｇ
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Combat: command
+# ADVICE : 10 char limit
+戦闘
+# TRANSLATION 
+Fight
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Combat: auto
+# ADVICE : 10 char limit
+本能に任す
+# TRANSLATION 
+Auto
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Combat: run
+# ADVICE : 10 char limit
+撤退する
+# TRANSLATION 
+Escape
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Command: attack
+# ADVICE : 10 char limit
+攻撃
+# TRANSLATION 
+Attack
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Command: defend
+# ADVICE : 10 char limit
+防御
+# TRANSLATION 
+Defense
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Command: item
+# ADVICE : 10 char limit
+道具
+# TRANSLATION 
+Items
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Command: skill
+# ADVICE : 10 char limit
+技
+# TRANSLATION 
+Skills
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Menu: equipment
+# ADVICE : 10 char limit
+装備
+# TRANSLATION 
+Equipment
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Menu: save
+# ADVICE : 10 char limit
+記録
+# TRANSLATION 
+Save
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Menu: quit
+# ADVICE : 10 char limit
+終了
+# TRANSLATION 
+End Game
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/New game
+# ADVICE : 20 char limit
+はじめから
+# TRANSLATION 
+New Game
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Load game
+# ADVICE : 20 char limit
+つづきから
+# TRANSLATION 
+Continue
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Exit to windows
+# ADVICE : 20 char limit
+とじる
+# TRANSLATION 
+Shutdown
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Level
+# ADVICE : 3 char limit
+レベル
+# TRANSLATION 
+Level
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Health
+# ADVICE : 3 char limit
+体力
+# TRANSLATION 
+Health
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Mana
+# ADVICE : 3 char limit
+技力
+# TRANSLATION 
+Mana
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/"normal" status
+# ADVICE : 8 char limit
+正常
+# TRANSLATION 
+Normal
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Experience (short)
+# ADVICE : 2 char limt
+Ｅ
+# TRANSLATION 
+XP
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Level (short)
+# ADVICE : 2 char limt
+Ｌ
+# TRANSLATION 
+Lv
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Health (short)
+# ADVICE : 2 char limt
+体
+# TRANSLATION 
+Body
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Mana (short)
+# ADVICE : 2 char limt
+技
+# TRANSLATION 
+Skills
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : stringData/Mana cost
+# ADVICE : 3 char limit
+消費技力
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Attack
+# ADVICE : 3 char limit
+攻撃力
+# TRANSLATION 
+Attack
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Defense
+# ADVICE : 3 char limit
+防御力
+# TRANSLATION 
+Defense
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Mind
+# ADVICE : 3 char limit
+精神力
+# TRANSLATION 
+Spirit
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Agility
+# ADVICE : 3 char limit
+敏捷性
+# TRANSLATION 
+Agility
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Weapon
+# ADVICE : 10 char limit
+腕
+# TRANSLATION 
+Arms
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Shield
+# ADVICE : 10 char limit
+胴
+# TRANSLATION 
+Top
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Armor
+# ADVICE : 10 char limit
+体
+# TRANSLATION 
+Body
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Helmet
+# ADVICE : 10 char limit
+脚
+# TRANSLATION 
+Legs
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Accessory
+# ADVICE : 10 char limit
+装飾品
+# TRANSLATION 
+Accessory
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Save game message
+# ADVICE : 54 char limit
+どのファイルに記録しますか？
+# TRANSLATION 
+Which file do you want to save ?
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Load game message
+# ADVICE : 54 char limit
+どのファイルを読み込みますか？
+# TRANSLATION 
+Which file do you want to load ?
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/Exit game message
+# ADVICE : 54 char limit
+ファイル
+# TRANSLATION 
+Files
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/File name
+# ADVICE : ?54 char limit
+終了してよろしいですか？
+# TRANSLATION 
+Do you really want to exit ?
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/General yes
+# ADVICE : 4 char limit
+はい
+# TRANSLATION 
+Yes
+# END STRING
+
+# TEXT STRING
+# CONTEXT : stringData/General no
+# ADVICE : 4 char limit
+いいえ
+# TRANSLATION 
+No
+# END STRING

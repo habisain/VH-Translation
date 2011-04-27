@@ -1,0 +1,23 @@
+# RPGMAKER TRANS PATCH FILE VERSION 2.0
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+鍛冶準備中
+
+現在は素材の買取のみをしています
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+戦士の武具の新調にはうちを！
+
+鍛冶屋・大盛丸　　※新調の際の武具の下取りや
+　　　　　　　　　　　素材の買い取りもしています
+# TRANSLATION 
+
+# END STRING

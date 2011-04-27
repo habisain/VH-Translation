@@ -1,0 +1,35 @@
+# RPGMAKER TRANS PATCH FILE VERSION 2.0
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+よくここがわかったな
+# TRANSLATION 
+Over here... Stranger.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ここはひみつのみせ
+ほかのみせにははないようなものが
+あるんだぜ
+# TRANSLATION 
+Huh? what??
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+そんなわけで
+# TRANSLATION 
+Got something that might interest ya.
+Hehe hehe
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+またこいよ
+# TRANSLATION 
+Come back anytime stranger.
+# END STRING

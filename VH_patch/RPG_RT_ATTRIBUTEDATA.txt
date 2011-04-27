@@ -1,0 +1,136 @@
+# RPGMAKER TRANS PATCH FILE VERSION 2.0
+# TEXT STRING
+# CONTEXT : attributeDataAttr/AttributeName
+# ADVICE : 8 char limit
+剣
+# TRANSLATION 
+Sword
+# END STRING
+
+# TEXT STRING
+# CONTEXT : attributeDataAttr/AttributeName
+# ADVICE : 8 char limit
+槍
+# TRANSLATION 
+Spear
+# END STRING
+
+# TEXT STRING
+# CONTEXT : attributeDataAttr/AttributeName
+# ADVICE : 8 char limit
+打撃
+# TRANSLATION 
+Blow
+# END STRING
+
+# TEXT STRING
+# CONTEXT : attributeDataAttr/AttributeName
+# ADVICE : 8 char limit
+弓
+# TRANSLATION 
+Bow
+# END STRING
+
+# TEXT STRING
+# CONTEXT : attributeDataAttr/AttributeName
+# ADVICE : 8 char limit
+炎
+# TRANSLATION 
+Flame
+# END STRING
+
+# TEXT STRING
+# CONTEXT : attributeDataAttr/AttributeName
+# ADVICE : 8 char limit
+冷気
+# TRANSLATION 
+Cold
+# END STRING
+
+# TEXT STRING
+# CONTEXT : attributeDataAttr/AttributeName
+# ADVICE : 8 char limit
+雷
+# TRANSLATION 
+Thunder
+# END STRING
+
+# TEXT STRING
+# CONTEXT : attributeDataAttr/AttributeName
+# ADVICE : 8 char limit
+水
+# TRANSLATION 
+Water
+# END STRING
+
+# TEXT STRING
+# CONTEXT : attributeDataAttr/AttributeName
+# ADVICE : 8 char limit
+大地
+# TRANSLATION 
+Earth
+# END STRING
+
+# TEXT STRING
+# CONTEXT : attributeDataAttr/AttributeName
+# ADVICE : 8 char limit
+風
+# TRANSLATION 
+Wind
+# END STRING
+
+# TEXT STRING
+# CONTEXT : attributeDataAttr/AttributeName
+# ADVICE : 8 char limit
+神聖
+# TRANSLATION 
+Holy
+# END STRING
+
+# TEXT STRING
+# CONTEXT : attributeDataAttr/AttributeName
+# ADVICE : 8 char limit
+暗黒
+# TRANSLATION 
+Demonic
+# END STRING
+
+# TEXT STRING
+# CONTEXT : attributeDataAttr/AttributeName
+# ADVICE : 8 char limit
+攻撃力
+# TRANSLATION 
+Attack
+# END STRING
+
+# TEXT STRING
+# CONTEXT : attributeDataAttr/AttributeName
+# ADVICE : 8 char limit
+防御力
+# TRANSLATION 
+Defense
+# END STRING
+
+# TEXT STRING
+# CONTEXT : attributeDataAttr/AttributeName
+# ADVICE : 8 char limit
+精神力
+# TRANSLATION 
+Spirit
+# END STRING
+
+# TEXT STRING
+# CONTEXT : attributeDataAttr/AttributeName
+# ADVICE : 8 char limit
+敏捷性
+# TRANSLATION 
+Agility
+# END STRING
+
+# TEXT STRING
+# CONTEXT : attributeDataAttr/AttributeName
+# ADVICE : 8 char limit
+吸収
+# TRANSLATION 
+Absorption
+# END STRING
